@@ -69,10 +69,29 @@ git push -u origin main
 - [ ] 小米 Android 用 Chrome 可「安裝到桌面」。
 - [ ] 飛航模式後仍能開啟 App 並刷題。
 
-## 題庫
+## 題庫（v1.2 多題庫）
 
-- 目前題庫：`public/data/questions_v1.json`（20 題測試）。
-- 未來可替換或擴充為 `questions_105.json` 等，並用腳本從 PDF 轉題。
+- 題庫索引：`public/data/index.json`（列出所有 datasets）。
+- 預設載入「全部題庫」（ALL），也可在首頁「題庫範圍」選單選單一題庫。
+- 既有 `questions_v1.json` 保留不刪（回溯用）。
+
+### 從 PDF 匯入題庫（本機執行）
+
+1. 將 PDF 放到專案根目錄下的 `raw_pdfs` 資料夾（若資料夾名為 `raw_pdfs:` 請用下方參數）。
+2. 安裝依賴：`pip install pymupdf`
+3. 在專案根目錄執行：
+   ```bash
+   python3 scripts/import_pdfs_to_datasets.py
+   ```
+   若 PDF 在 `raw_pdfs:`（含冒號）：
+   ```bash
+   python3 scripts/import_pdfs_to_datasets.py --input-dir "raw_pdfs:"
+   ```
+4. 產物：
+   - `public/data/questions_<id>.json`（每份 PDF 一個）
+   - `public/data/index.json`（自動更新 datasets 列表）
+   - `scripts/import_report.json`（每份：解析題數、失敗題數、疑似圖題）
+5. 之後 `npm run dev` 或部署後即可刷到新題庫；選「全部題庫」即合併所有題目。
 
 ## 技術
 

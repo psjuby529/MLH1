@@ -70,6 +70,43 @@ export function clearWrongIds(): void {
   localStorage.removeItem(KEY_WRONG_COUNT_MAP);
 }
 
+const KEY_PERFECT_COUNT = "mlh_perfect_count";
+const KEY_LAST_COUNTED_ATTEMPT_ID = "mlh_last_counted_attempt_id";
+
+export function getPerfectCount(): number {
+  if (typeof window === "undefined") return 0;
+  try {
+    const raw = localStorage.getItem(KEY_PERFECT_COUNT);
+    if (raw == null) return 0;
+    const n = parseInt(raw, 10);
+    return Number.isFinite(n) && n >= 0 ? n : 0;
+  } catch {
+    return 0;
+  }
+}
+
+export function tryIncrementPerfectCount(attemptId: string): boolean {
+  if (typeof window === "undefined" || !attemptId) return false;
+  const last = localStorage.getItem(KEY_LAST_COUNTED_ATTEMPT_ID) ?? "";
+  if (last === attemptId) return false;
+  const count = getPerfectCount() + 1;
+  localStorage.setItem(KEY_PERFECT_COUNT, String(count));
+  localStorage.setItem(KEY_LAST_COUNTED_ATTEMPT_ID, attemptId);
+  return true;
+}
+
+const KEY_ATTEMPT_ID = "mlh_attempt_id";
+
+export function setAttemptId(id: string): void {
+  if (typeof window === "undefined") return;
+  sessionStorage.setItem(KEY_ATTEMPT_ID, id);
+}
+
+export function getAttemptId(): string {
+  if (typeof window === "undefined") return "";
+  return sessionStorage.getItem(KEY_ATTEMPT_ID) ?? "";
+}
+
 const KEY_LAST_ANSWERS = "mlh_last_answers";
 
 export function setLastAnswers(answers: Record<string, number>): void {

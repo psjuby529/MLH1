@@ -1,6 +1,7 @@
 import type { Metadata, Viewport } from "next";
 import "./globals.css";
 import RegisterSw from "./RegisterSw";
+import Footer from "./Footer";
 
 export const metadata: Metadata = {
   title: "MLH Quiz",
@@ -26,9 +27,10 @@ export default function RootLayout({
         <link rel="manifest" href="/manifest.webmanifest" />
         <meta name="theme-color" content="#111111" />
       </head>
-      <body className="antialiased min-h-screen bg-white text-[#111] font-sans">
+      <body className="antialiased min-h-screen bg-white text-[#111] font-sans flex flex-col">
         <RegisterSw />
-        {children}
+        <div className="flex-1">{children}</div>
+        <Footer />
       </body>
     </html>
   );

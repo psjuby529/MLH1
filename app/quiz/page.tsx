@@ -5,7 +5,7 @@ import { useRouter } from "next/navigation";
 import { Suspense, useEffect, useMemo, useState } from "react";
 import Link from "next/link";
 import { fetchQuestions, shuffle } from "../lib/questions";
-import { addWrong, addDailyProgress, setLastAnswers, getWrongIds } from "../lib/storage";
+import { addWrong, addDailyProgress, setLastAnswers, getWrongIds, setAttemptId } from "../lib/storage";
 import type { Question } from "../types";
 
 function QuizContent() {
@@ -13,6 +13,7 @@ function QuizContent() {
   const router = useRouter();
   const n = Math.min(100, Math.max(1, parseInt(searchParams.get("n") ?? "100", 10) || 100));
   const chapter = searchParams.get("chapter") ?? "ALL";
+  const dataset = searchParams.get("dataset") ?? "ALL";
   const mode = searchParams.get("mode") ?? "all";
 
   const [questions, setQuestions] = useState<Question[]>([]);
@@ -24,7 +25,8 @@ function QuizContent() {
   const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
-    fetchQuestions()
+    setAttemptId(`${Date.now()}-${Math.random().toString(36).slice(2)}`);
+    fetchQuestions(dataset)
       .then((all) => {
         let pool = all;
         if (chapter !== "ALL") {
@@ -48,7 +50,7 @@ function QuizContent() {
         setError("題庫載入失敗");
         setLoading(false);
       });
-  }, [n, chapter, mode]);
+  }, [n, chapter, dataset, mode]);
 
   const currentId = ids[currentIndex];
   const currentQ = useMemo(

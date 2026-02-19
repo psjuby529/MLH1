@@ -3,6 +3,7 @@ const STATIC_URLS = [
   "/",
   "/quiz",
   "/result",
+  "/data/index.json",
   "/data/questions_v1.json",
   "/manifest.webmanifest",
   "/icons/icon.svg",
@@ -29,7 +30,7 @@ self.addEventListener("fetch", (event) => {
   const url = new URL(event.request.url);
   if (url.origin !== location.origin) return;
 
-  if (url.pathname === "/data/questions_v1.json") {
+  if (url.pathname.startsWith("/data/") && (url.pathname.endsWith(".json") || url.pathname === "/data/index.json")) {
     event.respondWith(
       caches.match(event.request).then((cached) => cached || fetch(event.request))
     );

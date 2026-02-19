@@ -4,7 +4,7 @@ import { useSearchParams } from "next/navigation";
 import { Suspense, useEffect, useMemo, useState } from "react";
 import Link from "next/link";
 import { fetchQuestions } from "../lib/questions";
-import { getWrongIds, getLastAnswers } from "../lib/storage";
+import { getWrongIds, getLastAnswers, getAttemptId, tryIncrementPerfectCount, getPerfectCount } from "../lib/storage";
 import type { Question } from "../types";
 
 function ResultContent() {
@@ -18,7 +18,7 @@ function ResultContent() {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    fetchQuestions()
+    fetchQuestions("ALL")
       .then(setQuestions)
       .finally(() => setLoading(false));
   }, []);
@@ -40,6 +40,22 @@ function ResultContent() {
   const total = ids.length;
   const score = total > 0 ? Math.round((correctCount / total) * 100) : 0;
   const pass = score >= 60;
+
+  const [perfectCount, setPerfectCount] = useState(0);
+
+  useEffect(() => {
+    setPerfectCount(getPerfectCount());
+  }, []);
+
+  useEffect(() => {
+    if (loading || total === 0) return;
+    if (score === 100) {
+      const attemptId = getAttemptId();
+      if (tryIncrementPerfectCount(attemptId)) {
+        setPerfectCount(getPerfectCount());
+      }
+    }
+  }, [loading, total, score]);
 
   if (loading) {
     return (
@@ -63,6 +79,13 @@ function ResultContent() {
         <p className="text-sm opacity-80 mt-1">
           正確 {correctCount} / {total} 題
         </p>
+        {score === 100 && (
+          <p className="text-sm font-medium mt-2 text-green-700">Perfect! 完美的專業展現！</p>
+        )}
+      </div>
+
+      <div className="text-sm text-gray-500 text-center mb-6">
+        🏆 累積滿分次數：{perfectCount}
       </div>
 
       {results.length > 0 && (

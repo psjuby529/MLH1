@@ -1,16 +1,31 @@
 import type { Question } from "../types";
+import { fetchAllQuestions } from "./datasets";
 
-const QUESTIONS_URL = "/data/questions_v1.json";
 let cached: Question[] | null = null;
+let cachedDataset = "";
 
-export async function fetchQuestions(): Promise<Question[]> {
-  if (cached) return cached;
-  const res = await fetch(QUESTIONS_URL);
-  if (!res.ok) throw new Error("題庫載入失敗");
-  const data = (await res.json()) as unknown;
-  if (!Array.isArray(data)) throw new Error("題庫格式錯誤");
-  cached = data as Question[];
-  return cached;
+export async function fetchQuestions(datasetId?: string): Promise<Question[]> {
+  const key = datasetId ?? "ALL";
+  if (cached && cachedDataset === key) return cached;
+  try {
+    cached = await fetchAllQuestions(key);
+    cachedDataset = key;
+    return cached;
+  } catch {
+    const res = await fetch("/data/questions_v1.json");
+    if (!res.ok) throw new Error("題庫載入失敗");
+    const data = (await res.json()) as unknown;
+    if (!Array.isArray(data)) throw new Error("題庫格式錯誤");
+    cached = data as Question[];
+    cachedDataset = "v1";
+    return cached;
+  }
+}
+
+export async function fetchIndexDatasets(): Promise<{ id: string; label: string }[]> {
+  const { fetchIndex } = await import("./datasets");
+  const index = await fetchIndex();
+  return [{ id: "ALL", label: "全部題庫" }, ...index.datasets.map((d) => ({ id: d.id, label: d.label }))];
 }
 
 export function shuffle<T>(arr: T[]): T[] {

@@ -2,38 +2,45 @@
 
 import { useEffect, useState } from "react";
 import Link from "next/link";
-import { fetchQuestions, getChapters, shuffle } from "./lib/questions";
-import { getTodayAnsweredCount, getWrongIds } from "./lib/storage";
+import { fetchQuestions, getChapters, fetchIndexDatasets } from "./lib/questions";
+import { getTodayAnsweredCount, getWrongIds, getPerfectCount } from "./lib/storage";
 import type { Question } from "./types";
 
 const COUNT_OPTIONS = [20, 50, 100] as const;
 
 export default function HomePage() {
   const [chapters, setChapters] = useState<string[]>(["ALL"]);
+  const [datasets, setDatasets] = useState<{ id: string; label: string }[]>([{ id: "ALL", label: "全部題庫" }]);
   const [count, setCount] = useState<number>(100);
   const [chapter, setChapter] = useState<string>("ALL");
+  const [dataset, setDataset] = useState<string>("ALL");
   const [todayCount, setTodayCount] = useState(0);
   const [wrongCount, setWrongCount] = useState(0);
+  const [perfectCount, setPerfectCount] = useState(0);
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    fetchQuestions()
-      .then((q) => {
+    Promise.all([
+      fetchQuestions("ALL").then((q) => {
         setChapters(getChapters(q));
-        setLoading(false);
-      })
+      }),
+      fetchIndexDatasets().then(setDatasets),
+    ])
+      .then(() => setLoading(false))
       .catch(() => setLoading(false));
   }, []);
 
   useEffect(() => {
     setTodayCount(getTodayAnsweredCount());
     setWrongCount(getWrongIds().length);
+    setPerfectCount(getPerfectCount());
   }, []);
 
   const startUrl = () => {
     const params = new URLSearchParams();
     params.set("n", String(count));
     params.set("chapter", chapter);
+    params.set("dataset", dataset);
     params.set("mode", "all");
     return `/quiz?${params.toString()}`;
   };
@@ -82,6 +89,22 @@ export default function HomePage() {
             </div>
             <div>
               <label className="block text-sm font-medium text-gray-700 mb-1">
+                題庫範圍
+              </label>
+              <select
+                value={dataset}
+                onChange={(e) => setDataset(e.target.value)}
+                className="w-full py-3 px-4 rounded-lg border-2 border-gray-300 text-gray-900"
+              >
+                {datasets.map((d) => (
+                  <option key={d.id} value={d.id}>
+                    {d.label}
+                  </option>
+                ))}
+              </select>
+            </div>
+            <div>
+              <label className="block text-sm font-medium text-gray-700 mb-1">
                 章節
               </label>
               <select
@@ -103,6 +126,7 @@ export default function HomePage() {
             {wrongCount > 0 && (
               <> · 錯題本 <strong className="text-[#111]">{wrongCount}</strong> 題</>
             )}
+            <> · 🏆 累積滿分次數：<strong className="text-[#111]">{perfectCount}</strong></>
           </div>
 
           <div className="flex flex-col gap-3">
