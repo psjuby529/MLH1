@@ -4,8 +4,9 @@ import { useSearchParams } from "next/navigation";
 import { useRouter } from "next/navigation";
 import { Suspense, useEffect, useMemo, useState } from "react";
 import Link from "next/link";
-import { fetchQuestions, shuffle } from "../lib/questions";
-import { addWrong, addDailyProgress, setLastAnswers, getWrongIds, setAttemptId } from "../lib/storage";
+import { fetchQuestions, dedupeByKey, sampleStratified, getStratumKey } from "../lib/questions";
+import { addWrong, addDailyProgress, setLastAnswers, getWrongIds, setAttemptId, addWrongBySubject, addAttemptBySubject } from "../lib/storage";
+import { getDataVersionSync } from "../lib/datasets";
 import type { Question } from "../types";
 
 function QuizContent() {
@@ -26,7 +27,7 @@ function QuizContent() {
 
   useEffect(() => {
     setAttemptId(`${Date.now()}-${Math.random().toString(36).slice(2)}`);
-    fetchQuestions(dataset)
+      fetchQuestions(dataset)
       .then((all) => {
         let pool = all;
         if (chapter !== "ALL") {
@@ -36,8 +37,8 @@ function QuizContent() {
           const wrongIds = getWrongIds();
           pool = all.filter((q) => wrongIds.includes(q.id));
         }
-        const shuffled = shuffle(pool);
-        const slice = shuffled.slice(0, n);
+        pool = dedupeByKey(pool);
+        const slice = sampleStratified(pool, n);
         const idList = slice.map((q) => q.id);
         setIds(idList);
         setQuestions(all);
@@ -46,8 +47,9 @@ function QuizContent() {
         }
         setLoading(false);
       })
-      .catch(() => {
-        setError("題庫載入失敗");
+      .catch((err: unknown) => {
+        const msg = err instanceof Error ? err.message : "題庫載入失敗";
+        setError(msg);
         setLoading(false);
       });
   }, [n, chapter, dataset, mode]);
@@ -77,8 +79,11 @@ function QuizContent() {
     const newAnswers = { ...answers, [currentId]: optionIndex };
     setAnswers(newAnswers);
     if (currentIndex >= total - 1) setLastAnswers(newAnswers);
+    const subjectKey = getStratumKey(currentQ);
+    addAttemptBySubject(subjectKey);
     if (optionIndex !== currentQ.answer_index) {
       addWrong(currentQ.id);
+      addWrongBySubject(subjectKey);
     }
     addDailyProgress(1);
   };
@@ -127,6 +132,37 @@ function QuizContent() {
       </div>
 
       <div className="flex-1">
+        {currentQ.assets && currentQ.assets.length > 0 && (
+          <div className="mb-4 space-y-2">
+            {currentQ.assets
+              .filter((a) => a.type === "image" && a.src)
+              .map((a, idx) => {
+                const v = getDataVersionSync();
+                const src = a.src + (v ? (a.src.includes("?") ? "&" : "?") + "v=" + encodeURIComponent(v) : "");
+                return (
+                  <div key={idx}>
+                    <img
+                      src={src}
+                      alt={a.alt || "題目圖"}
+                      className="max-w-full h-auto rounded-lg border border-gray-200"
+                      onError={(e) => {
+                        const path = (e.target as HTMLImageElement)?.src ?? a.src;
+                        try {
+                          const key = "debug_missing_images";
+                          const arr = JSON.parse(localStorage.getItem(key) ?? "[]");
+                          arr.push({ path: a.src, qId: currentQ?.id, t: Date.now() });
+                          localStorage.setItem(key, JSON.stringify(arr.slice(-50)));
+                        } catch { /* ignore */ }
+                        (e.target as HTMLImageElement).style.display = "none";
+                        (e.target as HTMLImageElement).nextElementSibling?.classList.remove("hidden");
+                      }}
+                    />
+                    <span className="hidden text-sm text-amber-600">本題圖檔缺失：{a.src}</span>
+                  </div>
+                );
+              })}
+          </div>
+        )}
         <p className="text-[#111] font-medium leading-relaxed mb-6">
           {currentQ.question_text}
         </p>
@@ -163,8 +199,12 @@ function QuizContent() {
         {showExplanation && (
           <div className="mt-6 p-4 rounded-xl bg-gray-100 text-gray-800 text-sm leading-relaxed">
             <p className="font-medium text-[#111] mb-1">解析</p>
-            <p>{currentQ.explanation}</p>
-            <p className="mt-2 text-gray-500">{currentQ.source}</p>
+            {currentQ.explanation ? (
+              <p className="whitespace-pre-wrap">{currentQ.explanation}</p>
+            ) : (
+              <p className="text-gray-500">本題無解析</p>
+            )}
+            <p className="mt-2 text-gray-500">來源：{currentQ.source_display ?? currentQ.source}</p>
           </div>
         )}
       </div>

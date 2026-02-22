@@ -1,0 +1,164 @@
+[
+  {
+    "id": "y106_1",
+    "subject": "室內裝修工程管理",
+    "year": 1,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "輕隔間牆面電源開關、插座部分須在立柱之間補強",
+    "options": [
+      "橫向支架",
+      "十字支架",
+      "斜角補強支架",
+      "直向支架。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y106#p1#Q1",
+    "source_display": "106 工程管理學科 第1頁 第1題"
+  },
+  {
+    "id": "y106_2",
+    "subject": "室內裝修工程管理",
+    "year": 2,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "電氣機具施行接地之目的是",
+    "options": [
+      "電壓穩定",
+      "預防觸電傷害",
+      "測定電流",
+      "防止漏電損失。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y106#p1#Q2",
+    "source_display": "106 工程管理學科 第1頁 第2題"
+  },
+  {
+    "id": "y106_3",
+    "subject": "室內裝修工程管理",
+    "year": 3,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "砌磚前應將磚",
+    "options": [
+      "在烈日下曝曬乾",
+      "秤重量",
+      "充分吸收水份",
+      "隨地亂放。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y106#p1#Q3",
+    "source_display": "106 工程管理學科 第1頁 第3題"
+  },
+  {
+    "id": "y106_4",
+    "subject": "室內裝修工程管理",
+    "year": 4,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列那種不安全行為是工地中最應防止的？",
+    "options": [
+      "服裝不整",
+      "上工不守時",
+      "未使用防護具",
+      "亂\n吐檳榔汁。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y106#p1#Q4",
+    "source_display": "106 工程管理學科 第1頁 第4題"
+  },
+  {
+    "id": "y106_5",
+    "subject": "室內裝修工程管理",
+    "year": 5,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "拆除隔間時，關於維護勞安措施那一項有誤",
+    "options": [
+      "需先規劃好拆除計畫",
+      "應由專任人員於現場\n指揮監督",
+      "作業人員不必戴安全帽",
+      "拆除作業區需設標示，禁止非作業人員進入。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y106#p1#Q5",
+    "source_display": "106 工程管理學科 第1頁 第5題"
+  },
+  {
+    "id": "y106_6",
+    "subject": "室內裝修工程管理",
+    "year": 6,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "依中華民國國家標準 CNS 規定，在圖樣圖式準則中，尺度線應使用",
+    "options": [
+      "中實線",
+      "細實線",
+      "粗\n實線",
+      "虛線。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y106#p1#Q6",
+    "source_display": "106 工程管理學科 第1頁 第6題"
+  },
+  {
+    "id": "y106_7",
+    "subject": "室內裝修工程管理",
+    "year": 7,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "輕隔間牆工程常採用何種方法固定上下座板（槽鐵）？",
+    "options": [
+      "自攻螺絲",
+      "強力膠",
+      "鐵釘",
+      "火藥\n擊釘。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y106#p1#Q7",
+    "source_display": "106 工程管理學科 第1頁 第7題"
+  },
+  {
+    "id": "y106_8",
+    "subject": "室內裝修工程管理",
+    "year": 8,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "常用的喇叭鎖，其適用門扇的厚度約為",
+    "options": [
+      "32～45 ㎜",
+      "沒有限制",
+      "24～40 ㎜",
+      "35～50 ㎜。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y106#p1#Q8",
+    "source_display": "106 工程管理學科 第1頁 第8題"
+  },
+  {
+    "id": "y106_9",
+    "subject": "室內裝修工程管理",
+    "year": 9,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "輕隔間牆使用接縫貼紙，主要目的在",
+    "options": [
+      "防止濕氣",
+      "增加牆板柔軟度",
+      "修飾接縫",
+      "加強牆板\n結構。\n戴安全帽"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y106#p1#Q9",
+    "source_display": "106 工程管理學科 第1頁 第9題"
+  }
+]

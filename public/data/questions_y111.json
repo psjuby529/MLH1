@@ -1,0 +1,164 @@
+[
+  {
+    "id": "y111_1",
+    "subject": "室內裝修工程管理",
+    "year": 1,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "公司負責人為了要節省開銷，將員工薪資以高報低來投保全民健保及勞保，是觸犯了刑法上之何\n種罪刑？",
+    "options": [
+      "侵占罪",
+      "工商秘密罪",
+      "背信罪",
+      "詐欺罪。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y111#p1#Q1",
+    "source_display": "111 工程管理學科 第1頁 第1題"
+  },
+  {
+    "id": "y111_2",
+    "subject": "室內裝修工程管理",
+    "year": 2,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "在機具及電源附近要儘量避免堆置",
+    "options": [
+      "泥作材料",
+      "衛浴器材",
+      "磁場器材",
+      "易燃物。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y111#p1#Q2",
+    "source_display": "111 工程管理學科 第1頁 第2題"
+  },
+  {
+    "id": "y111_3",
+    "subject": "室內裝修工程管理",
+    "year": 3,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列何項不是手工具所造成傷害的直接因素",
+    "options": [
+      "衝擊",
+      "感電",
+      "場所零亂",
+      "割切。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y111#p1#Q3",
+    "source_display": "111 工程管理學科 第1頁 第3題"
+  },
+  {
+    "id": "y111_4",
+    "subject": "室內裝修工程管理",
+    "year": 4,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "一般裝潢木工較常使用何種手工之鋸切工具？",
+    "options": [
+      "折合鋸",
+      "鋼鋸",
+      "框鋸",
+      "美式板鋸。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y111#p1#Q4",
+    "source_display": "111 工程管理學科 第1頁 第4題"
+  },
+  {
+    "id": "y111_5",
+    "subject": "室內裝修工程管理",
+    "year": 5,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "室內裝修工程中，對於建築物中之非結構分間磚牆之拆除時，應",
+    "options": [
+      "自上至下",
+      "自右至左",
+      "自左至\n右",
+      "自下至上 ，逐次拆除。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y111#p1#Q5",
+    "source_display": "111 工程管理學科 第1頁 第5題"
+  },
+  {
+    "id": "y111_6",
+    "subject": "室內裝修工程管理",
+    "year": 6,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "板面貼覆有美耐板之工作物，以何種手工具修整邊緣較適合？",
+    "options": [
+      "美耐板專用鉋刀",
+      "粗平鉋",
+      "長鉋",
+      "細平鉋。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y111#p1#Q6",
+    "source_display": "111 工程管理學科 第1頁 第6題"
+  },
+  {
+    "id": "y111_7",
+    "subject": "室內裝修工程管理",
+    "year": 7,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "木心板作曲線結構下列何種加工方法最正確？",
+    "options": [
+      "將板材浸泡水裡",
+      "取適當等距間格，鋸切深度約\n5/6",
+      "用熱水軟化",
+      "使用噴燈烘烤。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y111#p1#Q7",
+    "source_display": "111 工程管理學科 第1頁 第7題"
+  },
+  {
+    "id": "y111_8",
+    "subject": "室內裝修工程管理",
+    "year": 8,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "施工圖面常用文字簡寫符號中 DW 代表",
+    "options": [
+      "下樓",
+      "落地窗",
+      "門連窗",
+      "門。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y111#p1#Q8",
+    "source_display": "111 工程管理學科 第1頁 第8題"
+  },
+  {
+    "id": "y111_9",
+    "subject": "室內裝修工程管理",
+    "year": 9,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "以下何者是消除職業病發生率之源頭管理對策？",
+    "options": [
+      "多運動",
+      "改善作業環境",
+      "使用個人防護具",
+      "健\n康檢查。\n內，其非加熱面溫度不超過規定值之能力，稱為"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y111#p1#Q9",
+    "source_display": "111 工程管理學科 第1頁 第9題"
+  }
+]

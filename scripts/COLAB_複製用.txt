@@ -1,0 +1,76 @@
+========================================
+Colab 第一段：貼到「第一個 cell」→ 執行 → 選你的 zip
+========================================
+
+# === 第一次複製：安裝 + 上傳「一個 zip」（zip 裡要有 PDF + import_pdfs_to_datasets.py）===
+!pip install -q pymupdf pdfplumber
+!mkdir -p /content/public/data /content/public/assets
+from google.colab import files
+uploaded = files.upload()
+
+
+========================================
+Colab 第二段（乾淨版）：貼到「第二個 cell」→ 執行（約 10～20 分鐘，請勿中斷）
+========================================
+
+# === 第二次複製（乾淨版）：解壓到 /content/inbox → 只在 inbox 內找 PDF → 即時輸出 → 打包下載 ===
+import zipfile, os, shutil, subprocess
+from io import BytesIO
+
+INBOX = "/content/inbox"
+if os.path.isdir(INBOX):
+  shutil.rmtree(INBOX)
+os.makedirs(INBOX, exist_ok=True)
+
+for name in uploaded:
+  with zipfile.ZipFile(BytesIO(uploaded[name]), 'r') as z:
+    z.extractall(INBOX)
+  print('已解壓到 inbox:', name)
+  break
+
+SKIP_DIRS = ('public', 'sample_data', 'drive', '__MACOSX')
+def count_pdf(d):
+  try: return sum(1 for f in os.listdir(d) if f.lower().endswith('.pdf'))
+  except: return 0
+
+pdf_dir = None
+if count_pdf(INBOX) > 0:
+  pdf_dir = INBOX
+if not pdf_dir:
+  for preferred in ['封存', 'Archive', 'archive', 'raw_pdfs']:
+    p = os.path.join(INBOX, preferred)
+    if os.path.isdir(p) and count_pdf(p) > 0:
+      pdf_dir = p
+      break
+if not pdf_dir:
+  best_count = 0
+  for root, dirs, files_ in os.walk(INBOX):
+    if '__MACOSX' in root: continue
+    n = sum(1 for f in files_ if f.lower().endswith('.pdf'))
+    if n > best_count: best_count = n; pdf_dir = root
+
+if not pdf_dir:
+  print('inbox 內容：', os.listdir(INBOX))
+  raise SystemExit('找不到 PDF，請確認 zip 內含 PDF（或封存/raw_pdfs 資料夾）')
+
+script_path = os.path.join(INBOX, 'import_pdfs_to_datasets.py')
+if not os.path.isfile(script_path):
+  for root, dirs, files_ in os.walk(INBOX):
+    if '__MACOSX' in root: continue
+    if 'import_pdfs_to_datasets.py' in files_:
+      script_path = os.path.join(root, 'import_pdfs_to_datasets.py')
+      break
+if not os.path.isfile(script_path):
+  raise SystemExit('找不到 import_pdfs_to_datasets.py（請確認 zip 含該腳本）')
+
+print('PDF 目錄:', pdf_dir)
+print('腳本:', script_path)
+print('--- 以下為匯入腳本即時輸出，約需 10～20 分鐘，請勿中斷 ---')
+env = {**os.environ, 'PYTHONUNBUFFERED': '1'}
+r = subprocess.run(['python3', '-u', script_path, '--root', '/content', '--input-dir', pdf_dir, '--output-dir', '/content/public/data'], env=env)
+if r.returncode != 0:
+  raise SystemExit('匯入腳本執行失敗，請看上方錯誤訊息')
+print('--- 匯入完成，正在打包 ---')
+!cd /content && zip -r mlh_assets_and_data.zip public/
+files.download('/content/mlh_assets_and_data.zip')
+print('下載後解壓 mlh_assets_and_data.zip，把 public 覆蓋到專案根目錄。')

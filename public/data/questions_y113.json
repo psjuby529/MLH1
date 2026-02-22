@@ -1,0 +1,164 @@
+[
+  {
+    "id": "y113_1",
+    "subject": "室內裝修工程管理",
+    "year": 1,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "勞工為節省時間，在未斷電情況下清理機臺，易發生危害為何？",
+    "options": [
+      "崩塌",
+      "捲夾感電",
+      "缺氧",
+      "墜\n落。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y113#p1#Q1",
+    "source_display": "113 工程管理學科 第1頁 第1題"
+  },
+  {
+    "id": "y113_2",
+    "subject": "室內裝修工程管理",
+    "year": 2,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "袋裝水泥建材按倉儲發放原則是",
+    "options": [
+      "先到先用",
+      "先到後用",
+      "後到摻用",
+      "後到先用。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y113#p1#Q2",
+    "source_display": "113 工程管理學科 第1頁 第2題"
+  },
+  {
+    "id": "y113_3",
+    "subject": "室內裝修工程管理",
+    "year": 3,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "關於一般懸吊式木作天花板的施作，下述哪一項錯誤",
+    "options": [
+      "若天花板高度為 4m 時，一般皆使用馬椅\n(A 型梯)施工",
+      "膠合劑及鐵釘為基本使用材料",
+      "施工前需先了解天花板上安裝的設備位置",
+      "背\n襯結構角料間距要考慮板材尺寸。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y113#p1#Q3",
+    "source_display": "113 工程管理學科 第1頁 第3題"
+  },
+  {
+    "id": "y113_4",
+    "subject": "室內裝修工程管理",
+    "year": 4,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "在機具及電源附近要儘量避免堆置",
+    "options": [
+      "磁場器材",
+      "泥作材料",
+      "衛浴器材",
+      "易燃物。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y113#p1#Q4",
+    "source_display": "113 工程管理學科 第1頁 第4題"
+  },
+  {
+    "id": "y113_5",
+    "subject": "室內裝修工程管理",
+    "year": 5,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列工具組，何者不是砌磚施工時之工具",
+    "options": [
+      "桃型鏝刀、填縫鏝刀、方鍬",
+      "金屬鏝刀、內外角鏝\n刀、木槌",
+      "角尺、捲尺、氣泡水平尺",
+      "墨斗、水線、垂球。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y113#p1#Q5",
+    "source_display": "113 工程管理學科 第1頁 第5題"
+  },
+  {
+    "id": "y113_6",
+    "subject": "室內裝修工程管理",
+    "year": 6,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "噴塗工程發生塗面上塗料中心太薄，會積在外圍形成流滴現象是因為",
+    "options": [
+      "塗料太稀",
+      "氣壓太低",
+      "噴槍口過於靠進噴塗面",
+      "氣壓過高。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y113#p1#Q6",
+    "source_display": "113 工程管理學科 第1頁 第6題"
+  },
+  {
+    "id": "y113_7",
+    "subject": "室內裝修工程管理",
+    "year": 7,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "依環境影響評估法規定，環境影響評估審查委員會審查環境影響說明書，認定下列對環境有重大\n影響之虞者，應繼續進行第二階段環境影響評估，下列何者非屬對環境有重大影響之虞者？",
+    "options": [
+      "對\n國家經濟有顯著不利之影響",
+      "對其他國家之環境有顯著不利之影響",
+      "對保育類動植物之棲息生\n存有顯著不利之影響",
+      "對國民健康有顯著不利之影響。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y113#p1#Q7",
+    "source_display": "113 工程管理學科 第1頁 第7題"
+  },
+  {
+    "id": "y113_8",
+    "subject": "室內裝修工程管理",
+    "year": 8,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "目前市面清潔劑均會強調「無磷」，是因為含磷的清潔劑使用後，若廢水排至河川或湖泊等水域\n會造成甚麼影響？",
+    "options": [
+      "烏腳病",
+      "綠牡蠣",
+      "秘雕魚",
+      "優養化。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y113#p1#Q8",
+    "source_display": "113 工程管理學科 第1頁 第8題"
+  },
+  {
+    "id": "y113_9",
+    "subject": "室內裝修工程管理",
+    "year": 9,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "石材 1 台尺×1 台尺約為多少才",
+    "options": [
+      "10",
+      "36",
+      "9",
+      "1。\n個"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y113#p1#Q9",
+    "source_display": "113 工程管理學科 第1頁 第9題"
+  }
+]

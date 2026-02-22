@@ -78,7 +78,11 @@ git push -u origin main
 ### 從 PDF 匯入題庫（本機執行）
 
 1. 將 PDF 放到專案根目錄下的 `raw_pdfs` 資料夾（若資料夾名為 `raw_pdfs:` 請用下方參數）。
-2. 安裝依賴：`pip install pymupdf`
+2. 安裝依賴（擇一，建議 pdfplumber，Python 3.6 可用、無需編譯）：
+   ```bash
+   pip install pdfplumber
+   ```
+   若使用 PyMuPDF（需 Python 3.7+ 且環境可編譯）：`pip install pymupdf`
 3. 在專案根目錄執行：
    ```bash
    python3 scripts/import_pdfs_to_datasets.py
@@ -92,6 +96,40 @@ git push -u origin main
    - `public/data/index.json`（自動更新 datasets 列表）
    - `scripts/import_report.json`（每份：解析題數、失敗題數、疑似圖題）
 5. 之後 `npm run dev` 或部署後即可刷到新題庫；選「全部題庫」即合併所有題目。
+
+### v1.2.1：解析 + 圖題裁切
+
+- **解析**：腳本會從題目區塊內抽取「解析：」後的文字寫入 `explanation`；若 PDF 無解析段落則為空。
+- **圖題**：題幹或選項含「圖、符號、CNS、代表、標示」等關鍵字時視為疑似圖題；若本機已安裝 **PyMuPDF**（`pip install pymupdf`，需 Python 3.7+），會對該題所在頁面做 render+crop 產出 PNG，寫入 `public/assets/q/<datasetId>/Qxxx.png`，題目 JSON 會多出 `assets` 陣列。
+- **前端**：題目若有 `assets` 會在題幹上方顯示圖片；「解析」與「來源」分開顯示（來源固定灰字一行）。
+- **QA 報表**：`scripts/import_report.json` 會包含每份 PDF 的 `missing_explanation_count`、`image_questions_count`、`missing_image_count`、`errors`，方便補救。
+- 重新執行匯入腳本即可覆寫 `public/data/questions_*.json` 並產生/更新 `public/assets/q/` 圖檔。
+
+**上架前讓圖題（如 CNS 符號、左圖符號）顯示圖：**  
+需產出圖檔並寫入題目 `assets`。擇一方式即可：
+
+- **方式 A（推薦）**：本機安裝 PyMuPDF 後再跑一次匯入（需 Python 3.7+ 且可編譯）。
+  ```bash
+  pip install pymupdf
+  python3 scripts/import_pdfs_to_datasets.py --input-dir "raw_pdfs:"
+  ```
+- **方式 B**：若無法安裝 PyMuPDF，改用 pdf2image（需系統安裝 poppler）。
+  ```bash
+  pip install pdf2image
+  # Mac: brew install poppler
+  python3 scripts/import_pdfs_to_datasets.py --input-dir "raw_pdfs:"
+  ```
+  腳本會自動用 pdf2image 將該題所在「整頁」轉成 PNG，圖題即可顯示。
+
+### v1.2.2：題號索引 + 全面 slug + 清理殘留
+
+- **題庫與資產一律 ASCII slug**：`id` / 檔名 / 資料夾僅用 `[a-z0-9_]`（例：綜合A → `zonghe_a`，105 → `y105`，90006 → `c90006`）。`index.json` 的 `label` 仍可中文顯示。
+- **圖題裁切**：依「題號索引」定位該題所在頁與 y 區間；x 軸以「(1)(2)(3)(4) 右側」或 `page_width * 0.14` 為左緣，絕不露答案、禁止整頁 fallback。
+- **清理舊檔**：若 repo 曾推過中文/亂碼題庫或資產檔，需先執行清理再重新匯入，避免 Vercel/前端 404 或 fallback 到 v1：
+  ```bash
+  bash scripts/cleanup_legacy_assets.sh
+  ```
+  會刪除 `public/data` 下非 slug 的 `questions_*.json` 與 `public/assets/q` 下非 slug 的資料夾。執行後請再跑一次匯入（或從 Colab 下載新 zip 覆蓋 `public/`）。
 
 ## 技術
 

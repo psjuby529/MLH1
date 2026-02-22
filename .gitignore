@@ -26,3 +26,6 @@ next-env.d.ts
 # 題庫來源 PDF（體積大，不推上 GitHub）
 /raw_pdfs:/
 raw_pdfs:/
+
+# build 時由 verify_data_integrity 產出，不提交
+public/data/verify_result.json

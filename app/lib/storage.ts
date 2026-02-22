@@ -125,3 +125,51 @@ export function getLastAnswers(): Record<string, number> {
     return {};
   }
 }
+
+// --- C) 易錯科目統計 (localStorage) ---
+const KEY_WRONG_BY_SUBJECT = "mlh_stats_wrong_by_subject";
+const KEY_ATTEMPT_BY_SUBJECT = "mlh_stats_attempt_by_subject";
+
+export function getWrongBySubject(): Record<string, number> {
+  if (typeof window === "undefined") return {};
+  try {
+    const raw = localStorage.getItem(KEY_WRONG_BY_SUBJECT);
+    if (!raw) return {};
+    const obj = JSON.parse(raw) as unknown;
+    return obj && typeof obj === "object" && !Array.isArray(obj) ? (obj as Record<string, number>) : {};
+  } catch {
+    return {};
+  }
+}
+
+export function getAttemptBySubject(): Record<string, number> {
+  if (typeof window === "undefined") return {};
+  try {
+    const raw = localStorage.getItem(KEY_ATTEMPT_BY_SUBJECT);
+    if (!raw) return {};
+    const obj = JSON.parse(raw) as unknown;
+    return obj && typeof obj === "object" && !Array.isArray(obj) ? (obj as Record<string, number>) : {};
+  } catch {
+    return {};
+  }
+}
+
+export function addWrongBySubject(subjectKey: string): void {
+  if (typeof window === "undefined" || !subjectKey) return;
+  const map = getWrongBySubject();
+  map[subjectKey] = (map[subjectKey] ?? 0) + 1;
+  localStorage.setItem(KEY_WRONG_BY_SUBJECT, JSON.stringify(map));
+}
+
+export function addAttemptBySubject(subjectKey: string): void {
+  if (typeof window === "undefined" || !subjectKey) return;
+  const map = getAttemptBySubject();
+  map[subjectKey] = (map[subjectKey] ?? 0) + 1;
+  localStorage.setItem(KEY_ATTEMPT_BY_SUBJECT, JSON.stringify(map));
+}
+
+export function clearSubjectStats(): void {
+  if (typeof window === "undefined") return;
+  localStorage.removeItem(KEY_WRONG_BY_SUBJECT);
+  localStorage.removeItem(KEY_ATTEMPT_BY_SUBJECT);
+}

@@ -1,0 +1,200 @@
+[
+  {
+    "id": "y90008_1",
+    "subject": "室內裝修工程管理",
+    "year": 1,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "世界環境日是在每一年的：",
+    "options": [
+      "6月5日",
+      "4 月10日",
+      "3 月8日",
+      "11月12 日。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y90008#p1#Q1",
+    "source_display": "90008 工程管理學科 第1頁 第1題"
+  },
+  {
+    "id": "y90008_2",
+    "subject": "室內裝修工程管理",
+    "year": 2,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "2015年巴黎協議之目的為何？",
+    "options": [
+      "避免臭氧層破壞",
+      "減少持久性污染物排放",
+      "遏阻全球暖化趨勢",
+      "生物多樣性\n保育。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y90008#p1#Q2",
+    "source_display": "90008 工程管理學科 第1頁 第2題"
+  },
+  {
+    "id": "y90008_3",
+    "subject": "室內裝修工程管理",
+    "year": 3,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列何者為環境保護的正確作為？",
+    "options": [
+      "多吃肉少蔬食",
+      "自己開車不共乘",
+      "鐵馬步行",
+      "不隨手關燈。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y90008#p1#Q3",
+    "source_display": "90008 工程管理學科 第1頁 第3題"
+  },
+  {
+    "id": "y90008_4",
+    "subject": "室內裝修工程管理",
+    "year": 4,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列何種行為對生態環境會造成較大的衝擊？",
+    "options": [
+      "植種原生樹木",
+      "引進外來物種",
+      "設立國家公園",
+      "設立保護\n區。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y90008#p1#Q4",
+    "source_display": "90008 工程管理學科 第1頁 第4題"
+  },
+  {
+    "id": "y90008_5",
+    "subject": "室內裝修工程管理",
+    "year": 5,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列哪一種飲食習慣能減碳抗暖化？",
+    "options": [
+      "多吃速食",
+      "多吃天然蔬果",
+      "多吃牛肉",
+      "多選擇吃到飽的餐館。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y90008#p1#Q5",
+    "source_display": "90008 工程管理學科 第1頁 第5題"
+  },
+  {
+    "id": "y90008_6",
+    "subject": "室內裝修工程管理",
+    "year": 6,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "小明於隨地亂丟垃圾之現場遇依廢棄物清理法執行稽查人員要求提示身分證明，如小明無故拒絕提供，將受\n何處分？",
+    "options": [
+      "勸導改善",
+      "移送警察局",
+      "處新臺幣6百元以上 3千元以下罰鍰",
+      "接受環境講習。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y90008#p1#Q6",
+    "source_display": "90008 工程管理學科 第1頁 第6題"
+  },
+  {
+    "id": "y90008_7",
+    "subject": "室內裝修工程管理",
+    "year": 7,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "小狗在道路或其他公共場所便溺時，應由何人負責清除？",
+    "options": [
+      "主人",
+      "清潔隊",
+      "警察",
+      "土地所有權人。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y90008#p1#Q7",
+    "source_display": "90008 工程管理學科 第1頁 第7題"
+  },
+  {
+    "id": "y90008_8",
+    "subject": "室內裝修工程管理",
+    "year": 8,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "四公尺以內之公共巷、弄路面及水溝之廢棄物，應由何人負責清除？",
+    "options": [
+      "里辦公處",
+      "清潔隊",
+      "相對戶或相鄰戶\n分別各半清除",
+      "環保志工。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y90008#p1#Q8",
+    "source_display": "90008 工程管理學科 第1頁 第8題"
+  },
+  {
+    "id": "y90008_9",
+    "subject": "室內裝修工程管理",
+    "year": 9,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "外食自備餐具是落實綠色消費的哪一項表現？",
+    "options": [
+      "重複使用",
+      "回收再生",
+      "環保選購",
+      "降低成本。\nBD"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y90008#p1#Q9",
+    "source_display": "90008 工程管理學科 第1頁 第9題"
+  },
+  {
+    "id": "y90008_2",
+    "subject": "室內裝修工程管理",
+    "year": 2,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "2.5",
+    "options": [
+      "使用吸塵器",
+      "養成運動習慣",
+      "每天喝500cc的水。\n汽機車加裝消音器。\n行為",
+      "互蒙其利"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y90008#p2#Q2",
+    "source_display": "90008 工程管理學科 第2頁 第2題"
+  },
+  {
+    "id": "y90008_2",
+    "subject": "室內裝修工程管理",
+    "year": 2,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "2.5 3\nH)？",
+    "options": [
+      "AB",
+      "AC",
+      "BC",
+      "CD。\n4\n2"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y90008#p2#Q2",
+    "source_display": "90008 工程管理學科 第2頁 第2題"
+  }
+]

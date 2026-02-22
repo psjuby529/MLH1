@@ -1,0 +1,178 @@
+[
+  {
+    "id": "y109_1",
+    "subject": "室內裝修工程管理",
+    "year": 1,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "依中華民國國家標準 CNS 規定，在圖號及圖樣佈置時，Ａ是代表",
+    "options": [
+      "消防設備圖",
+      "建築圖",
+      "結構圖",
+      "空調圖。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y109#p1#Q1",
+    "source_display": "109 工程管理學科 第1頁 第1題"
+  },
+  {
+    "id": "y109_2",
+    "subject": "室內裝修工程管理",
+    "year": 2,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "砌磚前應將磚",
+    "options": [
+      "在烈日下曝曬乾",
+      "隨地亂放",
+      "充分吸收水份",
+      "秤重量。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y109#p1#Q2",
+    "source_display": "109 工程管理學科 第1頁 第2題"
+  },
+  {
+    "id": "y109_3",
+    "subject": "室內裝修工程管理",
+    "year": 3,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "關於工程日報表的目的，以下哪一項不是要掌握的內容？",
+    "options": [
+      "了解進度執行情形",
+      "了解工具使用情\n形",
+      "了解天氣影響工期情形",
+      "了解施工人員情緒。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y109#p1#Q3",
+    "source_display": "109 工程管理學科 第1頁 第3題"
+  },
+  {
+    "id": "y109_4",
+    "subject": "室內裝修工程管理",
+    "year": 4,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "工地環境衛生是指",
+    "options": [
+      "整體作業環境衛生",
+      "飲食衛生",
+      "單作業區衛生",
+      "個人衛生。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y109#p1#Q4",
+    "source_display": "109 工程管理學科 第1頁 第4題"
+  },
+  {
+    "id": "y109_5",
+    "subject": "室內裝修工程管理",
+    "year": 5,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "拆除隔間時，關於維護",
+    "options": [
+      "拆除作業區需設標示，禁止非作業人員進入",
+      "應由專任人員於現場指揮監督",
+      "需先規劃好拆除計畫",
+      "作業人員不必戴安全帽。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y109#p1#Q5",
+    "source_display": "109 工程管理學科 第1頁 第5題",
+    "assets": [
+      {
+        "type": "image",
+        "src": "/assets/q/y109/Q005.png",
+        "alt": "題目圖"
+      }
+    ]
+  },
+  {
+    "id": "y109_6",
+    "subject": "室內裝修工程管理",
+    "year": 6,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "現場丈量玻璃尺寸時下列何者較不重要",
+    "options": [
+      "崁入凹槽之深度及寬度",
+      "安裝位置之日晒及溫溼度變化",
+      "玻璃大小及搬運路徑",
+      "安裝開口處之平直度。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y109#p1#Q6",
+    "source_display": "109 工程管理學科 第1頁 第6題"
+  },
+  {
+    "id": "y109_7",
+    "subject": "室內裝修工程管理",
+    "year": 7,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "依中華民國國家標準 CNS 規定，在給排水工程之圖說標準中，下圖符號代表飲水用之",
+    "options": [
+      "排水管",
+      "回水管",
+      "飲水管",
+      "給水管。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y109#p1#Q7",
+    "source_display": "109 工程管理學科 第1頁 第7題",
+    "assets": [
+      {
+        "type": "image",
+        "src": "/assets/q/y109/Q007.png",
+        "alt": "題目圖"
+      }
+    ]
+  },
+  {
+    "id": "y109_8",
+    "subject": "室內裝修工程管理",
+    "year": 8,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "室內裝修施工中較常遭遇感電災害的工作是",
+    "options": [
+      "框架拆除",
+      "電動工具使用",
+      "清理搬運",
+      "貼磁磚。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y109#p1#Q8",
+    "source_display": "109 工程管理學科 第1頁 第8題"
+  },
+  {
+    "id": "y109_9",
+    "subject": "室內裝修工程管理",
+    "year": 9,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "受雇者因承辦業務而知悉營業秘密，在離職後對於該營業秘密的處理方式，下列敘述何者正確？",
+    "options": [
+      "自離職日起 3 年後便不再負有保障營業秘密之責",
+      "聘雇關係解除後便不再負有保障營業秘密之\n責",
+      "僅能自用而不得販售獲取利益",
+      "離職後仍不得洩漏該營業秘密。\n就好辦事"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y109#p1#Q9",
+    "source_display": "109 工程管理學科 第1頁 第9題"
+  }
+]

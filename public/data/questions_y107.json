@@ -1,0 +1,164 @@
+[
+  {
+    "id": "y107_1",
+    "subject": "室內裝修工程管理",
+    "year": 1,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "立面設計中，常見”牆面留 2 分勾縫”此 2 分係指",
+    "options": [
+      "0.6 公分",
+      "0.3 公分",
+      "2 公分",
+      "1 公分。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y107#p1#Q1",
+    "source_display": "107 工程管理學科 第1頁 第1題"
+  },
+  {
+    "id": "y107_2",
+    "subject": "室內裝修工程管理",
+    "year": 2,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列敘述何者為不正確？",
+    "options": [
+      "吊起料件之重心應在吊鉤正下方",
+      "吊掛作業範圍內容許工作人員自由\n進出",
+      "吊起時應注意工件是否滑脫",
+      "工地吊掛料件應估計重量。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y107#p1#Q2",
+    "source_display": "107 工程管理學科 第1頁 第2題"
+  },
+  {
+    "id": "y107_4",
+    "subject": "室內裝修工程管理",
+    "year": 4,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "小禎離開異鄉就業，來到小明的公司上班，小明是當地的人，他應該",
+    "options": [
+      "多關心小禎的生活適應情況，\n如有困難加以協助",
+      "小禎是同單位的人，是個競爭對手，應該多加防範",
+      "不關他的事，自己管好就\n好",
+      "小禎非當地人，應該不容易相處，不要有太多接觸。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y107#p1#Q4",
+    "source_display": "107 工程管理學科 第1頁 第4題"
+  },
+  {
+    "id": "y107_5",
+    "subject": "室內裝修工程管理",
+    "year": 5,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "家人洗澡時，一個接一個連續洗，也是一種有效的省水方式嗎？",
+    "options": [
+      "是，因為可以節省等熱水流出所\n流失的冷水",
+      "有可能省水也可能不省水，無法定論",
+      "否，這跟省水沒什麼關係，不用這麼麻煩",
+      "否，\n因為等熱水時流出的水量不多。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y107#p1#Q5",
+    "source_display": "107 工程管理學科 第1頁 第5題"
+  },
+  {
+    "id": "y107_6",
+    "subject": "室內裝修工程管理",
+    "year": 6,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "關於輕隔間的施工程序，下述那一項是對的",
+    "options": [
+      "上下料及立柱角材安裝→管路埋設→隔音/隔熱材填\n充→封板→批土→完工",
+      "放樣→管路埋設→上下料及立柱角材安裝→第一面封板→隔音/隔熱材填\n充→第二面封板→批土→完工",
+      "放樣→上下料及立柱角材安裝→第一面封板→管路埋設及隔音/隔\n熱材填充→第二面封板→批土→完工",
+      "放樣→上下料及立柱角材安裝→管路埋設及隔音/隔熱材填\n充→封板→批土→完工。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y107#p1#Q6",
+    "source_display": "107 工程管理學科 第1頁 第6題"
+  },
+  {
+    "id": "y107_7",
+    "subject": "室內裝修工程管理",
+    "year": 7,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "依中華民國國家標準 CNS 規定，此符號『#』代表規格號碼；在竹節鋼筋材料#6 代表竹節鋼筋直徑\n為",
+    "options": [
+      "6 ㎜",
+      "18 ㎜",
+      "12 ㎜",
+      "19 ㎜。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y107#p1#Q7",
+    "source_display": "107 工程管理學科 第1頁 第7題"
+  },
+  {
+    "id": "y107_8",
+    "subject": "室內裝修工程管理",
+    "year": 8,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "請問以下何種智慧財產權，不需向主管或專責機關提出申請即可享有？",
+    "options": [
+      "著作權",
+      "專利權",
+      "電路布\n局權",
+      "商標權。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y107#p1#Q8",
+    "source_display": "107 工程管理學科 第1頁 第8題"
+  },
+  {
+    "id": "y107_9",
+    "subject": "室內裝修工程管理",
+    "year": 9,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列何者不是常用的量具",
+    "options": [
+      "捲尺",
+      "墨斗",
+      "曲尺",
+      "直角尺。\n物對人體有致癌疑慮？"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y107#p1#Q9",
+    "source_display": "107 工程管理學科 第1頁 第9題"
+  },
+  {
+    "id": "y107_2",
+    "subject": "室內裝修工程管理",
+    "year": 2,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "2.5\n碳(CO )、D.甲烷(CH )？",
+    "options": [
+      "AB",
+      "BC",
+      "AC",
+      "CD。\n2 4\n鋼。\n質是否適當"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y107#p2#Q2",
+    "source_display": "107 工程管理學科 第2頁 第2題"
+  }
+]

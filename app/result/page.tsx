@@ -5,6 +5,7 @@ import { Suspense, useEffect, useMemo, useState } from "react";
 import Link from "next/link";
 import { fetchQuestions } from "../lib/questions";
 import { getWrongIds, getLastAnswers, getAttemptId, tryIncrementPerfectCount, getPerfectCount } from "../lib/storage";
+import { getDataVersionSync } from "../lib/datasets";
 import type { Question } from "../types";
 
 function ResultContent() {
@@ -97,6 +98,32 @@ function ResultContent() {
                 key={q.id}
                 className="p-4 rounded-xl border border-gray-200 bg-gray-50"
               >
+                {q.assets && q.assets.length > 0 && (
+                  <div className="mb-2 space-y-1">
+                    {q.assets
+                      .filter((a) => a.type === "image" && a.src)
+                      .map((a, idx) => {
+                        const v = getDataVersionSync();
+                        const src = a.src + (v ? (a.src.includes("?") ? "&" : "?") + "v=" + encodeURIComponent(v) : "");
+                        return (
+                          <img
+                            key={idx}
+                            src={src}
+                            alt={a.alt || "題目圖"}
+                            className="max-w-full h-auto rounded border border-gray-200"
+                            onError={(e) => {
+                              try {
+                                const key = "debug_missing_images";
+                                const arr = JSON.parse(localStorage.getItem(key) ?? "[]");
+                                arr.push({ path: a.src, qId: q.id, t: Date.now() });
+                                localStorage.setItem(key, JSON.stringify(arr.slice(-50)));
+                              } catch { /* ignore */ }
+                            }}
+                          />
+                        );
+                      })}
+                  </div>
+                )}
                 <p className="font-medium text-[#111] mb-2">{q.question_text}</p>
                 <p className="text-sm text-gray-600">
                   正確答案：{["A", "B", "C", "D"][q.answer_index]}.{" "}
@@ -108,7 +135,12 @@ function ResultContent() {
                     {q.options[yourIndex]}
                   </p>
                 )}
-                <p className="text-sm text-gray-500 mt-2">{q.explanation}</p>
+                {q.explanation ? (
+                  <p className="text-sm text-gray-700 mt-2 whitespace-pre-wrap">{q.explanation}</p>
+                ) : (
+                  <p className="text-sm text-gray-500 mt-2">本題無解析</p>
+                )}
+                <p className="text-sm text-gray-500 mt-1">來源：{q.source_display ?? q.source}</p>
               </li>
             ))}
           </ul>

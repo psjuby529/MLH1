@@ -1,0 +1,164 @@
+[
+  {
+    "id": "y110_1",
+    "subject": "室內裝修工程管理",
+    "year": 1,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "輕鋼架明架礦纖板天花板施工，遇到邊緣不足一塊礦纖板寬度時，要將板材切割時宜用",
+    "options": [
+      "電鑽",
+      "美工刀",
+      "鐵板剪",
+      "鏝刀 裁切。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y110#p1#Q1",
+    "source_display": "110 工程管理學科 第1頁 第1題"
+  },
+  {
+    "id": "y110_2",
+    "subject": "室內裝修工程管理",
+    "year": 2,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "為了節能與降低電費的需求，家電產品的正確選用應該如何？",
+    "options": [
+      "設備沒有壞，還是堪用，繼續\n用，不會增加支出",
+      "選用能效分級數字較高的產品，效率較高，5 級的比 1 級的電器產品更省電",
+      "優先選用取得節能標章的產品",
+      "選用高功率的產品效率較高。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y110#p1#Q2",
+    "source_display": "110 工程管理學科 第1頁 第2題"
+  },
+  {
+    "id": "y110_3",
+    "subject": "室內裝修工程管理",
+    "year": 3,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "用電設備的線路保護用電力熔絲(保險絲)經常燒斷，造成停電的不便，下列何者不是正確的作\n法？",
+    "options": [
+      "減少線路連接的電氣設備，降低用電量",
+      "提高用電設備的功率因數",
+      "重新設計線路，改較\n粗的導線或用兩迴路並聯",
+      "換大一級或大兩級規格的保險絲或斷路器就不會燒斷了。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y110#p1#Q3",
+    "source_display": "110 工程管理學科 第1頁 第3題"
+  },
+  {
+    "id": "y110_4",
+    "subject": "室內裝修工程管理",
+    "year": 4,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "砌磚工作程序下列敘述何者正確？",
+    "options": [
+      "摔漿→刮漿→撥漿→砌頭",
+      "摔漿→撥漿→刮漿→砌頭",
+      "撥漿\n→摔漿→刮漿→砌頭",
+      "刮漿→砌頭→摔漿→撥漿。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y110#p1#Q4",
+    "source_display": "110 工程管理學科 第1頁 第4題"
+  },
+  {
+    "id": "y110_5",
+    "subject": "室內裝修工程管理",
+    "year": 5,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列何種顏色可作為接地線使用？",
+    "options": [
+      "紅色",
+      "綠色",
+      "黑色",
+      "白色。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y110#p1#Q5",
+    "source_display": "110 工程管理學科 第1頁 第5題"
+  },
+  {
+    "id": "y110_6",
+    "subject": "室內裝修工程管理",
+    "year": 6,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "一般壁紙於施作時，如漿糊濃度過高，可添加何種物質稀釋，方便施工？",
+    "options": [
+      "松香水",
+      "水",
+      "香蕉水",
+      "甲苯。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y110#p1#Q6",
+    "source_display": "110 工程管理學科 第1頁 第6題"
+  },
+  {
+    "id": "y110_7",
+    "subject": "室內裝修工程管理",
+    "year": 7,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "所謂室內裝修從業者，不包括下列何者",
+    "options": [
+      "營造業",
+      "開業建築師",
+      "室內裝修業",
+      "室內裝潢業。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y110#p1#Q7",
+    "source_display": "110 工程管理學科 第1頁 第7題"
+  },
+  {
+    "id": "y110_8",
+    "subject": "室內裝修工程管理",
+    "year": 8,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "輕隔間牆於接縫處分次塗佈填縫膠泥，主要目的在",
+    "options": [
+      "增加價值感",
+      "增加牆板厚實感",
+      "避免填縫膠\n泥乾縮",
+      "防止濕氣。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y110#p1#Q8",
+    "source_display": "110 工程管理學科 第1頁 第8題"
+  },
+  {
+    "id": "y110_9",
+    "subject": "室內裝修工程管理",
+    "year": 9,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "現有二塊木板尺寸分別為長度 8 台尺、寬度 3 台寸、厚度",
+    "options": [
+      "2.88 才",
+      "1.44 才",
+      "14.4 才",
+      "28.8 才。\n象或其他相關人士之肢體攻擊、言語侮辱、恐嚇、威脅等霸凌或暴力事件，致發生精神或身體上\n的傷害」此等危害可歸類於下列何種職業危害？"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y110#p1#Q9",
+    "source_display": "110 工程管理學科 第1頁 第9題"
+  }
+]

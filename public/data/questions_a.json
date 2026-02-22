@@ -1,0 +1,1230 @@
+[
+  {
+    "id": "a_1",
+    "subject": "室內裝修工程管理",
+    "year": 1,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "左圖符號係為",
+    "options": [
+      "轉彎標記",
+      "方向標記",
+      "剖面標記",
+      "立面標\n記 。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "a#p1#Q1",
+    "source_display": "a 第1頁 第1題",
+    "assets": [
+      {
+        "type": "image",
+        "src": "/assets/q/a/Q001.png",
+        "alt": "題目圖"
+      }
+    ]
+  },
+  {
+    "id": "a_2",
+    "subject": "室內裝修工程管理",
+    "year": 2,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "施工圖面常用文字簡寫符號中 GL 代表",
+    "options": [
+      "水平線",
+      "天花板線",
+      "地盤線",
+      "視平線 。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "a#p1#Q2",
+    "source_display": "a 第1頁 第2題",
+    "assets": [
+      {
+        "type": "image",
+        "src": "/assets/q/a/Q002.png",
+        "alt": "題目圖"
+      }
+    ]
+  },
+  {
+    "id": "a_3",
+    "subject": "室內裝修工程管理",
+    "year": 3,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "施工圖面常用文字簡寫符號中 DW 代表",
+    "options": [
+      "門",
+      "下樓",
+      "門連窗",
+      "落地窗\n。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "a#p1#Q3",
+    "source_display": "a 第1頁 第3題",
+    "assets": [
+      {
+        "type": "image",
+        "src": "/assets/q/a/Q003.png",
+        "alt": "題目圖"
+      }
+    ]
+  },
+  {
+    "id": "a_4",
+    "subject": "室內裝修工程管理",
+    "year": 4,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "施工圖面常用文字簡寫符號中 代表",
+    "options": [
+      "天花板高度",
+      "地平線",
+      "中心線",
+      "剖面線 。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "a#p1#Q4",
+    "source_display": "a 第1頁 第4題",
+    "assets": [
+      {
+        "type": "image",
+        "src": "/assets/q/a/Q004.png",
+        "alt": "題目圖"
+      }
+    ]
+  },
+  {
+    "id": "a_5",
+    "subject": "室內裝修工程管理",
+    "year": 5,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "材料構造圖例中 代表",
+    "options": [
+      "窗簾",
+      "輕質牆",
+      "鬆軟之保溫吸音材疊席類",
+      "地毯 。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "a#p1#Q5",
+    "source_display": "a 第1頁 第5題",
+    "assets": [
+      {
+        "type": "image",
+        "src": "/assets/q/a/Q005.png",
+        "alt": "題目圖"
+      }
+    ]
+  },
+  {
+    "id": "a_6",
+    "subject": "室內裝修工程管理",
+    "year": 6,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "依中華民國國家標準 CNS 規定，給排水及衛生設備符號中，\n代表",
+    "options": [
+      "消防送水管",
+      "排水管",
+      "風管",
+      "冷水管 。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "a#p1#Q6",
+    "source_display": "a 第1頁 第6題",
+    "assets": [
+      {
+        "type": "image",
+        "src": "/assets/q/a/Q006.png",
+        "alt": "題目圖"
+      }
+    ]
+  },
+  {
+    "id": "a_7",
+    "subject": "室內裝修工程管理",
+    "year": 7,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "製圖中文字書寫原則採用",
+    "options": [
+      "正楷字",
+      "黑體字",
+      "仿宋字",
+      "美術字 。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "a#p1#Q7",
+    "source_display": "a 第1頁 第7題",
+    "assets": [
+      {
+        "type": "image",
+        "src": "/assets/q/a/Q007.png",
+        "alt": "題目圖"
+      }
+    ]
+  },
+  {
+    "id": "a_8",
+    "subject": "室內裝修工程管理",
+    "year": 8,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "依中華民國國家標準 CNS 規定，在電氣設備圖中 此符號代表配電\n系統之",
+    "options": [
+      "電力總配電盤",
+      "電燈分電盤",
+      "電力分電盤",
+      "電燈總配電盤 。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "a#p1#Q8",
+    "source_display": "a 第1頁 第8題",
+    "assets": [
+      {
+        "type": "image",
+        "src": "/assets/q/a/Q008.png",
+        "alt": "題目圖"
+      }
+    ]
+  },
+  {
+    "id": "a_9",
+    "subject": "室內裝修工程管理",
+    "year": 9,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "依中華民國國家標準 CNS 規定，在圖號及圖樣佈置時，Ａ是代表",
+    "options": [
+      "結構\n圖",
+      "空調圖",
+      "建築圖",
+      "消防設備圖 。\n設備系統管線採用"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "a#p1#Q9",
+    "source_display": "a 第1頁 第9題",
+    "assets": [
+      {
+        "type": "image",
+        "src": "/assets/q/a/Q009.png",
+        "alt": "題目圖"
+      }
+    ]
+  },
+  {
+    "id": "a_1",
+    "subject": "室內裝修工程管理",
+    "year": 1,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列何者不是常用的量具",
+    "options": [
+      "曲尺",
+      "墨斗",
+      "捲尺",
+      "直角尺 。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "a#p6#Q1",
+    "source_display": "a 第6頁 第1題"
+  },
+  {
+    "id": "a_2",
+    "subject": "室內裝修工程管理",
+    "year": 2,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列何者不是常用的定線工具？",
+    "options": [
+      "墨斗",
+      "錘球",
+      "折尺",
+      "水平管 。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "a#p6#Q2",
+    "source_display": "a 第6頁 第2題"
+  },
+  {
+    "id": "a_4",
+    "subject": "室內裝修工程管理",
+    "year": 4,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "墨斗放樣工作先後次序",
+    "options": [
+      "定點→註記→引線→彈線",
+      "註記→定點→引線\n→彈線",
+      "定點→引線→彈線→註記",
+      "彈線→定點→引線→註記 。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "a#p6#Q4",
+    "source_display": "a 第6頁 第4題"
+  },
+  {
+    "id": "a_5",
+    "subject": "室內裝修工程管理",
+    "year": 5,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "安置物體欲保持水平，最簡便的方法採用",
+    "options": [
+      "曲尺",
+      "水平尺",
+      "鉛球",
+      "折\n尺 。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "a#p6#Q5",
+    "source_display": "a 第6頁 第5題"
+  },
+  {
+    "id": "a_6",
+    "subject": "室內裝修工程管理",
+    "year": 6,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "檢查三角形是否為直角，常用三邊的比為",
+    "options": [
+      "1：2：3",
+      "2：3：4",
+      "3：4：\n5",
+      "4：5：6 。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "a#p6#Q6",
+    "source_display": "a 第6頁 第6題"
+  },
+  {
+    "id": "a_7",
+    "subject": "室內裝修工程管理",
+    "year": 7,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "測量上所稱距離，係指兩點間之",
+    "options": [
+      "高低距離",
+      "垂直距離",
+      "斜線距離",
+      "水平直線距離 。\nPage 6 of 49"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "a#p6#Q7",
+    "source_display": "a 第6頁 第7題"
+  },
+  {
+    "id": "a_8",
+    "subject": "室內裝修工程管理",
+    "year": 8,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列敘述，何者為錯誤？",
+    "options": [
+      "布捲尺測量比鋼尺測量誤差大",
+      "放樣工作重\n要，必須小心謹慎",
+      "木材可以「才」作為計算單位",
+      "1 甲=3000 坪 。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "a#p7#Q8",
+    "source_display": "a 第7頁 第8題"
+  },
+  {
+    "id": "a_9",
+    "subject": "室內裝修工程管理",
+    "year": 9,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "墨斗所使用之墨線應使用何種材質？",
+    "options": [
+      "尼龍線",
+      "棉線",
+      "塑膠線",
+      "橡膠\n線 。\n標示 。\n理"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "a#p7#Q9",
+    "source_display": "a 第7頁 第9題",
+    "assets": [
+      {
+        "type": "image",
+        "src": "/assets/q/a/Q009.png",
+        "alt": "題目圖"
+      }
+    ]
+  },
+  {
+    "id": "a_1",
+    "subject": "室內裝修工程管理",
+    "year": 1,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列何者不是「建築法」所稱之建築設備",
+    "options": [
+      "防空避難",
+      "消雷",
+      "兼作廚\n櫃使用之隔屏",
+      "保護民眾隱私權等設備 。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "a#p8#Q1",
+    "source_display": "a 第8頁 第1題"
+  },
+  {
+    "id": "a_2",
+    "subject": "室內裝修工程管理",
+    "year": 2,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "「建築法」規定之建築執照，包括下列何者",
+    "options": [
+      "室內裝修許可",
+      "拆除執\n照",
+      "修繕執照",
+      "改建執照 。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "a#p8#Q2",
+    "source_display": "a 第8頁 第2題"
+  },
+  {
+    "id": "a_3",
+    "subject": "室內裝修工程管理",
+    "year": 3,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "建築物未經申請直轄市、縣（市）（局）主管建築機關之審查許可並發\n給執照，而擅自使用者，可以處下列何種比例以下之罰鍰，並勒令停工\n補辦手續",
+    "options": [
+      "千分之五十",
+      "百分之一",
+      "百分之二",
+      "百分之三 。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "a#p8#Q3",
+    "source_display": "a 第8頁 第3題"
+  },
+  {
+    "id": "a_4",
+    "subject": "室內裝修工程管理",
+    "year": 4,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "建築物室內裝修如妨害或破壞保護民眾隱私權設施時，可以處罰室內裝\n修從業者多少金額至新台幣三十萬間之罰鍰",
+    "options": [
+      "新台幣一萬元",
+      "新台幣\n二萬元",
+      "新台幣三萬元",
+      "新台幣六萬元 。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "a#p8#Q4",
+    "source_display": "a 第8頁 第4題"
+  },
+  {
+    "id": "a_5",
+    "subject": "室內裝修工程管理",
+    "year": 5,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "所謂室內裝修從業者，不包括下列何者",
+    "options": [
+      "開業建築師",
+      "營造業",
+      "室內\n裝潢業",
+      "室內裝修業 。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "a#p8#Q5",
+    "source_display": "a 第8頁 第5題"
+  },
+  {
+    "id": "a_6",
+    "subject": "室內裝修工程管理",
+    "year": 6,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "室內裝修業從事室內裝修施工業務者，應置專業施工技術人員至少幾人\n以上",
+    "options": [
+      "二人",
+      "一人",
+      "三人",
+      "五人 。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "a#p8#Q6",
+    "source_display": "a 第8頁 第6題"
+  },
+  {
+    "id": "a_7",
+    "subject": "室內裝修工程管理",
+    "year": 7,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "「建築物室內裝修管理辦法」所稱之審查人員，係指辦理審核圖說及竣\n工查驗之人員。請問以下何者非規定之審查人員",
+    "options": [
+      "營造廠之專任工程人\n員",
+      "經內政部指定之專業工業技師",
+      "直轄市主管建築機關指派之人員",
+      "審查機構指派所屬具建築師、專業技術人員資格之人員 。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "a#p8#Q7",
+    "source_display": "a 第8頁 第7題",
+    "assets": [
+      {
+        "type": "image",
+        "src": "/assets/q/a/Q007.png",
+        "alt": "題目圖"
+      }
+    ]
+  },
+  {
+    "id": "a_8",
+    "subject": "室內裝修工程管理",
+    "year": 8,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "申請室內裝修審核時，檢附之室內裝修圖說中，平面圖及立面圖之比例\n尺不得小於",
+    "options": [
+      "一百分之一",
+      "二百分之一",
+      "三百分之一",
+      "無規定 。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "a#p8#Q8",
+    "source_display": "a 第8頁 第8題",
+    "assets": [
+      {
+        "type": "image",
+        "src": "/assets/q/a/Q008.png",
+        "alt": "題目圖"
+      }
+    ]
+  },
+  {
+    "id": "a_9",
+    "subject": "室內裝修工程管理",
+    "year": 9,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "直轄市、縣（市）主管建築機關或審查機構針對建築物室內裝修進行審\n核時，下列何者不是必審之項目",
+    "options": [
+      "申請圖說文件應齊全",
+      "建築物所在\n之土地權利證明文件",
+      "裝修材料應符合「建築技術規則」之規定",
+      "不\n得妨害或破壞防火避難設施、防火區劃及主要構造 。\n圖說施工者，當地主管機關查明屬實後，得予以多少期限之停止執行職\nPage 8 of 49"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "a#p8#Q9",
+    "source_display": "a 第8頁 第9題",
+    "assets": [
+      {
+        "type": "image",
+        "src": "/assets/q/a/Q009.png",
+        "alt": "題目圖"
+      }
+    ]
+  },
+  {
+    "id": "a_1",
+    "subject": "室內裝修工程管理",
+    "year": 1,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "從事磁磚黏貼工作，利用石材或磁磚切割機切割磁磚，請問下列哪一項不\n是必要護具？",
+    "options": [
+      "耳罩",
+      "護目鏡",
+      "手套",
+      "防塵口罩 。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "a#p17#Q1",
+    "source_display": "a 第17頁 第1題"
+  },
+  {
+    "id": "a_2",
+    "subject": "室內裝修工程管理",
+    "year": 2,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "工作場所及公共區域之安全標誌、安全標示的安全辨識顏色及設計原則，\n適用於事故防範、火災防護、衛生危害資訊與緊急疏散等目的，其中表示\n急救(站)、緊急出口等安全顏色為",
+    "options": [
+      "紅色",
+      "綠色",
+      "橙色",
+      "黃色 。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "a#p17#Q2",
+    "source_display": "a 第17頁 第2題",
+    "assets": [
+      {
+        "type": "image",
+        "src": "/assets/q/a/Q002.png",
+        "alt": "題目圖"
+      }
+    ]
+  },
+  {
+    "id": "a_3",
+    "subject": "室內裝修工程管理",
+    "year": 3,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "在潮濕工作場所使用電動工具時，應優先考量防止下列何種災害發生？",
+    "options": [
+      "撞擊",
+      "刺痛",
+      "感電",
+      "扭傷 。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "a#p17#Q3",
+    "source_display": "a 第17頁 第3題"
+  },
+  {
+    "id": "a_4",
+    "subject": "室內裝修工程管理",
+    "year": 4,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "餐廳廚房於營業期間暫停營業整修廚房，為避免感電意外，下列哪一個措\n施對感電無幫助？",
+    "options": [
+      "廚房牆面、地面應保持乾燥",
+      "裝修技術人員應核實\n進場材料數量",
+      "廚房用電非帶電金屬部份應接地及裝置漏電斷電器",
+      "電\n器設備應經常檢修，如發現漏電，應即停止用，要求修理 。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "a#p17#Q4",
+    "source_display": "a 第17頁 第4題"
+  },
+  {
+    "id": "a_5",
+    "subject": "室內裝修工程管理",
+    "year": 5,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "雇主對下列那種勞工要實施有機溶劑特別危害健康檢查？",
+    "options": [
+      "鋼筋工",
+      "油\n漆工",
+      "水泥工",
+      "木工 。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "a#p17#Q5",
+    "source_display": "a 第17頁 第5題"
+  },
+  {
+    "id": "a_6",
+    "subject": "室內裝修工程管理",
+    "year": 6,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "裝設於機械控制面板或控制箱表面用手按壓按鈕使機械停止之緊急停止裝\n置顏色為",
+    "options": [
+      "紅色",
+      "藍色",
+      "綠色",
+      "白色 。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "a#p17#Q6",
+    "source_display": "a 第17頁 第6題"
+  },
+  {
+    "id": "a_7",
+    "subject": "室內裝修工程管理",
+    "year": 7,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "安全衛生標示之外形為圓形者，通常用於何處？",
+    "options": [
+      "一般安全之說明事項",
+      "警告事項",
+      "注意事項",
+      "禁止事項 。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "a#p17#Q7",
+    "source_display": "a 第17頁 第7題",
+    "assets": [
+      {
+        "type": "image",
+        "src": "/assets/q/a/Q007.png",
+        "alt": "題目圖"
+      }
+    ]
+  },
+  {
+    "id": "a_8",
+    "subject": "室內裝修工程管理",
+    "year": 8,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "安全衛生標示中警告事項之外形為下列何種形狀？",
+    "options": [
+      "正方形或長方形",
+      "圓形",
+      "尖端向上之正三角形",
+      "尖端向下之正三角形 。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "a#p17#Q8",
+    "source_display": "a 第17頁 第8題",
+    "assets": [
+      {
+        "type": "image",
+        "src": "/assets/q/a/Q008.png",
+        "alt": "題目圖"
+      }
+    ]
+  },
+  {
+    "id": "a_9",
+    "subject": "室內裝修工程管理",
+    "year": 9,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "高壓氣體之貯存，依規定在其周圍多少距離內不得放置有煙火及著火性、\n引火性物質？",
+    "options": [
+      "2 公尺",
+      "3 公尺",
+      "4 公尺",
+      "5 公尺 。\n穿墜落，規劃安全通道時，於天花板支架上架設適當強度且寬度在多少公\n分以上之踏板？"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "a#p17#Q9",
+    "source_display": "a 第17頁 第9題"
+  },
+  {
+    "id": "a_1",
+    "subject": "室內裝修工程管理",
+    "year": 1,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "現場切割薄板玻璃時要用",
+    "options": [
+      "水刀切割刀",
+      "玻璃切割刀",
+      "雷射切割刀",
+      "電熱線切割刀 。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "a#p20#Q1",
+    "source_display": "a 第20頁 第1題"
+  },
+  {
+    "id": "a_2",
+    "subject": "室內裝修工程管理",
+    "year": 2,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "面貼二丁掛磁磚要用",
+    "options": [
+      "勾縫刀",
+      "金屬鏝刀",
+      "平頭鏝刀",
+      "圓角鏝刀 將填\n縫砂漿壓入並勾平以強調水平線(條)。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "a#p20#Q2",
+    "source_display": "a 第20頁 第2題"
+  },
+  {
+    "id": "a_3",
+    "subject": "室內裝修工程管理",
+    "year": 3,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "既有鋼筋混凝土牆面在法規及結構容許情況下，要打開一片採光窗，為避\n免造成破壞面積過大及日後造成漏水現象宜採用",
+    "options": [
+      "大鐵鎚敲打破碎",
+      "電\n動打石機打除",
+      "混凝土鑽孔機連續鑽孔",
+      "混凝土切割機切割 。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "a#p20#Q3",
+    "source_display": "a 第20頁 第3題"
+  },
+  {
+    "id": "a_4",
+    "subject": "室內裝修工程管理",
+    "year": 4,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "為達成玻璃或鏡面接縫填補效果良好，宜將灌裝於筒狀容器之矽力康膠，\n於施打時配合用",
+    "options": [
+      "空壓機",
+      "填縫槍",
+      "噴槍",
+      "罐裝瓦斯 將矽力康膠均勻\n壓出至接縫處，再以刮刀修平。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "a#p20#Q4",
+    "source_display": "a 第20頁 第4題"
+  },
+  {
+    "id": "a_5",
+    "subject": "室內裝修工程管理",
+    "year": 5,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "輕鋼架明架礦纖板天花板施工，遇到邊緣不足一塊礦纖板寬度時，要將板\n材切割時宜用",
+    "options": [
+      "鏝刀",
+      "電鑽",
+      "美工刀",
+      "鐵板剪 裁切。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "a#p20#Q5",
+    "source_display": "a 第20頁 第5題"
+  },
+  {
+    "id": "a_6",
+    "subject": "室內裝修工程管理",
+    "year": 6,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列工具組，何者不是砌磚施工時之工具",
+    "options": [
+      "墨斗、水線、垂球",
+      "桃型鏝\n刀、填縫鏝刀、方鍬",
+      "角尺、捲尺、氣泡水平尺",
+      "金屬鏝刀、內外角鏝\n刀、木槌 。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "a#p20#Q6",
+    "source_display": "a 第20頁 第6題"
+  },
+  {
+    "id": "a_7",
+    "subject": "室內裝修工程管理",
+    "year": 7,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列工具組何者不是木作施工時之主要工具",
+    "options": [
+      "20 磅鐵鎚、活動鈑手",
+      "平\n鉋刀、平頭鑿",
+      "修邊機、砂磨機",
+      "弓形鑽、弓鋸 。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "a#p20#Q7",
+    "source_display": "a 第20頁 第7題"
+  },
+  {
+    "id": "a_8",
+    "subject": "室內裝修工程管理",
+    "year": 8,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列何者為錯誤",
+    "options": [
+      "蹬緊器是滿鋪地毯之工具",
+      "佈膠機是貼壁紙之工具",
+      "噴霧器是貼壁布的工具",
+      "滾壓輪是鋪設塑膠地磚的工具 。\nPage 20 of 49"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "a#p20#Q8",
+    "source_display": "a 第20頁 第8題"
+  },
+  {
+    "id": "a_9",
+    "subject": "室內裝修工程管理",
+    "year": 9,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "現場木作裝修工程，木工多會採用下列何者電動工具作為現場工作鋸台，\n以利裁、切、鋸使用",
+    "options": [
+      "角度切斷機",
+      "電動切割機",
+      "手提電動鉋",
+      "電動\n鑽孔機 。\n應在吊鉤正下方"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "a#p21#Q9",
+    "source_display": "a 第21頁 第9題"
+  },
+  {
+    "id": "a_1",
+    "subject": "室內裝修工程管理",
+    "year": 1,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "大理石的鋪貼工程",
+    "options": [
+      "用乾式",
+      "必須用濕式",
+      "有乾、濕兩種施工方法",
+      "以乾式較佳 。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "a#p24#Q1",
+    "source_display": "a 第24頁 第1題"
+  },
+  {
+    "id": "a_2",
+    "subject": "室內裝修工程管理",
+    "year": 2,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "砌磚前應將磚",
+    "options": [
+      "秤重量",
+      "隨地亂放",
+      "充分吸收水份",
+      "在烈日下曝曬乾\n。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "a#p24#Q2",
+    "source_display": "a 第24頁 第2題"
+  },
+  {
+    "id": "a_3",
+    "subject": "室內裝修工程管理",
+    "year": 3,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "一般防水粉刷，水泥與砂之比例下列何者為宜？",
+    "options": [
+      "1：4",
+      "2：1",
+      "1：2",
+      "1：5 。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "a#p24#Q3",
+    "source_display": "a 第24頁 第3題"
+  },
+  {
+    "id": "a_4",
+    "subject": "室內裝修工程管理",
+    "year": 4,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "砌磚工作程序下列敘述何者正確？",
+    "options": [
+      "摔漿→撥漿→刮漿→砌頭",
+      "摔漿\n→刮漿→撥漿→砌頭",
+      "撥漿→摔漿→刮漿→砌頭",
+      "刮漿→砌頭→摔漿\n→撥漿 。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "a#p24#Q4",
+    "source_display": "a 第24頁 第4題"
+  },
+  {
+    "id": "a_6",
+    "subject": "室內裝修工程管理",
+    "year": 6,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "建築石材之耐久性，依據其抵抗何種作用的能力而定",
+    "options": [
+      "強度",
+      "硬度",
+      "風化",
+      "吸水率 。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "a#p24#Q6",
+    "source_display": "a 第24頁 第6題"
+  },
+  {
+    "id": "a_7",
+    "subject": "室內裝修工程管理",
+    "year": 7,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "海菜粉用於下列何項較恰當？",
+    "options": [
+      "砌磚",
+      "打底粉刷",
+      "磁磚鋪貼",
+      "清水磚\n牆勾縫 。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "a#p24#Q7",
+    "source_display": "a 第24頁 第7題"
+  },
+  {
+    "id": "a_8",
+    "subject": "室內裝修工程管理",
+    "year": 8,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "水泥粉光施工中的灰誌是以",
+    "options": [
+      "2：1",
+      "1：3",
+      "2：3",
+      "3：4 之水泥砂漿\n作為主。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "a#p24#Q8",
+    "source_display": "a 第24頁 第8題"
+  },
+  {
+    "id": "a_9",
+    "subject": "室內裝修工程管理",
+    "year": 9,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "水泥砂漿拌合後，超過",
+    "options": [
+      "15 分鐘",
+      "30 分鐘",
+      "45 分鐘",
+      "60 分鐘 即不\n得使用。\n蝕"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "a#p24#Q9",
+    "source_display": "a 第24頁 第9題"
+  },
+  {
+    "id": "a_3",
+    "subject": "室內裝修工程管理",
+    "year": 3,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "3.2 公厘以上者應用絞線",
+    "options": [
+      "導線之線徑大於 50 平方公厘者得並聯使用\n。\n配線",
+      "作為照明器具之引接線",
+      "永久性分路配線",
+      "貫穿於牆壁、天花\n板或地板 。\n他開啟式設備配線"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "a#p37#Q3",
+    "source_display": "a 第37頁 第3題"
+  },
+  {
+    "id": "a_1",
+    "subject": "室內裝修工程管理",
+    "year": 1,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "工作用階梯之設置，其梯級面深度不得小於",
+    "options": [
+      "25",
+      "20",
+      "15",
+      "10 公\n分。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "a#p42#Q1",
+    "source_display": "a 第42頁 第1題"
+  },
+  {
+    "id": "a_2",
+    "subject": "室內裝修工程管理",
+    "year": 2,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "室內裝修工程中，如作業施工場所高度差超過",
+    "options": [
+      "2.5",
+      "2",
+      "1.5",
+      "1 公尺\n以上時，應設置能使勞工安全上下之設備。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "a#p42#Q2",
+    "source_display": "a 第42頁 第2題"
+  },
+  {
+    "id": "a_3",
+    "subject": "室內裝修工程管理",
+    "year": 3,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "室內裝修工程中，對於建築物中之非結構分間磚牆之拆除時，應",
+    "options": [
+      "自上\n至下",
+      "自下至上",
+      "自右至左",
+      "自左至右 ，逐次拆除。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "a#p42#Q3",
+    "source_display": "a 第42頁 第3題"
+  },
+  {
+    "id": "a_4",
+    "subject": "室內裝修工程管理",
+    "year": 4,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "電氣機具施行接地之目的是",
+    "options": [
+      "防止漏電損失",
+      "電壓穩定",
+      "測定電流",
+      "防止感電事故 。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "a#p42#Q4",
+    "source_display": "a 第42頁 第4題"
+  },
+  {
+    "id": "a_5",
+    "subject": "室內裝修工程管理",
+    "year": 5,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "壁紙一捲一般核計面積坪數為",
+    "options": [
+      "2 坪",
+      "1.2 坪",
+      "1.5 坪",
+      "1 坪 。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "a#p42#Q5",
+    "source_display": "a 第42頁 第5題"
+  },
+  {
+    "id": "a_6",
+    "subject": "室內裝修工程管理",
+    "year": 6,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "一木材長 8 尺，寬 1 尺，厚為 2 寸，其材積為",
+    "options": [
+      "14",
+      "15",
+      "16",
+      "17\n才。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "a#p42#Q6",
+    "source_display": "a 第42頁 第6題"
+  },
+  {
+    "id": "a_7",
+    "subject": "室內裝修工程管理",
+    "year": 7,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "估算計價時，m3表示",
+    "options": [
+      "立方公尺",
+      "才",
+      "板呎",
+      "坪 。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "a#p42#Q7",
+    "source_display": "a 第42頁 第7題"
+  },
+  {
+    "id": "a_8",
+    "subject": "室內裝修工程管理",
+    "year": 8,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "牆面高 2.2 公尺、寬 4 公尺若貼壁布約需多少坪",
+    "options": [
+      "1.7",
+      "2.7",
+      "3.7",
+      "4.7\n。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "a#p42#Q8",
+    "source_display": "a 第42頁 第8題"
+  },
+  {
+    "id": "a_9",
+    "subject": "室內裝修工程管理",
+    "year": 9,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "角材所稱之 1 才是",
+    "options": [
+      "1 寸×1.2 寸×8 尺",
+      "1 寸×1.5 寸×9 尺",
+      "1.5 寸×1.2\n寸×7 尺",
+      "1 寸×1 寸×10 尺 。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "a#p42#Q9",
+    "source_display": "a 第42頁 第9題"
+  }
+]
