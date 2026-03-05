@@ -1,1596 +1,3182 @@
 [
   {
     "file": "105-126002工程管理學科.pdf",
-    "dataset_id": "105",
+    "dataset_id": "y105",
     "parsed": 60,
+    "parse_failed_count": 0,
+    "parse_failed": [],
+    "cross_question_suspects_count": 3,
+    "cross_question_suspects": [
+      {
+        "dataset_id": "y105",
+        "qno": "24",
+        "reason": "next_question_or_header_in_option",
+        "snippet": "建築物室內裝修工程管理 乙 4-1(序 "
+      },
+      {
+        "dataset_id": "y105",
+        "qno": "29",
+        "reason": "next_question_or_header_in_stem",
+        "snippet": "0.9 公分，請問其總材積約為？"
+      },
+      {
+        "dataset_id": "y105",
+        "qno": "51",
+        "reason": "next_question_or_header_in_option",
+        "snippet": "建築物室內裝修工程管理 乙 4-2(序 "
+      }
+    ],
     "missing_explanation_count": 60,
     "image_questions_count": 10,
-    "missing_image_count": 10,
-    "errors": [
-      {
-        "qno": "6",
-        "page": 1,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "11",
-        "page": 1,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "17",
-        "page": 1,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "22",
-        "page": 1,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "31",
-        "page": 2,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "49",
-        "page": 2,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "52",
-        "page": 3,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "54",
-        "page": 3,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "55",
-        "page": 3,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "56",
-        "page": 3,
-        "reason": "render_crop_failed"
-      }
-    ]
+    "missing_image_count": 0,
+    "errors": [],
+    "mismatch_images": [],
+    "image_decisions": []
   },
   {
     "file": "106 室內裝修工程管理 學科考題及參考解答.pdf",
-    "dataset_id": "106",
-    "parsed": 58,
-    "missing_explanation_count": 58,
-    "image_questions_count": 11,
-    "missing_image_count": 11,
-    "errors": [
+    "dataset_id": "y106",
+    "parsed": 60,
+    "parse_failed_count": 0,
+    "parse_failed": [],
+    "cross_question_suspects_count": 3,
+    "cross_question_suspects": [
       {
-        "qno": "5",
-        "page": 1,
-        "reason": "render_crop_failed"
+        "dataset_id": "y106",
+        "qno": "24",
+        "reason": "next_question_or_header_in_option",
+        "snippet": "建築物室內裝修工程管理 乙 4-1(序 "
       },
       {
-        "qno": "6",
-        "page": 1,
-        "reason": "render_crop_failed"
+        "dataset_id": "y106",
+        "qno": "48",
+        "reason": "next_question_or_header_in_stem",
+        "snippet": "建築物室內裝修工程管理 乙 4-2(序 "
       },
       {
-        "qno": "11",
-        "page": 1,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "12",
-        "page": 1,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "16",
-        "page": 1,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "21",
-        "page": 1,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "37",
-        "page": 2,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "43",
-        "page": 2,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "56",
-        "page": 3,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "59",
-        "page": 3,
-        "reason": "render_crop_failed"
-      },
-      {
+        "dataset_id": "y106",
         "qno": "60",
-        "page": 3,
-        "reason": "render_crop_failed"
+        "reason": "next_question_or_header_in_option",
+        "snippet": "61. (12) 營造用各類物材之儲存、堆積及排列，不得儲"
       }
-    ]
+    ],
+    "missing_explanation_count": 60,
+    "image_questions_count": 11,
+    "missing_image_count": 0,
+    "errors": [],
+    "mismatch_images": [],
+    "image_decisions": []
   },
   {
     "file": "107 室內裝修工程管理學科考題及參考解答.pdf",
-    "dataset_id": "107",
-    "parsed": 59,
-    "missing_explanation_count": 59,
-    "image_questions_count": 5,
-    "missing_image_count": 5,
-    "errors": [
+    "dataset_id": "y107",
+    "parsed": 60,
+    "parse_failed_count": 0,
+    "parse_failed": [],
+    "cross_question_suspects_count": 7,
+    "cross_question_suspects": [
       {
-        "qno": "7",
-        "page": 1,
-        "reason": "render_crop_failed"
+        "dataset_id": "y107",
+        "qno": "20",
+        "reason": "next_question_or_header_in_option",
+        "snippet": "建築物室內裝修工程管理 乙 4-1(序 "
       },
       {
-        "qno": "33",
-        "page": 2,
-        "reason": "render_crop_failed"
+        "dataset_id": "y107",
+        "qno": "28",
+        "reason": "next_question_or_header_in_stem",
+        "snippet": "2.5\n碳(CO )、D.甲烷(CH )？"
       },
       {
-        "qno": "42",
-        "page": 2,
-        "reason": "render_crop_failed"
-      },
-      {
+        "dataset_id": "y107",
         "qno": "46",
-        "page": 2,
-        "reason": "render_crop_failed"
+        "reason": "next_question_or_header_in_stem",
+        "snippet": "職業安全衛生法相關規定予以明顯標示。有關"
       },
       {
+        "dataset_id": "y107",
+        "qno": "48",
+        "reason": "next_question_or_header_in_option",
+        "snippet": "建築物室內裝修工程管理 乙 4-2(序 "
+      },
+      {
+        "dataset_id": "y107",
+        "qno": "50",
+        "reason": "next_question_or_header_in_stem",
+        "snippet": "0.9 公分，請問其總材積約為？"
+      },
+      {
+        "dataset_id": "y107",
+        "qno": "58",
+        "reason": "next_question_or_header_in_stem",
+        "snippet": "1.7%以上的特性"
+      },
+      {
+        "dataset_id": "y107",
+        "qno": "60",
+        "reason": "next_question_or_header_in_option",
+        "snippet": "61. (124) 水泥砂漿粉刷工程使用之工具，依製作材料"
+      }
+    ],
+    "missing_explanation_count": 60,
+    "image_questions_count": 6,
+    "missing_image_count": 0,
+    "errors": [],
+    "mismatch_images": [],
+    "image_decisions": [
+      {
+        "dataset_id": "y107",
+        "qno": "7",
+        "image_decision": "forced_by_keywords",
+        "image_path": "/assets/q/y107/Q007.png"
+      },
+      {
+        "dataset_id": "y107",
+        "qno": "33",
+        "image_decision": "skipped_no_graphic",
+        "image_path": ""
+      },
+      {
+        "dataset_id": "y107",
+        "qno": "42",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/y107/Q042.png"
+      },
+      {
+        "dataset_id": "y107",
+        "qno": "46",
+        "image_decision": "skipped_no_graphic",
+        "image_path": ""
+      },
+      {
+        "dataset_id": "y107",
+        "qno": "48",
+        "image_decision": "forced_by_keywords",
+        "image_path": "/assets/q/y107/Q048.png"
+      },
+      {
+        "dataset_id": "y107",
         "qno": "55",
-        "page": 3,
-        "reason": "render_crop_failed"
+        "image_decision": "skipped_no_graphic",
+        "image_path": ""
       }
     ]
   },
   {
     "file": "108 室內裝修工程管理學科考題及解答.pdf",
-    "dataset_id": "108",
-    "parsed": 58,
-    "missing_explanation_count": 58,
-    "image_questions_count": 9,
-    "missing_image_count": 9,
-    "errors": [
+    "dataset_id": "y108",
+    "parsed": 60,
+    "parse_failed_count": 0,
+    "parse_failed": [],
+    "cross_question_suspects_count": 2,
+    "cross_question_suspects": [
       {
-        "qno": "1",
-        "page": 1,
-        "reason": "render_crop_failed"
+        "dataset_id": "y108",
+        "qno": "22",
+        "reason": "next_question_or_header_in_stem",
+        "snippet": "建築物室內裝修工程管理 乙 4-1(序 "
       },
       {
-        "qno": "13",
-        "page": 1,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "15",
-        "page": 1,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "16",
-        "page": 1,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "38",
-        "page": 2,
-        "reason": "render_crop_failed"
-      },
-      {
+        "dataset_id": "y108",
         "qno": "47",
-        "page": 2,
-        "reason": "render_crop_failed"
+        "reason": "next_question_or_header_in_option",
+        "snippet": "建築物室內裝修工程管理 乙 4-2(序 "
+      }
+    ],
+    "missing_explanation_count": 60,
+    "image_questions_count": 9,
+    "missing_image_count": 0,
+    "errors": [],
+    "mismatch_images": [],
+    "image_decisions": [
+      {
+        "dataset_id": "y108",
+        "qno": "1",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/y108/Q001.png"
       },
       {
+        "dataset_id": "y108",
+        "qno": "13",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/y108/Q013.png"
+      },
+      {
+        "dataset_id": "y108",
+        "qno": "15",
+        "image_decision": "skipped_no_graphic",
+        "image_path": ""
+      },
+      {
+        "dataset_id": "y108",
+        "qno": "16",
+        "image_decision": "forced_by_keywords",
+        "image_path": "/assets/q/y108/Q016.png"
+      },
+      {
+        "dataset_id": "y108",
+        "qno": "38",
+        "image_decision": "skipped_no_graphic",
+        "image_path": ""
+      },
+      {
+        "dataset_id": "y108",
+        "qno": "47",
+        "image_decision": "skipped_no_graphic",
+        "image_path": ""
+      },
+      {
+        "dataset_id": "y108",
         "qno": "51",
-        "page": 3,
-        "reason": "render_crop_failed"
+        "image_decision": "skipped_no_graphic",
+        "image_path": ""
       },
       {
+        "dataset_id": "y108",
         "qno": "57",
-        "page": 3,
-        "reason": "render_crop_failed"
+        "image_decision": "skipped_no_graphic",
+        "image_path": ""
       },
       {
+        "dataset_id": "y108",
         "qno": "60",
-        "page": 3,
-        "reason": "render_crop_failed"
+        "image_decision": "skipped_no_graphic",
+        "image_path": ""
       }
     ]
   },
   {
     "file": "109 室內裝修工程管理學科考題及解答.pdf",
-    "dataset_id": "109",
+    "dataset_id": "y109",
     "parsed": 60,
+    "parse_failed_count": 0,
+    "parse_failed": [],
+    "cross_question_suspects_count": 3,
+    "cross_question_suspects": [
+      {
+        "dataset_id": "y109",
+        "qno": "5",
+        "reason": "next_question_or_header_in_stem",
+        "snippet": "職業安全措施那一項有誤"
+      },
+      {
+        "dataset_id": "y109",
+        "qno": "19",
+        "reason": "next_question_or_header_in_option",
+        "snippet": "建築物室內裝修工程管理 乙 4-1(序 "
+      },
+      {
+        "dataset_id": "y109",
+        "qno": "43",
+        "reason": "next_question_or_header_in_option",
+        "snippet": "建築物室內裝修工程管理 乙 4-2(序 "
+      }
+    ],
     "missing_explanation_count": 60,
     "image_questions_count": 12,
-    "missing_image_count": 12,
-    "errors": [
+    "missing_image_count": 0,
+    "errors": [],
+    "mismatch_images": [],
+    "image_decisions": [
       {
+        "dataset_id": "y109",
         "qno": "1",
-        "page": 1,
-        "reason": "render_crop_failed"
+        "image_decision": "forced_by_keywords",
+        "image_path": "/assets/q/y109/Q001.png"
       },
       {
+        "dataset_id": "y109",
         "qno": "5",
-        "page": 1,
-        "reason": "render_crop_failed"
+        "image_decision": "rendered",
+        "image_path": "/assets/q/y109/Q005.png"
       },
       {
+        "dataset_id": "y109",
         "qno": "7",
-        "page": 1,
-        "reason": "render_crop_failed"
+        "image_decision": "rendered",
+        "image_path": "/assets/q/y109/Q007.png"
       },
       {
+        "dataset_id": "y109",
         "qno": "22",
-        "page": 2,
-        "reason": "render_crop_failed"
+        "image_decision": "skipped_no_graphic",
+        "image_path": ""
       },
       {
+        "dataset_id": "y109",
         "qno": "25",
-        "page": 2,
-        "reason": "render_crop_failed"
+        "image_decision": "rendered",
+        "image_path": "/assets/q/y109/Q025.png"
       },
       {
+        "dataset_id": "y109",
         "qno": "31",
-        "page": 2,
-        "reason": "render_crop_failed"
+        "image_decision": "skipped_no_graphic",
+        "image_path": ""
       },
       {
+        "dataset_id": "y109",
         "qno": "33",
-        "page": 2,
-        "reason": "render_crop_failed"
+        "image_decision": "forced_by_keywords",
+        "image_path": "/assets/q/y109/Q033.png"
       },
       {
+        "dataset_id": "y109",
         "qno": "36",
-        "page": 2,
-        "reason": "render_crop_failed"
+        "image_decision": "forced_by_keywords",
+        "image_path": "/assets/q/y109/Q036.png"
       },
       {
+        "dataset_id": "y109",
         "qno": "47",
-        "page": 3,
-        "reason": "render_crop_failed"
+        "image_decision": "forced_by_keywords",
+        "image_path": "/assets/q/y109/Q047.png"
       },
       {
+        "dataset_id": "y109",
         "qno": "55",
-        "page": 3,
-        "reason": "render_crop_failed"
+        "image_decision": "skipped_no_graphic",
+        "image_path": ""
       },
       {
+        "dataset_id": "y109",
         "qno": "57",
-        "page": 3,
-        "reason": "render_crop_failed"
+        "image_decision": "skipped_no_graphic",
+        "image_path": ""
       },
       {
+        "dataset_id": "y109",
         "qno": "60",
-        "page": 3,
-        "reason": "render_crop_failed"
+        "image_decision": "skipped_no_graphic",
+        "image_path": ""
       }
     ]
   },
   {
     "file": "110學科.pdf",
-    "dataset_id": "110",
+    "dataset_id": "y110",
     "parsed": 60,
+    "parse_failed_count": 0,
+    "parse_failed": [],
+    "cross_question_suspects_count": 3,
+    "cross_question_suspects": [
+      {
+        "dataset_id": "y110",
+        "qno": "9",
+        "reason": "next_question_or_header_in_stem",
+        "snippet": "0.6 台寸，請問其總材積為？"
+      },
+      {
+        "dataset_id": "y110",
+        "qno": "22",
+        "reason": "next_question_or_header_in_option",
+        "snippet": "建築物室內裝修工程管理 乙 4-1(序 "
+      },
+      {
+        "dataset_id": "y110",
+        "qno": "46",
+        "reason": "next_question_or_header_in_option",
+        "snippet": "建築物室內裝修工程管理 乙 4-2(序 "
+      }
+    ],
     "missing_explanation_count": 60,
     "image_questions_count": 7,
-    "missing_image_count": 7,
-    "errors": [
+    "missing_image_count": 0,
+    "errors": [],
+    "mismatch_images": [],
+    "image_decisions": [
       {
+        "dataset_id": "y110",
         "qno": "32",
-        "page": 2,
-        "reason": "render_crop_failed"
+        "image_decision": "rendered",
+        "image_path": "/assets/q/y110/Q032.png"
       },
       {
+        "dataset_id": "y110",
         "qno": "33",
-        "page": 2,
-        "reason": "render_crop_failed"
+        "image_decision": "rendered",
+        "image_path": "/assets/q/y110/Q033.png"
       },
       {
+        "dataset_id": "y110",
         "qno": "36",
-        "page": 2,
-        "reason": "render_crop_failed"
+        "image_decision": "skipped_no_graphic",
+        "image_path": ""
       },
       {
+        "dataset_id": "y110",
         "qno": "40",
-        "page": 2,
-        "reason": "render_crop_failed"
+        "image_decision": "rendered",
+        "image_path": "/assets/q/y110/Q040.png"
       },
       {
+        "dataset_id": "y110",
         "qno": "43",
-        "page": 2,
-        "reason": "render_crop_failed"
+        "image_decision": "skipped_no_graphic",
+        "image_path": ""
       },
       {
+        "dataset_id": "y110",
         "qno": "47",
-        "page": 3,
-        "reason": "render_crop_failed"
+        "image_decision": "rendered",
+        "image_path": "/assets/q/y110/Q047.png"
       },
       {
+        "dataset_id": "y110",
         "qno": "60",
-        "page": 3,
-        "reason": "render_crop_failed"
+        "image_decision": "rendered",
+        "image_path": "/assets/q/y110/Q060.png"
       }
     ]
   },
   {
     "file": "111學科.pdf",
-    "dataset_id": "111",
-    "parsed": 59,
-    "missing_explanation_count": 59,
+    "dataset_id": "y111",
+    "parsed": 60,
+    "parse_failed_count": 0,
+    "parse_failed": [],
+    "cross_question_suspects_count": 2,
+    "cross_question_suspects": [
+      {
+        "dataset_id": "y111",
+        "qno": "22",
+        "reason": "next_question_or_header_in_option",
+        "snippet": "建築物室內裝修工程管理 乙 1-4(序 "
+      },
+      {
+        "dataset_id": "y111",
+        "qno": "45",
+        "reason": "next_question_or_header_in_option",
+        "snippet": "建築物室內裝修工程管理 乙 2-4(序 "
+      }
+    ],
+    "missing_explanation_count": 60,
     "image_questions_count": 10,
-    "missing_image_count": 10,
-    "errors": [
+    "missing_image_count": 0,
+    "errors": [],
+    "mismatch_images": [],
+    "image_decisions": [
       {
+        "dataset_id": "y111",
         "qno": "8",
-        "page": 1,
-        "reason": "render_crop_failed"
+        "image_decision": "forced_by_keywords",
+        "image_path": "/assets/q/y111/Q008.png"
       },
       {
+        "dataset_id": "y111",
         "qno": "16",
-        "page": 1,
-        "reason": "render_crop_failed"
+        "image_decision": "forced_by_keywords",
+        "image_path": "/assets/q/y111/Q016.png"
       },
       {
+        "dataset_id": "y111",
         "qno": "19",
-        "page": 1,
-        "reason": "render_crop_failed"
+        "image_decision": "skipped_no_graphic",
+        "image_path": ""
       },
       {
+        "dataset_id": "y111",
         "qno": "24",
-        "page": 2,
-        "reason": "render_crop_failed"
+        "image_decision": "rendered",
+        "image_path": "/assets/q/y111/Q024.png"
       },
       {
+        "dataset_id": "y111",
         "qno": "26",
-        "page": 2,
-        "reason": "render_crop_failed"
+        "image_decision": "rendered",
+        "image_path": "/assets/q/y111/Q026.png"
       },
       {
+        "dataset_id": "y111",
         "qno": "35",
-        "page": 2,
-        "reason": "render_crop_failed"
+        "image_decision": "forced_by_keywords",
+        "image_path": "/assets/q/y111/Q035.png"
       },
       {
+        "dataset_id": "y111",
         "qno": "43",
-        "page": 2,
-        "reason": "render_crop_failed"
+        "image_decision": "forced_by_keywords",
+        "image_path": "/assets/q/y111/Q043.png"
       },
       {
+        "dataset_id": "y111",
         "qno": "46",
-        "page": 3,
-        "reason": "render_crop_failed"
+        "image_decision": "rendered",
+        "image_path": "/assets/q/y111/Q046.png"
       },
       {
+        "dataset_id": "y111",
         "qno": "48",
-        "page": 3,
-        "reason": "render_crop_failed"
+        "image_decision": "skipped_no_graphic",
+        "image_path": ""
       },
       {
+        "dataset_id": "y111",
         "qno": "52",
-        "page": 3,
-        "reason": "render_crop_failed"
+        "image_decision": "skipped_no_graphic",
+        "image_path": ""
       }
     ]
   },
   {
     "file": "112_學.pdf",
-    "dataset_id": "112",
+    "dataset_id": "y112",
     "parsed": 60,
+    "parse_failed_count": 0,
+    "parse_failed": [],
+    "cross_question_suspects_count": 3,
+    "cross_question_suspects": [
+      {
+        "dataset_id": "y112",
+        "qno": "22",
+        "reason": "next_question_or_header_in_option",
+        "snippet": "建築物室內裝修工程管理 乙 1-4(序 "
+      },
+      {
+        "dataset_id": "y112",
+        "qno": "48",
+        "reason": "next_question_or_header_in_option",
+        "snippet": "建築物室內裝修工程管理 乙 2-4(序 "
+      },
+      {
+        "dataset_id": "y112",
+        "qno": "60",
+        "reason": "next_question_or_header_in_option",
+        "snippet": "61. (23) 裝修工程使用之集成材係指積層之薄板以平行"
+      }
+    ],
     "missing_explanation_count": 60,
     "image_questions_count": 10,
-    "missing_image_count": 10,
-    "errors": [
+    "missing_image_count": 0,
+    "errors": [],
+    "mismatch_images": [],
+    "image_decisions": [
       {
+        "dataset_id": "y112",
         "qno": "3",
-        "page": 1,
-        "reason": "render_crop_failed"
+        "image_decision": "skipped_no_graphic",
+        "image_path": ""
       },
       {
+        "dataset_id": "y112",
         "qno": "13",
-        "page": 1,
-        "reason": "render_crop_failed"
+        "image_decision": "rendered",
+        "image_path": "/assets/q/y112/Q013.png"
       },
       {
+        "dataset_id": "y112",
         "qno": "14",
-        "page": 1,
-        "reason": "render_crop_failed"
+        "image_decision": "rendered",
+        "image_path": "/assets/q/y112/Q014.png"
       },
       {
+        "dataset_id": "y112",
         "qno": "22",
-        "page": 1,
-        "reason": "render_crop_failed"
+        "image_decision": "skipped_no_graphic",
+        "image_path": ""
       },
       {
+        "dataset_id": "y112",
         "qno": "25",
-        "page": 2,
-        "reason": "render_crop_failed"
+        "image_decision": "skipped_no_graphic",
+        "image_path": ""
       },
       {
+        "dataset_id": "y112",
         "qno": "42",
-        "page": 2,
-        "reason": "render_crop_failed"
+        "image_decision": "skipped_no_graphic",
+        "image_path": ""
       },
       {
+        "dataset_id": "y112",
         "qno": "43",
-        "page": 2,
-        "reason": "render_crop_failed"
+        "image_decision": "forced_by_keywords",
+        "image_path": "/assets/q/y112/Q043.png"
       },
       {
+        "dataset_id": "y112",
         "qno": "45",
-        "page": 2,
-        "reason": "render_crop_failed"
+        "image_decision": "skipped_no_graphic",
+        "image_path": ""
       },
       {
+        "dataset_id": "y112",
         "qno": "47",
-        "page": 2,
-        "reason": "render_crop_failed"
+        "image_decision": "forced_by_keywords",
+        "image_path": "/assets/q/y112/Q047.png"
       },
       {
+        "dataset_id": "y112",
         "qno": "51",
-        "page": 3,
-        "reason": "render_crop_failed"
+        "image_decision": "forced_by_keywords",
+        "image_path": "/assets/q/y112/Q051.png"
       }
     ]
   },
   {
     "file": "113學科.pdf",
-    "dataset_id": "113",
+    "dataset_id": "y113",
     "parsed": 60,
+    "parse_failed_count": 0,
+    "parse_failed": [],
+    "cross_question_suspects_count": 3,
+    "cross_question_suspects": [
+      {
+        "dataset_id": "y113",
+        "qno": "20",
+        "reason": "next_question_or_header_in_option",
+        "snippet": "建築物室內裝修工程管理 乙 1-4(序 "
+      },
+      {
+        "dataset_id": "y113",
+        "qno": "45",
+        "reason": "next_question_or_header_in_option",
+        "snippet": "建築物室內裝修工程管理 乙 2-4(序 "
+      },
+      {
+        "dataset_id": "y113",
+        "qno": "60",
+        "reason": "next_question_or_header_in_option",
+        "snippet": "61. (123) 面磚之優點有下列哪些？"
+      }
+    ],
     "missing_explanation_count": 60,
     "image_questions_count": 10,
-    "missing_image_count": 10,
-    "errors": [
+    "missing_image_count": 0,
+    "errors": [],
+    "mismatch_images": [],
+    "image_decisions": [
       {
+        "dataset_id": "y113",
         "qno": "12",
-        "page": 1,
-        "reason": "render_crop_failed"
+        "image_decision": "forced_by_keywords",
+        "image_path": "/assets/q/y113/Q012.png"
       },
       {
+        "dataset_id": "y113",
         "qno": "13",
-        "page": 1,
-        "reason": "render_crop_failed"
+        "image_decision": "skipped_no_graphic",
+        "image_path": ""
       },
       {
+        "dataset_id": "y113",
         "qno": "21",
-        "page": 2,
-        "reason": "render_crop_failed"
+        "image_decision": "forced_by_keywords",
+        "image_path": "/assets/q/y113/Q021.png"
       },
       {
+        "dataset_id": "y113",
         "qno": "24",
-        "page": 2,
-        "reason": "render_crop_failed"
+        "image_decision": "skipped_no_graphic",
+        "image_path": ""
       },
       {
+        "dataset_id": "y113",
         "qno": "25",
-        "page": 2,
-        "reason": "render_crop_failed"
+        "image_decision": "forced_by_keywords",
+        "image_path": "/assets/q/y113/Q025.png"
       },
       {
+        "dataset_id": "y113",
         "qno": "34",
-        "page": 2,
-        "reason": "render_crop_failed"
+        "image_decision": "skipped_no_graphic",
+        "image_path": ""
       },
       {
+        "dataset_id": "y113",
         "qno": "36",
-        "page": 2,
-        "reason": "render_crop_failed"
+        "image_decision": "forced_by_keywords",
+        "image_path": "/assets/q/y113/Q036.png"
       },
       {
+        "dataset_id": "y113",
         "qno": "40",
-        "page": 2,
-        "reason": "render_crop_failed"
+        "image_decision": "rendered",
+        "image_path": "/assets/q/y113/Q040.png"
       },
       {
+        "dataset_id": "y113",
         "qno": "46",
-        "page": 3,
-        "reason": "render_crop_failed"
+        "image_decision": "rendered",
+        "image_path": "/assets/q/y113/Q046.png"
       },
       {
+        "dataset_id": "y113",
         "qno": "57",
-        "page": 3,
-        "reason": "render_crop_failed"
+        "image_decision": "rendered",
+        "image_path": "/assets/q/y113/Q057.png"
       }
     ]
   },
   {
     "file": "90006 職業安全衛生共同科目(1070101).pdf",
-    "dataset_id": "90006",
+    "dataset_id": "y90006",
     "parsed": 99,
+    "parse_failed_count": 0,
+    "parse_failed": [],
+    "cross_question_suspects_count": 1,
+    "cross_question_suspects": [
+      {
+        "dataset_id": "y90006",
+        "qno": "24",
+        "reason": "next_question_or_header_in_stem",
+        "snippet": "職業安全衛生法規定之勞工法定義務？"
+      }
+    ],
     "missing_explanation_count": 99,
     "image_questions_count": 2,
-    "missing_image_count": 2,
-    "errors": [
+    "missing_image_count": 0,
+    "errors": [],
+    "mismatch_images": [],
+    "image_decisions": [
       {
+        "dataset_id": "y90006",
         "qno": "11",
-        "page": 1,
-        "reason": "render_crop_failed"
+        "image_decision": "rendered",
+        "image_path": "/assets/q/y90006/Q011.png"
       },
       {
+        "dataset_id": "y90006",
         "qno": "36",
-        "page": 2,
-        "reason": "render_crop_failed"
+        "image_decision": "rendered",
+        "image_path": "/assets/q/y90006/Q036.png"
       }
     ]
   },
   {
     "file": "90007 工作倫理與職業道德共同科目(1070101).pdf",
-    "dataset_id": "90007",
-    "parsed": 98,
-    "missing_explanation_count": 98,
+    "dataset_id": "y90007",
+    "parsed": 99,
+    "parse_failed_count": 0,
+    "parse_failed": [],
+    "cross_question_suspects_count": 0,
+    "cross_question_suspects": [],
+    "missing_explanation_count": 99,
     "image_questions_count": 7,
-    "missing_image_count": 7,
-    "errors": [
+    "missing_image_count": 0,
+    "errors": [],
+    "mismatch_images": [],
+    "image_decisions": [
       {
+        "dataset_id": "y90007",
         "qno": "9",
-        "page": 1,
-        "reason": "render_crop_failed"
+        "image_decision": "rendered",
+        "image_path": "/assets/q/y90007/Q009.png"
       },
       {
+        "dataset_id": "y90007",
         "qno": "12",
-        "page": 1,
-        "reason": "render_crop_failed"
+        "image_decision": "rendered",
+        "image_path": "/assets/q/y90007/Q012.png"
       },
       {
+        "dataset_id": "y90007",
         "qno": "28",
-        "page": 2,
-        "reason": "render_crop_failed"
+        "image_decision": "rendered",
+        "image_path": "/assets/q/y90007/Q028.png"
       },
       {
+        "dataset_id": "y90007",
         "qno": "33",
-        "page": 2,
-        "reason": "render_crop_failed"
+        "image_decision": "rendered",
+        "image_path": "/assets/q/y90007/Q033.png"
       },
       {
+        "dataset_id": "y90007",
         "qno": "36",
-        "page": 3,
-        "reason": "render_crop_failed"
+        "image_decision": "skipped_no_graphic",
+        "image_path": ""
       },
       {
+        "dataset_id": "y90007",
         "qno": "45",
-        "page": 3,
-        "reason": "render_crop_failed"
+        "image_decision": "rendered",
+        "image_path": "/assets/q/y90007/Q045.png"
       },
       {
+        "dataset_id": "y90007",
         "qno": "66",
-        "page": 4,
-        "reason": "render_crop_failed"
+        "image_decision": "rendered",
+        "image_path": "/assets/q/y90007/Q066.png"
       }
     ]
   },
   {
     "file": "90008 環境保護共同科目(1070101).pdf",
-    "dataset_id": "90008",
-    "parsed": 97,
-    "missing_explanation_count": 97,
-    "image_questions_count": 1,
-    "missing_image_count": 1,
-    "errors": [
+    "dataset_id": "y90008",
+    "parsed": 99,
+    "parse_failed_count": 0,
+    "parse_failed": [],
+    "cross_question_suspects_count": 1,
+    "cross_question_suspects": [
       {
+        "dataset_id": "y90008",
+        "qno": "48",
+        "reason": "next_question_or_header_in_stem",
+        "snippet": "2.5 3\nH)？"
+      }
+    ],
+    "missing_explanation_count": 99,
+    "image_questions_count": 1,
+    "missing_image_count": 0,
+    "errors": [],
+    "mismatch_images": [],
+    "image_decisions": [
+      {
+        "dataset_id": "y90008",
         "qno": "14",
-        "page": 1,
-        "reason": "render_crop_failed"
+        "image_decision": "rendered",
+        "image_path": "/assets/q/y90008/Q014.png"
       }
     ]
   },
   {
     "file": "90009 節能減碳共同科目(1070101).pdf",
-    "dataset_id": "90009",
-    "parsed": 98,
-    "missing_explanation_count": 98,
+    "dataset_id": "y90009",
+    "parsed": 99,
+    "parse_failed_count": 0,
+    "parse_failed": [],
+    "cross_question_suspects_count": 0,
+    "cross_question_suspects": [],
+    "missing_explanation_count": 99,
     "image_questions_count": 7,
-    "missing_image_count": 7,
-    "errors": [
+    "missing_image_count": 0,
+    "errors": [],
+    "mismatch_images": [],
+    "image_decisions": [
       {
+        "dataset_id": "y90009",
         "qno": "6",
-        "page": 1,
-        "reason": "render_crop_failed"
+        "image_decision": "rendered",
+        "image_path": "/assets/q/y90009/Q006.png"
       },
       {
+        "dataset_id": "y90009",
         "qno": "18",
-        "page": 1,
-        "reason": "render_crop_failed"
+        "image_decision": "rendered",
+        "image_path": "/assets/q/y90009/Q018.png"
       },
       {
+        "dataset_id": "y90009",
         "qno": "21",
-        "page": 1,
-        "reason": "render_crop_failed"
+        "image_decision": "rendered",
+        "image_path": "/assets/q/y90009/Q021.png"
       },
       {
+        "dataset_id": "y90009",
         "qno": "60",
-        "page": 3,
-        "reason": "render_crop_failed"
+        "image_decision": "rendered",
+        "image_path": "/assets/q/y90009/Q060.png"
       },
       {
+        "dataset_id": "y90009",
         "qno": "73",
-        "page": 4,
-        "reason": "render_crop_failed"
+        "image_decision": "rendered",
+        "image_path": "/assets/q/y90009/Q073.png"
       },
       {
+        "dataset_id": "y90009",
         "qno": "83",
-        "page": 4,
-        "reason": "render_crop_failed"
+        "image_decision": "skipped_no_graphic",
+        "image_path": ""
       },
       {
+        "dataset_id": "y90009",
         "qno": "90",
-        "page": 5,
-        "reason": "render_crop_failed"
+        "image_decision": "rendered",
+        "image_path": "/assets/q/y90009/Q090.png"
       }
     ]
   },
   {
     "file": "綜合A.pdf",
-    "dataset_id": "綜合A",
-    "parsed": 511,
-    "missing_explanation_count": 511,
-    "image_questions_count": 94,
-    "missing_image_count": 94,
+    "dataset_id": "zonghe_a",
+    "parsed": 516,
+    "parse_failed_count": 0,
+    "parse_failed": [],
+    "cross_question_suspects_count": 10,
+    "cross_question_suspects": [
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "19",
+        "reason": "next_question_or_header_in_option",
+        "snippet": "職業安全衛生設施規則規定，雇主對於室內工"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "61",
+        "reason": "next_question_or_header_in_stem",
+        "snippet": "1.2m 的材積為約"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "74",
+        "reason": "next_question_or_header_in_stem",
+        "snippet": "0.25%以下，稱為低碳鋼，適於輾軋但不適合拿來\n作"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "75",
+        "reason": "next_question_or_header_in_stem",
+        "snippet": "1.7%以上的特性"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "171",
+        "reason": "next_question_or_header_in_option",
+        "snippet": "1.4 ㎜以下"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "58",
+        "reason": "next_question_or_header_in_stem",
+        "snippet": "職業安全措施那一項有誤"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "59",
+        "reason": "next_question_or_header_in_stem",
+        "snippet": "職業安全措施下列那一項無須納入\n考量？"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "68",
+        "reason": "next_question_or_header_in_stem",
+        "snippet": "0.6 台寸的木板，其才積約為幾才？(不\n考慮損耗範圍)"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "75",
+        "reason": "next_question_or_header_in_stem",
+        "snippet": "0.6 台寸，請\n問其總材積為？"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "76",
+        "reason": "next_question_or_header_in_stem",
+        "snippet": "0.9 公分，請\n問其總材積約為？"
+      }
+    ],
+    "missing_explanation_count": 516,
+    "image_questions_count": 98,
+    "missing_image_count": 0,
     "errors": [
       {
-        "qno": "1",
-        "page": 1,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "2",
-        "page": 1,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "3",
-        "page": 1,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "4",
-        "page": 1,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "5",
-        "page": 1,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "6",
-        "page": 1,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "7",
-        "page": 1,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "8",
-        "page": 1,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "9",
-        "page": 1,
-        "reason": "render_crop_failed"
-      },
-      {
         "qno": "10",
-        "page": 1,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "11",
-        "page": 1,
-        "reason": "render_crop_failed"
+        "reason": "calibration_fail",
+        "image_path": "/assets/q/zonghe_a/Q010.png",
+        "image_decision": ""
       },
       {
         "qno": "12",
-        "page": 1,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "13",
-        "page": 1,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "14",
-        "page": 1,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "15",
-        "page": 1,
-        "reason": "render_crop_failed"
+        "reason": "calibration_fail",
+        "image_path": "/assets/q/zonghe_a/Q012.png",
+        "image_decision": ""
       },
       {
         "qno": "16",
-        "page": 1,
-        "reason": "render_crop_failed"
+        "reason": "calibration_fail",
+        "image_path": "/assets/q/zonghe_a/Q016.png",
+        "image_decision": ""
       },
       {
         "qno": "17",
-        "page": 1,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "18",
-        "page": 2,
-        "reason": "render_crop_failed"
+        "reason": "calibration_fail",
+        "image_path": "/assets/q/zonghe_a/Q017.png",
+        "image_decision": ""
       },
       {
         "qno": "19",
-        "page": 2,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "20",
-        "page": 2,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "21",
-        "page": 2,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "22",
-        "page": 2,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "23",
-        "page": 2,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "24",
-        "page": 2,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "25",
-        "page": 2,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "26",
-        "page": 2,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "27",
-        "page": 2,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "28",
-        "page": 2,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "29",
-        "page": 2,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "30",
-        "page": 2,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "31",
-        "page": 2,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "32",
-        "page": 3,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "33",
-        "page": 3,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "34",
-        "page": 3,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "35",
-        "page": 3,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "36",
-        "page": 3,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "37",
-        "page": 3,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "38",
-        "page": 3,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "39",
-        "page": 3,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "42",
-        "page": 3,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "46",
-        "page": 4,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "47",
-        "page": 4,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "48",
-        "page": 4,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "49",
-        "page": 4,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "50",
-        "page": 4,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "51",
-        "page": 4,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "10",
-        "page": 7,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "12",
-        "page": 7,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "16",
-        "page": 7,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "17",
-        "page": 7,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "19",
-        "page": 7,
-        "reason": "render_crop_failed"
+        "reason": "calibration_fail",
+        "image_path": "/assets/q/zonghe_a/Q019.png",
+        "image_decision": ""
       },
       {
         "qno": "7",
-        "page": 8,
-        "reason": "render_crop_failed"
+        "reason": "calibration_fail",
+        "image_path": "/assets/q/zonghe_a/Q007.png",
+        "image_decision": ""
       },
       {
         "qno": "8",
-        "page": 8,
-        "reason": "render_crop_failed"
+        "reason": "calibration_fail",
+        "image_path": "/assets/q/zonghe_a/Q008.png",
+        "image_decision": ""
       },
       {
         "qno": "9",
-        "page": 8,
-        "reason": "render_crop_failed"
+        "reason": "calibration_fail",
+        "image_path": "/assets/q/zonghe_a/Q009.png",
+        "image_decision": ""
+      },
+      {
+        "qno": "10",
+        "reason": "calibration_fail",
+        "image_path": "/assets/q/zonghe_a/Q010.png",
+        "image_decision": ""
       },
       {
         "qno": "32",
-        "page": 10,
-        "reason": "render_crop_failed"
+        "reason": "calibration_fail",
+        "image_path": "/assets/q/zonghe_a/Q032.png",
+        "image_decision": ""
       },
       {
         "qno": "41",
-        "page": 11,
-        "reason": "render_crop_failed"
+        "reason": "calibration_fail",
+        "image_path": "/assets/q/zonghe_a/Q041.png",
+        "image_decision": ""
       },
       {
         "qno": "44",
-        "page": 11,
-        "reason": "render_crop_failed"
+        "reason": "calibration_fail",
+        "image_path": "/assets/q/zonghe_a/Q044.png",
+        "image_decision": ""
       },
       {
         "qno": "46",
-        "page": 11,
-        "reason": "render_crop_failed"
+        "reason": "calibration_fail",
+        "image_path": "/assets/q/zonghe_a/Q046.png",
+        "image_decision": ""
       },
       {
         "qno": "63",
-        "page": 12,
-        "reason": "render_crop_failed"
+        "reason": "calibration_fail",
+        "image_path": "/assets/q/zonghe_a/Q063.png",
+        "image_decision": ""
       },
       {
         "qno": "67",
-        "page": 12,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "84",
-        "page": 14,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "88",
-        "page": 14,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "89",
-        "page": 14,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "90",
-        "page": 14,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "91",
-        "page": 14,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "92",
-        "page": 14,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "93",
-        "page": 14,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "94",
-        "page": 14,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "106",
-        "page": 15,
-        "reason": "render_crop_failed"
+        "reason": "calibration_fail",
+        "image_path": "/assets/q/zonghe_a/Q067.png",
+        "image_decision": ""
       },
       {
         "qno": "2",
-        "page": 17,
-        "reason": "render_crop_failed"
+        "reason": "calibration_fail",
+        "image_path": "/assets/q/zonghe_a/Q002.png",
+        "image_decision": ""
       },
       {
         "qno": "7",
-        "page": 17,
-        "reason": "render_crop_failed"
+        "reason": "calibration_fail",
+        "image_path": "/assets/q/zonghe_a/Q007.png",
+        "image_decision": ""
       },
       {
         "qno": "8",
-        "page": 17,
-        "reason": "render_crop_failed"
+        "reason": "calibration_fail",
+        "image_path": "/assets/q/zonghe_a/Q008.png",
+        "image_decision": ""
       },
       {
         "qno": "11",
-        "page": 17,
-        "reason": "render_crop_failed"
+        "reason": "calibration_fail",
+        "image_path": "/assets/q/zonghe_a/Q011.png",
+        "image_decision": ""
       },
       {
         "qno": "21",
-        "page": 21,
-        "reason": "render_crop_failed"
+        "reason": "calibration_fail",
+        "image_path": "/assets/q/zonghe_a/Q021.png",
+        "image_decision": ""
       },
       {
         "qno": "77",
-        "page": 28,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "94",
-        "page": 29,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "163",
-        "page": 33,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "164",
-        "page": 33,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "176",
-        "page": 34,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "180",
-        "page": 34,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "35",
-        "page": 43,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "36",
-        "page": 43,
-        "reason": "render_crop_failed"
+        "reason": "calibration_fail",
+        "image_path": "/assets/q/zonghe_a/Q077.png",
+        "image_decision": ""
       },
       {
         "qno": "37",
-        "page": 44,
-        "reason": "render_crop_failed"
+        "reason": "calibration_fail",
+        "image_path": "/assets/q/zonghe_a/Q037.png",
+        "image_decision": ""
       },
       {
         "qno": "38",
-        "page": 44,
-        "reason": "render_crop_failed"
+        "reason": "calibration_fail",
+        "image_path": "/assets/q/zonghe_a/Q038.png",
+        "image_decision": ""
       },
       {
         "qno": "39",
-        "page": 44,
-        "reason": "render_crop_failed"
+        "reason": "calibration_fail",
+        "image_path": "/assets/q/zonghe_a/Q039.png",
+        "image_decision": ""
       },
       {
         "qno": "40",
-        "page": 44,
-        "reason": "render_crop_failed"
+        "reason": "calibration_fail",
+        "image_path": "/assets/q/zonghe_a/Q040.png",
+        "image_decision": ""
       },
       {
         "qno": "49",
-        "page": 44,
-        "reason": "render_crop_failed"
+        "reason": "calibration_fail",
+        "image_path": "/assets/q/zonghe_a/Q049.png",
+        "image_decision": ""
       },
       {
         "qno": "51",
-        "page": 44,
-        "reason": "render_crop_failed"
+        "reason": "calibration_fail",
+        "image_path": "/assets/q/zonghe_a/Q051.png",
+        "image_decision": ""
       },
       {
         "qno": "52",
-        "page": 44,
-        "reason": "render_crop_failed"
+        "reason": "calibration_fail",
+        "image_path": "/assets/q/zonghe_a/Q052.png",
+        "image_decision": ""
       },
       {
         "qno": "55",
-        "page": 45,
-        "reason": "render_crop_failed"
+        "reason": "calibration_fail",
+        "image_path": "/assets/q/zonghe_a/Q055.png",
+        "image_decision": ""
       },
       {
         "qno": "56",
-        "page": 45,
-        "reason": "render_crop_failed"
+        "reason": "calibration_fail",
+        "image_path": "/assets/q/zonghe_a/Q056.png",
+        "image_decision": ""
       },
       {
         "qno": "58",
-        "page": 45,
-        "reason": "render_crop_failed"
+        "reason": "calibration_fail",
+        "image_path": "/assets/q/zonghe_a/Q058.png",
+        "image_decision": ""
       },
       {
         "qno": "59",
-        "page": 45,
-        "reason": "render_crop_failed"
+        "reason": "calibration_fail",
+        "image_path": "/assets/q/zonghe_a/Q059.png",
+        "image_decision": ""
       },
       {
         "qno": "67",
-        "page": 45,
-        "reason": "render_crop_failed"
+        "reason": "calibration_fail",
+        "image_path": "/assets/q/zonghe_a/Q067.png",
+        "image_decision": ""
+      }
+    ],
+    "mismatch_images": [
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "10",
+        "reason": "calibration_fail",
+        "source": "stem_not_in_region",
+        "image_path": "/assets/q/zonghe_a/Q010.png",
+        "expected_snippet": "垂直或水平放樣作業時，應先"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "12",
+        "reason": "calibration_fail",
+        "source": "stem_not_in_region",
+        "image_path": "/assets/q/zonghe_a/Q012.png",
+        "expected_snippet": "在比例尺1/200的圖面上，以"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "16",
+        "reason": "calibration_fail",
+        "source": "stem_not_in_region",
+        "image_path": "/assets/q/zonghe_a/Q016.png",
+        "expected_snippet": "放樣符號是表示"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "17",
+        "reason": "calibration_fail",
+        "source": "stem_not_in_region",
+        "image_path": "/assets/q/zonghe_a/Q017.png",
+        "expected_snippet": "在比例尺1/50的圖面上，施工"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "19",
+        "reason": "calibration_fail",
+        "source": "stem_not_in_region",
+        "image_path": "/assets/q/zonghe_a/Q019.png",
+        "expected_snippet": "如下圖之放樣符號是表示"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "7",
+        "reason": "calibration_fail",
+        "source": "stem_not_in_region",
+        "image_path": "/assets/q/zonghe_a/Q007.png",
+        "expected_snippet": "「建築物室內裝修管理辦法」所稱"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "8",
+        "reason": "calibration_fail",
+        "source": "stem_not_in_region",
+        "image_path": "/assets/q/zonghe_a/Q008.png",
+        "expected_snippet": "申請室內裝修審核時，檢附之室內"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "9",
+        "reason": "calibration_fail",
+        "source": "stem_not_in_region",
+        "image_path": "/assets/q/zonghe_a/Q009.png",
+        "expected_snippet": "直轄市、縣（市）主管建築機關或"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "10",
+        "reason": "calibration_fail",
+        "source": "stem_not_in_region",
+        "image_path": "/assets/q/zonghe_a/Q010.png",
+        "expected_snippet": "依「建築物室內裝修管理辦法」，"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "32",
+        "reason": "calibration_fail",
+        "source": "stem_not_in_region",
+        "image_path": "/assets/q/zonghe_a/Q032.png",
+        "expected_snippet": "下列何者非避難器具？"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "41",
+        "reason": "calibration_fail",
+        "source": "stem_not_in_region",
+        "image_path": "/assets/q/zonghe_a/Q041.png",
+        "expected_snippet": "依「建築物室內裝修管理辦法」規"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "44",
+        "reason": "calibration_fail",
+        "source": "stem_not_in_region",
+        "image_path": "/assets/q/zonghe_a/Q044.png",
+        "expected_snippet": "依「建築物室內裝修管理辦法」規"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "46",
+        "reason": "calibration_fail",
+        "source": "stem_not_in_region",
+        "image_path": "/assets/q/zonghe_a/Q046.png",
+        "expected_snippet": "依「建築物室內裝修管理辦法」規"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "63",
+        "reason": "calibration_fail",
+        "source": "stem_not_in_region",
+        "image_path": "/assets/q/zonghe_a/Q063.png",
+        "expected_snippet": "依「消防法」規定，地面樓層十一"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "67",
+        "reason": "calibration_fail",
+        "source": "stem_not_in_region",
+        "image_path": "/assets/q/zonghe_a/Q067.png",
+        "expected_snippet": "下列何者非屬各類場所消防安全設"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "2",
+        "reason": "calibration_fail",
+        "source": "stem_not_in_region",
+        "image_path": "/assets/q/zonghe_a/Q002.png",
+        "expected_snippet": "工作場所及公共區域之安全標誌、"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "7",
+        "reason": "calibration_fail",
+        "source": "stem_not_in_region",
+        "image_path": "/assets/q/zonghe_a/Q007.png",
+        "expected_snippet": "安全衛生標示之外形為圓形者，通"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "8",
+        "reason": "calibration_fail",
+        "source": "stem_not_in_region",
+        "image_path": "/assets/q/zonghe_a/Q008.png",
+        "expected_snippet": "安全衛生標示中警告事項之外形為"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "11",
+        "reason": "calibration_fail",
+        "source": "stem_not_in_region",
+        "image_path": "/assets/q/zonghe_a/Q011.png",
+        "expected_snippet": "作業場所中，噪音超過多少分貝，"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "21",
+        "reason": "calibration_fail",
+        "source": "stem_not_in_region",
+        "image_path": "/assets/q/zonghe_a/Q021.png",
+        "expected_snippet": "左圖之砌磚工具是"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "77",
+        "reason": "calibration_fail",
+        "source": "stem_not_in_region",
+        "image_path": "/assets/q/zonghe_a/Q077.png",
+        "expected_snippet": "依CNS規定，英文字母L代表為"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "37",
+        "reason": "calibration_fail",
+        "source": "stem_not_in_region",
+        "image_path": "/assets/q/zonghe_a/Q037.png",
+        "expected_snippet": "以工程管理而言LF代表"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "38",
+        "reason": "calibration_fail",
+        "source": "stem_not_in_region",
+        "image_path": "/assets/q/zonghe_a/Q038.png",
+        "expected_snippet": "以工程管理而言傳統式直線圖表無"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "39",
+        "reason": "calibration_fail",
+        "source": "stem_not_in_region",
+        "image_path": "/assets/q/zonghe_a/Q039.png",
+        "expected_snippet": "以工程管理而言傳統式直線圖表最"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "40",
+        "reason": "calibration_fail",
+        "source": "stem_not_in_region",
+        "image_path": "/assets/q/zonghe_a/Q040.png",
+        "expected_snippet": "CPM網狀式圖表中二結合點間能"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "49",
+        "reason": "calibration_fail",
+        "source": "stem_not_in_region",
+        "image_path": "/assets/q/zonghe_a/Q049.png",
+        "expected_snippet": "依「建築物室內裝修管理辦法」之"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "51",
+        "reason": "calibration_fail",
+        "source": "stem_not_in_region",
+        "image_path": "/assets/q/zonghe_a/Q051.png",
+        "expected_snippet": "關於室內裝修竣工圖的修改，若涉"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "52",
+        "reason": "calibration_fail",
+        "source": "stem_not_in_region",
+        "image_path": "/assets/q/zonghe_a/Q052.png",
+        "expected_snippet": "申請室內裝修竣工查驗檢附的所有"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "55",
+        "reason": "calibration_fail",
+        "source": "stem_not_in_region",
+        "image_path": "/assets/q/zonghe_a/Q055.png",
+        "expected_snippet": "室內裝修工程施工中，在同一防火"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "56",
+        "reason": "calibration_fail",
+        "source": "stem_not_in_region",
+        "image_path": "/assets/q/zonghe_a/Q056.png",
+        "expected_snippet": "一般申請竣工查驗時，圖說與施工"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "58",
+        "reason": "calibration_fail",
+        "source": "stem_not_in_region",
+        "image_path": "/assets/q/zonghe_a/Q058.png",
+        "expected_snippet": "拆除隔間時，關於維護"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "59",
+        "reason": "calibration_fail",
+        "source": "stem_not_in_region",
+        "image_path": "/assets/q/zonghe_a/Q059.png",
+        "expected_snippet": "以電動破碎機破除室內隔間時，維"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "67",
+        "reason": "calibration_fail",
+        "source": "stem_not_in_region",
+        "image_path": "/assets/q/zonghe_a/Q067.png",
+        "expected_snippet": "標示為1：50比例之書櫃立面圖"
+      }
+    ],
+    "image_decisions": [
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "1",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_a/Q001.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "2",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_a/Q002.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "3",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_a/Q003.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "4",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_a/Q004.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "5",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_a/Q005.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "6",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_a/Q006.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "7",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_a/Q007.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "8",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_a/Q008.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "9",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_a/Q009.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "10",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_a/Q010.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "11",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_a/Q011.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "12",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_a/Q012.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "13",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_a/Q013.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "14",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_a/Q014.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "15",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_a/Q015.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "16",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_a/Q016.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "17",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_a/Q017.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "18",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_a/Q018.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "19",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_a/Q019.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "20",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_a/Q020.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "21",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_a/Q021.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "22",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_a/Q022.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "23",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_a/Q023.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "24",
+        "image_decision": "forced_by_keywords",
+        "image_path": "/assets/q/zonghe_a/Q024.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "25",
+        "image_decision": "forced_by_keywords",
+        "image_path": "/assets/q/zonghe_a/Q025.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "26",
+        "image_decision": "forced_by_keywords",
+        "image_path": "/assets/q/zonghe_a/Q026.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "27",
+        "image_decision": "forced_by_keywords",
+        "image_path": "/assets/q/zonghe_a/Q027.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "28",
+        "image_decision": "forced_by_keywords",
+        "image_path": "/assets/q/zonghe_a/Q028.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "29",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_a/Q029.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "30",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_a/Q030.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "31",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_a/Q031.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "32",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_a/Q032.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "33",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_a/Q033.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "34",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_a/Q034.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "35",
+        "image_decision": "forced_by_keywords",
+        "image_path": "/assets/q/zonghe_a/Q035.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "36",
+        "image_decision": "skipped_no_graphic",
+        "image_path": ""
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "37",
+        "image_decision": "skipped_no_graphic",
+        "image_path": ""
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "38",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_a/Q038.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "39",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_a/Q039.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "42",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_a/Q042.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "43",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_a/Q043.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "44",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_a/Q044.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "45",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_a/Q045.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "46",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_a/Q046.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "47",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_a/Q047.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "48",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_a/Q048.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "49",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_a/Q049.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "50",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_a/Q050.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "51",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_a/Q051.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "10",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_a/Q010.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "12",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_a/Q012.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "16",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_a/Q016.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "17",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_a/Q017.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "19",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_a/Q019.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "7",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_a/Q007.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "8",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_a/Q008.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "9",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_a/Q009.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "10",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_a/Q010.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "32",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_a/Q032.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "41",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_a/Q041.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "44",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_a/Q044.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "46",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_a/Q046.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "63",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_a/Q063.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "67",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_a/Q067.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "84",
+        "image_decision": "skipped_no_graphic",
+        "image_path": ""
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "88",
+        "image_decision": "skipped_no_graphic",
+        "image_path": ""
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "89",
+        "image_decision": "skipped_no_graphic",
+        "image_path": ""
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "90",
+        "image_decision": "skipped_no_graphic",
+        "image_path": ""
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "91",
+        "image_decision": "skipped_no_graphic",
+        "image_path": ""
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "92",
+        "image_decision": "skipped_no_graphic",
+        "image_path": ""
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "93",
+        "image_decision": "skipped_no_graphic",
+        "image_path": ""
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "94",
+        "image_decision": "skipped_no_graphic",
+        "image_path": ""
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "106",
+        "image_decision": "skipped_no_graphic",
+        "image_path": ""
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "2",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_a/Q002.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "7",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_a/Q007.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "8",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_a/Q008.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "11",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_a/Q011.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "21",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_a/Q021.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "77",
+        "image_decision": "forced_by_keywords",
+        "image_path": "/assets/q/zonghe_a/Q077.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "94",
+        "image_decision": "skipped_no_graphic",
+        "image_path": ""
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "163",
+        "image_decision": "forced_by_keywords",
+        "image_path": "/assets/q/zonghe_a/Q163.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "164",
+        "image_decision": "forced_by_keywords",
+        "image_path": "/assets/q/zonghe_a/Q164.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "176",
+        "image_decision": "skipped_no_graphic",
+        "image_path": ""
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "180",
+        "image_decision": "skipped_no_graphic",
+        "image_path": ""
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "35",
+        "image_decision": "skipped_no_graphic",
+        "image_path": ""
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "36",
+        "image_decision": "skipped_no_graphic",
+        "image_path": ""
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "37",
+        "image_decision": "forced_by_keywords",
+        "image_path": "/assets/q/zonghe_a/Q037.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "38",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_a/Q038.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "39",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_a/Q039.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "40",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_a/Q040.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "49",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_a/Q049.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "51",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_a/Q051.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "52",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_a/Q052.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "55",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_a/Q055.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "56",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_a/Q056.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "58",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_a/Q058.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "59",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_a/Q059.png"
+      },
+      {
+        "dataset_id": "zonghe_a",
+        "qno": "67",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_a/Q067.png"
       }
     ]
   },
   {
     "file": "綜合B.pdf",
-    "dataset_id": "綜合B",
-    "parsed": 600,
-    "missing_explanation_count": 600,
-    "image_questions_count": 94,
-    "missing_image_count": 94,
+    "dataset_id": "zonghe_b",
+    "parsed": 609,
+    "parse_failed_count": 0,
+    "parse_failed": [],
+    "cross_question_suspects_count": 11,
+    "cross_question_suspects": [
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "18",
+        "reason": "next_question_or_header_in_stem",
+        "snippet": "職業安全衛生法」之主要目的"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "22",
+        "reason": "next_question_or_header_in_stem",
+        "snippet": "職業安全衛生法」所稱之危險物"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "37",
+        "reason": "next_question_or_header_in_option",
+        "snippet": "職業安全衛生設施規則規定，雇主對於室內工"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "95",
+        "reason": "next_question_or_header_in_stem",
+        "snippet": "0.15~0.3%之間，稱為構鋼，適於輾軋但不適合拿來作"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "96",
+        "reason": "next_question_or_header_in_stem",
+        "snippet": "1.7%以上的特性"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "97",
+        "reason": "next_question_or_header_in_stem",
+        "snippet": "0.45%以下又稱為熟鐵"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "146",
+        "reason": "next_question_or_header_in_option",
+        "snippet": "1.6 公厘，絞線截面積不得小於 3.5 平方公厘。"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "147",
+        "reason": "next_question_or_header_in_stem",
+        "snippet": "2.6 公厘以下之實心線時應纏繞多少圈以上？"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "89",
+        "reason": "next_question_or_header_in_stem",
+        "snippet": "0.6 台寸的木板，其才積約為幾才？(不考慮損耗範圍)"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "96",
+        "reason": "next_question_or_header_in_stem",
+        "snippet": "0.6 台寸，請問其總材積為？"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "97",
+        "reason": "next_question_or_header_in_stem",
+        "snippet": "0.9 公分，請問其總材積約為？"
+      }
+    ],
+    "missing_explanation_count": 609,
+    "image_questions_count": 98,
+    "missing_image_count": 0,
     "errors": [
       {
-        "qno": "1",
-        "page": 1,
-        "reason": "render_crop_failed"
+        "qno": "12",
+        "reason": "calibration_fail",
+        "image_path": "/assets/q/zonghe_b/Q012.png",
+        "image_decision": ""
       },
       {
-        "qno": "2",
-        "page": 1,
-        "reason": "render_crop_failed"
+        "qno": "16",
+        "reason": "calibration_fail",
+        "image_path": "/assets/q/zonghe_b/Q016.png",
+        "image_decision": ""
       },
       {
-        "qno": "3",
-        "page": 1,
-        "reason": "render_crop_failed"
+        "qno": "18",
+        "reason": "calibration_fail",
+        "image_path": "/assets/q/zonghe_b/Q018.png",
+        "image_decision": ""
       },
       {
-        "qno": "4",
-        "page": 1,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "5",
-        "page": 1,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "6",
-        "page": 1,
-        "reason": "render_crop_failed"
+        "qno": "20",
+        "reason": "calibration_fail",
+        "image_path": "/assets/q/zonghe_b/Q020.png",
+        "image_decision": ""
       },
       {
         "qno": "7",
-        "page": 1,
-        "reason": "render_crop_failed"
+        "reason": "calibration_fail",
+        "image_path": "/assets/q/zonghe_b/Q007.png",
+        "image_decision": ""
       },
       {
         "qno": "8",
-        "page": 1,
-        "reason": "render_crop_failed"
+        "reason": "calibration_fail",
+        "image_path": "/assets/q/zonghe_b/Q008.png",
+        "image_decision": ""
       },
       {
         "qno": "9",
-        "page": 1,
-        "reason": "render_crop_failed"
+        "reason": "calibration_fail",
+        "image_path": "/assets/q/zonghe_b/Q009.png",
+        "image_decision": ""
       },
       {
         "qno": "10",
-        "page": 1,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "11",
-        "page": 1,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "12",
-        "page": 1,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "13",
-        "page": 1,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "14",
-        "page": 1,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "15",
-        "page": 1,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "16",
-        "page": 1,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "17",
-        "page": 1,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "18",
-        "page": 1,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "19",
-        "page": 1,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "20",
-        "page": 1,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "21",
-        "page": 1,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "22",
-        "page": 1,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "23",
-        "page": 1,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "24",
-        "page": 1,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "25",
-        "page": 1,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "26",
-        "page": 1,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "27",
-        "page": 1,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "28",
-        "page": 2,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "29",
-        "page": 2,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "30",
-        "page": 2,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "31",
-        "page": 2,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "32",
-        "page": 2,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "33",
-        "page": 2,
-        "reason": "render_crop_failed"
+        "reason": "calibration_fail",
+        "image_path": "/assets/q/zonghe_b/Q010.png",
+        "image_decision": ""
       },
       {
         "qno": "34",
-        "page": 2,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "35",
-        "page": 2,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "36",
-        "page": 2,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "37",
-        "page": 2,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "38",
-        "page": 2,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "39",
-        "page": 2,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "42",
-        "page": 2,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "46",
-        "page": 2,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "47",
-        "page": 2,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "48",
-        "page": 2,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "49",
-        "page": 2,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "50",
-        "page": 2,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "51",
-        "page": 2,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "52",
-        "page": 3,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "12",
-        "page": 4,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "16",
-        "page": 5,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "18",
-        "page": 5,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "20",
-        "page": 5,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "8",
-        "page": 6,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "9",
-        "page": 6,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "10",
-        "page": 6,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "34",
-        "page": 7,
-        "reason": "render_crop_failed"
+        "reason": "calibration_fail",
+        "image_path": "/assets/q/zonghe_b/Q034.png",
+        "image_decision": ""
       },
       {
         "qno": "43",
-        "page": 7,
-        "reason": "render_crop_failed"
+        "reason": "calibration_fail",
+        "image_path": "/assets/q/zonghe_b/Q043.png",
+        "image_decision": ""
       },
       {
         "qno": "46",
-        "page": 7,
-        "reason": "render_crop_failed"
+        "reason": "calibration_fail",
+        "image_path": "/assets/q/zonghe_b/Q046.png",
+        "image_decision": ""
       },
       {
         "qno": "48",
-        "page": 7,
-        "reason": "render_crop_failed"
+        "reason": "calibration_fail",
+        "image_path": "/assets/q/zonghe_b/Q048.png",
+        "image_decision": ""
       },
       {
         "qno": "65",
-        "page": 8,
-        "reason": "render_crop_failed"
+        "reason": "calibration_fail",
+        "image_path": "/assets/q/zonghe_b/Q065.png",
+        "image_decision": ""
       },
       {
         "qno": "69",
-        "page": 8,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "86",
-        "page": 9,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "90",
-        "page": 9,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "91",
-        "page": 9,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "92",
-        "page": 9,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "93",
-        "page": 9,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "94",
-        "page": 9,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "95",
-        "page": 9,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "96",
-        "page": 9,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "108",
-        "page": 10,
-        "reason": "render_crop_failed"
+        "reason": "calibration_fail",
+        "image_path": "/assets/q/zonghe_b/Q069.png",
+        "image_decision": ""
       },
       {
         "qno": "7",
-        "page": 11,
-        "reason": "render_crop_failed"
+        "reason": "calibration_fail",
+        "image_path": "/assets/q/zonghe_b/Q007.png",
+        "image_decision": ""
       },
       {
         "qno": "9",
-        "page": 11,
-        "reason": "render_crop_failed"
+        "reason": "calibration_fail",
+        "image_path": "/assets/q/zonghe_b/Q009.png",
+        "image_decision": ""
       },
       {
         "qno": "10",
-        "page": 11,
-        "reason": "render_crop_failed"
+        "reason": "calibration_fail",
+        "image_path": "/assets/q/zonghe_b/Q010.png",
+        "image_decision": ""
       },
       {
         "qno": "13",
-        "page": 11,
-        "reason": "render_crop_failed"
+        "reason": "calibration_fail",
+        "image_path": "/assets/q/zonghe_b/Q013.png",
+        "image_decision": ""
       },
       {
         "qno": "25",
-        "page": 14,
-        "reason": "render_crop_failed"
+        "reason": "calibration_fail",
+        "image_path": "/assets/q/zonghe_b/Q025.png",
+        "image_decision": ""
       },
       {
         "qno": "100",
-        "page": 19,
-        "reason": "render_crop_failed"
+        "reason": "calibration_fail",
+        "image_path": "/assets/q/zonghe_b/Q100.png",
+        "image_decision": ""
       },
       {
         "qno": "122",
-        "page": 20,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "202",
-        "page": 23,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "203",
-        "page": 23,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "215",
-        "page": 23,
-        "reason": "render_crop_failed"
-      },
-      {
-        "qno": "219",
-        "page": 23,
-        "reason": "render_crop_failed"
+        "reason": "calibration_fail",
+        "image_path": "/assets/q/zonghe_b/Q122.png",
+        "image_decision": ""
       },
       {
         "qno": "50",
-        "page": 30,
-        "reason": "render_crop_failed"
+        "reason": "calibration_fail",
+        "image_path": "/assets/q/zonghe_b/Q050.png",
+        "image_decision": ""
       },
       {
         "qno": "51",
-        "page": 30,
-        "reason": "render_crop_failed"
+        "reason": "calibration_fail",
+        "image_path": "/assets/q/zonghe_b/Q051.png",
+        "image_decision": ""
       },
       {
         "qno": "52",
-        "page": 30,
-        "reason": "render_crop_failed"
+        "reason": "calibration_fail",
+        "image_path": "/assets/q/zonghe_b/Q052.png",
+        "image_decision": ""
       },
       {
         "qno": "53",
-        "page": 30,
-        "reason": "render_crop_failed"
+        "reason": "calibration_fail",
+        "image_path": "/assets/q/zonghe_b/Q053.png",
+        "image_decision": ""
       },
       {
         "qno": "54",
-        "page": 30,
-        "reason": "render_crop_failed"
+        "reason": "calibration_fail",
+        "image_path": "/assets/q/zonghe_b/Q054.png",
+        "image_decision": ""
       },
       {
         "qno": "55",
-        "page": 30,
-        "reason": "render_crop_failed"
+        "reason": "calibration_fail",
+        "image_path": "/assets/q/zonghe_b/Q055.png",
+        "image_decision": ""
       },
       {
         "qno": "67",
-        "page": 30,
-        "reason": "render_crop_failed"
+        "reason": "calibration_fail",
+        "image_path": "/assets/q/zonghe_b/Q067.png",
+        "image_decision": ""
       },
       {
         "qno": "69",
-        "page": 31,
-        "reason": "render_crop_failed"
+        "reason": "calibration_fail",
+        "image_path": "/assets/q/zonghe_b/Q069.png",
+        "image_decision": ""
       },
       {
         "qno": "70",
-        "page": 31,
-        "reason": "render_crop_failed"
+        "reason": "calibration_fail",
+        "image_path": "/assets/q/zonghe_b/Q070.png",
+        "image_decision": ""
       },
       {
         "qno": "73",
-        "page": 31,
-        "reason": "render_crop_failed"
+        "reason": "calibration_fail",
+        "image_path": "/assets/q/zonghe_b/Q073.png",
+        "image_decision": ""
       },
       {
         "qno": "74",
-        "page": 31,
-        "reason": "render_crop_failed"
+        "reason": "calibration_fail",
+        "image_path": "/assets/q/zonghe_b/Q074.png",
+        "image_decision": ""
       },
       {
         "qno": "76",
-        "page": 31,
-        "reason": "render_crop_failed"
+        "reason": "calibration_fail",
+        "image_path": "/assets/q/zonghe_b/Q076.png",
+        "image_decision": ""
       },
       {
         "qno": "77",
-        "page": 31,
-        "reason": "render_crop_failed"
+        "reason": "calibration_fail",
+        "image_path": "/assets/q/zonghe_b/Q077.png",
+        "image_decision": ""
       },
       {
         "qno": "88",
-        "page": 31,
-        "reason": "render_crop_failed"
+        "reason": "calibration_fail",
+        "image_path": "/assets/q/zonghe_b/Q088.png",
+        "image_decision": ""
+      }
+    ],
+    "mismatch_images": [
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "12",
+        "reason": "calibration_fail",
+        "source": "stem_not_in_region",
+        "image_path": "/assets/q/zonghe_b/Q012.png",
+        "expected_snippet": "在比例尺1/200的圖面上，以"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "16",
+        "reason": "calibration_fail",
+        "source": "stem_not_in_region",
+        "image_path": "/assets/q/zonghe_b/Q016.png",
+        "expected_snippet": "放樣符號是表示"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "18",
+        "reason": "calibration_fail",
+        "source": "stem_not_in_region",
+        "image_path": "/assets/q/zonghe_b/Q018.png",
+        "expected_snippet": "在比例尺1/50的圖面上，施工"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "20",
+        "reason": "calibration_fail",
+        "source": "stem_not_in_region",
+        "image_path": "/assets/q/zonghe_b/Q020.png",
+        "expected_snippet": "放樣符號是表示"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "7",
+        "reason": "calibration_fail",
+        "source": "stem_not_in_region",
+        "image_path": "/assets/q/zonghe_b/Q007.png",
+        "expected_snippet": "「建築物室內裝修管理辦法」所稱"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "8",
+        "reason": "calibration_fail",
+        "source": "stem_not_in_region",
+        "image_path": "/assets/q/zonghe_b/Q008.png",
+        "expected_snippet": "申請室內裝修審核時，檢附之室內"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "9",
+        "reason": "calibration_fail",
+        "source": "stem_not_in_region",
+        "image_path": "/assets/q/zonghe_b/Q009.png",
+        "expected_snippet": "直轄市、縣（市）主管建築機關或"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "10",
+        "reason": "calibration_fail",
+        "source": "stem_not_in_region",
+        "image_path": "/assets/q/zonghe_b/Q010.png",
+        "expected_snippet": "依「建築物室內裝修管理辦法」，"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "34",
+        "reason": "calibration_fail",
+        "source": "stem_not_in_region",
+        "image_path": "/assets/q/zonghe_b/Q034.png",
+        "expected_snippet": "下列何者非避難器具？"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "43",
+        "reason": "calibration_fail",
+        "source": "stem_not_in_region",
+        "image_path": "/assets/q/zonghe_b/Q043.png",
+        "expected_snippet": "依「建築物室內裝修管理辦法」規"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "46",
+        "reason": "calibration_fail",
+        "source": "stem_not_in_region",
+        "image_path": "/assets/q/zonghe_b/Q046.png",
+        "expected_snippet": "依「建築物室內裝修管理辦法」規"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "48",
+        "reason": "calibration_fail",
+        "source": "stem_not_in_region",
+        "image_path": "/assets/q/zonghe_b/Q048.png",
+        "expected_snippet": "依「建築物室內裝修管理辦法」規"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "65",
+        "reason": "calibration_fail",
+        "source": "stem_not_in_region",
+        "image_path": "/assets/q/zonghe_b/Q065.png",
+        "expected_snippet": "依「消防法」規定，地面樓層十一"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "69",
+        "reason": "calibration_fail",
+        "source": "stem_not_in_region",
+        "image_path": "/assets/q/zonghe_b/Q069.png",
+        "expected_snippet": "下列何者非屬各類場所消防安全設"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "7",
+        "reason": "calibration_fail",
+        "source": "stem_not_in_region",
+        "image_path": "/assets/q/zonghe_b/Q007.png",
+        "expected_snippet": "裝有危害物質之容器，應依照勞工"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "9",
+        "reason": "calibration_fail",
+        "source": "stem_not_in_region",
+        "image_path": "/assets/q/zonghe_b/Q009.png",
+        "expected_snippet": "安全標示之外形為圓形者，通常用"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "10",
+        "reason": "calibration_fail",
+        "source": "stem_not_in_region",
+        "image_path": "/assets/q/zonghe_b/Q010.png",
+        "expected_snippet": "工業安全標示中警告事項之外形為"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "13",
+        "reason": "calibration_fail",
+        "source": "stem_not_in_region",
+        "image_path": "/assets/q/zonghe_b/Q013.png",
+        "expected_snippet": "作業場所中，噪音超過多少分貝，"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "25",
+        "reason": "calibration_fail",
+        "source": "stem_not_in_region",
+        "image_path": "/assets/q/zonghe_b/Q025.png",
+        "expected_snippet": "左圖之砌磚工具是"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "100",
+        "reason": "calibration_fail",
+        "source": "stem_not_in_region",
+        "image_path": "/assets/q/zonghe_b/Q100.png",
+        "expected_snippet": "依CNS規定，英文字母L代表為"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "122",
+        "reason": "calibration_fail",
+        "source": "stem_not_in_region",
+        "image_path": "/assets/q/zonghe_b/Q122.png",
+        "expected_snippet": "有花紋或圖案的壁紙、壁布得先考"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "50",
+        "reason": "calibration_fail",
+        "source": "stem_not_in_region",
+        "image_path": "/assets/q/zonghe_b/Q050.png",
+        "expected_snippet": "CPM是將工作項目依順序、時間"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "51",
+        "reason": "calibration_fail",
+        "source": "stem_not_in_region",
+        "image_path": "/assets/q/zonghe_b/Q051.png",
+        "expected_snippet": "CPM網狀式圖表最適用於"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "52",
+        "reason": "calibration_fail",
+        "source": "stem_not_in_region",
+        "image_path": "/assets/q/zonghe_b/Q052.png",
+        "expected_snippet": "以工程管理而言LF代表"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "53",
+        "reason": "calibration_fail",
+        "source": "stem_not_in_region",
+        "image_path": "/assets/q/zonghe_b/Q053.png",
+        "expected_snippet": "以工程管理而言傳統式直線圖表無"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "54",
+        "reason": "calibration_fail",
+        "source": "stem_not_in_region",
+        "image_path": "/assets/q/zonghe_b/Q054.png",
+        "expected_snippet": "以工程管理而言傳統式直線圖表最"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "55",
+        "reason": "calibration_fail",
+        "source": "stem_not_in_region",
+        "image_path": "/assets/q/zonghe_b/Q055.png",
+        "expected_snippet": "CPM網狀式圖表中二結合點間能"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "67",
+        "reason": "calibration_fail",
+        "source": "stem_not_in_region",
+        "image_path": "/assets/q/zonghe_b/Q067.png",
+        "expected_snippet": "依「建築物室內裝修管理辦法」之"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "69",
+        "reason": "calibration_fail",
+        "source": "stem_not_in_region",
+        "image_path": "/assets/q/zonghe_b/Q069.png",
+        "expected_snippet": "關於室內裝修竣工圖的修改，若涉"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "70",
+        "reason": "calibration_fail",
+        "source": "stem_not_in_region",
+        "image_path": "/assets/q/zonghe_b/Q070.png",
+        "expected_snippet": "申請室內裝修竣工查驗檢附的所有"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "73",
+        "reason": "calibration_fail",
+        "source": "stem_not_in_region",
+        "image_path": "/assets/q/zonghe_b/Q073.png",
+        "expected_snippet": "室內裝修工程施工中，在同一防火"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "74",
+        "reason": "calibration_fail",
+        "source": "stem_not_in_region",
+        "image_path": "/assets/q/zonghe_b/Q074.png",
+        "expected_snippet": "一般申請竣工查驗時，圖說與施工"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "76",
+        "reason": "calibration_fail",
+        "source": "stem_not_in_region",
+        "image_path": "/assets/q/zonghe_b/Q076.png",
+        "expected_snippet": "拆除隔間時，關於維護勞安措施那"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "77",
+        "reason": "calibration_fail",
+        "source": "stem_not_in_region",
+        "image_path": "/assets/q/zonghe_b/Q077.png",
+        "expected_snippet": "以電動破碎機破除室內隔間時，維"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "88",
+        "reason": "calibration_fail",
+        "source": "stem_not_in_region",
+        "image_path": "/assets/q/zonghe_b/Q088.png",
+        "expected_snippet": "標示為1：50比例之書櫃立面圖"
+      }
+    ],
+    "image_decisions": [
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "1",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q001.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "2",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q002.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "3",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q003.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "4",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q004.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "5",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q005.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "6",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q006.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "7",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q007.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "8",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q008.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "9",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q009.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "10",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q010.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "11",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q011.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "12",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q012.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "13",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q013.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "14",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q014.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "15",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q015.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "16",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q016.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "17",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q017.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "18",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q018.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "19",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q019.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "20",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q020.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "21",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q021.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "22",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q022.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "23",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q023.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "24",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q024.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "25",
+        "image_decision": "forced_by_keywords",
+        "image_path": "/assets/q/zonghe_b/Q025.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "26",
+        "image_decision": "forced_by_keywords",
+        "image_path": "/assets/q/zonghe_b/Q026.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "27",
+        "image_decision": "forced_by_keywords",
+        "image_path": "/assets/q/zonghe_b/Q027.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "28",
+        "image_decision": "forced_by_keywords",
+        "image_path": "/assets/q/zonghe_b/Q028.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "29",
+        "image_decision": "forced_by_keywords",
+        "image_path": "/assets/q/zonghe_b/Q029.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "30",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q030.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "31",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q031.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "32",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q032.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "33",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q033.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "34",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q034.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "35",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q035.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "36",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q036.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "37",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q037.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "38",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q038.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "39",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q039.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "42",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q042.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "43",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q043.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "44",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q044.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "45",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q045.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "46",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q046.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "47",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q047.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "48",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q048.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "49",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q049.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "50",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q050.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "51",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q051.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "52",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q052.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "12",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q012.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "16",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q016.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "18",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q018.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "20",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q020.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "7",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q007.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "8",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q008.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "9",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q009.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "10",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q010.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "34",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q034.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "43",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q043.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "46",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q046.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "48",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q048.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "65",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q065.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "69",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q069.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "86",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q086.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "90",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q090.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "91",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q091.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "92",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q092.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "93",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q093.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "94",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q094.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "95",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q095.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "96",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q096.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "108",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q108.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "7",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q007.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "9",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q009.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "10",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q010.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "13",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q013.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "25",
+        "image_decision": "forced_by_keywords",
+        "image_path": "/assets/q/zonghe_b/Q025.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "100",
+        "image_decision": "forced_by_keywords",
+        "image_path": "/assets/q/zonghe_b/Q100.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "122",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q122.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "202",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q202.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "203",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q203.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "215",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q215.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "219",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q219.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "50",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q050.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "51",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q051.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "52",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q052.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "53",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q053.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "54",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q054.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "55",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q055.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "67",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q067.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "69",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q069.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "70",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q070.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "73",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q073.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "74",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q074.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "76",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q076.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "77",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q077.png"
+      },
+      {
+        "dataset_id": "zonghe_b",
+        "qno": "88",
+        "image_decision": "rendered",
+        "image_path": "/assets/q/zonghe_b/Q088.png"
       }
     ]
   }

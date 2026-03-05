@@ -19,7 +19,9 @@ from __future__ import print_function, unicode_literals
 import argparse
 import json
 import re
+import shutil
 import sys
+from datetime import datetime
 from pathlib import Path
 
 # Python 3.6 相容：Path.read_text 在 3.5+ 有，但 3.5 無 encoding，用 open
@@ -116,10 +118,14 @@ def extract_text_from_pdf(path):
 
 
 # 實際 PDF 格式：題號.  (答案數字)  題幹 ①選項1②選項2③選項3④選項4 [解析：...]
-# 【必修1】切分邊界只用 LINE_START_QUESTION；QUESTION_HEAD 僅用於「輔助抽答案/驗證」
-QUESTION_HEAD = re.compile(r"(?:^|\n)\s*(\d+)\.\s+\(([1-4])\)\s*", re.MULTILINE)
-LINE_START_QUESTION = re.compile(r"^\s*(\d{1,3})\.\s*(?:\(\d\))?", re.MULTILINE)
+# 【必修1】切分邊界：放寬題號支援 1. 1、 1) (1) （1） 1．；用 (?:^|\n) 或 \b 避免誤匹配 105年度
+QUESTION_HEAD = re.compile(r"(?:^|\n)\s*(\d+)[\.．\、\)）]?\s*\(([1-4])\)\s*", re.MULTILINE)
+LINE_START_QUESTION = re.compile(r"^\s*(\d{1,3})[\.．\、\)）]\s*(?:\([1-4]\))?\s*", re.MULTILINE)
+# 題號在行中出現（非行首）：前為 \n 或空白，避免 105年度、12600 等
+LINE_OR_INLINE_QUESTION = re.compile(r"(?:^|\n)\s*(\d{1,3})[\.．\、\)）]\s*(?:\([1-4]\))?\s*", re.MULTILINE)
 OPTION_MARK = re.compile(r"[①②③④]")
+# 選項 (1)(2)(3)(4) 或 1. 2. 3. 4. 作為備援
+OPTION_NUM_MARK = re.compile(r"[(（]?([1-4])[)）]\s*|^\s*([1-4])[\.．\、]\s*", re.MULTILINE)
 # 【必修2】A/B/C/D 選項版式：A. A、 A) 等（多行）
 OPTION_ABCD = re.compile(r"(?m)^\s*[A-D][\.\、\)]\s*", re.MULTILINE)
 # 解析段落：從「解析」到下一題號或結尾
@@ -251,23 +257,168 @@ def _trim_tail_at_next_question_or_header(text):
     return out, snippet
 
 
-def _split_blocks_by_line_start_question(full_text):
-    """【必修1】只用 LINE_START_QUESTION 建立題目硬邊界，回傳 [(qno_str, block_text), ...]。"""
+# 題號 Pattern A：現有「數字+標點」；B：數字+空白（後須有答案括號）；C：第 N 題；D：高信號 N. (K)
+_PAT_A = re.compile(r"(?<!\d)(\d{1,3})[\.．\、\)）]\s*(?:\([1-4]\))?\s*")
+_OPTION_MARKER_NEAR = re.compile(r"[①②③④]|[(（][1-4][)）]|^\s*[A-D][\.\、\)]\s*", re.MULTILINE)
+# Pattern B 約束：後 35 字內須有答案括號 (1)~(4)，排除頁首
+_ANSWER_BRACKET_NEAR = re.compile(r"[（(]\s*[1-4]\s*[)）]")
+_PAT_B_DIGIT_SPACE = re.compile(r"(?<!\d)(\d{1,3})\s+")
+_PAT_C_CN = re.compile(r"第\s*(\d{1,3})\s*題")
+# Pattern D：高信號「N. (K)」或「N．(K)」，N 為題號，K 為答案；允許 N 與點號間有空白/換行
+_PAT_D_ANSWER_BRACKET = re.compile(r"(?<!\d)(\d{1,3})\s*[\.．]\s*[（(]\s*[1-4]\s*[)）]")
+# 二次切分用：句號或換行後的題號，避免切到選項內的 (1)(2)；支援 \r\n
+_PAT_D_AFTER_END = re.compile(r"(?:。|[\r\n])\s*(\d{1,3})\s*[\.．]\s*[（(]\s*[1-4]\s*[)）]")
+
+
+def _split_blocks_pattern_a(full_text):
+    """Pattern A：題號. / 題號、/ 題號）等，回傳 [(qno, start), ...]。"""
     blocks = []
-    for m in LINE_START_QUESTION.finditer(full_text):
+    for m in _PAT_A.finditer(full_text):
+        qno = (m.group(1) or "").strip()
+        if qno and qno.isdigit():
+            blocks.append((qno, m.start()))
+    if not blocks and len(full_text) > 100:
+        for m in LINE_START_QUESTION.finditer(full_text):
+            qno = (m.group(1) or "").strip()
+            if qno and qno.isdigit():
+                blocks.append((qno, m.start()))
+    return blocks
+
+
+def _split_blocks_pattern_b(full_text):
+    """Pattern B：數字+空白，且後 35 字內須有答案括號 (1)~(4)，排除頁首與選項內數字。"""
+    blocks = []
+    for m in _PAT_B_DIGIT_SPACE.finditer(full_text):
         qno = (m.group(1) or "").strip()
         if not qno or not qno.isdigit():
             continue
         start = m.start()
-        blocks.append((qno, start))
-    out = []
-    for i, (qno, start) in enumerate(blocks):
-        end = blocks[i + 1][1] if i + 1 < len(blocks) else len(full_text)
-        block_text = full_text[start:end].strip()
-        if len(block_text) < 5:
+        if start < 300 and qno in ("80", "60", "20", "100", "2", "1") and "題" in full_text[start:start + 30]:
             continue
-        out.append((qno, block_text))
-    return out
+        window = full_text[start:start + 35]
+        if not _ANSWER_BRACKET_NEAR.search(window):
+            continue
+        blocks.append((qno, start))
+    return blocks
+
+
+def _split_blocks_pattern_c(full_text):
+    """Pattern C：第 N 題。"""
+    blocks = []
+    for m in _PAT_C_CN.finditer(full_text):
+        qno = (m.group(1) or "").strip()
+        if qno and qno.isdigit():
+            blocks.append((qno, m.start()))
+    return blocks
+
+
+def _split_blocks_pattern_d(full_text):
+    """Pattern D：高信號「N. (K)」；含「。N. (K)」或「\\n N. (K)」以撿回漏題。"""
+    blocks = []
+    for m in _PAT_D_AFTER_END.finditer(full_text):
+        qno = (m.group(1) or "").strip()
+        if qno and qno.isdigit() and 1 <= int(qno) <= 99:
+            blocks.append((qno, m.start(1)))
+    for m in _PAT_D_ANSWER_BRACKET.finditer(full_text):
+        qno = (m.group(1) or "").strip()
+        if qno and qno.isdigit() and 1 <= int(qno) <= 99:
+            if not any(b[1] == m.start() for b in blocks):
+                blocks.append((qno, m.start()))
+    return blocks
+
+
+def _split_blocks_with_fallback(full_text):
+    """A/B/C/D 合併去重；D 為高信號。若 D 已很多（≥40）則僅用 D 避免 A/B 誤檢。"""
+    a_list = _split_blocks_pattern_a(full_text)
+    b_list = _split_blocks_pattern_b(full_text)
+    c_list = _split_blocks_pattern_c(full_text)
+    d_list = _split_blocks_pattern_d(full_text)
+    pos_to_qno = {}
+    if len(d_list) >= 40:
+        for qno, pos in d_list:
+            pos_to_qno[pos] = qno
+    else:
+        for qno, pos in d_list:
+            pos_to_qno[pos] = qno
+        for qno, pos in a_list:
+            if pos not in pos_to_qno:
+                pos_to_qno[pos] = qno
+        for qno, pos in b_list:
+            if pos not in pos_to_qno:
+                pos_to_qno[pos] = qno
+        for qno, pos in c_list:
+            if pos not in pos_to_qno:
+                pos_to_qno[pos] = qno
+    # 過濾頁首誤檢：僅前 280 字內
+    def _is_header_noise(pos, qno):
+        if pos >= 280:
+            return False
+        snippet = full_text[pos:pos + 35]
+        if qno in ("80", "60", "20", "100") and ("題" in snippet or "選擇題" in snippet or "分】" in snippet):
+            return True
+        if qno == "2" and "分】" in snippet:
+            return True
+        return False
+    all_starts = sorted(pos_to_qno.keys())
+    filtered_starts = [s for s in all_starts if not _is_header_noise(s, pos_to_qno[s])]
+    union_blocks = [(pos_to_qno[s], s) for s in filtered_starts]
+    # 二次切分：若某 block 字數 > 350，在 block 內再找「N. (K)」切開
+    extra_starts = []
+    for i, (qno, start) in enumerate(union_blocks):
+        end = union_blocks[i + 1][1] if i + 1 < len(union_blocks) else len(full_text)
+        span_len = end - start
+        if span_len <= 280:
+            continue
+        chunk = full_text[start:end]
+        seen_rel = set()
+        for m in _PAT_D_AFTER_END.finditer(chunk):
+            digit_start = m.start(1)
+            if digit_start < 5:
+                continue
+            rel_pos = start + digit_start
+            if rel_pos in pos_to_qno or rel_pos in seen_rel:
+                continue
+            sub_qno = (m.group(1) or "").strip()
+            if sub_qno and sub_qno.isdigit():
+                extra_starts.append((sub_qno, rel_pos))
+                seen_rel.add(rel_pos)
+        for m in _PAT_D_ANSWER_BRACKET.finditer(chunk):
+            if m.start() < 5:
+                continue
+            rel_pos = start + m.start()
+            if rel_pos in pos_to_qno or rel_pos in seen_rel:
+                continue
+            sub_qno = (m.group(1) or "").strip()
+            if sub_qno and sub_qno.isdigit():
+                extra_starts.append((sub_qno, rel_pos))
+                seen_rel.add(rel_pos)
+    for qno, pos in extra_starts:
+        pos_to_qno[pos] = qno
+    all_starts = sorted(pos_to_qno.keys())
+    union_blocks = [(pos_to_qno[s], s) for s in all_starts if not _is_header_noise(s, pos_to_qno[s])]
+    out = []
+    spans = []
+    for i, (qno, start) in enumerate(union_blocks):
+        end = union_blocks[i + 1][1] if i + 1 < len(union_blocks) else len(full_text)
+        block_text = full_text[start:end].strip()
+        if len(block_text) >= 5:
+            out.append((qno, block_text))
+            spans.append((qno, start, end))
+    counts = {
+        "detected_question_count_A": len(a_list),
+        "detected_question_count_B": len(b_list),
+        "detected_question_count_C": len(c_list),
+        "detected_question_count_D": len(d_list),
+        "detected_question_count": len(out),
+        "detection_method": "union",
+    }
+    return out, counts, spans
+
+
+def _split_blocks_by_line_start_question(full_text):
+    """【必修1】用題號邊界建立題塊；含 fallback 模式 B/C，與 summary 一致。"""
+    blocks, _, _ = _split_blocks_with_fallback(full_text)
+    return blocks
 
 
 def _extract_answer_from_block(block):
@@ -311,14 +462,37 @@ def _split_options_abcd(block):
     return stem, ordered
 
 
-def parse_questions_from_text(full_text, slug, page_no=None):
-    """【必修1】切分只用 LINE_START_QUESTION；QUESTION_HEAD 僅輔助抽答案。【必修2】選項支援 ①②③④ 與 A/B/C/D。【A】跨題尾巴截斷。"""
+def _split_options_numbered(block):
+    """用 (1)(2)(3)(4) 或 1. 2. 3. 4. 切出四選項，回傳 (stem, [opt1..opt4]) 或 (None, None)。"""
+    parts = re.split(r"[(（]([1-4])[)）]\s*", block)
+    if len(parts) >= 5:
+        stem = (parts[0] or "").strip()[:2000]
+        ordered = [(p or "").strip()[:500] or "" for p in parts[1:5]]
+        if stem and len(ordered) == 4:
+            return stem, ordered
+    parts = re.split(r"(?m)^\s*([1-4])[\.．\、]\s*", block)
+    if len(parts) >= 5:
+        stem = (parts[0] or "").strip()[:2000]
+        ordered = [(p or "").strip()[:500] or "" for p in parts[1:5]]
+        if stem and len(ordered) == 4:
+            return stem, ordered
+    return None, None
+
+
+def parse_questions_from_text(full_text, slug, page_no=None, drop_reasons=None):
+    """【必修1】切分用 LINE_START_QUESTION；【必修2】選項支援 ①②③④、A/B/C/D、(1)(2)(3)(4)。選項失敗時保留題目並用 placeholder。"""
+    if drop_reasons is None:
+        drop_reasons = {}
     questions = []
     parse_failed = []
     cross_question_suspects = []
     blocks = _split_blocks_by_line_start_question(full_text)
     for q_num, block in blocks:
-        if not q_num.isdigit() or len(block) < 5:
+        if not q_num.isdigit():
+            drop_reasons["qno_not_digit"] = drop_reasons.get("qno_not_digit", 0) + 1
+            continue
+        if len(block) < 5:
+            drop_reasons["block_too_short"] = drop_reasons.get("block_too_short", 0) + 1
             continue
         answer_idx = _extract_answer_from_block(block)
         if answer_idx is None:
@@ -332,14 +506,18 @@ def parse_questions_from_text(full_text, slug, page_no=None):
             question_text, ordered = _split_options_circled(block)
         if ordered is None:
             question_text, ordered = _split_options_abcd(block)
+        if ordered is None:
+            question_text, ordered = _split_options_numbered(block)
         if ordered is None or len(ordered) != 4 or not all(ordered):
-            src = "{}#p{}#Q{}".format(slug, page_no, q_num) if page_no is not None else "{}#Q{}".format(slug, q_num)
-            parse_failed.append({"dataset_id": slug, "qno": q_num, "reason": "parse_failed", "source": src})
-            continue
+            question_text = (block[:2000].strip() or "（題幹略）")
+            ordered = ["(選項未辨識)", "(選項未辨識)", "(選項未辨識)", "(選項未辨識)"]
+            drop_reasons["options_placeholder"] = drop_reasons.get("options_placeholder", 0) + 1
+        else:
+            ordered = [o or "(選項未辨識)" for o in ordered]
 
         question_text = question_text or "（題幹解析略）"
-        # 題幹顯示時移除行首「題號.(答案)」，避免答案黏在題目開頭
-        question_text = re.sub(r"^\s*\d+\.\s*\([1-4]\)\s*", "", question_text).strip() or question_text
+        # 題幹顯示時移除行首「題號.(答案)」，避免答案黏在題目開頭（支援 .．、））
+        question_text = re.sub(r"^\s*\d+[\.．\、\)）]?\s*\([1-4]\)\s*", "", question_text).strip() or question_text
 
         # A) 跨題尾巴截斷：題幹與選項尾端若出現下一題題號或頁首科目詞則截斷
         cross_suspects_here = []
@@ -595,24 +773,36 @@ def process_pdf(input_dir, output_dir, pdf_path, report, assets_root=None):
         })
         return slug, []
 
-    # 【必修1】每頁先做 Header/Footer 清理，再只用 LINE_START_QUESTION 為邊界解析；【A】跨題尾巴截斷
+    # 【必修1】多頁時用全文解析以撿齊題號邊界（單頁或 fallback 才用每頁解析）
     full_text = "\n".join(t for _, t in pages_text)
+    pages_total = len(pages_text)
+    extracted_text_length_per_page = [len(t) for _, t in pages_text]
+    drop_reasons_merged = {}
     all_questions = []
     all_parse_failed = []
     all_cross_suspects = []
-    for page_no, text in pages_text:
-        text_cleaned = _strip_header_footer(text)
-        qs, failed, cross = parse_questions_from_text(text_cleaned, slug, page_no)
+    full_cleaned = _strip_header_footer(full_text)
+    if len(pages_text) > 1:
+        qs, failed, cross = parse_questions_from_text(full_text, slug, None, drop_reasons_merged)
         all_parse_failed.extend(failed)
         all_cross_suspects.extend(cross)
         for q in qs:
             q["id"] = slug + "_" + q["id"]
-            q["_page_no"] = page_no
+            q["_page_no"] = 1
             all_questions.append(q)
+    else:
+        for page_no, text in pages_text:
+            text_cleaned = _strip_header_footer(text)
+            qs, failed, cross = parse_questions_from_text(text_cleaned, slug, page_no, drop_reasons_merged)
+            all_parse_failed.extend(failed)
+            all_cross_suspects.extend(cross)
+            for q in qs:
+                q["id"] = slug + "_" + q["id"]
+                q["_page_no"] = page_no
+                all_questions.append(q)
 
     if len(all_questions) < 3 and len(pages_text) > 0:
-        full_cleaned = _strip_header_footer(full_text)
-        qs, failed, cross = parse_questions_from_text(full_cleaned, slug, None)
+        qs, failed, cross = parse_questions_from_text(full_cleaned, slug, None, drop_reasons_merged)
         all_parse_failed.extend(failed)
         all_cross_suspects.extend(cross)
         seen = set()
@@ -625,6 +815,62 @@ def process_pdf(input_dir, output_dir, pdf_path, report, assets_root=None):
             q["id"] = uid
             q["_page_no"] = 1
             all_questions.append(q)
+
+    full_cleaned = _strip_header_footer(full_text)
+    text_for_blocks = full_text if len(pages_text) > 1 else full_cleaned
+    d_list_raw = _split_blocks_pattern_d(text_for_blocks)
+    blocks_full, pattern_counts, block_spans = _split_blocks_with_fallback(text_for_blocks)
+    detected_question_numbers = [qno for qno, _ in blocks_full]
+    detected_question_count = pattern_counts["detected_question_count"]
+    # 位置級 debug：positions、block 字數分布、疑似合併塊
+    detected_question_positions = [{"qno": qno, "start": start} for qno, start, _ in block_spans[:100]]
+    question_blocks_count = len(blocks_full)
+    lengths = [end - start for _, start, end in block_spans]
+    block_span_stats = {}
+    if lengths:
+        block_span_stats = {"min": min(lengths), "max": max(lengths), "avg": round(sum(lengths) / len(lengths), 1)}
+    median_len = sorted(lengths)[len(lengths) // 2] if lengths else 0
+    threshold = max(1200, int(median_len * 1.5))
+    suspicious_merged_blocks = [{"qno": qno, "start": start, "end": end, "char_count": end - start} for qno, start, end in block_spans if (end - start) > threshold]
+
+    parser_debug_dir = ROOT / "scripts" / "parser_debug"
+    parser_debug_dir.mkdir(parents=True, exist_ok=True)
+    safe_name = re.sub(r"[^\w\-.]", "_", pdf_path.name)
+    if not safe_name.endswith(".pdf"):
+        safe_name = safe_name + ".pdf"
+    debug_payload = {
+        "file": pdf_path.name,
+        "pages_total": pages_total,
+        "pages_processed": pages_total,
+        "extracted_text_length_per_page": extracted_text_length_per_page,
+        "detected_question_numbers": detected_question_numbers[:100],
+        "detected_question_count": detected_question_count,
+        "detected_question_positions": detected_question_positions,
+        "question_blocks_count": question_blocks_count,
+        "block_span_stats": block_span_stats,
+        "suspicious_merged_blocks": suspicious_merged_blocks,
+        "detected_question_count_A": pattern_counts["detected_question_count_A"],
+        "detected_question_count_B": pattern_counts["detected_question_count_B"],
+        "detected_question_count_C": pattern_counts["detected_question_count_C"],
+        "detected_question_count_D": pattern_counts.get("detected_question_count_D", 0),
+        "pattern_D_on_full_cleaned_count": len(d_list_raw),
+        "detection_method": pattern_counts["detection_method"],
+        "parsed_questions_count": len(all_questions),
+        "drop_reasons_top": drop_reasons_merged,
+    }
+    debug_path = parser_debug_dir / (safe_name + ".json")
+    with open(debug_path, "w", encoding="utf-8") as f:
+        json.dump(debug_payload, f, ensure_ascii=False, indent=2)
+
+    # 105 單檔：產出題塊預覽，方便判斷是否一 block 多題
+    if "105" in pdf_path.name or slug == "y105":
+        preview_lines = ["# 105 前 10 個題塊預覽（start/end + 前 120 字）", ""]
+        for idx, ((qno, block_text), (_, start, end)) in enumerate(zip(blocks_full[:10], block_spans[:10])):
+            preview_lines.append("=== block {} (qno={}, start={}, end={}, len={}) ===".format(idx, qno, start, end, end - start))
+            preview_lines.append(block_text[:120].replace("\n", " "))
+            preview_lines.append("")
+        preview_path = parser_debug_dir / "105_blocks_preview.txt"
+        preview_path.write_text("\n".join(preview_lines), encoding="utf-8")
 
     missing_explanation = 0
     image_questions_count = 0
@@ -690,6 +936,7 @@ def main():
     parser.add_argument("--output-dir", default=DEFAULT_OUTPUT, help="輸出目錄（相對專案根）")
     parser.add_argument("--root", default=None, help="專案根目錄（供 Colab 指定，如 /content/mlh）")
     parser.add_argument("--debug", action="store_true", help="僅輸出第一份 PDF 前兩頁文字到 scripts/debug_pdf_sample.txt，不寫入題庫")
+    parser.add_argument("--pdf", default=None, help="只處理指定檔名的單一 PDF（例如 105-126002工程管理學科.pdf）")
     args = parser.parse_args()
 
     if args.root:
@@ -712,6 +959,12 @@ def main():
     if not pdf_files:
         print("在 {} 下沒有找到 .pdf 檔案".format(input_dir))
         return 1
+    if args.pdf:
+        pdf_files = [p for p in pdf_files if p.name == args.pdf]
+        if not pdf_files:
+            print("找不到指定 PDF: {}".format(args.pdf))
+            return 1
+        print("單檔模式: {}".format(args.pdf), flush=True)
 
     if args.debug:
         sample_path = pdf_files[0]
@@ -740,6 +993,21 @@ def main():
 
     n_total = len(pdf_files)
     print("共 {} 份 PDF，預估需 10～20 分鐘，請勿中斷。".format(n_total), flush=True)
+
+    # 匯入會覆蓋 public/data，先備份至 scripts/backup/<timestamp>/public_data/ 以利回滾
+    if output_dir.exists() and any(output_dir.iterdir()):
+        backup_root = ROOT / "scripts" / "backup"
+        backup_root.mkdir(parents=True, exist_ok=True)
+        ts = datetime.now().strftime("%Y-%m-%dT%H-%M-%S")
+        backup_dir = backup_root / ts / "public_data"
+        try:
+            shutil.copytree(output_dir, backup_dir)
+            print("已備份 {} -> {}".format(output_dir, backup_dir), flush=True)
+        except Exception as e:
+            print("備份警告: {}（繼續匯入）".format(e), flush=True)
+
+    wrote_question_files = []
+    total_written_questions = 0
     for idx, pdf_path in enumerate(pdf_files, 1):
         print("處理中 ({}/{}): {} ...".format(idx, n_total, pdf_path.name), flush=True)
         slug, questions = process_pdf(
@@ -748,15 +1016,17 @@ def main():
         out_file = output_dir / ("questions_" + slug + ".json")
         with open(out_file, "w", encoding="utf-8") as f:
             json.dump(questions, f, ensure_ascii=False, indent=2)
+        wrote_question_files.append(str(out_file.resolve()))
+        total_written_questions += len(questions)
         label = slug_to_label(slug)
         datasets.append({"id": slug, "label": label, "file": "questions_" + slug + ".json"})
         print("  {} -> {} ({} 題)".format(pdf_path.name, out_file.name, len(questions)), flush=True)
 
     index = {"datasets": datasets, "default_dataset": "ALL"}
-    write_text(output_dir / "index.json", json.dumps(index, ensure_ascii=False, indent=2))
+    index_path = output_dir / "index.json"
+    write_text(index_path, json.dumps(index, ensure_ascii=False, indent=2))
 
     # 原子版本號：前端用 data_version 對所有 /data/* 與 /assets/* 請求加 ?v= 避免 PWA 吃到舊快取
-    from datetime import datetime
     data_version = datetime.now().strftime("%Y-%m-%d-%H%M")
     generated_at = datetime.now().isoformat()
     meta = {"data_version": data_version, "generated_at": generated_at}
@@ -767,6 +1037,22 @@ def main():
     write_text(report_path, json.dumps(report, ensure_ascii=False, indent=2))
     print("index.json、各 questions_*.json 已寫入 {}".format(output_dir))
     print("import_report.json 已寫入 {}".format(report_path))
+
+    # 匯出寫入路徑與總題數，供質檢 / CI 驗證（應等於 Imported）
+    output_root = str(output_dir.resolve())
+    import_output = {
+        "outputRoot": output_root,
+        "wroteQuestionsFiles": wrote_question_files,
+        "wroteIndex": str(index_path.resolve()),
+        "totalWrittenQuestions": total_written_questions,
+    }
+    print("IMPORT_OUTPUT_JSON: {}".format(json.dumps(import_output, ensure_ascii=False)))
+    # 以下 5 行供 PR/診斷一次 grep 鎖定寫入結果（小LIN 第三階段）
+    print("IMPORT_OUTPUT_JSON={}".format(output_root), flush=True)
+    print("wroteIndex={}".format(import_output["wroteIndex"]), flush=True)
+    print("wroteQuestionsFilesCount={}".format(len(wrote_question_files)), flush=True)
+    print("wroteQuestionsFilesSample={}".format(wrote_question_files[:3]), flush=True)
+    print("totalWrittenQuestions={}".format(total_written_questions), flush=True)
 
     total_missing = sum(r.get("missing_image_count", 0) for r in report)
     if total_missing > 0:

@@ -14,8 +14,8 @@
     ],
     "answer_index": 2,
     "explanation": "",
-    "source": "y90009#p1#Q1",
-    "source_display": "90009 工程管理學科 第1頁 第1題"
+    "source": "y90009#Q1",
+    "source_display": "90009 工程管理學科 第1題"
   },
   {
     "id": "y90009_2",
@@ -32,8 +32,26 @@
     ],
     "answer_index": 0,
     "explanation": "",
-    "source": "y90009#p1#Q2",
-    "source_display": "90009 工程管理學科 第1頁 第2題"
+    "source": "y90009#Q2",
+    "source_display": "90009 工程管理學科 第2題"
+  },
+  {
+    "id": "y90009_3",
+    "subject": "室內裝修工程管理",
+    "year": 3,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列何者為節能標章？① ② ③ ④ 。",
+    "options": [
+      "(選項未辨識)",
+      "(選項未辨識)",
+      "(選項未辨識)",
+      "(選項未辨識)"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y90009#Q3",
+    "source_display": "90009 工程管理學科 第3題"
   },
   {
     "id": "y90009_4",
@@ -50,8 +68,8 @@
     ],
     "answer_index": 3,
     "explanation": "",
-    "source": "y90009#p1#Q4",
-    "source_display": "90009 工程管理學科 第1頁 第4題"
+    "source": "y90009#Q4",
+    "source_display": "90009 工程管理學科 第4題"
   },
   {
     "id": "y90009_5",
@@ -68,8 +86,8 @@
     ],
     "answer_index": 0,
     "explanation": "",
-    "source": "y90009#p1#Q5",
-    "source_display": "90009 工程管理學科 第1頁 第5題"
+    "source": "y90009#Q5",
+    "source_display": "90009 工程管理學科 第5題"
   },
   {
     "id": "y90009_6",
@@ -86,8 +104,8 @@
     ],
     "answer_index": 2,
     "explanation": "",
-    "source": "y90009#p1#Q6",
-    "source_display": "90009 工程管理學科 第1頁 第6題",
+    "source": "y90009#Q6",
+    "source_display": "90009 工程管理學科 第6題",
     "assets": [
       {
         "type": "image",
@@ -111,8 +129,8 @@
     ],
     "answer_index": 1,
     "explanation": "",
-    "source": "y90009#p1#Q7",
-    "source_display": "90009 工程管理學科 第1頁 第7題"
+    "source": "y90009#Q7",
+    "source_display": "90009 工程管理學科 第7題"
   },
   {
     "id": "y90009_8",
@@ -129,8 +147,8 @@
     ],
     "answer_index": 3,
     "explanation": "",
-    "source": "y90009#p1#Q8",
-    "source_display": "90009 工程管理學科 第1頁 第8題"
+    "source": "y90009#Q8",
+    "source_display": "90009 工程管理學科 第8題"
   },
   {
     "id": "y90009_9",
@@ -143,11 +161,1666 @@
       "經濟部能源局",
       "環境保護署",
       "國家發展委員會",
-      "衛\n生福利部。\n二氧化碳當量。\n碳足跡"
+      "衛\n生福利部。"
     ],
     "answer_index": 1,
     "explanation": "",
-    "source": "y90009#p1#Q9",
-    "source_display": "90009 工程管理學科 第1頁 第9題"
+    "source": "y90009#Q9",
+    "source_display": "90009 工程管理學科 第9題"
+  },
+  {
+    "id": "y90009_10",
+    "subject": "室內裝修工程管理",
+    "year": 10,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "溫室氣體減量及管理法中所稱：一單位之排放額度相當於允許排放",
+    "options": [
+      "一公斤",
+      "一立方米",
+      "一公噸",
+      "一公擔 之\n二氧化碳當量。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y90009#Q10",
+    "source_display": "90009 工程管理學科 第10題"
+  },
+  {
+    "id": "y90009_11",
+    "subject": "室內裝修工程管理",
+    "year": 11,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列何者不是全球暖化帶來的影響？",
+    "options": [
+      "洪水",
+      "熱浪",
+      "地震",
+      "旱災。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y90009#Q11",
+    "source_display": "90009 工程管理學科 第11題"
+  },
+  {
+    "id": "y90009_12",
+    "subject": "室內裝修工程管理",
+    "year": 12,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列何種方法無法減少二氧化碳？",
+    "options": [
+      "想吃多少儘量點，剩下可當廚餘回收",
+      "選購當地、當季食材，減少運輸\n碳足跡",
+      "多吃蔬菜，少吃肉",
+      "自備杯筷，減少免洗用具垃圾量。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y90009#Q12",
+    "source_display": "90009 工程管理學科 第12題"
+  },
+  {
+    "id": "y90009_13",
+    "subject": "室內裝修工程管理",
+    "year": 13,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列何者不會減少溫室氣體的排放？",
+    "options": [
+      "减少使用煤、石油等化石燃料",
+      "大量植樹造林，禁止亂砍亂伐",
+      "增高\n燃煤氣體排放的煙囪",
+      "開發太陽能、水能等新能源。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y90009#Q13",
+    "source_display": "90009 工程管理學科 第13題"
+  },
+  {
+    "id": "y90009_14",
+    "subject": "室內裝修工程管理",
+    "year": 14,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "關於綠色採購的敘述，下列何者錯誤？",
+    "options": [
+      "採購回收材料製造之物品",
+      "採購的產品對環境及人類健康有最小的\n傷害性",
+      "選購產品對環境傷害較少、污染程度較低者",
+      "以精美包裝為主要首選。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y90009#Q14",
+    "source_display": "90009 工程管理學科 第14題"
+  },
+  {
+    "id": "y90009_15",
+    "subject": "室內裝修工程管理",
+    "year": 15,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "一旦大氣中的二氧化碳含量增加，會引起哪一種後果？",
+    "options": [
+      "溫室效應惡化",
+      "臭氧層破洞",
+      "冰期來臨",
+      "海平面下\n降。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y90009#Q15",
+    "source_display": "90009 工程管理學科 第15題"
+  },
+  {
+    "id": "y90009_16",
+    "subject": "室內裝修工程管理",
+    "year": 16,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "關於建築中常用的金屬玻璃帷幕牆，下列何者敘述正確？",
+    "options": [
+      "玻璃帷幕牆的使用能節省室內空調使用",
+      "玻璃帷\n幕牆適用於臺灣，讓夏天的室內產生溫暖的感覺",
+      "在溫度高的國家，建築使用金屬玻璃帷幕會造成日照輻射\n熱，產生室內「溫室效應」",
+      "臺灣的氣候溼熱，特別適合在大樓以金屬玻璃帷幕作為建材。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y90009#Q16",
+    "source_display": "90009 工程管理學科 第16題"
+  },
+  {
+    "id": "y90009_17",
+    "subject": "室內裝修工程管理",
+    "year": 17,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列何者不是能源之類型？",
+    "options": [
+      "電力",
+      "壓縮空氣",
+      "蒸汽",
+      "熱傳。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y90009#Q17",
+    "source_display": "90009 工程管理學科 第17題"
+  },
+  {
+    "id": "y90009_18",
+    "subject": "室內裝修工程管理",
+    "year": 18,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "我國已制定能源管理系統標準為",
+    "options": [
+      "CNS 50001",
+      "CNS 12681",
+      "CNS 14001",
+      "CNS 22000。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y90009#Q18",
+    "source_display": "90009 工程管理學科 第18題",
+    "assets": [
+      {
+        "type": "image",
+        "src": "/assets/q/y90009/Q018.png",
+        "alt": "題目圖"
+      }
+    ]
+  },
+  {
+    "id": "y90009_19",
+    "subject": "室內裝修工程管理",
+    "year": 19,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "台灣電力公司所謂的離峰用電時段為何？",
+    "options": [
+      "22：30~07：30",
+      "22：00~07：00",
+      "23：00~08：00",
+      "23：30~08：30。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y90009#Q19",
+    "source_display": "90009 工程管理學科 第19題"
+  },
+  {
+    "id": "y90009_20",
+    "subject": "室內裝修工程管理",
+    "year": 20,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "經濟部能源局規定，下列何種燈泡在額定消耗功率超過 25W 時不得使用？",
+    "options": [
+      "白熾燈泡",
+      "LED 燈泡",
+      "省電燈泡",
+      "螢光燈管。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y90009#Q20",
+    "source_display": "90009 工程管理學科 第20題"
+  },
+  {
+    "id": "y90009_21",
+    "subject": "室內裝修工程管理",
+    "year": 21,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列哪一項的能源效率標示級數較省電？",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y90009#Q21",
+    "source_display": "90009 工程管理學科 第21題",
+    "assets": [
+      {
+        "type": "image",
+        "src": "/assets/q/y90009/Q021.png",
+        "alt": "題目圖"
+      }
+    ]
+  },
+  {
+    "id": "y90009_22",
+    "subject": "室內裝修工程管理",
+    "year": 22,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列何者不是目前台灣主要的發電方式？",
+    "options": [
+      "燃煤",
+      "燃氣",
+      "核能",
+      "地熱。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y90009#Q22",
+    "source_display": "90009 工程管理學科 第22題"
+  },
+  {
+    "id": "y90009_23",
+    "subject": "室內裝修工程管理",
+    "year": 23,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "有關延長線及電線的使用，下列敘述何者錯誤？",
+    "options": [
+      "拔下延長線插頭時，應手握插頭取下",
+      "使用中之延長線如\n有異味產生，屬正常現象不須理會",
+      "應避開火源，以免外覆塑膠熔解，致使用時造成短路",
+      "使用老舊之延長\n線，容易造成短路、漏電或觸電等危險情形，應立即更換。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y90009#Q23",
+    "source_display": "90009 工程管理學科 第23題"
+  },
+  {
+    "id": "y90009_24",
+    "subject": "室內裝修工程管理",
+    "year": 24,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "有關觸電的處理方式，下列敘述何者錯誤？",
+    "options": [
+      "應立刻將觸電者拉離現場",
+      "把電源開關關閉",
+      "通知救護人員",
+      "1\n使用絕緣的裝備來移除電源。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y90009#Q24",
+    "source_display": "90009 工程管理學科 第24題"
+  },
+  {
+    "id": "y90009_25",
+    "subject": "室內裝修工程管理",
+    "year": 25,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "目前電費單中，係以「度」為收費依據，請問下列何者為其單位？",
+    "options": [
+      "kW",
+      "kWh",
+      "kJ",
+      "kJh。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y90009#Q25",
+    "source_display": "90009 工程管理學科 第25題"
+  },
+  {
+    "id": "y90009_26",
+    "subject": "室內裝修工程管理",
+    "year": 26,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "依據台灣電力公司三段式時間電價(尖峰、半尖峰及離峰時段)的規定，請問哪個時段電價最便宜？",
+    "options": [
+      "尖峰時段",
+      "夏月半尖峰時段",
+      "非夏月半尖峰時段",
+      "離峰時段。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y90009#Q26",
+    "source_display": "90009 工程管理學科 第26題"
+  },
+  {
+    "id": "y90009_27",
+    "subject": "室內裝修工程管理",
+    "year": 27,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "當電力設備遭遇電源不足或輸配電設備受限制時，導致用戶暫停或減少用電的情形，常以下列何者名稱出現？",
+    "options": [
+      "停電",
+      "限電",
+      "斷電",
+      "配電。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y90009#Q27",
+    "source_display": "90009 工程管理學科 第27題"
+  },
+  {
+    "id": "y90009_28",
+    "subject": "室內裝修工程管理",
+    "year": 28,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "照明控制可以達到節能與省電費的好處，下列何種方法最適合一般住宅社區兼顧節能、經濟性與實際照明需\n求？",
+    "options": [
+      "加裝DALI全自動控制系統",
+      "走廊與地下停車場選用紅外線感應控制電燈",
+      "全面調低照度需求",
+      "晚上\n關閉所有公共區域的照明。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y90009#Q28",
+    "source_display": "90009 工程管理學科 第28題"
+  },
+  {
+    "id": "y90009_29",
+    "subject": "室內裝修工程管理",
+    "year": 29,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "上班性質的商辦大樓為了降低尖峰時段用電，下列何者是錯的？",
+    "options": [
+      "使用儲冰式空調系統減少白天空調電能需\n求",
+      "白天有陽光照明，所以白天可以將照明設備全關掉",
+      "汰換老舊電梯馬達並使用變頻控制",
+      "電梯設定隔層\n停止控制，減少頻繁啟動。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y90009#Q29",
+    "source_display": "90009 工程管理學科 第29題"
+  },
+  {
+    "id": "y90009_30",
+    "subject": "室內裝修工程管理",
+    "year": 30,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "為了節能與降低電費的需求，家電產品的正確選用應該如何？",
+    "options": [
+      "選用高功率的產品效率較高",
+      "優先選用取得\n節能標章的產品",
+      "設備沒有壞，還是堪用，繼續用，不會增加支出",
+      "選用能效分級數字較高的產品，效率較\n高，5級的比1級的電器產品更省電。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y90009#Q30",
+    "source_display": "90009 工程管理學科 第30題"
+  },
+  {
+    "id": "y90009_31",
+    "subject": "室內裝修工程管理",
+    "year": 31,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "有效而正確的節能從選購產品開始，就一般而言，下列的因素中，何者是選購電氣設備的最優先考量項目？",
+    "options": [
+      "用電量消耗電功率是多少瓦攸關電費支出，用電量小的優先",
+      "採購價格比較，便宜優先",
+      "安全第一，一定\n要通過安規檢驗合格",
+      "名人或演藝明星推薦，應該口碑較好。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y90009#Q31",
+    "source_display": "90009 工程管理學科 第31題"
+  },
+  {
+    "id": "y90009_32",
+    "subject": "室內裝修工程管理",
+    "year": 32,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "高效率燈具如果要降低眩光的不舒服，下列何者與降低刺眼眩光影響無關？",
+    "options": [
+      "光源下方加裝擴散板或擴散膜",
+      "燈具的遮光板",
+      "光源的色溫",
+      "採用間接照明。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y90009#Q32",
+    "source_display": "90009 工程管理學科 第32題"
+  },
+  {
+    "id": "y90009_33",
+    "subject": "室內裝修工程管理",
+    "year": 33,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "一般而言，螢光燈的發光效率與長度有關嗎？",
+    "options": [
+      "有關，越長的螢光燈管，發光效率越高",
+      "無關，發光效率只\n與燈管直徑有關",
+      "有關，越長的螢光燈管，發光效率越低",
+      "無關，發光效率只與色溫有關。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y90009#Q33",
+    "source_display": "90009 工程管理學科 第33題"
+  },
+  {
+    "id": "y90009_34",
+    "subject": "室內裝修工程管理",
+    "year": 34,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "用電熱爐煮火鍋，採用中溫 50%加熱，比用高溫100%加熱，將同一鍋水煮開，下列何者是對的？",
+    "options": [
+      "中溫50%\n加熱比較省電",
+      "高溫100%加熱比較省電",
+      "中溫50%加熱，電流反而比較大",
+      "兩種方式用電量是一樣的。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y90009#Q34",
+    "source_display": "90009 工程管理學科 第34題"
+  },
+  {
+    "id": "y90009_35",
+    "subject": "室內裝修工程管理",
+    "year": 35,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "電力公司為降低尖峰負載時段超載停電風險，將尖峰時段電價費率(每度電單價)提高，離峰時段的費率降低，\n引導用戶轉移部分負載至離峰時段，這種電能管理策略稱為",
+    "options": [
+      "需量競價",
+      "時間電價",
+      "可停電力",
+      "表燈用戶彈\n性電價。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y90009#Q35",
+    "source_display": "90009 工程管理學科 第35題"
+  },
+  {
+    "id": "y90009_36",
+    "subject": "室內裝修工程管理",
+    "year": 36,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "集合式住宅的地下停車場需要維持通風良好的空氣品質，又要兼顧節能效益，下列的排風扇控制方式何者是\n不恰當的？",
+    "options": [
+      "淘汰老舊排風扇，改裝取得節能標章、適當容量高效率風扇",
+      "兩天一次運轉通風扇就好了",
+      "結\n合一氧化碳偵測器，自動啟動/停止控制",
+      "設定每天早晚二次定期啟動排風扇。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y90009#Q36",
+    "source_display": "90009 工程管理學科 第36題"
+  },
+  {
+    "id": "y90009_37",
+    "subject": "室內裝修工程管理",
+    "year": 37,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "大樓電梯為了節能及生活便利需求，可設定部分控制功能，下列何者是錯誤或不正確的做法？",
+    "options": [
+      "加感應開關，\n無人時自動關燈與通風扇",
+      "縮短每次開門/關門的時間",
+      "電梯設定隔樓層停靠，減少頻繁啟動",
+      "電梯馬達加裝\n變頻控制。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y90009#Q37",
+    "source_display": "90009 工程管理學科 第37題"
+  },
+  {
+    "id": "y90009_38",
+    "subject": "室內裝修工程管理",
+    "year": 38,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "為了節能及兼顧冰箱的保溫效果，下列何者是錯誤或不正確的做法？",
+    "options": [
+      "冰箱內上下層間不要塞滿，以利冷藏\n對流",
+      "食物存放位置紀錄清楚，一次拿齊食物，減少開門次數",
+      "冰箱門的密封壓條如果鬆弛，無法緊密關門，\n應儘速更新修復",
+      "冰箱內食物擺滿塞滿，效益最高。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y90009#Q38",
+    "source_display": "90009 工程管理學科 第38題"
+  },
+  {
+    "id": "y90009_39",
+    "subject": "室內裝修工程管理",
+    "year": 39,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "就加熱及節能觀點來評比，電鍋剩飯持續保溫至隔天再食用，與先放冰箱冷藏，隔天用微波爐加熱，下列何\n者是對的？",
+    "options": [
+      "持續保溫較省電",
+      "微波爐再加熱比較省電又方便",
+      "兩者一樣",
+      "優先選電鍋保溫方式，因為馬上\n就可以吃。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y90009#Q39",
+    "source_display": "90009 工程管理學科 第39題"
+  },
+  {
+    "id": "y90009_40",
+    "subject": "室內裝修工程管理",
+    "year": 40,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "不斷電系統UPS與緊急發電機的裝置都是應付臨時性供電意外狀況，停電時，下列的陳述何者是對的？",
+    "options": [
+      "緊\n急發電機會先啟動，不斷電系統 UPS是後備的",
+      "不斷電系統 UPS先啟動，緊急發電機是後備的",
+      "兩者同時啟\n動",
+      "不斷電系統UPS可以撐比較久。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y90009#Q40",
+    "source_display": "90009 工程管理學科 第40題"
+  },
+  {
+    "id": "y90009_41",
+    "subject": "室內裝修工程管理",
+    "year": 41,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列何者為非再生能源？",
+    "options": [
+      "地熱能",
+      "核能",
+      "太陽能",
+      "水力能。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y90009#Q41",
+    "source_display": "90009 工程管理學科 第41題"
+  },
+  {
+    "id": "y90009_42",
+    "subject": "室內裝修工程管理",
+    "year": 42,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "使用暖氣機時，下列何種為節能之作法？",
+    "options": [
+      "設定室內溫度在 20℃",
+      "設定室內溫度在 24℃",
+      "開一點窗維持通風",
+      "開啟風扇增加對流。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y90009#Q42",
+    "source_display": "90009 工程管理學科 第42題"
+  },
+  {
+    "id": "y90009_43",
+    "subject": "室內裝修工程管理",
+    "year": 43,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "一般桶裝瓦斯(液化石油氣)主要成分為",
+    "options": [
+      "丙烷",
+      "甲烷",
+      "辛烷",
+      "乙炔 及丁烷。\n2"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y90009#Q43",
+    "source_display": "90009 工程管理學科 第43題"
+  },
+  {
+    "id": "y90009_44",
+    "subject": "室內裝修工程管理",
+    "year": 44,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "在正常操作，且提供相同使用條件之情形下，下列何種暖氣設備之能源效率最高？",
+    "options": [
+      "冷暖氣機",
+      "電熱風扇",
+      "電熱輻射機",
+      "電暖爐。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y90009#Q44",
+    "source_display": "90009 工程管理學科 第44題"
+  },
+  {
+    "id": "y90009_45",
+    "subject": "室內裝修工程管理",
+    "year": 45,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列何者熱水器所需能源費用最少？",
+    "options": [
+      "電熱水器",
+      "天然瓦斯熱水器",
+      "柴油鍋爐熱水器",
+      "熱泵熱水器。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y90009#Q45",
+    "source_display": "90009 工程管理學科 第45題"
+  },
+  {
+    "id": "y90009_46",
+    "subject": "室內裝修工程管理",
+    "year": 46,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "某公司希望能進行節能減碳，為地球盡點心力，以下何種作為並不恰當？",
+    "options": [
+      "將採購規定列入以下文字：「汰\n換設備時首先考慮具有節能標章、或能源效率 1級之產品」",
+      "盤查所有能源使用設備",
+      "實行能源管理",
+      "為考慮\n經營成本，汰換設備時採買最便宜的機種。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y90009#Q46",
+    "source_display": "90009 工程管理學科 第46題"
+  },
+  {
+    "id": "y90009_47",
+    "subject": "室內裝修工程管理",
+    "year": 47,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "冷氣外洩會造成能源之消耗，下列何者最耗能？",
+    "options": [
+      "全開式有氣簾",
+      "全開式無氣簾",
+      "自動門有氣簾",
+      "自動門無\n氣簾。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y90009#Q47",
+    "source_display": "90009 工程管理學科 第47題"
+  },
+  {
+    "id": "y90009_48",
+    "subject": "室內裝修工程管理",
+    "year": 48,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列何者不是潔淨能源？",
+    "options": [
+      "風能",
+      "地熱",
+      "太陽能",
+      "頁岩氣。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y90009#Q48",
+    "source_display": "90009 工程管理學科 第48題"
+  },
+  {
+    "id": "y90009_49",
+    "subject": "室內裝修工程管理",
+    "year": 49,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "有關再生能源的使用限制，下列何者敘述有誤？",
+    "options": [
+      "風力、太陽能屬間歇性能源，供應不穩定",
+      "不易受天氣影\n響",
+      "需較大的土地面積",
+      "設置成本較高。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y90009#Q49",
+    "source_display": "90009 工程管理學科 第49題"
+  },
+  {
+    "id": "y90009_50",
+    "subject": "室內裝修工程管理",
+    "year": 50,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "全球暖化潛勢(Global Warming Potential, GWP)是衡量溫室氣體對全球暖化的影響，下列何者表現較差？",
+    "options": [
+      "200",
+      "300",
+      "400",
+      "500。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y90009#Q50",
+    "source_display": "90009 工程管理學科 第50題"
+  },
+  {
+    "id": "y90009_51",
+    "subject": "室內裝修工程管理",
+    "year": 51,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "有關台灣能源發展所面臨的挑戰，下列何者為非？",
+    "options": [
+      "進口能源依存度高，能源安全易受國際影響",
+      "化石能源\n所占比例高，溫室氣體減量壓力大",
+      "自產能源充足，不需仰賴進口",
+      "能源密集度較先進國家仍有改善空間。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y90009#Q51",
+    "source_display": "90009 工程管理學科 第51題"
+  },
+  {
+    "id": "y90009_52",
+    "subject": "室內裝修工程管理",
+    "year": 52,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "若發生瓦斯外洩之情形，下列處理方法何者錯誤？",
+    "options": [
+      "應先關閉瓦斯爐或熱水器等開關",
+      "緩慢地打開門窗，讓\n瓦斯自然飄散",
+      "開啟電風扇，加強空氣流動",
+      "在漏氣止住前，應保持警戒，嚴禁煙火。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y90009#Q52",
+    "source_display": "90009 工程管理學科 第52題"
+  },
+  {
+    "id": "y90009_53",
+    "subject": "室內裝修工程管理",
+    "year": 53,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "全球暖化潛勢(Global Warming Potential, GWP)是衡量溫室氣體對全球暖化的影響，其中是以何者為比較基準？",
+    "options": [
+      "CO",
+      "CH",
+      "SF",
+      "NO。\n2 4 6 2"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y90009#Q53",
+    "source_display": "90009 工程管理學科 第53題"
+  },
+  {
+    "id": "y90009_54",
+    "subject": "室內裝修工程管理",
+    "year": 54,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "有關建築之外殼節能設計，下列敘述何者錯誤？",
+    "options": [
+      "開窗區域設置遮陽設備",
+      "大開窗面避免設置於東西日曬方\n位",
+      "做好屋頂隔熱設施",
+      "宜採用全面玻璃造型設計，以利自然採光。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y90009#Q54",
+    "source_display": "90009 工程管理學科 第54題"
+  },
+  {
+    "id": "y90009_55",
+    "subject": "室內裝修工程管理",
+    "year": 55,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列何者燈泡發光效率最高？",
+    "options": [
+      "LED 燈泡",
+      "省電燈泡",
+      "白熾燈泡",
+      "鹵素燈泡。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y90009#Q55",
+    "source_display": "90009 工程管理學科 第55題"
+  },
+  {
+    "id": "y90009_56",
+    "subject": "室內裝修工程管理",
+    "year": 56,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "有關吹風機使用注意事項，下列敘述何者有誤？",
+    "options": [
+      "請勿在潮濕的地方使用，以免觸電危險",
+      "應保持吹風機進、\n出風口之空氣流通，以免造成過熱",
+      "應避免長時間使用，使用時應保持適當的距離",
+      "可用來作為烘乾棉被及\n床單等用途。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y90009#Q56",
+    "source_display": "90009 工程管理學科 第56題"
+  },
+  {
+    "id": "y90009_57",
+    "subject": "室內裝修工程管理",
+    "year": 57,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列何者是造成聖嬰現象發生的主要原因？",
+    "options": [
+      "臭氧層破洞",
+      "溫室效應",
+      "霧霾",
+      "颱風。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y90009#Q57",
+    "source_display": "90009 工程管理學科 第57題"
+  },
+  {
+    "id": "y90009_58",
+    "subject": "室內裝修工程管理",
+    "year": 58,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "為了避免漏電而危害生命安全，下列何者不是正確的做法？",
+    "options": [
+      "做好設備金屬外殼的接地",
+      "有濕氣的用電場\n合，線路加裝漏電斷路器",
+      "加強定期的漏電檢查及維護",
+      "使用保險絲來防止漏電的危險性。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y90009#Q58",
+    "source_display": "90009 工程管理學科 第58題"
+  },
+  {
+    "id": "y90009_59",
+    "subject": "室內裝修工程管理",
+    "year": 59,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "用電設備的線路保護用電力熔絲(保險絲)經常燒斷，造成停電的不便，下列何者不是正確的作法？",
+    "options": [
+      "換大一級\n或大兩級規格的保險絲或斷路器就不會燒斷了",
+      "減少線路連接的電氣設備，降低用電量",
+      "重新設計線路，改\n較粗的導線或用兩迴路並聯",
+      "提高用電設備的功率因數。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y90009#Q59",
+    "source_display": "90009 工程管理學科 第59題"
+  },
+  {
+    "id": "y90009_60",
+    "subject": "室內裝修工程管理",
+    "year": 60,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "政府為推廣節能設備而補助民眾汰換老舊設備，下列何者的節電效益最佳？",
+    "options": [
+      "將桌上檯燈光源由螢光燈換為 L\nED 燈",
+      "優先淘汰10年以上的老舊冷氣機為能源效率標示分級中之一級冷氣機",
+      "汰換電風扇，改裝設能源效率\n標示分級為一級的冷氣機",
+      "因為經費有限，選擇便宜的產品比較重要。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y90009#Q60",
+    "source_display": "90009 工程管理學科 第60題",
+    "assets": [
+      {
+        "type": "image",
+        "src": "/assets/q/y90009/Q060.png",
+        "alt": "題目圖"
+      }
+    ]
+  },
+  {
+    "id": "y90009_61",
+    "subject": "室內裝修工程管理",
+    "year": 61,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列何者與冷氣機的節能無關？",
+    "options": [
+      "定期清潔過濾網",
+      "設定定時運轉",
+      "調高設定溫度",
+      "不運轉時，拔掉電源插\n頭。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y90009#Q61",
+    "source_display": "90009 工程管理學科 第61題"
+  },
+  {
+    "id": "y90009_62",
+    "subject": "室內裝修工程管理",
+    "year": 62,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "電源插座堆積灰塵可能引起電氣意外火災，維護保養時的正確做法是",
+    "options": [
+      "可以先用刷子刷去積塵",
+      "直接用吹風\n機吹開灰塵就可以了",
+      "應先關閉電源總開關箱內控制該插座的分路開關",
+      "可以用金屬接點清潔劑噴在插座中\n去除銹蝕。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y90009#Q62",
+    "source_display": "90009 工程管理學科 第62題"
+  },
+  {
+    "id": "y90009_63",
+    "subject": "室內裝修工程管理",
+    "year": 63,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "漏電影響節電成效，並且影響用電安全，簡易的查修方法為",
+    "options": [
+      "電氣材料行買支驗電起子，碰觸電氣設備的外\n殼，就可查出漏電與否",
+      "用手碰觸就可以知道有無漏電",
+      "用三用電表檢查",
+      "看電費單有無紀錄。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y90009#Q63",
+    "source_display": "90009 工程管理學科 第63題"
+  },
+  {
+    "id": "y90009_64",
+    "subject": "室內裝修工程管理",
+    "year": 64,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "使用了10幾年的通風換氣扇老舊又骯髒，噪音又大，維修時採取下列哪一種對策最為正確及節能？",
+    "options": [
+      "定期拆\n下來清洗油垢",
+      "不必再猶豫，10年以上的電扇效率偏低，直接換為高效率通風扇",
+      "直接噴沙拉脫清潔劑就可\n以了，省錢又方便",
+      "高效率通風扇較貴，換同機型的廠內備用品就好了。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y90009#Q64",
+    "source_display": "90009 工程管理學科 第64題"
+  },
+  {
+    "id": "y90009_65",
+    "subject": "室內裝修工程管理",
+    "year": 65,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "電氣設備維修時，在關掉電源後，最好停留 1 至5分鐘才開始檢修，其主要的理由是",
+    "options": [
+      "先平靜心情，做好準備\n3\n才動手",
+      "讓機器設備降溫下來再查修",
+      "讓裡面的電容器有時間放電完畢，才安全",
+      "法規沒有規定，這完全沒\n有必要。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y90009#Q65",
+    "source_display": "90009 工程管理學科 第65題"
+  },
+  {
+    "id": "y90009_66",
+    "subject": "室內裝修工程管理",
+    "year": 66,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "電氣設備裝設於有潮濕水氣的環境時，最應該優先檢查及確認的措施是",
+    "options": [
+      "有無在線路上裝設漏電斷路器",
+      "電\n氣設備上有無安全保險絲",
+      "有無過載及過熱保護設備",
+      "有無可能傾倒及生鏽。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y90009#Q66",
+    "source_display": "90009 工程管理學科 第66題"
+  },
+  {
+    "id": "y90009_67",
+    "subject": "室內裝修工程管理",
+    "year": 67,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "為保持中央空調主機效率，每",
+    "options": [
+      "半",
+      "1",
+      "1.5",
+      "2 年應請維護廠商或保養人員檢視中央空調主機。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y90009#Q67",
+    "source_display": "90009 工程管理學科 第67題"
+  },
+  {
+    "id": "y90009_68",
+    "subject": "室內裝修工程管理",
+    "year": 68,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "家庭用電最大宗來自於",
+    "options": [
+      "空調及照明",
+      "電腦",
+      "電視",
+      "吹風機。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y90009#Q68",
+    "source_display": "90009 工程管理學科 第68題"
+  },
+  {
+    "id": "y90009_69",
+    "subject": "室內裝修工程管理",
+    "year": 69,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "為減少日照所增加空調負載，下列何種處理方式是錯誤的？",
+    "options": [
+      "窗戶裝設窗簾或貼隔熱紙",
+      "將窗戶或門開啟，\n讓屋內外空氣自然對流",
+      "屋頂加裝隔熱材、高反射率塗料或噴水",
+      "於屋頂進行薄層綠化。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y90009#Q69",
+    "source_display": "90009 工程管理學科 第69題"
+  },
+  {
+    "id": "y90009_70",
+    "subject": "室內裝修工程管理",
+    "year": 70,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "電冰箱放置處，四周應預留離牆多少公分之散熱空間，且過熱的食物，應等冷卻後才放入冰箱，以達省電效\n果？",
+    "options": [
+      "5",
+      "10",
+      "15",
+      "20。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y90009#Q70",
+    "source_display": "90009 工程管理學科 第70題"
+  },
+  {
+    "id": "y90009_71",
+    "subject": "室內裝修工程管理",
+    "year": 71,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列何項不是照明節能改善需優先考量之因素？",
+    "options": [
+      "照明方式是否適當",
+      "燈具之外型是否美觀",
+      "照明之品質是\n否適當",
+      "照度是否適當。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y90009#Q71",
+    "source_display": "90009 工程管理學科 第71題"
+  },
+  {
+    "id": "y90009_72",
+    "subject": "室內裝修工程管理",
+    "year": 72,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "醫院、飯店或宿舍之熱水系統耗能大，要設置熱水系統時，應優先選用何種熱水系統較節能？",
+    "options": [
+      "電能熱水系\n統",
+      "熱泵熱水系統",
+      "瓦斯熱水系統",
+      "重油熱水系統。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y90009#Q72",
+    "source_display": "90009 工程管理學科 第72題"
+  },
+  {
+    "id": "y90009_73",
+    "subject": "室內裝修工程管理",
+    "year": 73,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "如下圖，你知道這是什麼標章嗎？",
+    "options": [
+      "省水標章",
+      "環保標章",
+      "奈米標章",
+      "能源效率標示。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y90009#Q73",
+    "source_display": "90009 工程管理學科 第73題",
+    "assets": [
+      {
+        "type": "image",
+        "src": "/assets/q/y90009/Q073.png",
+        "alt": "題目圖"
+      }
+    ]
+  },
+  {
+    "id": "y90009_74",
+    "subject": "室內裝修工程管理",
+    "year": 74,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "台灣電力公司電價表所指的夏月用電月份(電價比其他月份高)是為",
+    "options": [
+      "4/1~7/31",
+      "5/1~8/31",
+      "6/1~9/30",
+      "7/1~10/31。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y90009#Q74",
+    "source_display": "90009 工程管理學科 第74題"
+  },
+  {
+    "id": "y90009_75",
+    "subject": "室內裝修工程管理",
+    "year": 75,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "屋頂隔熱可有效降低空調用電，下列何項措施較不適當？",
+    "options": [
+      "屋頂儲水隔熱",
+      "屋頂綠化",
+      "於適當位置設置太陽\n能板發電同時加以隔熱",
+      "鋪設隔熱磚。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y90009#Q75",
+    "source_display": "90009 工程管理學科 第75題"
+  },
+  {
+    "id": "y90009_76",
+    "subject": "室內裝修工程管理",
+    "year": 76,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "電腦機房使用時間長、耗電量大，下列何項措施對電腦機房之用電管理較不適當？",
+    "options": [
+      "機房設定較低之溫度",
+      "設置冷熱通道",
+      "使用較高效率之空調設備",
+      "使用新型高效能電腦設備。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y90009#Q76",
+    "source_display": "90009 工程管理學科 第76題"
+  },
+  {
+    "id": "y90009_77",
+    "subject": "室內裝修工程管理",
+    "year": 77,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列有關省水標章的敘述何者正確？",
+    "options": [
+      "省水標章是環保署為推動使用節水器材，特別研定以作為消費者辨識\n省水產品的一種標誌",
+      "獲得省水標章的產品並無嚴格測試，所以對消費者並無一定的保障",
+      "省水標章能激勵\n廠商重視省水產品的研發與製造，進而達到推廣節水良性循環之目的",
+      "省水標章除有用水設備外，亦可使用\n於冷氣或冰箱上。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y90009#Q77",
+    "source_display": "90009 工程管理學科 第77題"
+  },
+  {
+    "id": "y90009_78",
+    "subject": "室內裝修工程管理",
+    "year": 78,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "透過淋浴習慣的改變就可以節約用水，以下的何種方式正確？",
+    "options": [
+      "淋浴時抹肥皂，無需將蓮蓬頭暫時關上",
+      "等\n待熱水前流出的冷水可以用水桶接起來再利用",
+      "淋浴流下的水不可以刷洗浴室地板",
+      "淋浴沖澡流下的水，可\n以儲蓄洗菜使用。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y90009#Q78",
+    "source_display": "90009 工程管理學科 第78題"
+  },
+  {
+    "id": "y90009_79",
+    "subject": "室內裝修工程管理",
+    "year": 79,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "家人洗澡時，一個接一個連續洗，也是一種有效的省水方式嗎？",
+    "options": [
+      "是，因為可以節省等熱水流出所流失的冷\n水",
+      "否，這跟省水沒什麼關係，不用這麼麻煩",
+      "否，因為等熱水時流出的水量不多",
+      "有可能省水也可能不省\n水，無法定論。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y90009#Q79",
+    "source_display": "90009 工程管理學科 第79題"
+  },
+  {
+    "id": "y90009_80",
+    "subject": "室內裝修工程管理",
+    "year": 80,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列何種方式有助於節省洗衣機的用水量？",
+    "options": [
+      "洗衣機洗滌的衣物盡量裝滿，一次洗完",
+      "購買洗衣機時選購有\n省水標章的洗衣機，可有效節約用水",
+      "無需將衣物適當分類",
+      "洗濯衣物時盡量選擇高水位才洗的乾淨。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y90009#Q80",
+    "source_display": "90009 工程管理學科 第80題"
+  },
+  {
+    "id": "y90009_81",
+    "subject": "室內裝修工程管理",
+    "year": 81,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "如果水龍頭流量過大，下列何種處理方式是錯誤的？",
+    "options": [
+      "加裝節水墊片或起波器",
+      "加裝可自動關閉水龍頭的自\n動感應器",
+      "直接換裝沒有省水標章的水龍頭",
+      "直接調整水龍頭到適當水量。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y90009#Q81",
+    "source_display": "90009 工程管理學科 第81題"
+  },
+  {
+    "id": "y90009_82",
+    "subject": "室內裝修工程管理",
+    "year": 82,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "洗菜水、洗碗水、洗衣水、洗澡水等等的清洗水，不可直接利用來做什麼用途？",
+    "options": [
+      "洗地板",
+      "沖馬桶",
+      "澆花",
+      "飲用水。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y90009#Q82",
+    "source_display": "90009 工程管理學科 第82題"
+  },
+  {
+    "id": "y90009_83",
+    "subject": "室內裝修工程管理",
+    "year": 83,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "如果馬桶有不正常的漏水問題，下列何者處理方式是錯誤的？",
+    "options": [
+      "因為馬桶還能正常使用，所以不用著急，等\n到不能用時再報修即可",
+      "立刻檢查馬桶水箱零件有無鬆脫，並確認有無漏水",
+      "滴幾滴食用色素到水箱裡，檢\n查有無有色水流進馬桶，代表可能有漏水",
+      "通知水電行或檢修人員來檢修，徹底根絕漏水問題。\n4"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y90009#Q83",
+    "source_display": "90009 工程管理學科 第83題"
+  },
+  {
+    "id": "y90009_84",
+    "subject": "室內裝修工程管理",
+    "year": 84,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "「度」是水費的計量單位，你知道一度水的容量大約有多少？",
+    "options": [
+      "2,000 公升",
+      "3000 個600cc的寶特瓶",
+      "1立方公\n尺的水量",
+      "3立方公尺的水量。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y90009#Q84",
+    "source_display": "90009 工程管理學科 第84題"
+  },
+  {
+    "id": "y90009_85",
+    "subject": "室內裝修工程管理",
+    "year": 85,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "臺灣在一年中什麼時期會比較缺水(即枯水期)？",
+    "options": [
+      "6月至9月",
+      "9月至12月",
+      "11月至次年4月",
+      "臺灣全年不缺\n水。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y90009#Q85",
+    "source_display": "90009 工程管理學科 第85題"
+  },
+  {
+    "id": "y90009_86",
+    "subject": "室內裝修工程管理",
+    "year": 86,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列何種現象不是直接造成台灣缺水的原因？",
+    "options": [
+      "降雨季節分佈不平均，有時候連續好幾個月不下雨，有時又\n會下起豪大雨",
+      "地形山高坡陡，所以雨一下很快就會流入大海",
+      "因為民生與工商業用水需求量都愈來愈大，\n所以缺水季節很容易無水可用",
+      "台灣地區夏天過熱，致蒸發量過大。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y90009#Q86",
+    "source_display": "90009 工程管理學科 第86題"
+  },
+  {
+    "id": "y90009_87",
+    "subject": "室內裝修工程管理",
+    "year": 87,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "冷凍食品該如何讓它退冰，才是既「節能」又「省水」？",
+    "options": [
+      "直接用水沖食物強迫退冰",
+      "使用微波爐解凍快速\n又方便",
+      "烹煮前盡早拿出來放置退冰",
+      "用熱水浸泡，每 5 分鐘更換一次。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y90009#Q87",
+    "source_display": "90009 工程管理學科 第87題"
+  },
+  {
+    "id": "y90009_88",
+    "subject": "室內裝修工程管理",
+    "year": 88,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "洗碗、洗菜用何種方式可以達到清洗又省水的效果？",
+    "options": [
+      "對著水龍頭直接沖洗，且要盡量將水龍頭開大才能確\n保洗的乾淨",
+      "將適量的水放在盆槽內洗濯，以減少用水",
+      "把碗盤、菜等浸在水盆裡，再開水龍頭拼命沖水",
+      "用熱水及冷水大量交叉沖洗達到最佳清洗效果。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y90009#Q88",
+    "source_display": "90009 工程管理學科 第88題"
+  },
+  {
+    "id": "y90009_89",
+    "subject": "室內裝修工程管理",
+    "year": 89,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "解決台灣水荒(缺水)問題的無效對策是",
+    "options": [
+      "興建水庫、蓄洪(豐)濟枯",
+      "全面節約用水",
+      "水資源重複利用，海水淡\n化…等",
+      "積極推動全民運動。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y90009#Q89",
+    "source_display": "90009 工程管理學科 第89題"
+  },
+  {
+    "id": "y90009_90",
+    "subject": "室內裝修工程管理",
+    "year": 90,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "如下圖，你知道這是什麼標章嗎？",
+    "options": [
+      "奈米標章",
+      "環保標章",
+      "省水標章",
+      "節能標章。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y90009#Q90",
+    "source_display": "90009 工程管理學科 第90題",
+    "assets": [
+      {
+        "type": "image",
+        "src": "/assets/q/y90009/Q090.png",
+        "alt": "題目圖"
+      }
+    ]
+  },
+  {
+    "id": "y90009_91",
+    "subject": "室內裝修工程管理",
+    "year": 91,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "澆花的時間何時較為適當，水分不易蒸發又對植物最好？",
+    "options": [
+      "正中午",
+      "下午時段",
+      "清晨或傍晚",
+      "半夜十二點。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y90009#Q91",
+    "source_display": "90009 工程管理學科 第91題"
+  },
+  {
+    "id": "y90009_92",
+    "subject": "室內裝修工程管理",
+    "year": 92,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列何種方式沒有辦法降低洗衣機之使用水量，所以不建議採用？",
+    "options": [
+      "使用低水位清洗",
+      "選擇快洗行程",
+      "兩、\n三件衣服也丟洗衣機洗",
+      "選擇有自動調節水量的洗衣機，洗衣清洗前先脫水 1 次。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y90009#Q92",
+    "source_display": "90009 工程管理學科 第92題"
+  },
+  {
+    "id": "y90009_93",
+    "subject": "室內裝修工程管理",
+    "year": 93,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列何種省水馬桶的使用觀念與方式是錯誤的？",
+    "options": [
+      "選用衛浴設備時最好能採用省水標章馬桶",
+      "如果家裡的馬\n桶是傳統舊式，可以加裝二段式沖水配件",
+      "省水馬桶因為水量較小，會有沖不乾淨的問題，所以應該多沖幾\n次",
+      "因為馬桶是家裡用水的大宗，所以應該盡量採用省水馬桶來節約用水。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y90009#Q93",
+    "source_display": "90009 工程管理學科 第93題"
+  },
+  {
+    "id": "y90009_94",
+    "subject": "室內裝修工程管理",
+    "year": 94,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列何種洗車方式無法節約用水？",
+    "options": [
+      "使用有開關的水管可以隨時控制出水",
+      "用水桶及海綿抹布擦洗",
+      "用水管\n加上噴槍強力沖洗",
+      "利用機械自動洗車，洗車水處理循環使用。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y90009#Q94",
+    "source_display": "90009 工程管理學科 第94題"
+  },
+  {
+    "id": "y90009_95",
+    "subject": "室內裝修工程管理",
+    "year": 95,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列何種現象無法看出家裡有漏水的問題？",
+    "options": [
+      "水龍頭打開使用時，水表的指針持續在轉動",
+      "牆面、地面或天\n花板忽然出現潮濕的現象",
+      "馬桶裡的水常在晃動，或是沒辦法止水",
+      "水費有大幅度增加。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y90009#Q95",
+    "source_display": "90009 工程管理學科 第95題"
+  },
+  {
+    "id": "y90009_96",
+    "subject": "室內裝修工程管理",
+    "year": 96,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "蓮篷頭出水量過大時，下列何者無法達到省水？",
+    "options": [
+      "換裝有省水標章的低流量(5~10L/min)蓮蓬頭",
+      "淋浴時水量開\n大，無需改變使用方法",
+      "洗澡時間盡量縮短，塗抹肥皂時要把蓮蓬頭關起來",
+      "調整熱水器水量到適中位置。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y90009#Q96",
+    "source_display": "90009 工程管理學科 第96題"
+  },
+  {
+    "id": "y90009_97",
+    "subject": "室內裝修工程管理",
+    "year": 97,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "自來水淨水步驟，何者為非？",
+    "options": [
+      "混凝",
+      "沉澱",
+      "過濾",
+      "煮沸。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y90009#Q97",
+    "source_display": "90009 工程管理學科 第97題"
+  },
+  {
+    "id": "y90009_98",
+    "subject": "室內裝修工程管理",
+    "year": 98,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "為了取得良好的水資源，通常在河川的哪一段興建水庫？",
+    "options": [
+      "上游",
+      "中游",
+      "下游",
+      "下游出口。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y90009#Q98",
+    "source_display": "90009 工程管理學科 第98題"
+  },
+  {
+    "id": "y90009_99",
+    "subject": "室內裝修工程管理",
+    "year": 99,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "台灣是屬缺水地區，每人每年實際分配到可利用水量是世界平均值的多少？",
+    "options": [
+      "六分之一",
+      "二分之一",
+      "四分之\n一",
+      "五分之一。\n100. (3) 台灣年降雨量是世界平均值的 2.6 倍，卻仍屬缺水地區，原因何者為非？"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y90009#Q99",
+    "source_display": "90009 工程管理學科 第99題"
   }
 ]

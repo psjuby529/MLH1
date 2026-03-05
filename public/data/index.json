@@ -66,14 +66,14 @@
       "file": "questions_y90009.json"
     },
     {
-      "id": "a",
-      "label": "a",
-      "file": "questions_a.json"
+      "id": "zonghe_a",
+      "label": "綜合A",
+      "file": "questions_zonghe_a.json"
     },
     {
-      "id": "b",
-      "label": "b",
-      "file": "questions_b.json"
+      "id": "zonghe_b",
+      "label": "綜合B",
+      "file": "questions_zonghe_b.json"
     }
   ],
   "default_dataset": "ALL"

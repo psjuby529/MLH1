@@ -14,8 +14,8 @@
     ],
     "answer_index": 1,
     "explanation": "",
-    "source": "y110#p1#Q1",
-    "source_display": "110 工程管理學科 第1頁 第1題"
+    "source": "y110#Q1",
+    "source_display": "110 工程管理學科 第1題"
   },
   {
     "id": "y110_2",
@@ -32,8 +32,8 @@
     ],
     "answer_index": 2,
     "explanation": "",
-    "source": "y110#p1#Q2",
-    "source_display": "110 工程管理學科 第1頁 第2題"
+    "source": "y110#Q2",
+    "source_display": "110 工程管理學科 第2題"
   },
   {
     "id": "y110_3",
@@ -50,8 +50,8 @@
     ],
     "answer_index": 3,
     "explanation": "",
-    "source": "y110#p1#Q3",
-    "source_display": "110 工程管理學科 第1頁 第3題"
+    "source": "y110#Q3",
+    "source_display": "110 工程管理學科 第3題"
   },
   {
     "id": "y110_4",
@@ -68,8 +68,8 @@
     ],
     "answer_index": 1,
     "explanation": "",
-    "source": "y110#p1#Q4",
-    "source_display": "110 工程管理學科 第1頁 第4題"
+    "source": "y110#Q4",
+    "source_display": "110 工程管理學科 第4題"
   },
   {
     "id": "y110_5",
@@ -86,8 +86,8 @@
     ],
     "answer_index": 1,
     "explanation": "",
-    "source": "y110#p1#Q5",
-    "source_display": "110 工程管理學科 第1頁 第5題"
+    "source": "y110#Q5",
+    "source_display": "110 工程管理學科 第5題"
   },
   {
     "id": "y110_6",
@@ -104,8 +104,8 @@
     ],
     "answer_index": 1,
     "explanation": "",
-    "source": "y110#p1#Q6",
-    "source_display": "110 工程管理學科 第1頁 第6題"
+    "source": "y110#Q6",
+    "source_display": "110 工程管理學科 第6題"
   },
   {
     "id": "y110_7",
@@ -122,8 +122,8 @@
     ],
     "answer_index": 3,
     "explanation": "",
-    "source": "y110#p1#Q7",
-    "source_display": "110 工程管理學科 第1頁 第7題"
+    "source": "y110#Q7",
+    "source_display": "110 工程管理學科 第7題"
   },
   {
     "id": "y110_8",
@@ -140,8 +140,8 @@
     ],
     "answer_index": 2,
     "explanation": "",
-    "source": "y110#p1#Q8",
-    "source_display": "110 工程管理學科 第1頁 第8題"
+    "source": "y110#Q8",
+    "source_display": "110 工程管理學科 第8題"
   },
   {
     "id": "y110_9",
@@ -154,11 +154,964 @@
       "2.88 才",
       "1.44 才",
       "14.4 才",
-      "28.8 才。\n象或其他相關人士之肢體攻擊、言語侮辱、恐嚇、威脅等霸凌或暴力事件，致發生精神或身體上\n的傷害」此等危害可歸類於下列何種職業危害？"
+      "28.8 才。"
     ],
     "answer_index": 0,
     "explanation": "",
-    "source": "y110#p1#Q9",
-    "source_display": "110 工程管理學科 第1頁 第9題"
+    "source": "y110#Q9",
+    "source_display": "110 工程管理學科 第9題"
+  },
+  {
+    "id": "y110_10",
+    "subject": "室內裝修工程管理",
+    "year": 10,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "「勞工於職場上遭受主管或同事利用職務或地位上的優勢予以不當之對待，及遭受顧客、服務對\n象或其他相關人士之肢體攻擊、言語侮辱、恐嚇、威脅等霸凌或暴力事件，致發生精神或身體上\n的傷害」此等危害可歸類於下列何種職業危害？",
+    "options": [
+      "社會心理性",
+      "物理性",
+      "化學性",
+      "生物性。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y110#Q10",
+    "source_display": "110 工程管理學科 第10題"
+  },
+  {
+    "id": "y110_11",
+    "subject": "室內裝修工程管理",
+    "year": 11,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "室內裝修工程中，如作業施工場所高度差超過",
+    "options": [
+      "1",
+      "1.5",
+      "2",
+      "2.5 公尺以上時，應設置能使勞工\n安全上下之設備。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y110#Q11",
+    "source_display": "110 工程管理學科 第11題"
+  },
+  {
+    "id": "y110_12",
+    "subject": "室內裝修工程管理",
+    "year": 12,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "關於輕隔間的封面板施作，下述那一項是錯誤",
+    "options": [
+      "面板以縱向固定為佳",
+      "自攻螺絲固定的垂直間距\n約為 20-25 ㎝",
+      "封板前應檢查面板是否完整無暇疵",
+      "螺絲固定若產生歪斜，敲平整處理即可。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y110#Q12",
+    "source_display": "110 工程管理學科 第12題"
+  },
+  {
+    "id": "y110_13",
+    "subject": "室內裝修工程管理",
+    "year": 13,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "雇主要求確實管制人員不得進入吊舉物下方，可避免下列何種災害發生？",
+    "options": [
+      "感電",
+      "物體飛落",
+      "缺\n氧",
+      "墜落。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y110#Q13",
+    "source_display": "110 工程管理學科 第13題"
+  },
+  {
+    "id": "y110_14",
+    "subject": "室內裝修工程管理",
+    "year": 14,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "砌磚前應將磚",
+    "options": [
+      "隨地亂放",
+      "在烈日下曝曬乾",
+      "充分吸收水份",
+      "秤重量。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y110#Q14",
+    "source_display": "110 工程管理學科 第14題"
+  },
+  {
+    "id": "y110_15",
+    "subject": "室內裝修工程管理",
+    "year": 15,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "一公尺約為多少台尺",
+    "options": [
+      "3.3",
+      "3.937",
+      "3.025",
+      "3.28。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y110#Q15",
+    "source_display": "110 工程管理學科 第15題"
+  },
+  {
+    "id": "y110_16",
+    "subject": "室內裝修工程管理",
+    "year": 16,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "工地的照明與通風設施是屬於",
+    "options": [
+      "管制環境",
+      "作業環境",
+      "休憩環境",
+      "倉儲環境。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y110#Q16",
+    "source_display": "110 工程管理學科 第16題"
+  },
+  {
+    "id": "y110_17",
+    "subject": "室內裝修工程管理",
+    "year": 17,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "抽屜為了開拉更方便，常於側板裝配那一種五金？",
+    "options": [
+      "止木",
+      "滑軌",
+      "木釘",
+      "活頁。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y110#Q17",
+    "source_display": "110 工程管理學科 第17題"
+  },
+  {
+    "id": "y110_18",
+    "subject": "室內裝修工程管理",
+    "year": 18,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "任職於某公司的程式設計工程師，因職務所編寫之電腦程式，如果沒有特別以契約約定，則該電\n腦程式重製之權利歸屬下列何者？",
+    "options": [
+      "公司與編寫程式之工程師共有",
+      "編寫程式之工程師",
+      "公司",
+      "公司全體股東共有。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y110#Q18",
+    "source_display": "110 工程管理學科 第18題"
+  },
+  {
+    "id": "y110_19",
+    "subject": "室內裝修工程管理",
+    "year": 19,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "砌磚摔漿的工具是以",
+    "options": [
+      "水杓最好",
+      "桃形鏝刀",
+      "方鏟",
+      "磚鏟。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y110#Q19",
+    "source_display": "110 工程管理學科 第19題"
+  },
+  {
+    "id": "y110_20",
+    "subject": "室內裝修工程管理",
+    "year": 20,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列何種洗車方式無法節約用水？",
+    "options": [
+      "用水桶及海綿抹布擦洗",
+      "利用機械自動洗車，洗車水處理循\n環使用",
+      "使用有開關的水管可以隨時控制出水",
+      "用水管強力沖洗。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y110#Q20",
+    "source_display": "110 工程管理學科 第20題"
+  },
+  {
+    "id": "y110_21",
+    "subject": "室內裝修工程管理",
+    "year": 21,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列何者不是「建築技術規則」規定之防火設備",
+    "options": [
+      "室內消防栓",
+      "裝設於防火區劃處之撒水幕",
+      "防\n火窗",
+      "防火門。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y110#Q21",
+    "source_display": "110 工程管理學科 第21題"
+  },
+  {
+    "id": "y110_22",
+    "subject": "室內裝修工程管理",
+    "year": 22,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "能掌握現存材料的種類及數量，檢視每日工作所需的材料是否夠用，是",
+    "options": [
+      "物料管理",
+      "人事管理",
+      "工程管理",
+      "財務管理。\n110"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y110#Q22",
+    "source_display": "110 工程管理學科 第22題"
+  },
+  {
+    "id": "y110_23",
+    "subject": "室內裝修工程管理",
+    "year": 23,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "室內裝修施工中較常遭遇感電災害的工作是",
+    "options": [
+      "清理搬運",
+      "框架拆除",
+      "貼磁磚",
+      "電動工具使用。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y110#Q23",
+    "source_display": "110 工程管理學科 第23題"
+  },
+  {
+    "id": "y110_24",
+    "subject": "室內裝修工程管理",
+    "year": 24,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列何者「違反」個人資料保護法？",
+    "options": [
+      "縣市政府提供村里長轄區內符合資格之老人名冊供發放敬\n老金",
+      "學校將應屆畢業生之住家地址提供補習班招生使用",
+      "網路購物公司為辦理退貨，將客戶之\n住家地址提供予宅配公司",
+      "公司基於人事管理之特定目的，張貼榮譽榜揭示績優員工姓名。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y110#Q24",
+    "source_display": "110 工程管理學科 第24題"
+  },
+  {
+    "id": "y110_25",
+    "subject": "室內裝修工程管理",
+    "year": 25,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "輕隔間牆使用岩綿填充牆體，主要目的在",
+    "options": [
+      "增加價值感",
+      "加強結構",
+      "防火",
+      "增加柔軟度。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y110#Q25",
+    "source_display": "110 工程管理學科 第25題"
+  },
+  {
+    "id": "y110_26",
+    "subject": "室內裝修工程管理",
+    "year": 26,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列哪種措施不能用來降低空氣污染？",
+    "options": [
+      "汰換老舊柴油車",
+      "汽機車強制定期排氣檢測",
+      "禁止露天\n燃燒稻草",
+      "汽機車加裝消音器。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y110#Q26",
+    "source_display": "110 工程管理學科 第26題"
+  },
+  {
+    "id": "y110_27",
+    "subject": "室內裝修工程管理",
+    "year": 27,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "有關著作權的下列敘述何者錯誤？",
+    "options": [
+      "在網路散布盜版光碟，不管有沒有營利，會構成侵害著作權",
+      "在網路的部落格看到一篇文章很棒，只要註明出處，就可以把文章複製在自己的部落格",
+      "將補\n習班老師的上課內容錄音檔，放到網路上拍賣，會構成侵害著作權",
+      "撰寫碩博士論文時，在合理\n範圍內引用他人的著作，只要註明出處，不會構成侵害著作權。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y110#Q27",
+    "source_display": "110 工程管理學科 第27題"
+  },
+  {
+    "id": "y110_28",
+    "subject": "室內裝修工程管理",
+    "year": 28,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "勞工使用之移動梯，下列敘述何者有錯誤？",
+    "options": [
+      "需有堅固之構造",
+      "材質不得有顯著之損傷、腐蝕",
+      "寬度應在 20 ㎝以上",
+      "應採取防止滑溜或其他防止轉動之必要措施。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y110#Q28",
+    "source_display": "110 工程管理學科 第28題"
+  },
+  {
+    "id": "y110_29",
+    "subject": "室內裝修工程管理",
+    "year": 29,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "因為工作本身需要高度專業技術及知識，所以在對客戶服務時應",
+    "options": [
+      "不用理會顧客的意見",
+      "以專業\n機密為由，不用對客戶說明及解釋",
+      "若價錢較低，就敷衍了事",
+      "保持親切、真誠、客戶至上的態\n度。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y110#Q29",
+    "source_display": "110 工程管理學科 第29題"
+  },
+  {
+    "id": "y110_30",
+    "subject": "室內裝修工程管理",
+    "year": 30,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "依「建築技術規則」規定，自室內經由陽台或排煙室始得進入之安全梯，稱為",
+    "options": [
+      "一般安全梯",
+      "室\n內安全梯",
+      "特別安全梯",
+      "戶外安全梯。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y110#Q30",
+    "source_display": "110 工程管理學科 第30題"
+  },
+  {
+    "id": "y110_31",
+    "subject": "室內裝修工程管理",
+    "year": 31,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "依「建築技術規則」規定，特別安全梯之樓梯間及排煙室之四週牆壁，應具有一小時以上防火時\n效，其天花板及牆面之裝修，應為",
+    "options": [
+      "耐燃三級",
+      "耐燃二級",
+      "耐燃四級",
+      "耐燃一級 材料。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y110#Q31",
+    "source_display": "110 工程管理學科 第31題"
+  },
+  {
+    "id": "y110_32",
+    "subject": "室內裝修工程管理",
+    "year": 32,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "申請室內裝修審核圖說時之裝修詳細圖之比例尺不得小於",
+    "options": [
+      "三十分之一",
+      "五十分之一",
+      "一百分之\n一",
+      "二百分之一。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y110#Q32",
+    "source_display": "110 工程管理學科 第32題",
+    "assets": [
+      {
+        "type": "image",
+        "src": "/assets/q/y110/Q032.png",
+        "alt": "題目圖"
+      }
+    ]
+  },
+  {
+    "id": "y110_33",
+    "subject": "室內裝修工程管理",
+    "year": 33,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "依中華民國國家標準 CNS 規定，在電氣設備圖說標準圖例中 表示",
+    "options": [
+      "分電盤",
+      "漏電開關箱",
+      "安全開關",
+      "電燈總配電盤。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y110#Q33",
+    "source_display": "110 工程管理學科 第33題",
+    "assets": [
+      {
+        "type": "image",
+        "src": "/assets/q/y110/Q033.png",
+        "alt": "題目圖"
+      }
+    ]
+  },
+  {
+    "id": "y110_34",
+    "subject": "室內裝修工程管理",
+    "year": 34,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "室內裝修從業者指不包括",
+    "options": [
+      "土木技師",
+      "營造業",
+      "開業建築師",
+      "室內裝修業。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y110#Q34",
+    "source_display": "110 工程管理學科 第34題"
+  },
+  {
+    "id": "y110_35",
+    "subject": "室內裝修工程管理",
+    "year": 35,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "廚房設置之排油煙機為下列何者？",
+    "options": [
+      "吹吸型換氣裝置",
+      "整體換氣裝置",
+      "局部排氣裝置",
+      "排氣煙\n囪。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y110#Q35",
+    "source_display": "110 工程管理學科 第35題"
+  },
+  {
+    "id": "y110_36",
+    "subject": "室內裝修工程管理",
+    "year": 36,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "標示為 1：50 比例之書櫃立面圖，用一般的尺去量有 2 公分寬、4 公分高，其實際的面積為多少\nm2",
+    "options": [
+      "2",
+      "6",
+      "8",
+      "4。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y110#Q36",
+    "source_display": "110 工程管理學科 第36題"
+  },
+  {
+    "id": "y110_37",
+    "subject": "室內裝修工程管理",
+    "year": 37,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列何者不屬於弱電設備",
+    "options": [
+      "電話系統",
+      "播音、廣播系統",
+      "緊急照明系統",
+      "火警警報器。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y110#Q37",
+    "source_display": "110 工程管理學科 第37題"
+  },
+  {
+    "id": "y110_38",
+    "subject": "室內裝修工程管理",
+    "year": 38,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "一坪不等於",
+    "options": [
+      "36 才",
+      "6 台尺×6 台尺",
+      "1.8m×1.8m",
+      "30.3m2。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y110#Q38",
+    "source_display": "110 工程管理學科 第38題"
+  },
+  {
+    "id": "y110_39",
+    "subject": "室內裝修工程管理",
+    "year": 39,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列敘述，何者為錯誤？",
+    "options": [
+      "1 甲=3000 坪",
+      "布捲尺測量比鋼尺測量誤差大",
+      "木材可以「才」作為\n計算單位",
+      "放樣工作重要，必須小心謹慎。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y110#Q39",
+    "source_display": "110 工程管理學科 第39題"
+  },
+  {
+    "id": "y110_40",
+    "subject": "室內裝修工程管理",
+    "year": 40,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "依中華民國國家標準 CNS 規定，建築圖符號及圖例，下圖之門窗編號符號代表為何？",
+    "options": [
+      "普通窗",
+      "落地窗",
+      "甲種防火窗",
+      "氣密窗。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y110#Q40",
+    "source_display": "110 工程管理學科 第40題",
+    "assets": [
+      {
+        "type": "image",
+        "src": "/assets/q/y110/Q040.png",
+        "alt": "題目圖"
+      }
+    ]
+  },
+  {
+    "id": "y110_41",
+    "subject": "室內裝修工程管理",
+    "year": 41,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列何者樹種為闊葉樹種",
+    "options": [
+      "檜木",
+      "雲杉",
+      "梧桐",
+      "肖楠。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y110#Q41",
+    "source_display": "110 工程管理學科 第41題"
+  },
+  {
+    "id": "y110_42",
+    "subject": "室內裝修工程管理",
+    "year": 42,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列關於膠合玻璃的敘述那一項是錯誤？",
+    "options": [
+      "利用高溫高壓在中間夾 PVB 樹脂膜而成",
+      "具有隔音效\n果",
+      "中間膜的選擇多，使玻璃具有美感",
+      "安全性高但不具節能效率。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y110#Q42",
+    "source_display": "110 工程管理學科 第42題"
+  },
+  {
+    "id": "y110_43",
+    "subject": "室內裝修工程管理",
+    "year": 43,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "開業建築師所簽證符合規定之替代現況圖之比例尺不得小於",
+    "options": [
+      "五十分之一",
+      "五百分之一",
+      "二百分\n之一",
+      "一百分之一。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y110#Q43",
+    "source_display": "110 工程管理學科 第43題"
+  },
+  {
+    "id": "y110_44",
+    "subject": "室內裝修工程管理",
+    "year": 44,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "輕隔間上下槽立柱多半採用",
+    "options": [
+      "熱浸鍍鋅",
+      "預力",
+      "紅丹防銹",
+      "鍍鋅塗裝 輕量型鋼。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y110#Q44",
+    "source_display": "110 工程管理學科 第44題"
+  },
+  {
+    "id": "y110_45",
+    "subject": "室內裝修工程管理",
+    "year": 45,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "解決台灣水荒(缺水)問題的無效對策是",
+    "options": [
+      "興建水庫、蓄洪(豐)濟枯",
+      "水資源重複利用，海水淡\n化…等",
+      "積極推動全民體育運動",
+      "全面節約用水。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y110#Q45",
+    "source_display": "110 工程管理學科 第45題"
+  },
+  {
+    "id": "y110_46",
+    "subject": "室內裝修工程管理",
+    "year": 46,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "一空間為長 5m、寬 4m、高 3m，若地面全部鋪設瓷磚施工，其數量共計為",
+    "options": [
+      "6.05 坪",
+      "18.15 平方\n公尺",
+      "18.15 坪",
+      "6.05 平方公尺。\n110"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y110#Q46",
+    "source_display": "110 工程管理學科 第46題"
+  },
+  {
+    "id": "y110_47",
+    "subject": "室內裝修工程管理",
+    "year": 47,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "構造物之剖面圖，如右圖上層細線 是表示",
+    "options": [
+      "油漆",
+      "粉刷",
+      "不須加工",
+      "敲平。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y110#Q47",
+    "source_display": "110 工程管理學科 第47題",
+    "assets": [
+      {
+        "type": "image",
+        "src": "/assets/q/y110/Q047.png",
+        "alt": "題目圖"
+      }
+    ]
+  },
+  {
+    "id": "y110_48",
+    "subject": "室內裝修工程管理",
+    "year": 48,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "勞工於礦纖板、石膏板等材料構築之夾層天花板從事作業，為防止勞工踏穿墜落，規劃安全通道\n時，於天花板支架上架設適當強度且寬度在多少公分以上之踏板？",
+    "options": [
+      "10",
+      "30",
+      "40",
+      "20。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y110#Q48",
+    "source_display": "110 工程管理學科 第48題"
+  },
+  {
+    "id": "y110_49",
+    "subject": "室內裝修工程管理",
+    "year": 49,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "在生物鏈越上端的物種其體內累積持久性有機污染物(POPs)濃度將越高，危害性也將越大，這是\n說明 POPs 具有下列何種特性？",
+    "options": [
+      "高毒性",
+      "持久性",
+      "半揮發性",
+      "生物累積性。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y110#Q49",
+    "source_display": "110 工程管理學科 第49題"
+  },
+  {
+    "id": "y110_50",
+    "subject": "室內裝修工程管理",
+    "year": 50,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "關於輕隔間的施工程序，下述那一項是對的",
+    "options": [
+      "放樣→上下料及立柱角材安裝→管路埋設及隔音/隔\n熱材填充→封板→批土→完工",
+      "放樣→上下料及立柱角材安裝→第一面封板→管路埋設及隔音/隔\n熱材填充→第二面封板→批土→完工",
+      "上下料及立柱角材安裝→管路埋設→隔音/隔熱材填充→封\n板→批土→完工",
+      "放樣→管路埋設→上下料及立柱角材安裝→第一面封板→隔音/隔熱材填充→第\n二面封板→批土→完工。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y110#Q50",
+    "source_display": "110 工程管理學科 第50題"
+  },
+  {
+    "id": "y110_51",
+    "subject": "室內裝修工程管理",
+    "year": 51,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "眼內噴入化學物或其他異物，應立即使用下列何者沖洗眼睛？",
+    "options": [
+      "清水",
+      "蘇打水",
+      "稀釋的醋",
+      "牛\n奶。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y110#Q51",
+    "source_display": "110 工程管理學科 第51題"
+  },
+  {
+    "id": "y110_52",
+    "subject": "室內裝修工程管理",
+    "year": 52,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "鋸切美耐板時應選用下列何種鋸片？",
+    "options": [
+      "鋸齒角度較小之鋸片",
+      "鋸齒角度較大之鋸片",
+      "鋸齒數較多\n之鋸片",
+      "鋸齒數較少之鋸片。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y110#Q52",
+    "source_display": "110 工程管理學科 第52題"
+  },
+  {
+    "id": "y110_53",
+    "subject": "室內裝修工程管理",
+    "year": 53,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列那種不適合作為銲接的檢驗法？",
+    "options": [
+      "敲擊法",
+      "射線照像法",
+      "滲透液法",
+      "超音波法。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y110#Q53",
+    "source_display": "110 工程管理學科 第53題"
+  },
+  {
+    "id": "y110_54",
+    "subject": "室內裝修工程管理",
+    "year": 54,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "一般裝潢木工較常使用何種手工之鋸切工具？",
+    "options": [
+      "折合鋸",
+      "美式板鋸",
+      "框鋸",
+      "鋼鋸。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y110#Q54",
+    "source_display": "110 工程管理學科 第54題"
+  },
+  {
+    "id": "y110_55",
+    "subject": "室內裝修工程管理",
+    "year": 55,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "管徑 100 公厘以下之排水橫管，清潔口間距不得超過",
+    "options": [
+      "30",
+      "20",
+      "15",
+      "25 公尺。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y110#Q55",
+    "source_display": "110 工程管理學科 第55題"
+  },
+  {
+    "id": "y110_56",
+    "subject": "室內裝修工程管理",
+    "year": 56,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "丈量現況柱、梁尺寸的目的，以下敘述何者為錯誤？",
+    "options": [
+      "判斷建築物結構配置情形",
+      "控制其影響空\n間設計的因素",
+      "為計算敲除數量的依據",
+      "為分間牆配置的參考依據。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y110#Q56",
+    "source_display": "110 工程管理學科 第56題"
+  },
+  {
+    "id": "y110_57",
+    "subject": "室內裝修工程管理",
+    "year": 57,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "「酸雨」定義為雨水酸鹼值達多少以下時稱之？",
+    "options": [
+      "6.0",
+      "8.0",
+      "5.0",
+      "7.0。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y110#Q57",
+    "source_display": "110 工程管理學科 第57題"
+  },
+  {
+    "id": "y110_58",
+    "subject": "室內裝修工程管理",
+    "year": 58,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列哪一種氣體較易造成臭氧層被嚴重的破壞？",
+    "options": [
+      "二氧化硫",
+      "氟氯碳化物",
+      "二氧化碳",
+      "氮氧化合\n物。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y110#Q58",
+    "source_display": "110 工程管理學科 第58題"
+  },
+  {
+    "id": "y110_59",
+    "subject": "室內裝修工程管理",
+    "year": 59,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列那一項砌磚牆的觀念是錯誤",
+    "options": [
+      "牆身之接縫以破縫為原則",
+      "砌築時磚塊要保持乾燥以保持強度",
+      "接縫成一鉛垂線會導致載重集中",
+      "上下疊砌需交互搭扣。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y110#Q59",
+    "source_display": "110 工程管理學科 第59題"
+  },
+  {
+    "id": "y110_60",
+    "subject": "室內裝修工程管理",
+    "year": 60,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "材料構造圖例中 代表",
+    "options": [
+      "地毯",
+      "窗簾",
+      "鬆軟之保溫吸音材疊席類",
+      "輕質牆。\n複選題：\n61. (134) 丈量室内裝修工地現場柱、樑尺寸的目的，下列敘述何者正確？"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y110#Q60",
+    "source_display": "110 工程管理學科 第60題",
+    "assets": [
+      {
+        "type": "image",
+        "src": "/assets/q/y110/Q060.png",
+        "alt": "題目圖"
+      }
+    ]
   }
 ]

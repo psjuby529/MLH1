@@ -14,8 +14,8 @@
     ],
     "answer_index": 0,
     "explanation": "",
-    "source": "y90008#p1#Q1",
-    "source_display": "90008 工程管理學科 第1頁 第1題"
+    "source": "y90008#Q1",
+    "source_display": "90008 工程管理學科 第1題"
   },
   {
     "id": "y90008_2",
@@ -32,8 +32,8 @@
     ],
     "answer_index": 2,
     "explanation": "",
-    "source": "y90008#p1#Q2",
-    "source_display": "90008 工程管理學科 第1頁 第2題"
+    "source": "y90008#Q2",
+    "source_display": "90008 工程管理學科 第2題"
   },
   {
     "id": "y90008_3",
@@ -50,8 +50,8 @@
     ],
     "answer_index": 2,
     "explanation": "",
-    "source": "y90008#p1#Q3",
-    "source_display": "90008 工程管理學科 第1頁 第3題"
+    "source": "y90008#Q3",
+    "source_display": "90008 工程管理學科 第3題"
   },
   {
     "id": "y90008_4",
@@ -68,8 +68,8 @@
     ],
     "answer_index": 1,
     "explanation": "",
-    "source": "y90008#p1#Q4",
-    "source_display": "90008 工程管理學科 第1頁 第4題"
+    "source": "y90008#Q4",
+    "source_display": "90008 工程管理學科 第4題"
   },
   {
     "id": "y90008_5",
@@ -86,8 +86,8 @@
     ],
     "answer_index": 1,
     "explanation": "",
-    "source": "y90008#p1#Q5",
-    "source_display": "90008 工程管理學科 第1頁 第5題"
+    "source": "y90008#Q5",
+    "source_display": "90008 工程管理學科 第5題"
   },
   {
     "id": "y90008_6",
@@ -104,8 +104,8 @@
     ],
     "answer_index": 2,
     "explanation": "",
-    "source": "y90008#p1#Q6",
-    "source_display": "90008 工程管理學科 第1頁 第6題"
+    "source": "y90008#Q6",
+    "source_display": "90008 工程管理學科 第6題"
   },
   {
     "id": "y90008_7",
@@ -122,8 +122,8 @@
     ],
     "answer_index": 0,
     "explanation": "",
-    "source": "y90008#p1#Q7",
-    "source_display": "90008 工程管理學科 第1頁 第7題"
+    "source": "y90008#Q7",
+    "source_display": "90008 工程管理學科 第7題"
   },
   {
     "id": "y90008_8",
@@ -140,8 +140,8 @@
     ],
     "answer_index": 2,
     "explanation": "",
-    "source": "y90008#p1#Q8",
-    "source_display": "90008 工程管理學科 第1頁 第8題"
+    "source": "y90008#Q8",
+    "source_display": "90008 工程管理學科 第8題"
   },
   {
     "id": "y90008_9",
@@ -154,47 +154,1638 @@
       "重複使用",
       "回收再生",
       "環保選購",
-      "降低成本。\nBD"
+      "降低成本。"
     ],
     "answer_index": 0,
     "explanation": "",
-    "source": "y90008#p1#Q9",
-    "source_display": "90008 工程管理學科 第1頁 第9題"
+    "source": "y90008#Q9",
+    "source_display": "90008 工程管理學科 第9題"
   },
   {
-    "id": "y90008_2",
+    "id": "y90008_10",
     "subject": "室內裝修工程管理",
-    "year": 2,
+    "year": 10,
     "chapter": "ALL",
     "type": "single",
-    "question_text": "2.5",
+    "question_text": "再生能源一般是指可永續利用之能源，主要包括哪些：A.化石燃料 B.風力 C.太陽能 D.水力？",
     "options": [
+      "ACD",
+      "BCD",
+      "A\nBD",
+      "ABCD。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y90008#Q10",
+    "source_display": "90008 工程管理學科 第10題"
+  },
+  {
+    "id": "y90008_11",
+    "subject": "室內裝修工程管理",
+    "year": 11,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "何謂水足跡，下列何者是正確的？",
+    "options": [
+      "水利用的途徑",
+      "每人用水量紀錄",
+      "消費者所購買的商品，在生產過程中\n消耗的用水量",
+      "水循環的過程。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y90008#Q11",
+    "source_display": "90008 工程管理學科 第11題"
+  },
+  {
+    "id": "y90008_12",
+    "subject": "室內裝修工程管理",
+    "year": 12,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "依環境基本法第3條規定，基於國家長期利益，經濟、科技及社會發展均應兼顧環境保護。但如果經濟、科技\n及社會發展對環境有嚴重不良影響或有危害時，應以何者優先？",
+    "options": [
+      "經濟",
+      "科技",
+      "社會",
+      "環境。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y90008#Q12",
+    "source_display": "90008 工程管理學科 第12題"
+  },
+  {
+    "id": "y90008_13",
+    "subject": "室內裝修工程管理",
+    "year": 13,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "某工廠產生之廢棄物欲再利用，應依何種方式辦理？",
+    "options": [
+      "依當地環境保護局規定辦理",
+      "依環境保護署規定辦理",
+      "依經濟部規定辦理",
+      "直接給其他有需要之工廠。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y90008#Q13",
+    "source_display": "90008 工程管理學科 第13題"
+  },
+  {
+    "id": "y90008_14",
+    "subject": "室內裝修工程管理",
+    "year": 14,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "逛夜市時常有攤位在販賣滅蟑藥，下列何者正確？",
+    "options": [
+      "滅蟑藥是藥，中央主管機關為衛生福利部",
+      "滅蟑藥是環\n境衛生用藥，中央主管機關是環境保護署",
+      "只要批貨，人人皆可販賣滅蟑藥，不須領得許可執照",
+      "滅蟑藥之\n包裝上不用標示有效期限。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y90008#Q14",
+    "source_display": "90008 工程管理學科 第14題",
+    "assets": [
+      {
+        "type": "image",
+        "src": "/assets/q/y90008/Q014.png",
+        "alt": "題目圖"
+      }
+    ]
+  },
+  {
+    "id": "y90008_15",
+    "subject": "室內裝修工程管理",
+    "year": 15,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "森林面積的減少甚至消失可能導致哪些影響：A.水資源減少 B.減緩全球暖化 C.加劇全球暖化 D.降低生物多樣\n性？",
+    "options": [
+      "ACD",
+      "BCD",
+      "ABD",
+      "ABCD。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y90008#Q15",
+    "source_display": "90008 工程管理學科 第15題"
+  },
+  {
+    "id": "y90008_16",
+    "subject": "室內裝修工程管理",
+    "year": 16,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "塑膠為海洋生態的殺手，所以環保署推動「無塑海洋」政策，下列何項不是減少塑膠危害海洋生態的重要措\n施？",
+    "options": [
+      "擴大禁止免費供應塑膠袋",
+      "禁止製造、進口及販售含塑膠柔珠的清潔用品",
+      "定期進行海水水質監測",
+      "淨灘、淨海。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y90008#Q16",
+    "source_display": "90008 工程管理學科 第16題"
+  },
+  {
+    "id": "y90008_17",
+    "subject": "室內裝修工程管理",
+    "year": 17,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "違反環境保護法律或自治條例之行政法上義務，經處分機關處停工、停業處分或處新臺幣五千元以上罰鍰者，\n應接受下列何種講習？",
+    "options": [
+      "道路交通安全講習",
+      "環境講習",
+      "衛生講習",
+      "消防講習。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y90008#Q17",
+    "source_display": "90008 工程管理學科 第17題"
+  },
+  {
+    "id": "y90008_18",
+    "subject": "室內裝修工程管理",
+    "year": 18,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "綠色設計的概念為：",
+    "options": [
+      "生產成本低廉的產品",
+      "表示健康的、安全的商品",
+      "售價低廉易購買的商品",
+      "包裝紙一\n定要用綠色系統者。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y90008#Q18",
+    "source_display": "90008 工程管理學科 第18題"
+  },
+  {
+    "id": "y90008_19",
+    "subject": "室內裝修工程管理",
+    "year": 19,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列何者為環保標章？① ② ③ ④ 。",
+    "options": [
+      "(選項未辨識)",
+      "(選項未辨識)",
+      "(選項未辨識)",
+      "(選項未辨識)"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y90008#Q19",
+    "source_display": "90008 工程管理學科 第19題"
+  },
+  {
+    "id": "y90008_20",
+    "subject": "室內裝修工程管理",
+    "year": 20,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "「聖嬰現象」是指哪一區域的溫度異常升高？",
+    "options": [
+      "西太平洋表層海水",
+      "東太平洋表層海水",
+      "西印度洋表層海水",
+      "東印度洋表層海水。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y90008#Q20",
+    "source_display": "90008 工程管理學科 第20題"
+  },
+  {
+    "id": "y90008_21",
+    "subject": "室內裝修工程管理",
+    "year": 21,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "「酸雨」定義為雨水酸鹼值達多少以下時稱之？",
+    "options": [
+      "5.0",
+      "6.0",
+      "7.0",
+      "8.0。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y90008#Q21",
+    "source_display": "90008 工程管理學科 第21題"
+  },
+  {
+    "id": "y90008_22",
+    "subject": "室內裝修工程管理",
+    "year": 22,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "一般而言，水中溶氧量隨水溫之上升而呈下列哪一種趨勢？",
+    "options": [
+      "增加",
+      "減少",
+      "不變",
+      "不一定。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y90008#Q22",
+    "source_display": "90008 工程管理學科 第22題"
+  },
+  {
+    "id": "y90008_23",
+    "subject": "室內裝修工程管理",
+    "year": 23,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "二手菸中包含多種危害人體的化學物質，甚至多種物質有致癌性，會危害到下列何者的健康？",
+    "options": [
+      "只對12歲以\n1\n下孩童有影響",
+      "只對孕婦比較有影響",
+      "只有65歲以上之民眾有影響",
+      "全民皆有影響。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y90008#Q23",
+    "source_display": "90008 工程管理學科 第23題"
+  },
+  {
+    "id": "y90008_24",
+    "subject": "室內裝修工程管理",
+    "year": 24,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "二氧化碳和其他溫室氣體含量增加是造成全球暖化的主因之一，下列何種飲食方式也能降低碳排放量，對環\n境保護做出貢獻：A.少吃肉，多吃蔬菜；B.玉米產量減少時，購買玉米罐頭食用；C.選擇當地食材；D.使用免\n洗餐具，減少清洗用水與清潔劑？",
+    "options": [
+      "AB",
+      "AC",
+      "AD",
+      "ACD。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y90008#Q24",
+    "source_display": "90008 工程管理學科 第24題"
+  },
+  {
+    "id": "y90008_25",
+    "subject": "室內裝修工程管理",
+    "year": 25,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "上下班的交通方式有很多種，其中包括：A.騎腳踏車；B.搭乘大眾交通工具；C 自行開車，請將前述幾種交通\n方式之單位排碳量由少至多之排列方式為何？",
+    "options": [
+      "ABC",
+      "ACB",
+      "BAC",
+      "CBA。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y90008#Q25",
+    "source_display": "90008 工程管理學科 第25題"
+  },
+  {
+    "id": "y90008_26",
+    "subject": "室內裝修工程管理",
+    "year": 26,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列何者「不是」室內空氣污染源？",
+    "options": [
+      "建材",
+      "辦公室事務機",
+      "廢紙回收箱",
+      "油漆及塗料。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y90008#Q26",
+    "source_display": "90008 工程管理學科 第26題"
+  },
+  {
+    "id": "y90008_27",
+    "subject": "室內裝修工程管理",
+    "year": 27,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列何者不是自來水消毒採用的方式？",
+    "options": [
+      "加入臭氧",
+      "加入氯氣",
+      "紫外線消毒",
+      "加入二氧化碳。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y90008#Q27",
+    "source_display": "90008 工程管理學科 第27題"
+  },
+  {
+    "id": "y90008_28",
+    "subject": "室內裝修工程管理",
+    "year": 28,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列何者不是造成全球暖化的元凶？",
+    "options": [
+      "汽機車排放的廢氣",
+      "工廠所排放的廢氣",
+      "火力發電廠所排放的廢氣",
+      "種植樹木。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y90008#Q28",
+    "source_display": "90008 工程管理學科 第28題"
+  },
+  {
+    "id": "y90008_29",
+    "subject": "室內裝修工程管理",
+    "year": 29,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列何者不是造成臺灣水資源減少的主要因素？",
+    "options": [
+      "超抽地下水",
+      "雨水酸化",
+      "水庫淤積",
+      "濫用水資源。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y90008#Q29",
+    "source_display": "90008 工程管理學科 第29題"
+  },
+  {
+    "id": "y90008_30",
+    "subject": "室內裝修工程管理",
+    "year": 30,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列何者不是溫室效應所產生的現象？",
+    "options": [
+      "氣溫升高而使海平面上升",
+      "海溫升高造成珊瑚白化",
+      "造成全球氣候\n變遷，導致不正常暴雨、乾旱現象",
+      "造成臭氧層產生破洞。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y90008#Q30",
+    "source_display": "90008 工程管理學科 第30題"
+  },
+  {
+    "id": "y90008_31",
+    "subject": "室內裝修工程管理",
+    "year": 31,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列何者是室內空氣污染物之來源：A.使用殺蟲劑；B.使用雷射印表機；C.在室內抽煙；D.戶外的污染物飄進\n室內？",
+    "options": [
+      "ABC",
+      "BCD",
+      "ACD",
+      "ABCD。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y90008#Q31",
+    "source_display": "90008 工程管理學科 第31題"
+  },
+  {
+    "id": "y90008_32",
+    "subject": "室內裝修工程管理",
+    "year": 32,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列何者是海洋受污染的現象？",
+    "options": [
+      "形成紅潮",
+      "形成黑潮",
+      "溫室效應",
+      "臭氧層破洞。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y90008#Q32",
+    "source_display": "90008 工程管理學科 第32題"
+  },
+  {
+    "id": "y90008_33",
+    "subject": "室內裝修工程管理",
+    "year": 33,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列何者是造成臺灣雨水酸鹼(pH)值下降的主要原因？",
+    "options": [
+      "國外火山噴發",
+      "工業排放廢氣",
+      "森林減少",
+      "降雨量\n減少。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y90008#Q33",
+    "source_display": "90008 工程管理學科 第33題"
+  },
+  {
+    "id": "y90008_34",
+    "subject": "室內裝修工程管理",
+    "year": 34,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列何者是農田土壤受重金屬污染後最普遍使用之整治方法？",
+    "options": [
+      "全面挖除被污染土壤，搬到他處處理除污完\n畢再運回",
+      "以機械將表層污染土壤與下層未受污染土壤上下充分混合",
+      "藉由萃取劑淋溶、洗出等作用帶走或\n稀釋",
+      "以植生萃取。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y90008#Q34",
+    "source_display": "90008 工程管理學科 第34題"
+  },
+  {
+    "id": "y90008_35",
+    "subject": "室內裝修工程管理",
+    "year": 35,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列何者是酸雨對環境的影響？",
+    "options": [
+      "湖泊水質酸化",
+      "增加森林生長速度",
+      "土壤肥沃",
+      "增加水生動物種類。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y90008#Q35",
+    "source_display": "90008 工程管理學科 第35題"
+  },
+  {
+    "id": "y90008_36",
+    "subject": "室內裝修工程管理",
+    "year": 36,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列何者是懸浮微粒與落塵的差異？",
+    "options": [
+      "採樣地區",
+      "粒徑大小",
+      "分布濃度",
+      "物體顏色。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y90008#Q36",
+    "source_display": "90008 工程管理學科 第36題"
+  },
+  {
+    "id": "y90008_37",
+    "subject": "室內裝修工程管理",
+    "year": 37,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列何者屬地下水超抽情形？",
+    "options": [
+      "地下水抽水量「超越」天然補注量",
+      "天然補注量「超越」地下水抽水量",
+      "地\n下水抽水量「低於」降雨量",
+      "地下水抽水量「低於」天然補注量。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y90008#Q37",
+    "source_display": "90008 工程管理學科 第37題"
+  },
+  {
+    "id": "y90008_38",
+    "subject": "室內裝修工程管理",
+    "year": 38,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列何種行為無法減少「溫室氣體」排放？",
+    "options": [
+      "騎自行車取代開車",
+      "多搭乘公共運輸系統",
+      "多吃肉少蔬菜",
+      "使\n用再生紙張。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y90008#Q38",
+    "source_display": "90008 工程管理學科 第38題"
+  },
+  {
+    "id": "y90008_39",
+    "subject": "室內裝修工程管理",
+    "year": 39,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列哪一項水質濃度降低會導致河川魚類大量死亡？",
+    "options": [
+      "氨氮",
+      "溶氧",
+      "二氧化碳",
+      "生化需氧量。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y90008#Q39",
+    "source_display": "90008 工程管理學科 第39題"
+  },
+  {
+    "id": "y90008_40",
+    "subject": "室內裝修工程管理",
+    "year": 40,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列哪一項生活小習慣的改變可減少細懸浮微粒(PM )排放，共同為改善空氣品質盡一份心力",
+    "options": [
+      "少吃燒烤食物\n2.5",
       "使用吸塵器",
       "養成運動習慣",
-      "每天喝500cc的水。\n汽機車加裝消音器。\n行為",
-      "互蒙其利"
+      "每天喝500cc的水。"
     ],
     "answer_index": 0,
     "explanation": "",
-    "source": "y90008#p2#Q2",
-    "source_display": "90008 工程管理學科 第2頁 第2題"
+    "source": "y90008#Q40",
+    "source_display": "90008 工程管理學科 第40題"
   },
   {
-    "id": "y90008_2",
+    "id": "y90008_41",
     "subject": "室內裝修工程管理",
-    "year": 2,
+    "year": 41,
     "chapter": "ALL",
     "type": "single",
-    "question_text": "2.5 3\nH)？",
+    "question_text": "下列哪種措施不能用來降低空氣污染？",
+    "options": [
+      "汽機車強制定期排氣檢測",
+      "汰換老舊柴油車",
+      "禁止露天燃燒稻草",
+      "汽機車加裝消音器。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y90008#Q41",
+    "source_display": "90008 工程管理學科 第41題"
+  },
+  {
+    "id": "y90008_42",
+    "subject": "室內裝修工程管理",
+    "year": 42,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "大氣層中臭氧層有何作用？",
+    "options": [
+      "保持溫度",
+      "對流最旺盛的區域",
+      "吸收紫外線",
+      "造成光害。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y90008#Q42",
+    "source_display": "90008 工程管理學科 第42題"
+  },
+  {
+    "id": "y90008_43",
+    "subject": "室內裝修工程管理",
+    "year": 43,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "小李具有乙級廢水專責人員證照，某工廠希望以高價租用證照的方式合作，請問下列何者正確？",
+    "options": [
+      "這是違法\n行為",
+      "互蒙其利",
+      "價錢合理即可",
+      "經環保局同意即可。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y90008#Q43",
+    "source_display": "90008 工程管理學科 第43題"
+  },
+  {
+    "id": "y90008_44",
+    "subject": "室內裝修工程管理",
+    "year": 44,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "可藉由下列何者改善河川水質且兼具提供動植物良好棲地環境？",
+    "options": [
+      "運動公園",
+      "人工溼地",
+      "滯洪池",
+      "水庫。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y90008#Q44",
+    "source_display": "90008 工程管理學科 第44題"
+  },
+  {
+    "id": "y90008_45",
+    "subject": "室內裝修工程管理",
+    "year": 45,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "台北市周先生早晨在河濱公園散步時，發現有大面積的河面被染成紅色，岸邊還有許多死魚，此時周先生應\n該打電話給哪個單位通報處理？",
+    "options": [
+      "環保局",
+      "警察局",
+      "衛生局",
+      "交通局。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y90008#Q45",
+    "source_display": "90008 工程管理學科 第45題"
+  },
+  {
+    "id": "y90008_46",
+    "subject": "室內裝修工程管理",
+    "year": 46,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "台灣地區地形陡峭雨旱季分明，水資源開發不易常有缺水現象，目前推動生活污水經處理再生利用，可填補\n部分水資源，主要可供哪些用途：A.工業用水、B.景觀澆灌、C.人體飲用、D.消防用水？",
+    "options": [
+      "ACD",
+      "BCD",
+      "ABD",
+      "ABCD。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y90008#Q46",
+    "source_display": "90008 工程管理學科 第46題"
+  },
+  {
+    "id": "y90008_47",
+    "subject": "室內裝修工程管理",
+    "year": 47,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "台灣自來水之水源主要取自：",
+    "options": [
+      "海洋的水",
+      "河川及水庫的水",
+      "綠洲的水",
+      "灌溉渠道的水。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y90008#Q47",
+    "source_display": "90008 工程管理學科 第47題"
+  },
+  {
+    "id": "y90008_48",
+    "subject": "室內裝修工程管理",
+    "year": 48,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "民眾焚香燒紙錢常會產生哪些空氣污染物增加罹癌的機率：A.苯、B.細懸浮微粒(PM )、C.臭氧(O)、D.甲烷(C",
     "options": [
       "AB",
       "AC",
       "BC",
-      "CD。\n4\n2"
+      "CD。\n4"
     ],
     "answer_index": 0,
     "explanation": "",
-    "source": "y90008#p2#Q2",
-    "source_display": "90008 工程管理學科 第2頁 第2題"
+    "source": "y90008#Q48",
+    "source_display": "90008 工程管理學科 第48題"
+  },
+  {
+    "id": "y90008_49",
+    "subject": "室內裝修工程管理",
+    "year": 49,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "生活中經常使用的物品，下列何者含有破壞臭氧層的化學物質？",
+    "options": [
+      "噴霧劑",
+      "免洗筷",
+      "保麗龍",
+      "寶特瓶。\n2"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y90008#Q49",
+    "source_display": "90008 工程管理學科 第49題"
+  },
+  {
+    "id": "y90008_50",
+    "subject": "室內裝修工程管理",
+    "year": 50,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "目前市面清潔劑均會強調「無磷」，是因為含磷的清潔劑使用後，若廢水排至河川或湖泊等水域會造成甚麼\n影響？",
+    "options": [
+      "綠牡蠣",
+      "優養化",
+      "秘雕魚",
+      "烏腳病。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y90008#Q50",
+    "source_display": "90008 工程管理學科 第50題"
+  },
+  {
+    "id": "y90008_51",
+    "subject": "室內裝修工程管理",
+    "year": 51,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "冰箱在廢棄回收時應特別注意哪一項物質，以避免逸散至大氣中造成臭氧層的破壞？",
+    "options": [
+      "冷媒",
+      "甲醛",
+      "汞",
+      "苯。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y90008#Q51",
+    "source_display": "90008 工程管理學科 第51題"
+  },
+  {
+    "id": "y90008_52",
+    "subject": "室內裝修工程管理",
+    "year": 52,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "在五金行買來的強力膠中，主要有下列哪一種會對人體產生危害的化學物質？",
+    "options": [
+      "甲苯",
+      "乙苯",
+      "甲醛",
+      "乙醛。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y90008#Q52",
+    "source_display": "90008 工程管理學科 第52題"
+  },
+  {
+    "id": "y90008_53",
+    "subject": "室內裝修工程管理",
+    "year": 53,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "在同一操作條件下，煤、天然氣、油、核能的二氧化碳排放比例之大小，由大而小為：",
+    "options": [
+      "油＞煤＞天然氣＞\n核能",
+      "煤＞油＞天然氣＞核能",
+      "煤＞天然氣＞油＞核能",
+      "油＞煤＞核能＞天然氣。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y90008#Q53",
+    "source_display": "90008 工程管理學科 第53題"
+  },
+  {
+    "id": "y90008_54",
+    "subject": "室內裝修工程管理",
+    "year": 54,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "如何降低飲用水中消毒副產物三鹵甲烷？",
+    "options": [
+      "先將水煮沸，打開壺蓋再煮三分鐘以上",
+      "先將水過濾，加氯消毒",
+      "先將水煮沸，加氯消毒",
+      "先將水過濾，打開壺蓋使其自然蒸發。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y90008#Q54",
+    "source_display": "90008 工程管理學科 第54題"
+  },
+  {
+    "id": "y90008_55",
+    "subject": "室內裝修工程管理",
+    "year": 55,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "自行煮水、包裝飲用水及包裝飲料，依生命週期評估的排碳量大小順序為：",
+    "options": [
+      "包裝飲用水＞自行煮水＞包裝\n飲料",
+      "包裝飲料＞自行煮水＞包裝飲用水",
+      "自行煮水＞包裝飲料＞包裝飲用水",
+      "包裝飲料＞包裝飲用水＞自\n行煮水。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y90008#Q55",
+    "source_display": "90008 工程管理學科 第55題"
+  },
+  {
+    "id": "y90008_56",
+    "subject": "室內裝修工程管理",
+    "year": 56,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "何項不是噪音的危害所造成的現象？",
+    "options": [
+      "精神很集中",
+      "煩躁、失眠",
+      "緊張、焦慮",
+      "工作效率低落。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y90008#Q56",
+    "source_display": "90008 工程管理學科 第56題"
+  },
+  {
+    "id": "y90008_57",
+    "subject": "室內裝修工程管理",
+    "year": 57,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "我國移動污染源空氣污染防制費的徵收機制為何？",
+    "options": [
+      "依車輛里程數計費",
+      "隨油品銷售徵收",
+      "依牌照徵收",
+      "依\n照排氣量徵收。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y90008#Q57",
+    "source_display": "90008 工程管理學科 第57題"
+  },
+  {
+    "id": "y90008_58",
+    "subject": "室內裝修工程管理",
+    "year": 58,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "室內裝潢時，若不謹慎選擇建材，將會逸散出氣狀污染物。其中會刺激皮膚、眼、鼻和呼吸道，也是致癌物\n質，可能為下列哪一種污染物？",
+    "options": [
+      "臭氧",
+      "甲醛",
+      "氟氯碳化合物",
+      "二氧化碳。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y90008#Q58",
+    "source_display": "90008 工程管理學科 第58題"
+  },
+  {
+    "id": "y90008_59",
+    "subject": "室內裝修工程管理",
+    "year": 59,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "哪一種氣體造成臭氧層被嚴重的破壞？",
+    "options": [
+      "氟氯碳化物",
+      "二氧化硫",
+      "氮氧化合物",
+      "二氧化碳。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y90008#Q59",
+    "source_display": "90008 工程管理學科 第59題"
+  },
+  {
+    "id": "y90008_60",
+    "subject": "室內裝修工程管理",
+    "year": 60,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "高速公路旁常見有農田違法焚燒稻草，除易產生濃煙影響行車安全外，也會產生下列何種空氣污染物對人體\n健康造成不良的作用",
+    "options": [
+      "懸浮微粒",
+      "二氧化碳(CO)",
+      "臭氧(O)",
+      "沼氣。\n2 3"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y90008#Q60",
+    "source_display": "90008 工程管理學科 第60題"
+  },
+  {
+    "id": "y90008_61",
+    "subject": "室內裝修工程管理",
+    "year": 61,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "都市中常產生的「熱島效應」會造成何種影響？",
+    "options": [
+      "增加降雨",
+      "空氣污染物不易擴散",
+      "空氣污染物易擴散",
+      "溫\n度降低。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y90008#Q61",
+    "source_display": "90008 工程管理學科 第61題"
+  },
+  {
+    "id": "y90008_62",
+    "subject": "室內裝修工程管理",
+    "year": 62,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "寶特瓶、廢塑膠等廢棄於環境除不易腐化外，若隨一般垃圾進入焚化廠處理，可能產生下列哪一種空氣污染\n物對人體有致癌疑慮？",
+    "options": [
+      "臭氧",
+      "一氧化碳",
+      "戴奧辛",
+      "沼氣。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y90008#Q62",
+    "source_display": "90008 工程管理學科 第62題"
+  },
+  {
+    "id": "y90008_63",
+    "subject": "室內裝修工程管理",
+    "year": 63,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "「垃圾強制分類」的主要目的為：A.減少垃圾清運量 B.回收有用資源C.回收廚餘予以再利用 D.變賣賺錢？",
+    "options": [
+      "A\nBCD",
+      "ABC",
+      "ACD",
+      "BCD。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y90008#Q63",
+    "source_display": "90008 工程管理學科 第63題"
+  },
+  {
+    "id": "y90008_64",
+    "subject": "室內裝修工程管理",
+    "year": 64,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "一般人生活產生之廢棄物，何者屬有害廢棄物？",
+    "options": [
+      "廚餘",
+      "鐵鋁罐",
+      "廢玻璃",
+      "廢日光燈管。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y90008#Q64",
+    "source_display": "90008 工程管理學科 第64題"
+  },
+  {
+    "id": "y90008_65",
+    "subject": "室內裝修工程管理",
+    "year": 65,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "一般辦公室影印機的碳粉匣，應如何回收？",
+    "options": [
+      "拿到便利商店回收",
+      "交由販賣商回收",
+      "交由清潔隊回收",
+      "交給\n拾荒者回收。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y90008#Q65",
+    "source_display": "90008 工程管理學科 第65題"
+  },
+  {
+    "id": "y90008_66",
+    "subject": "室內裝修工程管理",
+    "year": 66,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列何者不是蚊蟲會傳染的疾病",
+    "options": [
+      "日本腦炎",
+      "瘧疾",
+      "登革熱",
+      "痢疾。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y90008#Q66",
+    "source_display": "90008 工程管理學科 第66題"
+  },
+  {
+    "id": "y90008_67",
+    "subject": "室內裝修工程管理",
+    "year": 67,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列何者非屬資源回收分類項目中「廢紙類」的回收物？",
+    "options": [
+      "報紙",
+      "雜誌",
+      "紙袋",
+      "用過的衛生紙。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y90008#Q67",
+    "source_display": "90008 工程管理學科 第67題"
+  },
+  {
+    "id": "y90008_68",
+    "subject": "室內裝修工程管理",
+    "year": 68,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列何者對飲用瓶裝水之形容是正確的：A.飲用後之寶特瓶容器為地球增加了一個廢棄物；B.運送瓶裝水時卡\n車會排放空氣污染物；C.瓶裝水一定比經煮沸之自來水安全衛生？",
+    "options": [
+      "AB",
+      "BC",
+      "AC",
+      "ABC。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y90008#Q68",
+    "source_display": "90008 工程管理學科 第68題"
+  },
+  {
+    "id": "y90008_69",
+    "subject": "室內裝修工程管理",
+    "year": 69,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列哪一項是我們在家中常見的環境衛生用藥？",
+    "options": [
+      "體香劑",
+      "殺蟲劑",
+      "洗滌劑",
+      "乾燥劑。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y90008#Q69",
+    "source_display": "90008 工程管理學科 第69題"
+  },
+  {
+    "id": "y90008_70",
+    "subject": "室內裝修工程管理",
+    "year": 70,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列哪一種是公告應回收廢棄物中的容器類：A.廢鋁箔包 B.廢紙容器C.寶特瓶？",
+    "options": [
+      "ABC",
+      "AC",
+      "BC",
+      "C。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y90008#Q70",
+    "source_display": "90008 工程管理學科 第70題"
+  },
+  {
+    "id": "y90008_71",
+    "subject": "室內裝修工程管理",
+    "year": 71,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列哪些廢紙類不可以進行資源回收？",
+    "options": [
+      "紙尿褲",
+      "包裝紙",
+      "雜誌",
+      "報紙。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y90008#Q71",
+    "source_display": "90008 工程管理學科 第71題"
+  },
+  {
+    "id": "y90008_72",
+    "subject": "室內裝修工程管理",
+    "year": 72,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "小明拿到「垃圾強制分類」的宣導海報，標語寫著「分 3類，好OK」，標語中的分 3類是指家戶日常生活中\n產生的垃圾可以區分哪三類？",
+    "options": [
+      "資源、廚餘、事業廢棄物",
+      "資源、一般廢棄物、事業廢棄物",
+      "一般廢棄物、\n事業廢棄物、放射性廢棄物",
+      "資源、廚餘、一般垃圾。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y90008#Q72",
+    "source_display": "90008 工程管理學科 第72題"
+  },
+  {
+    "id": "y90008_73",
+    "subject": "室內裝修工程管理",
+    "year": 73,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "日光燈管、水銀溫度計等，因含有哪一種重金屬，可能對清潔隊員造成傷害，應與一般垃圾分開處理？",
+    "options": [
+      "鉛",
+      "鎘",
+      "汞",
+      "鐵。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y90008#Q73",
+    "source_display": "90008 工程管理學科 第73題"
+  },
+  {
+    "id": "y90008_74",
+    "subject": "室內裝修工程管理",
+    "year": 74,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "家裡有過期的藥品，請問這些藥品要如何處理？",
+    "options": [
+      "倒入馬桶沖掉",
+      "交由藥局回收",
+      "繼續服用",
+      "送給相同疾病\n的朋友。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y90008#Q74",
+    "source_display": "90008 工程管理學科 第74題"
+  },
+  {
+    "id": "y90008_75",
+    "subject": "室內裝修工程管理",
+    "year": 75,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "台灣西部海岸曾發生的綠牡蠣事件是下列何種物質污染水體有關？",
+    "options": [
+      "汞",
+      "銅",
+      "磷",
+      "鎘。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y90008#Q75",
+    "source_display": "90008 工程管理學科 第75題"
+  },
+  {
+    "id": "y90008_76",
+    "subject": "室內裝修工程管理",
+    "year": 76,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "在生物鏈越上端的物種其體內累積持久性有機污染物(POPs)濃度將越高，危害性也將越大，這是說明 POPs 具\n有下列何種特性？",
+    "options": [
+      "持久性",
+      "半揮發性",
+      "高毒性",
+      "生物累積性。\n3"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y90008#Q76",
+    "source_display": "90008 工程管理學科 第76題"
+  },
+  {
+    "id": "y90008_77",
+    "subject": "室內裝修工程管理",
+    "year": 77,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "有關小黑蚊敘述下列何者為非？",
+    "options": [
+      "活動時間又以中午十二點到下午三點為活動高峰期",
+      "小黑蚊的幼蟲以腐植\n質、青苔和藻類為食",
+      "無論雄蚊或雌蚊皆會吸食哺乳類動物血液",
+      "多存在竹林、灌木叢、雜草叢、果園等邊\n緣地帶等處。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y90008#Q77",
+    "source_display": "90008 工程管理學科 第77題"
+  },
+  {
+    "id": "y90008_78",
+    "subject": "室內裝修工程管理",
+    "year": 78,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "利用垃圾焚化廠處理垃圾的最主要優點為何？",
+    "options": [
+      "減少處理後的垃圾體積",
+      "去除垃圾中所有毒物",
+      "減少空氣污\n染",
+      "減少處理垃圾的程序。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y90008#Q78",
+    "source_display": "90008 工程管理學科 第78題"
+  },
+  {
+    "id": "y90008_79",
+    "subject": "室內裝修工程管理",
+    "year": 79,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "利用豬隻的排泄物當燃料發電，是屬於哪一種能源？",
+    "options": [
+      "地熱能",
+      "太陽能",
+      "生質能",
+      "核能。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y90008#Q79",
+    "source_display": "90008 工程管理學科 第79題"
+  },
+  {
+    "id": "y90008_80",
+    "subject": "室內裝修工程管理",
+    "year": 80,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "每個人日常生活皆會產生垃圾，下列何種處理垃圾的觀念與方式是不正確的？",
+    "options": [
+      "垃圾分類，使資源回收再利\n用",
+      "所有垃圾皆掩埋處理，垃圾將會自然分解",
+      "廚餘回收堆肥後製成肥料",
+      "可燃性垃圾經焚化燃燒可有效減\n少垃圾體積。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y90008#Q80",
+    "source_display": "90008 工程管理學科 第80題"
+  },
+  {
+    "id": "y90008_81",
+    "subject": "室內裝修工程管理",
+    "year": 81,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "防治蟲害最好的方法是",
+    "options": [
+      "使用殺蟲劑",
+      "清除孳生源",
+      "網子捕捉",
+      "拍打。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y90008#Q81",
+    "source_display": "90008 工程管理學科 第81題"
+  },
+  {
+    "id": "y90008_82",
+    "subject": "室內裝修工程管理",
+    "year": 82,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "依廢棄物清理法之規定，隨地吐檳榔汁、檳榔渣者，應接受幾小時之戒檳班講習？",
+    "options": [
+      "2小時",
+      "4小時",
+      "8小時",
+      "1小時。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y90008#Q82",
+    "source_display": "90008 工程管理學科 第82題"
+  },
+  {
+    "id": "y90008_83",
+    "subject": "室內裝修工程管理",
+    "year": 83,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "室內裝修業者承攬裝修工程，工程中所產生的廢棄物應該如何處理？",
+    "options": [
+      "委託合法清除機構清運",
+      "倒在偏遠山\n坡地",
+      "河岸邊掩埋",
+      "交給清潔隊垃圾車。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y90008#Q83",
+    "source_display": "90008 工程管理學科 第83題"
+  },
+  {
+    "id": "y90008_84",
+    "subject": "室內裝修工程管理",
+    "year": 84,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "若使用後的廢電池未經回收，直接廢棄所含重金屬物質曝露於環境中可能產生哪些影響：A.地下水污染、B.\n對人體產生中毒等不良作用、C. 對生物產生重金屬累積及濃縮作用、D.造成優養化？",
+    "options": [
+      "ABC",
+      "ABCD",
+      "ACD",
+      "BCD。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y90008#Q84",
+    "source_display": "90008 工程管理學科 第84題"
+  },
+  {
+    "id": "y90008_85",
+    "subject": "室內裝修工程管理",
+    "year": 85,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "哪一種家庭廢棄物可用來作為製造肥皂的主要原料？",
+    "options": [
+      "食醋",
+      "果皮",
+      "回鍋油",
+      "熟廚餘。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y90008#Q85",
+    "source_display": "90008 工程管理學科 第85題"
+  },
+  {
+    "id": "y90008_86",
+    "subject": "室內裝修工程管理",
+    "year": 86,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "家戶大型垃圾應由誰負責處理",
+    "options": [
+      "行政院環境保護署",
+      "當地政府清潔隊",
+      "行政院",
+      "內政部。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y90008#Q86",
+    "source_display": "90008 工程管理學科 第86題"
+  },
+  {
+    "id": "y90008_87",
+    "subject": "室內裝修工程管理",
+    "year": 87,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "根據環保署資料顯示，世紀之毒「戴奧辛」主要透過何者方式進入人體？",
+    "options": [
+      "透過觸摸",
+      "透過呼吸",
+      "透過飲食",
+      "透過雨水。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y90008#Q87",
+    "source_display": "90008 工程管理學科 第87題"
+  },
+  {
+    "id": "y90008_88",
+    "subject": "室內裝修工程管理",
+    "year": 88,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "陳先生到機車行換機油時，發現機車行老闆將廢機油直接倒入路旁的排水溝，請問這樣的行為是違反了",
+    "options": [
+      "道\n路交通管理處罰條例",
+      "廢棄物清理法",
+      "職業安全衛生法",
+      "水污染防治法。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y90008#Q88",
+    "source_display": "90008 工程管理學科 第88題"
+  },
+  {
+    "id": "y90008_89",
+    "subject": "室內裝修工程管理",
+    "year": 89,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "亂丟香菸蒂，此行為已違反什麼規定？",
+    "options": [
+      "廢棄物清理法",
+      "民法",
+      "刑法",
+      "毒性化學物質管理法。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y90008#Q89",
+    "source_display": "90008 工程管理學科 第89題"
+  },
+  {
+    "id": "y90008_90",
+    "subject": "室內裝修工程管理",
+    "year": 90,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "實施「垃圾費隨袋徵收」政策的好處為何：A.減少家戶垃圾費用支出 B.全民主動參與資源回收 C.有效垃圾減\n量？",
+    "options": [
+      "AB",
+      "AC",
+      "BC",
+      "ABC。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y90008#Q90",
+    "source_display": "90008 工程管理學科 第90題"
+  },
+  {
+    "id": "y90008_91",
+    "subject": "室內裝修工程管理",
+    "year": 91,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "臺灣地狹人稠，垃圾處理一直是不易解決的問題，下列何種是較佳的因應對策？",
+    "options": [
+      "垃圾分類資源回收",
+      "蓋焚\n化廠",
+      "運至國外處理",
+      "向海爭地掩埋。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y90008#Q91",
+    "source_display": "90008 工程管理學科 第91題"
+  },
+  {
+    "id": "y90008_92",
+    "subject": "室內裝修工程管理",
+    "year": 92,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "臺灣嘉南沿海一帶發生的烏腳病可能為哪一種重金屬引起？",
+    "options": [
+      "汞",
+      "砷",
+      "鉛",
+      "鎘。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y90008#Q92",
+    "source_display": "90008 工程管理學科 第92題"
+  },
+  {
+    "id": "y90008_93",
+    "subject": "室內裝修工程管理",
+    "year": 93,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "遛狗不清理狗的排泄物係違反哪一法規？",
+    "options": [
+      "水污染防治法",
+      "廢棄物清理法",
+      "毒性化學物質管理法",
+      "空氣污染\n防制法。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y90008#Q93",
+    "source_display": "90008 工程管理學科 第93題"
+  },
+  {
+    "id": "y90008_94",
+    "subject": "室內裝修工程管理",
+    "year": 94,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "酸雨對土壤可能造成的影響，下列何者正確？",
+    "options": [
+      "土壤更肥沃",
+      "土壤液化",
+      "土壤中的重金屬釋出",
+      "土壤礦化。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y90008#Q94",
+    "source_display": "90008 工程管理學科 第94題"
+  },
+  {
+    "id": "y90008_95",
+    "subject": "室內裝修工程管理",
+    "year": 95,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "購買下列哪一種商品對環境比較友善？",
+    "options": [
+      "用過即丟的商品",
+      "一次性的產品",
+      "材質可以回收的商品",
+      "過度包裝\n的商品。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y90008#Q95",
+    "source_display": "90008 工程管理學科 第95題"
+  },
+  {
+    "id": "y90008_96",
+    "subject": "室內裝修工程管理",
+    "year": 96,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "醫療院所用過的棉球、紗布、針筒、針頭等感染性事業廢棄物屬於",
+    "options": [
+      "一般事業廢棄物",
+      "資源回收物",
+      "一般廢\n棄物",
+      "有害事業廢棄物。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y90008#Q96",
+    "source_display": "90008 工程管理學科 第96題"
+  },
+  {
+    "id": "y90008_97",
+    "subject": "室內裝修工程管理",
+    "year": 97,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列何項法規的立法目的為預防及減輕開發行為對環境造成不良影響，藉以達成環境保護之目的？",
+    "options": [
+      "公害糾\n紛處理法",
+      "環境影響評估法",
+      "環境基本法",
+      "環境教育法。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y90008#Q97",
+    "source_display": "90008 工程管理學科 第97題"
+  },
+  {
+    "id": "y90008_98",
+    "subject": "室內裝修工程管理",
+    "year": 98,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列何種開發行為若對環境有不良影響之虞者，應實施環境影響評估：A.開發科學園區；B.新建捷運工程；C.\n採礦？",
+    "options": [
+      "AB",
+      "BC",
+      "AC",
+      "ABC。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y90008#Q98",
+    "source_display": "90008 工程管理學科 第98題"
+  },
+  {
+    "id": "y90008_99",
+    "subject": "室內裝修工程管理",
+    "year": 99,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "主管機關審查環境影響說明書或評估書，如認為已足以判斷未對環境有重大影響之虞，作成之審查結論可能\n為下列何者？",
+    "options": [
+      "通過環境影響評估審查",
+      "應繼續進行第二階段環境影響評估",
+      "認定不應開發",
+      "補充修正資料\n再審。\n100. (4) 依環境影響評估法規定，對環境有重大影響之虞的開發行為應繼續進行第二階段環境影響評估，下列何者不\n是上述對環境有重大影響之虞或應進行第二階段環境影響評估的決定方式？"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y90008#Q99",
+    "source_display": "90008 工程管理學科 第99題"
   }
 ]

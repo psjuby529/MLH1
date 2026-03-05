@@ -1,0 +1,82 @@
+{
+  "generatedAt": "2026-03-04T16:00:16.296Z",
+  "rawPdfsDir": "/Users/jfai/MLH_LOCAL/近十年考古AI/raw_pdfs:",
+  "count": 15,
+  "items": [
+    {
+      "file": "105-126002工程管理學科.pdf",
+      "size": 506409,
+      "sha256": "b9f66fa082815d2be6c37a606af68b0218d7aa5c192fdefbc517dbc37b119f39"
+    },
+    {
+      "file": "106 室內裝修工程管理 學科考題及參考解答.pdf",
+      "size": 516696,
+      "sha256": "c8b731380dfc4a893e80cd2a90e7544ef804f5a832f1c277f168127214262b80"
+    },
+    {
+      "file": "107 室內裝修工程管理學科考題及參考解答.pdf",
+      "size": 977934,
+      "sha256": "c52bdfdfa54e7ba78d2d33d8180eead55f0e0aa36ed5ffa05276f2ba225df15d"
+    },
+    {
+      "file": "108 室內裝修工程管理學科考題及解答.pdf",
+      "size": 1014430,
+      "sha256": "20a4d54976cc0ac075092efe7cd2a65d04adb56be591119010a650f70ba38620"
+    },
+    {
+      "file": "109 室內裝修工程管理學科考題及解答.pdf",
+      "size": 995898,
+      "sha256": "85e932f1ecaaf2bed0b36b0650d656c5115006346691744a15356f1287b38ffc"
+    },
+    {
+      "file": "110學科.pdf",
+      "size": 1019630,
+      "sha256": "f803255e36bc7e85c69055efab7d203f751e8aac2c65409ccf1e62e11f18e20f"
+    },
+    {
+      "file": "111學科.pdf",
+      "size": 930628,
+      "sha256": "c31cb8a1eb127d86f31a8402501b68d3d15cdb743e01cea8df9af8a55363df7d"
+    },
+    {
+      "file": "112_學.pdf",
+      "size": 977232,
+      "sha256": "2d6ad4c132ecdd68c23ba30447b727f1fd4aabf6010d178ab5bee6a74d711779"
+    },
+    {
+      "file": "113學科.pdf",
+      "size": 978132,
+      "sha256": "f9f6183a1efb955c2c5e8d5313e2a7fbc98d309a594ad296170e3ff0b64f4114"
+    },
+    {
+      "file": "90006 職業安全衛生共同科目(1070101).pdf",
+      "size": 543675,
+      "sha256": "1892e42e82474fb8748b3b62c7b347b5c12c044678219f0d1085c27e379aa997"
+    },
+    {
+      "file": "90007 工作倫理與職業道德共同科目(1070101).pdf",
+      "size": 598490,
+      "sha256": "7853209a0504f3acabb1f0ff45cfaaff1167163245a1cf8c123f51755376a4f8"
+    },
+    {
+      "file": "90008 環境保護共同科目(1070101).pdf",
+      "size": 589124,
+      "sha256": "7163034603add1df240acf82d2b195077b7fd93cba4cbdb78da0730a8c5e77e1"
+    },
+    {
+      "file": "90009 節能減碳共同科目(1070101).pdf",
+      "size": 583113,
+      "sha256": "c50679abafe851b762b92b667a37a9b2d0095c56aa0e45ec12cd8986d9889986"
+    },
+    {
+      "file": "綜合A.pdf",
+      "size": 1990230,
+      "sha256": "e6eca282a9e831191d00256b8efe318dbf0656ce4e754d3e79ecc23d4fa30ce3"
+    },
+    {
+      "file": "綜合B.pdf",
+      "size": 1379984,
+      "sha256": "5f13a498026972c88486d4914cf326936684c32d688985fe1170d654a297ff4f"
+    }
+  ]
+}

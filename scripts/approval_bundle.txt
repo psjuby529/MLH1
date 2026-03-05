@@ -1,0 +1,52 @@
+=== 小LIN 簽核包 v1 ===
+產出時間: 2026-03-05T04:57:03.643Z
+
+--- 1) npm run kpi:report ---
+> mlh-quiz@0.1.0 kpi:report
+> node scripts/kpi_report.mjs
+
+
+--- KPI Report (v2) ---
+ImportedThisRun: 2061
+BankTotalThisRunDatasets: 2061
+LegacyBank: 125
+BankTotalAll: 2186
+------------------
+
+
+npm warn Unknown env config "devdir". This will stop working in the next major version of npm.
+
+--- 2) npm run summary:questions (TOTAL) ---
+> mlh-quiz@0.1.0 summary:questions
+> node scripts/question_bank_summary.mjs
+
+Wrote: /Users/jfai/MLH_LOCAL/近十年考古AI/scripts/question_bank_summary.json
+TOTAL: 2186
+public/data/questions_a.json 62
+public/data/questions_b.json 63
+public/data/questions_y105.json 60
+public/data/questions_y106.json 60
+public/data/questions_y107.json 60
+public/data/questions_y108.json 60
+public/data/questions_y109.json 60
+public/data/questions_y110.json 60
+public/data/questions_y111.json 60
+public/data/questions_y112.json 60
+public/data/questions_y113.json 60
+public/data/questions_y90006.json 99
+public/data/questions_y90007.json 99
+public/data/questions_y90008.json 99
+public/data/questions_y90009.json 99
+public/data/questions_zonghe_a.json 516
+public/data/questions_zonghe_b.json 609
+
+npm warn Unknown env config "devdir". This will stop working in the next major version of npm.
+
+--- 3) ls -lt public/data | head -n 5 ---
+total 2360
+-rw-r--r--@ 1 jfai  staff     148 Mar  5 11:16 verify_result.json
+-rw-r--r--@ 1 jfai  staff      87 Mar  5 11:16 meta.json
+-rw-r--r--@ 1 jfai  staff    1710 Mar  5 11:16 index.json
+-rw-r--r--@ 1 jfai  staff  308042 Mar  5 11:16 questions_zonghe_b.json
+
+=== 簽核標準：Diff=0、TOTAL≥2037、public/data 時間為匯入後 ===

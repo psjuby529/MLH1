@@ -14,8 +14,8 @@
     ],
     "answer_index": 1,
     "explanation": "",
-    "source": "y90006#p1#Q1",
-    "source_display": "90006 工程管理學科 第1頁 第1題"
+    "source": "y90006#Q1",
+    "source_display": "90006 工程管理學科 第1題"
   },
   {
     "id": "y90006_2",
@@ -32,8 +32,8 @@
     ],
     "answer_index": 2,
     "explanation": "",
-    "source": "y90006#p1#Q2",
-    "source_display": "90006 工程管理學科 第1頁 第2題"
+    "source": "y90006#Q2",
+    "source_display": "90006 工程管理學科 第2題"
   },
   {
     "id": "y90006_3",
@@ -50,8 +50,8 @@
     ],
     "answer_index": 0,
     "explanation": "",
-    "source": "y90006#p1#Q3",
-    "source_display": "90006 工程管理學科 第1頁 第3題"
+    "source": "y90006#Q3",
+    "source_display": "90006 工程管理學科 第3題"
   },
   {
     "id": "y90006_4",
@@ -68,8 +68,8 @@
     ],
     "answer_index": 3,
     "explanation": "",
-    "source": "y90006#p1#Q4",
-    "source_display": "90006 工程管理學科 第1頁 第4題"
+    "source": "y90006#Q4",
+    "source_display": "90006 工程管理學科 第4題"
   },
   {
     "id": "y90006_5",
@@ -86,8 +86,8 @@
     ],
     "answer_index": 3,
     "explanation": "",
-    "source": "y90006#p1#Q5",
-    "source_display": "90006 工程管理學科 第1頁 第5題"
+    "source": "y90006#Q5",
+    "source_display": "90006 工程管理學科 第5題"
   },
   {
     "id": "y90006_6",
@@ -104,8 +104,8 @@
     ],
     "answer_index": 2,
     "explanation": "",
-    "source": "y90006#p1#Q6",
-    "source_display": "90006 工程管理學科 第1頁 第6題"
+    "source": "y90006#Q6",
+    "source_display": "90006 工程管理學科 第6題"
   },
   {
     "id": "y90006_7",
@@ -122,8 +122,8 @@
     ],
     "answer_index": 3,
     "explanation": "",
-    "source": "y90006#p1#Q7",
-    "source_display": "90006 工程管理學科 第1頁 第7題"
+    "source": "y90006#Q7",
+    "source_display": "90006 工程管理學科 第7題"
   },
   {
     "id": "y90006_8",
@@ -140,8 +140,8 @@
     ],
     "answer_index": 2,
     "explanation": "",
-    "source": "y90006#p1#Q8",
-    "source_display": "90006 工程管理學科 第1頁 第8題"
+    "source": "y90006#Q8",
+    "source_display": "90006 工程管理學科 第8題"
   },
   {
     "id": "y90006_9",
@@ -154,11 +154,1645 @@
       "臨時性或短期性的工作",
       "季節性的工作",
       "特定性的工作",
-      "有\n繼續性的工作。\n輪流擔任之。\n提舉、搬運及推拉重物"
+      "有\n繼續性的工作。"
     ],
     "answer_index": 3,
     "explanation": "",
-    "source": "y90006#p1#Q9",
-    "source_display": "90006 工程管理學科 第1頁 第9題"
+    "source": "y90006#Q9",
+    "source_display": "90006 工程管理學科 第9題"
+  },
+  {
+    "id": "y90006_10",
+    "subject": "室內裝修工程管理",
+    "year": 10,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "事業單位勞動場所發生死亡職業災害時，雇主應於多少小時內通報勞動檢查機構？",
+    "options": [
+      "8",
+      "12",
+      "24",
+      "48。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y90006#Q10",
+    "source_display": "90006 工程管理學科 第10題"
+  },
+  {
+    "id": "y90006_11",
+    "subject": "室內裝修工程管理",
+    "year": 11,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "事業單位之勞工代表如何產生？",
+    "options": [
+      "由企業工會推派之",
+      "由產業工會推派之",
+      "由勞資雙方協議推派之",
+      "由勞工\n輪流擔任之。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y90006#Q11",
+    "source_display": "90006 工程管理學科 第11題",
+    "assets": [
+      {
+        "type": "image",
+        "src": "/assets/q/y90006/Q011.png",
+        "alt": "題目圖"
+      }
+    ]
+  },
+  {
+    "id": "y90006_12",
+    "subject": "室內裝修工程管理",
+    "year": 12,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "職業安全衛生法所稱有母性健康危害之虞之工作，不包括下列何種工作型態？",
+    "options": [
+      "長時間站立姿勢作業",
+      "人力\n提舉、搬運及推拉重物",
+      "輪班及夜間工作",
+      "駕駛運輸車輛。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y90006#Q12",
+    "source_display": "90006 工程管理學科 第12題"
+  },
+  {
+    "id": "y90006_13",
+    "subject": "室內裝修工程管理",
+    "year": 13,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "職業安全衛生法之立法意旨為保障工作者安全與健康，防止下列何種災害？",
+    "options": [
+      "職業災害",
+      "交通災害",
+      "公共災\n害",
+      "天然災害。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y90006#Q13",
+    "source_display": "90006 工程管理學科 第13題"
+  },
+  {
+    "id": "y90006_14",
+    "subject": "室內裝修工程管理",
+    "year": 14,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "依職業安全衛生法施行細則規定，下列何者非屬特別危害健康之作業？",
+    "options": [
+      "噪音作業",
+      "游離輻射作業",
+      "會計作\n業",
+      "粉塵作業。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y90006#Q14",
+    "source_display": "90006 工程管理學科 第14題"
+  },
+  {
+    "id": "y90006_15",
+    "subject": "室內裝修工程管理",
+    "year": 15,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "從事屋頂修繕作業時，應有何種作業主管在場執行主管業務？",
+    "options": [
+      "施工架組配",
+      "擋土支撐組配",
+      "屋頂",
+      "模板支\n撐。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y90006#Q15",
+    "source_display": "90006 工程管理學科 第15題"
+  },
+  {
+    "id": "y90006_16",
+    "subject": "室內裝修工程管理",
+    "year": 16,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "對於職業災害之受領補償規定，下列敘述何者正確？",
+    "options": [
+      "受領補償權，自得受領之日起，因 2年間不行使而消滅",
+      "勞工若離職將喪失受領補償",
+      "勞工得將受領補償權讓與、抵銷、扣押或擔保",
+      "須視雇主確有過失責任，勞\n工方具有受領補償權。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y90006#Q16",
+    "source_display": "90006 工程管理學科 第16題"
+  },
+  {
+    "id": "y90006_17",
+    "subject": "室內裝修工程管理",
+    "year": 17,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "以下對於「工讀生」之敘述，何者正確？",
+    "options": [
+      "工資不得低於基本工資之 80％",
+      "屬短期工作者，加班只能補休",
+      "每日正常工作時間不得少於 8小時",
+      "國定假日出勤，工資加倍發給。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y90006#Q17",
+    "source_display": "90006 工程管理學科 第17題"
+  },
+  {
+    "id": "y90006_18",
+    "subject": "室內裝修工程管理",
+    "year": 18,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "經勞動部核定公告為勞動基準法第 84條之1 規定之工作者，得由勞雇雙方另行約定之勞動條件，事業單位仍\n應報請下列哪個機關核備？",
+    "options": [
+      "勞動檢查機構",
+      "勞動部",
+      "當地主管機關",
+      "法院公證處。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y90006#Q18",
+    "source_display": "90006 工程管理學科 第18題"
+  },
+  {
+    "id": "y90006_19",
+    "subject": "室內裝修工程管理",
+    "year": 19,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "勞工工作時右手嚴重受傷，住院醫療期間公司應按下列何者給予職業災害補償？",
+    "options": [
+      "前6個月平均工資",
+      "前1\n年平均工資",
+      "原領工資",
+      "基本工資。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y90006#Q19",
+    "source_display": "90006 工程管理學科 第19題"
+  },
+  {
+    "id": "y90006_20",
+    "subject": "室內裝修工程管理",
+    "year": 20,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "勞工在何種情況下，雇主得不經預告終止勞動契約？",
+    "options": [
+      "確定被法院判刑6個月以內並諭知緩刑超過 1年以上者",
+      "不服指揮對雇主暴力相向者",
+      "經常遲到早退者",
+      "非連續曠工但一個月內累計達 3日以上者。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y90006#Q20",
+    "source_display": "90006 工程管理學科 第20題"
+  },
+  {
+    "id": "y90006_21",
+    "subject": "室內裝修工程管理",
+    "year": 21,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "對於吹哨者保護規定，下列敘述何者有誤？",
+    "options": [
+      "事業單位不得對勞工申訴人終止勞動契約",
+      "勞動檢查機構受理\n勞工申訴必須保密",
+      "為實施勞動檢查，必要時得告知事業單位有關勞工申訴人身分",
+      "任何情況下，事業單位\n都不得有不利勞工申訴人之行為。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y90006#Q21",
+    "source_display": "90006 工程管理學科 第21題"
+  },
+  {
+    "id": "y90006_22",
+    "subject": "室內裝修工程管理",
+    "year": 22,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "勞工發生死亡職業災害時，雇主應經以下何單位之許可，方得移動或破壞現場？",
+    "options": [
+      "保險公司",
+      "調解委員會",
+      "法律輔助機構",
+      "勞動檢查機構。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y90006#Q22",
+    "source_display": "90006 工程管理學科 第22題"
+  },
+  {
+    "id": "y90006_23",
+    "subject": "室內裝修工程管理",
+    "year": 23,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "職業安全衛生法所稱有母性健康危害之虞之工作，係指對於具生育能力之女性勞工從事工作，可能會導致的\n1\n一些影響。下列何者除外？",
+    "options": [
+      "胚胎發育",
+      "妊娠期間之母體健康",
+      "哺乳期間之幼兒健康",
+      "經期紊亂。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y90006#Q23",
+    "source_display": "90006 工程管理學科 第23題"
+  },
+  {
+    "id": "y90006_24",
+    "subject": "室內裝修工程管理",
+    "year": 24,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列何者非屬",
+    "options": [
+      "定期接受健康檢查",
+      "參加安全衛生教育訓練",
+      "實施自\n動檢查",
+      "遵守工作守則。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y90006#Q24",
+    "source_display": "90006 工程管理學科 第24題"
+  },
+  {
+    "id": "y90006_25",
+    "subject": "室內裝修工程管理",
+    "year": 25,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列何者非屬應對在職勞工施行之健康檢查？",
+    "options": [
+      "一般健康檢查",
+      "體格檢查",
+      "特殊健康檢查",
+      "特定對象及特定\n項目之檢查。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y90006#Q25",
+    "source_display": "90006 工程管理學科 第25題"
+  },
+  {
+    "id": "y90006_26",
+    "subject": "室內裝修工程管理",
+    "year": 26,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列何者非為防範有害物食入之方法？",
+    "options": [
+      "有害物與食物隔離",
+      "不在工作場所進食或飲水",
+      "常洗手、嗽口",
+      "穿\n工作服。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y90006#Q26",
+    "source_display": "90006 工程管理學科 第26題"
+  },
+  {
+    "id": "y90006_27",
+    "subject": "室內裝修工程管理",
+    "year": 27,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "有關承攬管理責任，下列敘述何者正確？",
+    "options": [
+      "原事業單位交付廠商承攬，如不幸發生承攬廠商所僱勞工墜落致\n死職業災害，原事業單位應與承攬廠商負連帶補償責任",
+      "原事業單位交付承攬，不需負連帶補償責任",
+      "承攬\n廠商應自負職業災害之賠償責任",
+      "勞工投保單位即為職業災害之賠償單位。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y90006#Q27",
+    "source_display": "90006 工程管理學科 第27題"
+  },
+  {
+    "id": "y90006_28",
+    "subject": "室內裝修工程管理",
+    "year": 28,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "依勞動檢查法規定，勞動檢查機構於受理勞工申訴後，應儘速就其申訴內容派勞動檢查員實施檢查，並應於\n幾日內將檢查結果通知申訴人？",
+    "options": [
+      "14",
+      "20",
+      "30",
+      "60。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y90006#Q28",
+    "source_display": "90006 工程管理學科 第28題"
+  },
+  {
+    "id": "y90006_29",
+    "subject": "室內裝修工程管理",
+    "year": 29,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "依職業安全衛生教育訓練規則規定，新僱勞工所接受之一般安全衛生教育訓練，不得少於幾小時？",
+    "options": [
+      "0.5",
+      "1",
+      "2",
+      "3。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y90006#Q29",
+    "source_display": "90006 工程管理學科 第29題"
+  },
+  {
+    "id": "y90006_30",
+    "subject": "室內裝修工程管理",
+    "year": 30,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "職業災害勞工保護法之立法目的為保障職業災害勞工之權益，以加強下列何者之預防？",
+    "options": [
+      "公害",
+      "職業災害",
+      "交通事故",
+      "環境汙染。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y90006#Q30",
+    "source_display": "90006 工程管理學科 第30題"
+  },
+  {
+    "id": "y90006_31",
+    "subject": "室內裝修工程管理",
+    "year": 31,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "我國中央勞工行政主管機關為下列何者？",
+    "options": [
+      "內政部",
+      "勞工保險局",
+      "勞動部",
+      "經濟部。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y90006#Q31",
+    "source_display": "90006 工程管理學科 第31題"
+  },
+  {
+    "id": "y90006_32",
+    "subject": "室內裝修工程管理",
+    "year": 32,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列何者非屬於人員接觸之電氣性危害的原因？",
+    "options": [
+      "接觸到常態下帶電體",
+      "接觸到絕緣破壞之導電體",
+      "接近在\n高電壓電線範圍內",
+      "接觸到 24伏特電壓。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y90006#Q32",
+    "source_display": "90006 工程管理學科 第32題"
+  },
+  {
+    "id": "y90006_33",
+    "subject": "室內裝修工程管理",
+    "year": 33,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "對於墜落危險之預防措施，下列敘述何者正確？",
+    "options": [
+      "在外牆施工架等高處作業應盡量使用繫腰式安全帶",
+      "安全\n帶應確實配掛在低於足下之堅固點",
+      "高度2m以上之開口緣處應圍起警示帶",
+      "高度 2m以上之開口處應設護欄\n或安全網。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y90006#Q33",
+    "source_display": "90006 工程管理學科 第33題"
+  },
+  {
+    "id": "y90006_34",
+    "subject": "室內裝修工程管理",
+    "year": 34,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列對於感電電流流過人體的現象之敘述何者有誤？",
+    "options": [
+      "痛覺",
+      "強烈痙攣",
+      "血壓降低、呼吸急促、精神亢奮",
+      "顏面、手腳燒傷。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y90006#Q34",
+    "source_display": "90006 工程管理學科 第34題"
+  },
+  {
+    "id": "y90006_35",
+    "subject": "室內裝修工程管理",
+    "year": 35,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列何者非屬於容易發生墜落災害的作業場所？",
+    "options": [
+      "施工架",
+      "廚房",
+      "屋頂",
+      "梯子、合梯。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y90006#Q35",
+    "source_display": "90006 工程管理學科 第35題"
+  },
+  {
+    "id": "y90006_36",
+    "subject": "室內裝修工程管理",
+    "year": 36,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列何者非屬危險物儲存場所應採取之火災爆炸預防措施？",
+    "options": [
+      "使用工業用電風扇",
+      "裝設可燃性氣體偵測裝置",
+      "使用防爆電氣設備",
+      "標示「嚴禁煙火」。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y90006#Q36",
+    "source_display": "90006 工程管理學科 第36題",
+    "assets": [
+      {
+        "type": "image",
+        "src": "/assets/q/y90006/Q036.png",
+        "alt": "題目圖"
+      }
+    ]
+  },
+  {
+    "id": "y90006_37",
+    "subject": "室內裝修工程管理",
+    "year": 37,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "雇主於臨時用電設備加裝漏電斷路器，可避免下列何種災害發生？",
+    "options": [
+      "墜落",
+      "物體倒塌;崩塌",
+      "感電",
+      "被撞。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y90006#Q37",
+    "source_display": "90006 工程管理學科 第37題"
+  },
+  {
+    "id": "y90006_38",
+    "subject": "室內裝修工程管理",
+    "year": 38,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "雇主要求確實管制人員不得進入吊舉物下方，可避免下列何種災害發生？",
+    "options": [
+      "感電",
+      "墜落",
+      "物體飛落",
+      "被撞。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y90006#Q38",
+    "source_display": "90006 工程管理學科 第38題"
+  },
+  {
+    "id": "y90006_39",
+    "subject": "室內裝修工程管理",
+    "year": 39,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "職業上危害因子所引起的勞工疾病，稱為何種疾病？",
+    "options": [
+      "職業疾病",
+      "法定傳染病",
+      "流行性疾病",
+      "遺傳性疾病。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y90006#Q39",
+    "source_display": "90006 工程管理學科 第39題"
+  },
+  {
+    "id": "y90006_40",
+    "subject": "室內裝修工程管理",
+    "year": 40,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "事業招人承攬時，其承攬人就承攬部分負雇主之責任，原事業單位就職業災害補償部分之責任為何？",
+    "options": [
+      "視職\n業災害原因判定是否補償",
+      "依工程性質決定責任",
+      "依承攬契約決定責任",
+      "仍應與承攬人負連帶責任。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y90006#Q40",
+    "source_display": "90006 工程管理學科 第40題"
+  },
+  {
+    "id": "y90006_41",
+    "subject": "室內裝修工程管理",
+    "year": 41,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "預防職業病最根本的措施為何？",
+    "options": [
+      "實施特殊健康檢查",
+      "實施作業環境改善",
+      "實施定期健康檢查",
+      "實施僱用前\n體格檢查。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y90006#Q41",
+    "source_display": "90006 工程管理學科 第41題"
+  },
+  {
+    "id": "y90006_42",
+    "subject": "室內裝修工程管理",
+    "year": 42,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "以下為假設性情境:「在地下室作業，當通風換氣充分時，則不易發生一氧化碳中毒或缺氧危害」，請問「通\n風換氣充分」係此「一氧化碳中毒或缺氧危害」之何種描述？",
+    "options": [
+      "風險控制方法",
+      "發生機率",
+      "危害源",
+      "風險。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y90006#Q42",
+    "source_display": "90006 工程管理學科 第42題"
+  },
+  {
+    "id": "y90006_43",
+    "subject": "室內裝修工程管理",
+    "year": 43,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "勞工為節省時間，在未斷電情況下清理機臺，易發生那些危害？",
+    "options": [
+      "捲夾感電",
+      "缺氧",
+      "墜落",
+      "崩塌。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y90006#Q43",
+    "source_display": "90006 工程管理學科 第43題"
+  },
+  {
+    "id": "y90006_44",
+    "subject": "室內裝修工程管理",
+    "year": 44,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "工作場所化學性有害物進入人體最常見路徑為下列何者？",
+    "options": [
+      "口腔",
+      "呼吸道",
+      "皮膚",
+      "眼睛。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y90006#Q44",
+    "source_display": "90006 工程管理學科 第44題"
+  },
+  {
+    "id": "y90006_45",
+    "subject": "室內裝修工程管理",
+    "year": 45,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "於營造工地潮濕場所中使用電動機具，為防止感電危害，應於該電路設置何種安全裝置？",
+    "options": [
+      "閉關箱",
+      "自動電\n擊防止裝置",
+      "高感度高速型漏電斷路器",
+      "高容量保險絲。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y90006#Q45",
+    "source_display": "90006 工程管理學科 第45題"
+  },
+  {
+    "id": "y90006_46",
+    "subject": "室內裝修工程管理",
+    "year": 46,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "活線作業勞工應佩戴何種防護手套？",
+    "options": [
+      "棉紗手套",
+      "耐熱手套",
+      "絕緣手套",
+      "防振手套。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y90006#Q46",
+    "source_display": "90006 工程管理學科 第46題"
+  },
+  {
+    "id": "y90006_47",
+    "subject": "室內裝修工程管理",
+    "year": 47,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列何者非屬電氣災害類型？",
+    "options": [
+      "電弧灼傷",
+      "電氣火災",
+      "靜電危害",
+      "雷電閃爍。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y90006#Q47",
+    "source_display": "90006 工程管理學科 第47題"
+  },
+  {
+    "id": "y90006_48",
+    "subject": "室內裝修工程管理",
+    "year": 48,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列何者非屬電氣之絕緣材料？",
+    "options": [
+      "空氣",
+      "氟氯烷",
+      "漂白水",
+      "絕緣油。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y90006#Q48",
+    "source_display": "90006 工程管理學科 第48題"
+  },
+  {
+    "id": "y90006_49",
+    "subject": "室內裝修工程管理",
+    "year": 49,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列何者非屬於工作場所作業會發生墜落災害的潛在危害因子？",
+    "options": [
+      "開口未設置護欄",
+      "未設置安全之上下設備",
+      "未確實戴安全帽",
+      "屋頂開口下方未張掛安全網。\n2"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y90006#Q49",
+    "source_display": "90006 工程管理學科 第49題"
+  },
+  {
+    "id": "y90006_50",
+    "subject": "室內裝修工程管理",
+    "year": 50,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "我國職業災害勞工保護法，適用之對象為何？",
+    "options": [
+      "未投保健康保險之勞工",
+      "未參加團體保險之勞工",
+      "失業勞工",
+      "未加入勞工保險而遭遇職業災害之勞工。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y90006#Q50",
+    "source_display": "90006 工程管理學科 第50題"
+  },
+  {
+    "id": "y90006_51",
+    "subject": "室內裝修工程管理",
+    "year": 51,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "在噪音防治之對策中，從下列哪一方面著手最為有效？",
+    "options": [
+      "偵測儀器",
+      "噪音源",
+      "傳播途徑",
+      "個人防護具。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y90006#Q51",
+    "source_display": "90006 工程管理學科 第51題"
+  },
+  {
+    "id": "y90006_52",
+    "subject": "室內裝修工程管理",
+    "year": 52,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "勞工於室外高氣溫作業環境工作，可能對身體產生熱危害，以下何者為非？",
+    "options": [
+      "熱衰竭",
+      "中暑",
+      "熱痙攣",
+      "痛風。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y90006#Q52",
+    "source_display": "90006 工程管理學科 第52題"
+  },
+  {
+    "id": "y90006_53",
+    "subject": "室內裝修工程管理",
+    "year": 53,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "勞動場所發生職業災害，災害搶救中第一要務為何？",
+    "options": [
+      "搶救材料減少損失",
+      "搶救罹災勞工迅速送醫",
+      "災害場\n所持續工作減少損失",
+      "24 小時內通報勞動檢查機構。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y90006#Q53",
+    "source_display": "90006 工程管理學科 第53題"
+  },
+  {
+    "id": "y90006_54",
+    "subject": "室內裝修工程管理",
+    "year": 54,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "以下何者是消除職業病發生率之源頭管理對策？",
+    "options": [
+      "使用個人防護具",
+      "健康檢查",
+      "改善作業環境",
+      "多運動。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y90006#Q54",
+    "source_display": "90006 工程管理學科 第54題"
+  },
+  {
+    "id": "y90006_55",
+    "subject": "室內裝修工程管理",
+    "year": 55,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列何者非為職業病預防之危害因子？",
+    "options": [
+      "遺傳性疾病",
+      "物理性危害",
+      "人因工程危害",
+      "化學性危害。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y90006#Q55",
+    "source_display": "90006 工程管理學科 第55題"
+  },
+  {
+    "id": "y90006_56",
+    "subject": "室內裝修工程管理",
+    "year": 56,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "對於染有油污之破布、紙屑等應如何處置？",
+    "options": [
+      "與一般廢棄物一起處置",
+      "應分類置於回收桶內",
+      "應蓋藏於不燃\n性之容器內",
+      "無特別規定，以方便丟棄即可。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y90006#Q56",
+    "source_display": "90006 工程管理學科 第56題"
+  },
+  {
+    "id": "y90006_57",
+    "subject": "室內裝修工程管理",
+    "year": 57,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列何者非屬使用合梯，應符合之規定？",
+    "options": [
+      "合梯應具有堅固之構造",
+      "合梯材質不得有顯著之損傷、腐蝕等",
+      "梯腳與地面之角度應在 80 度以上",
+      "有安全之防滑梯面。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y90006#Q57",
+    "source_display": "90006 工程管理學科 第57題"
+  },
+  {
+    "id": "y90006_58",
+    "subject": "室內裝修工程管理",
+    "year": 58,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列何者非屬勞工從事電氣工作，應符合之規定？",
+    "options": [
+      "使其使用電工安全帽",
+      "穿戴絕緣防護具",
+      "停電作業應檢\n電掛接地",
+      "穿戴棉質手套絕緣。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y90006#Q58",
+    "source_display": "90006 工程管理學科 第58題"
+  },
+  {
+    "id": "y90006_59",
+    "subject": "室內裝修工程管理",
+    "year": 59,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "為防止勞工感電，下列何者為非？",
+    "options": [
+      "使用防水插頭",
+      "避免不當延長接線",
+      "設備有接地即可免裝漏電斷路器",
+      "電線架高或加以防護。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y90006#Q59",
+    "source_display": "90006 工程管理學科 第59題"
+  },
+  {
+    "id": "y90006_60",
+    "subject": "室內裝修工程管理",
+    "year": 60,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "電氣設備接地之目的為何？",
+    "options": [
+      "防止電弧產生",
+      "防止短路發生",
+      "防止人員感電",
+      "防止電阻增加。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y90006#Q60",
+    "source_display": "90006 工程管理學科 第60題"
+  },
+  {
+    "id": "y90006_61",
+    "subject": "室內裝修工程管理",
+    "year": 61,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "不當抬舉導致肌肉骨骼傷害，或工作臺/椅高度不適導致肌肉疲勞之現象，可稱之為下列何者？",
+    "options": [
+      "感電事件",
+      "不當動作",
+      "不安全環境",
+      "被撞事件。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y90006#Q61",
+    "source_display": "90006 工程管理學科 第61題"
+  },
+  {
+    "id": "y90006_62",
+    "subject": "室內裝修工程管理",
+    "year": 62,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "使用鑽孔機時，不應使用下列何護具？",
+    "options": [
+      "耳塞",
+      "防塵口罩",
+      "棉紗手套",
+      "護目鏡。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y90006#Q62",
+    "source_display": "90006 工程管理學科 第62題"
+  },
+  {
+    "id": "y90006_63",
+    "subject": "室內裝修工程管理",
+    "year": 63,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "腕道症候群常發生於下列何作業？",
+    "options": [
+      "電腦鍵盤作業",
+      "潛水作業",
+      "堆高機作業",
+      "第一種壓力容器作業。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y90006#Q63",
+    "source_display": "90006 工程管理學科 第63題"
+  },
+  {
+    "id": "y90006_64",
+    "subject": "室內裝修工程管理",
+    "year": 64,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "若廢機油引起火災，最不應以下列何者滅火？",
+    "options": [
+      "厚棉被",
+      "砂土",
+      "水",
+      "乾粉滅火器。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y90006#Q64",
+    "source_display": "90006 工程管理學科 第64題"
+  },
+  {
+    "id": "y90006_65",
+    "subject": "室內裝修工程管理",
+    "year": 65,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "對於化學燒傷傷患的一般處理原則，下列何者正確？",
+    "options": [
+      "立即用大量清水沖洗",
+      "傷患必須臥下，而且頭、胸部\n須高於身體其他部位",
+      "於燒傷處塗抹油膏、油脂或發酵粉",
+      "使用酸鹼中和。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y90006#Q65",
+    "source_display": "90006 工程管理學科 第65題"
+  },
+  {
+    "id": "y90006_66",
+    "subject": "室內裝修工程管理",
+    "year": 66,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列何者屬不安全的行為？",
+    "options": [
+      "不適當之支撐或防護",
+      "未使用防護具",
+      "不適當之警告裝置",
+      "有缺陷的設備。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y90006#Q66",
+    "source_display": "90006 工程管理學科 第66題"
+  },
+  {
+    "id": "y90006_67",
+    "subject": "室內裝修工程管理",
+    "year": 67,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列何者非屬防止搬運事故之一般原則？",
+    "options": [
+      "以機械代替人力",
+      "以機動車輛搬運",
+      "採取適當之搬運方法",
+      "儘量\n增加搬運距離。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y90006#Q67",
+    "source_display": "90006 工程管理學科 第67題"
+  },
+  {
+    "id": "y90006_68",
+    "subject": "室內裝修工程管理",
+    "year": 68,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "對於脊柱或頸部受傷患者，下列何者非為適當處理原則？",
+    "options": [
+      "不輕易移動傷患",
+      "速請醫師",
+      "如無合用的器材，\n需2人作徒手搬運",
+      "向急救中心聯絡。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y90006#Q68",
+    "source_display": "90006 工程管理學科 第68題"
+  },
+  {
+    "id": "y90006_69",
+    "subject": "室內裝修工程管理",
+    "year": 69,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "防止噪音危害之治本對策為何？",
+    "options": [
+      "使用耳塞、耳罩",
+      "實施職業安全衛生教育訓練",
+      "消除發生源",
+      "實施特殊健\n康檢查。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y90006#Q69",
+    "source_display": "90006 工程管理學科 第69題"
+  },
+  {
+    "id": "y90006_70",
+    "subject": "室內裝修工程管理",
+    "year": 70,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "進出電梯時應以下列何者為宜？",
+    "options": [
+      "裡面的人先出，外面的人再進入",
+      "外面的人先進去，裡面的人才出來",
+      "可\n同時進出",
+      "爭先恐後無妨。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y90006#Q70",
+    "source_display": "90006 工程管理學科 第70題"
+  },
+  {
+    "id": "y90006_71",
+    "subject": "室內裝修工程管理",
+    "year": 71,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "安全帽承受巨大外力衝擊後，雖外觀良好，應採下列何種處理方式？",
+    "options": [
+      "廢棄",
+      "繼續使用",
+      "送修",
+      "油漆保護。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y90006#Q71",
+    "source_display": "90006 工程管理學科 第71題"
+  },
+  {
+    "id": "y90006_72",
+    "subject": "室內裝修工程管理",
+    "year": 72,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列何者可做為電器線路過電流保護之用？",
+    "options": [
+      "變壓器",
+      "電阻器",
+      "避雷器",
+      "熔絲斷路器。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y90006#Q72",
+    "source_display": "90006 工程管理學科 第72題"
+  },
+  {
+    "id": "y90006_73",
+    "subject": "室內裝修工程管理",
+    "year": 73,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "因舉重而扭腰係由於身體動作不自然姿勢，動作之反彈，引起扭筋、扭腰及形成類似狀態造成職業災害，其\n災害類型為下列何者？",
+    "options": [
+      "不當狀態",
+      "不當動作",
+      "不當方針",
+      "不當設備。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y90006#Q73",
+    "source_display": "90006 工程管理學科 第73題"
+  },
+  {
+    "id": "y90006_74",
+    "subject": "室內裝修工程管理",
+    "year": 74,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列有關工作場所安全衛生之敘述何者有誤？",
+    "options": [
+      "對於勞工從事其身體或衣著有被污染之虞之特殊作業時，應\n置備該勞工洗眼、洗澡、漱口、更衣、洗濯等設備",
+      "事業單位應備置足夠急救藥品及器材",
+      "事業單位應備置\n足夠的零食自動販賣機",
+      "勞工應定期接受健康檢查。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y90006#Q74",
+    "source_display": "90006 工程管理學科 第74題"
+  },
+  {
+    "id": "y90006_75",
+    "subject": "室內裝修工程管理",
+    "year": 75,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "毒性物質進入人體的途徑，經由那個途徑影響人體健康最快且中毒效應最高？",
+    "options": [
+      "吸入",
+      "食入",
+      "皮膚接觸",
+      "手\n指觸摸。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y90006#Q75",
+    "source_display": "90006 工程管理學科 第75題"
+  },
+  {
+    "id": "y90006_76",
+    "subject": "室內裝修工程管理",
+    "year": 76,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "安全門或緊急出口平時應維持何狀態？",
+    "options": [
+      "門可上鎖但不可封死",
+      "保持開門狀態以保持逃生路徑暢通",
+      "門應關\n上但不可上鎖",
+      "與一般進出門相同，視各樓層規定可開可關。\n3"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y90006#Q76",
+    "source_display": "90006 工程管理學科 第76題"
+  },
+  {
+    "id": "y90006_77",
+    "subject": "室內裝修工程管理",
+    "year": 77,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列那種防護具較能消減噪音對聽力的危害？",
+    "options": [
+      "棉花球",
+      "耳塞",
+      "耳罩",
+      "碎布球。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y90006#Q77",
+    "source_display": "90006 工程管理學科 第77題"
+  },
+  {
+    "id": "y90006_78",
+    "subject": "室內裝修工程管理",
+    "year": 78,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "流行病學實證研究顯示，輪班、夜間及長時間工作與心肌梗塞、高血壓、睡眠障礙、憂鬱等的罹病風險之相\n關性一般為何？",
+    "options": [
+      "無",
+      "負",
+      "正",
+      "可正可負。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y90006#Q78",
+    "source_display": "90006 工程管理學科 第78題"
+  },
+  {
+    "id": "y90006_79",
+    "subject": "室內裝修工程管理",
+    "year": 79,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "勞工若面臨長期工作負荷壓力及工作疲勞累積，沒有獲得適當休息及充足睡眠，便可能影響體能及精神狀態，\n甚而較易促發下列何種疾病？",
+    "options": [
+      "皮膚癌",
+      "腦心血管疾病",
+      "多發性神經病變",
+      "肺水腫。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y90006#Q79",
+    "source_display": "90006 工程管理學科 第79題"
+  },
+  {
+    "id": "y90006_80",
+    "subject": "室內裝修工程管理",
+    "year": 80,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "「勞工腦心血管疾病發病的風險與年齡、抽菸、總膽固醇數值、家族病史、生活型態、心臟方面疾病」之相\n關性為何？",
+    "options": [
+      "無",
+      "正",
+      "負",
+      "可正可負。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y90006#Q80",
+    "source_display": "90006 工程管理學科 第80題"
+  },
+  {
+    "id": "y90006_81",
+    "subject": "室內裝修工程管理",
+    "year": 81,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "勞工常處於高溫及低溫間交替暴露的情況、或常在有明顯溫差之場所間出入，對勞工的生(心)理工作負荷之影\n響一般為何？",
+    "options": [
+      "無",
+      "增加",
+      "減少",
+      "不一定。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y90006#Q81",
+    "source_display": "90006 工程管理學科 第81題"
+  },
+  {
+    "id": "y90006_82",
+    "subject": "室內裝修工程管理",
+    "year": 82,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "「感覺心力交瘁，感覺挫折，而且上班時都很難熬」此現象與下列何者較不相關？",
+    "options": [
+      "可能已經快被工作累垮\n了",
+      "工作相關過勞程度可能嚴重",
+      "工作相關過勞程度輕微",
+      "可能需要尋找專業人員諮詢。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y90006#Q82",
+    "source_display": "90006 工程管理學科 第82題"
+  },
+  {
+    "id": "y90006_83",
+    "subject": "室內裝修工程管理",
+    "year": 83,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列何者不屬於職場暴力？",
+    "options": [
+      "肢體暴力",
+      "語言暴力",
+      "家庭暴力",
+      "性騷擾。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y90006#Q83",
+    "source_display": "90006 工程管理學科 第83題"
+  },
+  {
+    "id": "y90006_84",
+    "subject": "室內裝修工程管理",
+    "year": 84,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "職場內部常見之身體或精神不法侵害不包含下列何者？",
+    "options": [
+      "脅迫、名譽損毀、侮辱、嚴重辱罵勞工",
+      "強求勞工\n執行業務上明顯不必要或不可能之工作",
+      "過度介入勞工私人事宜",
+      "使勞工執行與能力、經驗相符的工作。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y90006#Q84",
+    "source_display": "90006 工程管理學科 第84題"
+  },
+  {
+    "id": "y90006_85",
+    "subject": "室內裝修工程管理",
+    "year": 85,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "勞工服務對象若屬特殊高風險族群，如酗酒、藥癮、心理疾患或家暴者，則此勞工較易遭受下列何種危害？",
+    "options": [
+      "身體或心理不法侵害",
+      "中樞神經系統退化",
+      "聽力損失",
+      "白指症。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y90006#Q85",
+    "source_display": "90006 工程管理學科 第85題"
+  },
+  {
+    "id": "y90006_86",
+    "subject": "室內裝修工程管理",
+    "year": 86,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列何措施較可避免工作單調重複或負荷過重？",
+    "options": [
+      "連續夜班",
+      "工時過長",
+      "排班保有規律性",
+      "經常性加班。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y90006#Q86",
+    "source_display": "90006 工程管理學科 第86題"
+  },
+  {
+    "id": "y90006_87",
+    "subject": "室內裝修工程管理",
+    "year": 87,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "一般而言下列何者不屬對孕婦有危害之作業或場所？",
+    "options": [
+      "經常搬抬物件上下階梯或梯架",
+      "暴露游離輻射",
+      "工作\n區域地面平坦、未濕滑且無未固定之線路",
+      "經常變換高低位之工作姿勢。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y90006#Q87",
+    "source_display": "90006 工程管理學科 第87題"
+  },
+  {
+    "id": "y90006_88",
+    "subject": "室內裝修工程管理",
+    "year": 88,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "長時間電腦終端機作業較不易產生下列何狀況？",
+    "options": [
+      "眼睛乾澀",
+      "頸肩部僵硬不適",
+      "體溫、心跳和血壓之變化幅\n度比較大",
+      "腕道症候群。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y90006#Q88",
+    "source_display": "90006 工程管理學科 第88題"
+  },
+  {
+    "id": "y90006_89",
+    "subject": "室內裝修工程管理",
+    "year": 89,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "減輕皮膚燒傷程度之最重要步驟為何？",
+    "options": [
+      "儘速用清水沖洗",
+      "立即刺破水泡",
+      "立即在燒傷處塗抹油脂",
+      "在燒傷\n處塗抹麵粉。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y90006#Q89",
+    "source_display": "90006 工程管理學科 第89題"
+  },
+  {
+    "id": "y90006_90",
+    "subject": "室內裝修工程管理",
+    "year": 90,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "眼內噴入化學物或其他異物，應立即使用下列何者沖洗眼睛？",
+    "options": [
+      "牛奶",
+      "蘇打水",
+      "清水",
+      "稀釋的醋。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y90006#Q90",
+    "source_display": "90006 工程管理學科 第90題"
+  },
+  {
+    "id": "y90006_91",
+    "subject": "室內裝修工程管理",
+    "year": 91,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "石綿最可能引起下列何種疾病？",
+    "options": [
+      "白指症",
+      "心臟病",
+      "間皮細胞瘤",
+      "巴金森氏症。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y90006#Q91",
+    "source_display": "90006 工程管理學科 第91題"
+  },
+  {
+    "id": "y90006_92",
+    "subject": "室內裝修工程管理",
+    "year": 92,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "作業場所高頻率噪音較易導致下列何種症狀？",
+    "options": [
+      "失眠",
+      "聽力損失",
+      "肺部疾病",
+      "腕道症候群。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y90006#Q92",
+    "source_display": "90006 工程管理學科 第92題"
+  },
+  {
+    "id": "y90006_93",
+    "subject": "室內裝修工程管理",
+    "year": 93,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列何種患者不宜從事高溫作業？",
+    "options": [
+      "近視",
+      "心臟病",
+      "遠視",
+      "重聽。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y90006#Q93",
+    "source_display": "90006 工程管理學科 第93題"
+  },
+  {
+    "id": "y90006_94",
+    "subject": "室內裝修工程管理",
+    "year": 94,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "廚房設置之排油煙機為下列何者？",
+    "options": [
+      "整體換氣裝置",
+      "局部排氣裝置",
+      "吹吸型換氣裝置",
+      "排氣煙函。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y90006#Q94",
+    "source_display": "90006 工程管理學科 第94題"
+  },
+  {
+    "id": "y90006_95",
+    "subject": "室內裝修工程管理",
+    "year": 95,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "消除靜電的有效方法為下列何者？",
+    "options": [
+      "隔離",
+      "摩擦",
+      "接地",
+      "絕緣。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y90006#Q95",
+    "source_display": "90006 工程管理學科 第95題"
+  },
+  {
+    "id": "y90006_96",
+    "subject": "室內裝修工程管理",
+    "year": 96,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "防塵口罩選用原則，下列敘述何者錯誤？",
+    "options": [
+      "捕集效率愈高愈好",
+      "吸氣阻抗愈低愈好",
+      "重量愈輕愈好",
+      "視野愈\n小愈好。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y90006#Q96",
+    "source_display": "90006 工程管理學科 第96題"
+  },
+  {
+    "id": "y90006_97",
+    "subject": "室內裝修工程管理",
+    "year": 97,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "「勞工於職場上遭受主管或同事利用職務或地位上的優勢予以不當之對待，及遭受顧客、服務對象或其他相\n關人士之肢體攻擊、言語侮辱、恐嚇、威脅等霸凌或暴力事件，致發生精神或身體上的傷害」此等危害可歸\n類於下列何種職業危害？",
+    "options": [
+      "物理性",
+      "化學性",
+      "社會心理性",
+      "生物性。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y90006#Q97",
+    "source_display": "90006 工程管理學科 第97題"
+  },
+  {
+    "id": "y90006_98",
+    "subject": "室內裝修工程管理",
+    "year": 98,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "有關高風險或高負荷、夜間工作之安排或防護措施，下列何者不恰當？",
+    "options": [
+      "若受威脅或加害時，在加害人離開\n前觸動警報系統，激怒加害人，使對方抓狂",
+      "參照醫師之適性配工建議",
+      "考量人力或性別之適任性",
+      "獨自作\n業，宜考量潛在危害，如性暴力。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y90006#Q98",
+    "source_display": "90006 工程管理學科 第98題"
+  },
+  {
+    "id": "y90006_99",
+    "subject": "室內裝修工程管理",
+    "year": 99,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "若勞工工作性質需與陌生人接觸、工作中需處理不可預期的突發事件或工作場所治安狀況較差，較容易遭遇\n下列何種危害？",
+    "options": [
+      "組織內部不法侵害",
+      "組織外部不法侵害",
+      "多發性神經病變",
+      "潛涵症。\n100. (3) 以下何者不是發生電氣火災的主要原因？"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y90006#Q99",
+    "source_display": "90006 工程管理學科 第99題"
   }
 ]

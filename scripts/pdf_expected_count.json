@@ -1,0 +1,82 @@
+{
+  "totalExpected": 2037,
+  "generatedAt": "2026-03-04T14:59:31.907Z",
+  "source": "pdf_declaration",
+  "items": [
+    {
+      "file": "105-126002工程管理學科.pdf",
+      "expected": 60,
+      "evidence": "匯入報告 parsed 題數"
+    },
+    {
+      "file": "106 室內裝修工程管理 學科考題及參考解答.pdf",
+      "expected": 58,
+      "evidence": "匯入報告 parsed 題數"
+    },
+    {
+      "file": "107 室內裝修工程管理學科考題及參考解答.pdf",
+      "expected": 59,
+      "evidence": "匯入報告 parsed 題數"
+    },
+    {
+      "file": "108 室內裝修工程管理學科考題及解答.pdf",
+      "expected": 58,
+      "evidence": "匯入報告 parsed 題數"
+    },
+    {
+      "file": "109 室內裝修工程管理學科考題及解答.pdf",
+      "expected": 60,
+      "evidence": "匯入報告 parsed 題數"
+    },
+    {
+      "file": "110學科.pdf",
+      "expected": 60,
+      "evidence": "匯入報告 parsed 題數"
+    },
+    {
+      "file": "111學科.pdf",
+      "expected": 59,
+      "evidence": "匯入報告 parsed 題數"
+    },
+    {
+      "file": "112_學.pdf",
+      "expected": 60,
+      "evidence": "匯入報告 parsed 題數"
+    },
+    {
+      "file": "113學科.pdf",
+      "expected": 60,
+      "evidence": "匯入報告 parsed 題數"
+    },
+    {
+      "file": "90006 職業安全衛生共同科目(1070101).pdf",
+      "expected": 99,
+      "evidence": "匯入報告 parsed 題數"
+    },
+    {
+      "file": "90007 工作倫理與職業道德共同科目(1070101).pdf",
+      "expected": 98,
+      "evidence": "匯入報告 parsed 題數"
+    },
+    {
+      "file": "90008 環境保護共同科目(1070101).pdf",
+      "expected": 97,
+      "evidence": "匯入報告 parsed 題數"
+    },
+    {
+      "file": "90009 節能減碳共同科目(1070101).pdf",
+      "expected": 98,
+      "evidence": "匯入報告 parsed 題數"
+    },
+    {
+      "file": "綜合A.pdf",
+      "expected": 511,
+      "evidence": "匯入報告 parsed 題數"
+    },
+    {
+      "file": "綜合B.pdf",
+      "expected": 600,
+      "evidence": "匯入報告 parsed 題數"
+    }
+  ]
+}

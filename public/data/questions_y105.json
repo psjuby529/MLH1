@@ -14,8 +14,8 @@
     ],
     "answer_index": 1,
     "explanation": "",
-    "source": "y105#p1#Q1",
-    "source_display": "105 工程管理學科 第1頁 第1題"
+    "source": "y105#Q1",
+    "source_display": "105 工程管理學科 第1題"
   },
   {
     "id": "y105_2",
@@ -32,8 +32,8 @@
     ],
     "answer_index": 1,
     "explanation": "",
-    "source": "y105#p1#Q2",
-    "source_display": "105 工程管理學科 第1頁 第2題"
+    "source": "y105#Q2",
+    "source_display": "105 工程管理學科 第2題"
   },
   {
     "id": "y105_3",
@@ -50,8 +50,8 @@
     ],
     "answer_index": 0,
     "explanation": "",
-    "source": "y105#p1#Q3",
-    "source_display": "105 工程管理學科 第1頁 第3題"
+    "source": "y105#Q3",
+    "source_display": "105 工程管理學科 第3題"
   },
   {
     "id": "y105_4",
@@ -68,8 +68,8 @@
     ],
     "answer_index": 3,
     "explanation": "",
-    "source": "y105#p1#Q4",
-    "source_display": "105 工程管理學科 第1頁 第4題"
+    "source": "y105#Q4",
+    "source_display": "105 工程管理學科 第4題"
   },
   {
     "id": "y105_5",
@@ -86,8 +86,8 @@
     ],
     "answer_index": 1,
     "explanation": "",
-    "source": "y105#p1#Q5",
-    "source_display": "105 工程管理學科 第1頁 第5題"
+    "source": "y105#Q5",
+    "source_display": "105 工程管理學科 第5題"
   },
   {
     "id": "y105_6",
@@ -104,8 +104,8 @@
     ],
     "answer_index": 3,
     "explanation": "",
-    "source": "y105#p1#Q6",
-    "source_display": "105 工程管理學科 第1頁 第6題"
+    "source": "y105#Q6",
+    "source_display": "105 工程管理學科 第6題"
   },
   {
     "id": "y105_7",
@@ -122,8 +122,8 @@
     ],
     "answer_index": 3,
     "explanation": "",
-    "source": "y105#p1#Q7",
-    "source_display": "105 工程管理學科 第1頁 第7題"
+    "source": "y105#Q7",
+    "source_display": "105 工程管理學科 第7題"
   },
   {
     "id": "y105_8",
@@ -140,8 +140,8 @@
     ],
     "answer_index": 1,
     "explanation": "",
-    "source": "y105#p1#Q8",
-    "source_display": "105 工程管理學科 第1頁 第8題"
+    "source": "y105#Q8",
+    "source_display": "105 工程管理學科 第8題"
   },
   {
     "id": "y105_9",
@@ -154,11 +154,929 @@
       "砌磚",
       "磁磚鋪貼",
       "清水磚牆勾縫",
-      "打底粉刷。\n消防水管"
+      "打底粉刷。"
     ],
     "answer_index": 1,
     "explanation": "",
-    "source": "y105#p1#Q9",
-    "source_display": "105 工程管理學科 第1頁 第9題"
+    "source": "y105#Q9",
+    "source_display": "105 工程管理學科 第9題"
+  },
+  {
+    "id": "y105_10",
+    "subject": "室內裝修工程管理",
+    "year": 10,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "木材 1 才約為多少立方台寸",
+    "options": [
+      "1000",
+      "33",
+      "100",
+      "36。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y105#Q10",
+    "source_display": "105 工程管理學科 第10題"
+  },
+  {
+    "id": "y105_11",
+    "subject": "室內裝修工程管理",
+    "year": 11,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "依中華民國國家標準 CNS 規定，在設備圖說標準圖例中，－F－符號表示",
+    "options": [
+      "自動灑水管",
+      "消防水管",
+      "火警警報管",
+      "廣播系統管 系統。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y105#Q11",
+    "source_display": "105 工程管理學科 第11題"
+  },
+  {
+    "id": "y105_12",
+    "subject": "室內裝修工程管理",
+    "year": 12,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "水管內有空氣存在時",
+    "options": [
+      "會阻礙",
+      "不影響",
+      "會增加",
+      "隨溫度(環境與水)改變 流水速度。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y105#Q12",
+    "source_display": "105 工程管理學科 第12題"
+  },
+  {
+    "id": "y105_13",
+    "subject": "室內裝修工程管理",
+    "year": 13,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "測定水平線，如無水準儀，可用什麼工具代替？",
+    "options": [
+      "垂球",
+      "透明水管",
+      "板尺",
+      "角尺。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y105#Q13",
+    "source_display": "105 工程管理學科 第13題"
+  },
+  {
+    "id": "y105_14",
+    "subject": "室內裝修工程管理",
+    "year": 14,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列有關輕隔間牆工程的敘述何者有誤？",
+    "options": [
+      "上座板（槽鐵）之放樣應以鉛垂或雷射為之，\n使與下座板（槽鐵）確實在同一垂直面",
+      "牆體內的管線應在骨架尚未施做前即先配好",
+      "放\n樣作業的目的在確定牆體正確位置",
+      "於地板面進行下座板（槽鐵）之放樣。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y105#Q14",
+    "source_display": "105 工程管理學科 第14題"
+  },
+  {
+    "id": "y105_15",
+    "subject": "室內裝修工程管理",
+    "year": 15,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列敘述，何者為錯誤？",
+    "options": [
+      "木材可以「才」作為計算單位",
+      "布捲尺測量比鋼尺測量誤差大",
+      "1 甲=3000 坪",
+      "放樣工作重要，必須小心謹慎。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y105#Q15",
+    "source_display": "105 工程管理學科 第15題"
+  },
+  {
+    "id": "y105_16",
+    "subject": "室內裝修工程管理",
+    "year": 16,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "建材合板含有危害呼吸道的污染物",
+    "options": [
+      "石綿",
+      "氡氣",
+      "甲醛",
+      "甲醇。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y105#Q16",
+    "source_display": "105 工程管理學科 第16題"
+  },
+  {
+    "id": "y105_17",
+    "subject": "室內裝修工程管理",
+    "year": 17,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "依中華民國國家標準 CNS 規定，電氣設備圖中， 代表",
+    "options": [
+      "電風扇",
+      "吊燈",
+      "壁式白熾\n燈",
+      "吸頂燈。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y105#Q17",
+    "source_display": "105 工程管理學科 第17題"
+  },
+  {
+    "id": "y105_18",
+    "subject": "室內裝修工程管理",
+    "year": 18,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "年滿四十歲以上，未滿六十五歲之勞工應多久實施一次一般健康檢查？",
+    "options": [
+      "每六年",
+      "每五年",
+      "每三年",
+      "每二年。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y105#Q18",
+    "source_display": "105 工程管理學科 第18題"
+  },
+  {
+    "id": "y105_19",
+    "subject": "室內裝修工程管理",
+    "year": 19,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "斷路器依其極數製成分成",
+    "options": [
+      "四種",
+      "一種",
+      "三種",
+      "二種。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y105#Q19",
+    "source_display": "105 工程管理學科 第19題"
+  },
+  {
+    "id": "y105_20",
+    "subject": "室內裝修工程管理",
+    "year": 20,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列何者不是常用的定線工具？",
+    "options": [
+      "水平管",
+      "折尺",
+      "錘球",
+      "墨斗。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y105#Q20",
+    "source_display": "105 工程管理學科 第20題"
+  },
+  {
+    "id": "y105_21",
+    "subject": "室內裝修工程管理",
+    "year": 21,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "使用透明 PVC 膠管測水平時，下列何者對其測定結果沒有影響？",
+    "options": [
+      "管內堵塞",
+      "管內有氣泡",
+      "管內水位未靜止",
+      "管內盛水量多寡。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y105#Q21",
+    "source_display": "105 工程管理學科 第21題"
+  },
+  {
+    "id": "y105_22",
+    "subject": "室內裝修工程管理",
+    "year": 22,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "關於石膏板天花板的施作，下述那一項是錯誤",
+    "options": [
+      "與其他管線有衝突時，應增加吊筋或吊架",
+      "高度放樣後，即裝懸吊系統",
+      "施工前看完圖說即可施工",
+      "安裝懸吊系統要考慮天花板內\n其他設備的額外荷重。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y105#Q22",
+    "source_display": "105 工程管理學科 第22題"
+  },
+  {
+    "id": "y105_23",
+    "subject": "室內裝修工程管理",
+    "year": 23,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "「建築物室內裝修管理辦法」係依據下列何項法律授權訂定？",
+    "options": [
+      "公寓大廈管理條例",
+      "建築\n師法",
+      "營造業法",
+      "建築法。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y105#Q23",
+    "source_display": "105 工程管理學科 第23題"
+  },
+  {
+    "id": "y105_24",
+    "subject": "室內裝修工程管理",
+    "year": 24,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "室內裝修施工前，為確保人員免於感電，需採取斷電，下列何者不是其主要危害來源",
+    "options": [
+      "供\n電設備",
+      "電源線",
+      "清理搬運",
+      "手工具。\n105"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y105#Q24",
+    "source_display": "105 工程管理學科 第24題"
+  },
+  {
+    "id": "y105_25",
+    "subject": "室內裝修工程管理",
+    "year": 25,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "在磁磚的鋪貼工程中，何者需事前澆水，以利貼合？",
+    "options": [
+      "半磁化磁磚",
+      "陶質磁磚",
+      "無限定",
+      "全磁化磚。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y105#Q25",
+    "source_display": "105 工程管理學科 第25題"
+  },
+  {
+    "id": "y105_26",
+    "subject": "室內裝修工程管理",
+    "year": 26,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "從事磁磚黏貼工作，利用石材或磁磚切割機切割磁磚，請問下列哪一項不是必要護具？",
+    "options": [
+      "防塵口罩",
+      "護目鏡",
+      "手套",
+      "耳罩。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y105#Q26",
+    "source_display": "105 工程管理學科 第26題"
+  },
+  {
+    "id": "y105_27",
+    "subject": "室內裝修工程管理",
+    "year": 27,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "120 ㎝×150 ㎝的玻璃約為多少才",
+    "options": [
+      "12",
+      "15",
+      "25",
+      "20。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y105#Q27",
+    "source_display": "105 工程管理學科 第27題"
+  },
+  {
+    "id": "y105_28",
+    "subject": "室內裝修工程管理",
+    "year": 28,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "工地環境衛生是指",
+    "options": [
+      "個人衛生",
+      "飲食衛生",
+      "單作業區衛生",
+      "整體作業環境衛生。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y105#Q28",
+    "source_display": "105 工程管理學科 第28題"
+  },
+  {
+    "id": "y105_29",
+    "subject": "室內裝修工程管理",
+    "year": 29,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "現有二塊木板尺寸分別為長度 3 公尺、寬度 18 公分、厚度",
+    "options": [
+      "3.6 才",
+      "16.2 才",
+      "1.62 才",
+      "36 才。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y105#Q29",
+    "source_display": "105 工程管理學科 第29題"
+  },
+  {
+    "id": "y105_30",
+    "subject": "室內裝修工程管理",
+    "year": 30,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "一坪約為多少才",
+    "options": [
+      "40",
+      "3",
+      "36",
+      "33。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y105#Q30",
+    "source_display": "105 工程管理學科 第30題"
+  },
+  {
+    "id": "y105_31",
+    "subject": "室內裝修工程管理",
+    "year": 31,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "依「建築物室內裝修管理辦法」規定，從事室內裝修施工業務之室內裝修業者，應置",
+    "options": [
+      "專\n業施工技術人員一人以上",
+      "專業繪圖人員一人以上",
+      "專業工地管理人員一人以上",
+      "專業設\n計技術人員一人以上。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y105#Q31",
+    "source_display": "105 工程管理學科 第31題"
+  },
+  {
+    "id": "y105_32",
+    "subject": "室內裝修工程管理",
+    "year": 32,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "裝設樓梯時，較會發生下列哪項災害",
+    "options": [
+      "墜落滾落",
+      "倒塌",
+      "感電",
+      "物體飛落。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y105#Q32",
+    "source_display": "105 工程管理學科 第32題"
+  },
+  {
+    "id": "y105_33",
+    "subject": "室內裝修工程管理",
+    "year": 33,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列何者不屬於避難逃生設備",
+    "options": [
+      "避難梯",
+      "昇降機",
+      "避難橋",
+      "緩降機。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y105#Q33",
+    "source_display": "105 工程管理學科 第33題"
+  },
+  {
+    "id": "y105_34",
+    "subject": "室內裝修工程管理",
+    "year": 34,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "輕隔間牆於接縫處分次塗佈填縫膠泥，主要目的在",
+    "options": [
+      "增加牆板厚實感",
+      "防止濕氣",
+      "增加價\n值感",
+      "避免填縫膠泥乾縮。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y105#Q34",
+    "source_display": "105 工程管理學科 第34題"
+  },
+  {
+    "id": "y105_35",
+    "subject": "室內裝修工程管理",
+    "year": 35,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "立面設計中，常見”牆面留 2 分勾縫”此 2 分係指",
+    "options": [
+      "0.3 公分",
+      "2 公分",
+      "0.6 公分",
+      "1 公分。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y105#Q35",
+    "source_display": "105 工程管理學科 第35題"
+  },
+  {
+    "id": "y105_36",
+    "subject": "室內裝修工程管理",
+    "year": 36,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列何者室內裝修工程，應受建築物室內裝修管理辦法規範，不得隨意施作",
+    "options": [
+      "地毯",
+      "木地\n板",
+      "天花板",
+      "牆面油漆。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y105#Q36",
+    "source_display": "105 工程管理學科 第36題"
+  },
+  {
+    "id": "y105_37",
+    "subject": "室內裝修工程管理",
+    "year": 37,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "抽屜為了開拉更方便，常於側板裝配那一種五金？",
+    "options": [
+      "活頁",
+      "滑軌",
+      "止木",
+      "木釘。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y105#Q37",
+    "source_display": "105 工程管理學科 第37題"
+  },
+  {
+    "id": "y105_38",
+    "subject": "室內裝修工程管理",
+    "year": 38,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "常用低壓屋內配線以採用下列何種導線為宜？",
+    "options": [
+      "鋼心鋁線",
+      "鐵線",
+      "絕緣硬銅線",
+      "絕緣軟銅\n線。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y105#Q38",
+    "source_display": "105 工程管理學科 第38題"
+  },
+  {
+    "id": "y105_39",
+    "subject": "室內裝修工程管理",
+    "year": 39,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "一般刷塗作業時，刷毛沾浸塗料以多少為宜",
+    "options": [
+      "全部浸入",
+      "無關",
+      "1/2~2/3",
+      "1/3~ 1/5。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y105#Q39",
+    "source_display": "105 工程管理學科 第39題"
+  },
+  {
+    "id": "y105_40",
+    "subject": "室內裝修工程管理",
+    "year": 40,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "BMF 是表示",
+    "options": [
+      "才積",
+      "立方體",
+      "板呎",
+      "坪數。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y105#Q40",
+    "source_display": "105 工程管理學科 第40題"
+  },
+  {
+    "id": "y105_41",
+    "subject": "室內裝修工程管理",
+    "year": 41,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "關於輕隔間的施工程序，下述那一項是對的",
+    "options": [
+      "放樣→管路埋設→上下料及立柱角材安裝→\n第一面封板→隔音/隔熱材填充→第二面封板→批土→完工",
+      "上下料及立柱角材安裝→管\n路埋設→隔音/隔熱材填充→封板→批土→完工",
+      "放樣→上下料及立柱角材安裝→管路埋\n設及隔音/隔熱材填充→封板→批土→完工",
+      "放樣→上下料及立柱角材安裝→第一面封板\n→管路埋設及隔音/隔熱材填充→第二面封板→批土→完工。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y105#Q41",
+    "source_display": "105 工程管理學科 第41題"
+  },
+  {
+    "id": "y105_42",
+    "subject": "室內裝修工程管理",
+    "year": 42,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "建築石材之耐久性，依據其抵抗何種作用的能力而定",
+    "options": [
+      "風化",
+      "吸水率",
+      "強度",
+      "硬度。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y105#Q42",
+    "source_display": "105 工程管理學科 第42題"
+  },
+  {
+    "id": "y105_43",
+    "subject": "室內裝修工程管理",
+    "year": 43,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "分隔住宅單位與住宅單位區劃間之牆壁稱為",
+    "options": [
+      "分戶牆",
+      "分間牆",
+      "分室牆",
+      "分界牆。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y105#Q43",
+    "source_display": "105 工程管理學科 第43題"
+  },
+  {
+    "id": "y105_44",
+    "subject": "室內裝修工程管理",
+    "year": 44,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "有關研磨用砂紙下列敘述何者正確？",
+    "options": [
+      "號數以英文字母排序，A 顆粒最粗",
+      "號數數字越\n小，顆粒越大",
+      "號數數字越大，顆粒越大",
+      "號數以英文字母排序，Z 顆粒最粗。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y105#Q44",
+    "source_display": "105 工程管理學科 第44題"
+  },
+  {
+    "id": "y105_45",
+    "subject": "室內裝修工程管理",
+    "year": 45,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "使用氣動釘槍釘固塑膠天花板在木材骨架上時，應選用下列何種型式的釘子？",
+    "options": [
+      "Ｊ型",
+      "蚊\n釘",
+      "浪型釘",
+      "Ｔ型釘。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y105#Q45",
+    "source_display": "105 工程管理學科 第45題"
+  },
+  {
+    "id": "y105_46",
+    "subject": "室內裝修工程管理",
+    "year": 46,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "塗膜發生皺紋的原因為",
+    "options": [
+      "空氣太乾燥",
+      "材料含水率大",
+      "塗料濃度太高",
+      "空氣太潮溼。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y105#Q46",
+    "source_display": "105 工程管理學科 第46題"
+  },
+  {
+    "id": "y105_47",
+    "subject": "室內裝修工程管理",
+    "year": 47,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "下列何者屬於鐵類金屬材料",
+    "options": [
+      "銅",
+      "鋁",
+      "鉻",
+      "鑄鐵。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y105#Q47",
+    "source_display": "105 工程管理學科 第47題"
+  },
+  {
+    "id": "y105_48",
+    "subject": "室內裝修工程管理",
+    "year": 48,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "輕隔間門框施工須注意下列哪一事項",
+    "options": [
+      "上方補強槽鋼",
+      "門框材料厚度",
+      "兩側補強立柱",
+      "門\n框邊轉角護角。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y105#Q48",
+    "source_display": "105 工程管理學科 第48題"
+  },
+  {
+    "id": "y105_49",
+    "subject": "室內裝修工程管理",
+    "year": 49,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "依中華民國國家標準 CNS 規定，在電氣設備圖中 此符號代表配電系統之",
+    "options": [
+      "電燈分電\n盤",
+      "電力總配電盤",
+      "電燈總配電盤",
+      "電力分電盤。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y105#Q49",
+    "source_display": "105 工程管理學科 第49題"
+  },
+  {
+    "id": "y105_50",
+    "subject": "室內裝修工程管理",
+    "year": 50,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "室內裝修從業者指不包括",
+    "options": [
+      "土木技師",
+      "開業建築師",
+      "室內裝修業",
+      "營造業。"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y105#Q50",
+    "source_display": "105 工程管理學科 第50題"
+  },
+  {
+    "id": "y105_51",
+    "subject": "室內裝修工程管理",
+    "year": 51,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "屬供公眾使用之建築物且作商業使用之建築物進行室內裝修時，下列何者其內部裝修材料\n得不受限制",
+    "options": [
+      "天花板周圍之壓條",
+      "高度超過一點二公尺固定於地板之隔屏",
+      "天花板",
+      "內部\n105"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y105#Q51",
+    "source_display": "105 工程管理學科 第51題"
+  },
+  {
+    "id": "y105_52",
+    "subject": "室內裝修工程管理",
+    "year": 52,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "左圖之砌磚工具是",
+    "options": [
+      "磚鏟",
+      "粉刷鏝刀",
+      "菱形鏝刀",
+      "桃形鏝刀。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y105#Q52",
+    "source_display": "105 工程管理學科 第52題"
+  },
+  {
+    "id": "y105_53",
+    "subject": "室內裝修工程管理",
+    "year": 53,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "利用回路中電流相量和為零之原理製作。當帶電體有異常流流出時，電流相量和即不為零，\n偵出此異常電流即可用來跳脫開關的裝置設備是",
+    "options": [
+      "絕緣帶",
+      "漏電斷路器",
+      "配電盤",
+      "分段設\n備。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y105#Q53",
+    "source_display": "105 工程管理學科 第53題"
+  },
+  {
+    "id": "y105_54",
+    "subject": "室內裝修工程管理",
+    "year": 54,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "依中華民國國家標準 CNS 圖例規定，建築物之平面詳圖、立面詳圖，其比例尺不得小於",
+    "options": [
+      "1/30",
+      "1/10",
+      "1/100",
+      "1/50。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y105#Q54",
+    "source_display": "105 工程管理學科 第54題"
+  },
+  {
+    "id": "y105_55",
+    "subject": "室內裝修工程管理",
+    "year": 55,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "建築物室內裝修審核圖說時，若無前次使用執照或室內裝修平面圖屬實者得以",
+    "options": [
+      "專業設計\n技術人員",
+      "開業建築師",
+      "專業施工技術人員",
+      "建築師 之簽證符合規定之現況圖替代之。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y105#Q55",
+    "source_display": "105 工程管理學科 第55題"
+  },
+  {
+    "id": "y105_56",
+    "subject": "室內裝修工程管理",
+    "year": 56,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "依中華民國國家標準 CNS 規定，在電氣設備符號中， 代表",
+    "options": [
+      "吸頂燈",
+      "白熾燈",
+      "日光\n燈",
+      "單地板插座。"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "y105#Q56",
+    "source_display": "105 工程管理學科 第56題"
+  },
+  {
+    "id": "y105_57",
+    "subject": "室內裝修工程管理",
+    "year": 57,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "輕隔間牆使用石膏板材料封板時，螺釘鎖定板材於骨架時，應將螺釘鎖至",
+    "options": [
+      "突出於板材面",
+      "凹陷入板材面",
+      "平齊於板材面",
+      "任意隨機決定。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y105#Q57",
+    "source_display": "105 工程管理學科 第57題"
+  },
+  {
+    "id": "y105_58",
+    "subject": "室內裝修工程管理",
+    "year": 58,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "室內裝修業從事室內裝修施工業務者，應置專業施工技術人員至少幾人以上",
+    "options": [
+      "五人",
+      "一人",
+      "三人",
+      "二人。"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "y105#Q58",
+    "source_display": "105 工程管理學科 第58題"
+  },
+  {
+    "id": "y105_59",
+    "subject": "室內裝修工程管理",
+    "year": 59,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "使用電熨斗貼合 0.3 ㎜的木薄片時，最好選用",
+    "options": [
+      "ＡＢ膠",
+      "尿素膠",
+      "白膠",
+      "強力膠。"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y105#Q59",
+    "source_display": "105 工程管理學科 第59題"
+  },
+  {
+    "id": "y105_60",
+    "subject": "室內裝修工程管理",
+    "year": 60,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "在生產機械中使用於緊急停止裝置之顏色為",
+    "options": [
+      "紅色",
+      "白色",
+      "綠色",
+      "藍色。\n複選題：\n61. (13) 依機械器具安全防護標準規定，下列何項為正確？"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "y105#Q60",
+    "source_display": "105 工程管理學科 第60題"
   }
 ]

@@ -1,0 +1,5 @@
+# PDF 解析（必備，匯入題庫文字）
+pdfplumber>=0.9.0
+
+# 圖題裁切（可選，產出 PNG 需 PyMuPDF；Python 3.7+）
+pymupdf>=1.23.0
