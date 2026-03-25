@@ -1,0 +1,47 @@
+=== 小LIN 簽核包 multi（Phase 1 管線）===
+產出時間: 2026-03-25T12:15:39.707Z
+
+--- 1) npm run kpi:multi ---
+> mlh-quiz@0.1.0 kpi:multi
+> node scripts/kpi_report_multi.mjs
+
+
+--- KPI Report Multi (v2) ---
+ImportedThisRunMulti: 0
+BankTotalThisRunDatasetsMulti: 0
+LegacyBankMulti: 0
+BankTotalAllMulti: 0
+bankTotalSource: ran-summary-multi
+------------------
+
+
+npm warn Unknown env config "devdir". This will stop working in the next major version of npm.
+
+--- 2) npm run summary:multi (TOTAL) ---
+> mlh-quiz@0.1.0 summary:multi
+> node scripts/question_bank_summary_multi.mjs
+
+Wrote: scripts/question_bank_summary_multi.json
+TOTAL (multi): 0
+
+npm warn Unknown env config "devdir". This will stop working in the next major version of npm.
+
+--- 3) ls -lt public/data/multi（略過 verify_result_multi.json）---
+total 24
+-rw-r--r--@ 1 jfai  staff   45 Mar 25 20:03 index.json
+-rw-r--r--@ 1 jfai  staff  109 Mar 25 20:03 meta.json
+
+--- 4) npm run verify:multi ---
+> mlh-quiz@0.1.0 verify:multi
+> node scripts/verify_data_integrity_multi.mjs
+
+[verify_data_integrity_multi] error_count: 0
+[verify_data_integrity_multi] OK: multi-phase1-0 | 0 題庫 0 題 | errors: 0
+
+npm warn Unknown env config "devdir". This will stop working in the next major version of npm.
+
+=== 簽核標準 multi v2（Phase 1）===
+ImportedThisRunMulti == BankTotalThisRunDatasetsMulti
+BankTotalAllMulti >= 0
+verify:multi error_count == 0
+public/data/multi 結構完整（meta + index）
