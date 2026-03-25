@@ -63,6 +63,15 @@ npm run approval:bundle:multi   # 一鍵產出 scripts/approval_bundle_multi.txt
 
 ---
 
+## 合併前 PR Comment（Phase 1.5 流程輔助）
+
+- **範本**（手動複製）：`scripts/pr_comment_template_multi.md`（含用途說明與可選 Vercel Build Log 提示）。
+- **自動填寫稿**：`npm run approval:bundle:multi` 成功後會多產出 `scripts/pr_comment_merge_check_multi.md`，已帶入目前 **git HEAD**、`verify:multi` 的 **error_count**、`summary:multi` 的 **TOTAL (multi)**。  
+  **Vercel Preview URL** 仍須從 Dashboard 手動貼上（佔位文字已留在檔內）。
+- 該填寫稿已列入 `.gitignore`，避免本機 commit SHA 污染版本庫；合併前將檔案內容複製到 PR comment 即可。
+
+---
+
 ## Phase 2（本文件預告，尚未實作）
 
 - Python 匯入器輸出至 `public/data/multi/`，並寫入 `import_report_multi.json`。
