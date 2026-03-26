@@ -5,7 +5,7 @@
  * - BankTotalThisRunDatasetsMulti：本輪 datasets 對應檔案題數加總
  * - LegacyBankMulti：其餘 public/data/multi/questions_*.json 題數
  * - BankTotalAllMulti：全部 multi 題庫
- * Phase 1：ImportedThisRunMulti === BankTotalThisRunDatasetsMulti、BankTotalAllMulti >= 0
+ * Phase 1/2：Imported === BankTotalThisRun、BankTotalAll >= Imported、BankTotalAll >= 0
  */
 import fs from "fs";
 import path from "path";
@@ -74,6 +74,13 @@ console.log("");
 if (ImportedThisRunMulti !== BankTotalThisRunDatasetsMulti) {
   console.error(
     `[kpi_report_multi] ImportedThisRunMulti (${ImportedThisRunMulti}) !== BankTotalThisRunDatasetsMulti (${BankTotalThisRunDatasetsMulti})`
+  );
+  process.exit(1);
+}
+
+if (BankTotalAllMulti < ImportedThisRunMulti) {
+  console.error(
+    `[kpi_report_multi] BankTotalAllMulti (${BankTotalAllMulti}) < ImportedThisRunMulti (${ImportedThisRunMulti})`
   );
   process.exit(1);
 }
