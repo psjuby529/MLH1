@@ -39,3 +39,7 @@ scripts/pr_comment_merge_check_multi.md
 scripts/backup/
 scripts/parser_debug/
 scripts/import_last_run.log
+scripts/import_last_run_multi.log
+scripts/parser_debug_multi/
+# multi 匯入報告（每次匯入產生，不提交；與 Phase 2A PR 範圍一致）
+scripts/import_report_multi.json

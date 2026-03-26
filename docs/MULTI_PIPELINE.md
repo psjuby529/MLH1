@@ -1,6 +1,17 @@
-# 複選題（multi）管線說明 — Phase 1
+# 複選題（multi）管線說明 — Phase 1 / 2A / 2B
 
 與 **單選（single）** 完全分離：獨立目錄、獨立腳本、獨立 KPI／簽核包，不影響 `public/data/` 根目錄既有題庫與 `verify:data` / `prebuild`。
+
+---
+
+## Phase 2A vs 2B（範圍聲明）
+
+| 狀態 | 內容 |
+|------|------|
+| **Phase 2A（已完成）** | multi **匯入管線**：`import_pdfs_to_multi.py`、`import_report_multi.json`、`import_last_run_multi.log`、與 `summary → verify → kpi → approval:bundle:multi` 串接；**CI / 本機 smoke** 可全綠。 |
+| **Phase 2B（未完成）** | **真實 multi PDF 題庫**：`raw_pdfs_multi` 內須有實際 `.pdf`、關閉 demo fallback、題量與簽核包須反映**真實匯入**（見下方「正式驗收」）。 |
+
+**Demo fallback（僅 smoke）**：當 `raw_pdfs_multi` 內**沒有任何 PDF** 時，`import:multi`（未加 `--no-demo-fallback`）會自動寫入 **2 題 Demo**，僅用於**管線連通性測試**，**不代表**正式複選考古題庫已匯入完成。
 
 ---
 
@@ -10,69 +21,99 @@
 |------|------|
 | 複選題庫根目錄 | `public/data/multi/` |
 | 版本資訊 | `public/data/multi/meta.json`（`data_version`） |
-| 題庫清單 | `public/data/multi/index.json`（`datasets[]`，每筆含 `id`、`label`、`file`） |
+| 題庫清單 | `public/data/multi/index.json`（`bank_kind`、`datasets[]`） |
 | 題目檔 | `public/data/multi/questions_<dataset_id>.json`（根為陣列） |
+| 複選 PDF 來源（不入庫 PDF 本體） | `raw_pdfs_multi/*.pdf`（可僅 `.gitkeep`） |
 | verify 產物（建置產出，不提交） | `public/data/multi/verify_result_multi.json` |
+| 匯入 log（不提交） | `scripts/import_last_run_multi.log` |
+| Parser debug（不提交） | `scripts/parser_debug_multi/` |
 
 ---
 
 ## 題目 JSON（multi）欄位
 
-每題為物件，**至少**：
+每題為物件，**至少**：`id`、`question_type: "multi"`、`question_text`、`options`（長度 4）、`correct_answers`（長度 ≥2、僅 A–D、至少兩個不同字母）。
 
-| 欄位 | 說明 |
-|------|------|
-| `id` | 字串或數字，唯一識別 |
-| `question_type` | 固定 `"multi"` |
-| `question_text` | 題幹（非空字串） |
-| `options` | 長度 **4** 的陣列（四個選項文字） |
-| `correct_answers` | 長度 **≥2** 的陣列，元素僅能為 `"A"`、`"B"`、`"C"`、`"D"`，且至少兩個不同字母 |
-
-**可選**：`assets`、`explanation`、`source`、`source_display` 等（與 single 慣例對齊即可）。
+**可選**：`assets`、`explanation`、`source`、`source_display`、`multi_parse_flags`（如 `answer_placeholder`、`options_placeholder`、`answer_parse_method`）等。
 
 ---
 
 ## npm 指令
 
 ```bash
-npm run summary:multi      # 產出 scripts/question_bank_summary_multi.json
-npm run verify:multi       # 檢查 multi 資料；error_count 必須為 0
-npm run kpi:multi          # KPI v2 口徑（multi）
-npm run approval:bundle:multi   # 一鍵產出 scripts/approval_bundle_multi.txt
+npm run summary:multi
+npm run verify:multi
+npm run kpi:multi
+npm run approval:bundle:multi
+
+# Phase 2A smoke（無 PDF 時可走 demo fallback，totalWrittenQuestionsMulti=2）
+npm run import:multi
+npm run import:multi:then:approval
+
+# Phase 2B 正式匯入（無 PDF 直接失敗，不走 demo）
+npm run import:multi:real
+npm run import:multi:real:then:approval
 ```
 
 ---
 
-## 本輪匯入報告（Phase 2 啟用）
+## Phase 2A：匯入命令與輸出
 
-- 預期檔案：`scripts/import_report_multi.json`（陣列，每筆含 `dataset_id`、`parsed` 等，與 single 的 `import_report.json` 對齊）。
-- Phase 1：可無此檔；此時 `ImportedThisRunMulti = 0`，且無「本輪檔名集合」，所有 `questions_*.json` 題數計入 **LegacyBankMulti**（與 single 在無匯入報告時行為一致）。
+- **Smoke**：`python3 scripts/import_pdfs_to_multi.py --input-dir raw_pdfs_multi`（npm：`import:multi`）  
+  - 目錄內**無 PDF** 時 → **Demo fallback**（stderr `WARNING`），寫入 2 題，**僅驗管線**。
+- **正式匯入入口**：加 **`--no-demo-fallback`**（npm：`import:multi:real`）  
+  - **無 PDF → exit 1**，絕不寫 Demo。  
+  - 有 PDF 時需已安裝 **pdfplumber**（或 single 同款 PDF 引擎），否則失敗。
+- **`--demo`**：僅寫入 Demo、不讀目錄 PDF。
+- **輸出**：`public/data/multi/index.json`、`meta.json`、`questions_<slug>.json`、`scripts/import_report_multi.json`。
+- **5 行診斷**（寫入 `import_last_run_multi.log`）：  
+  `IMPORT_OUTPUT_JSON_MULTI=`、`wroteIndexMulti=`、`wroteQuestionsFilesCountMulti=`、`wroteQuestionsFilesSampleMulti=`、`totalWrittenQuestionsMulti=`
+- **回滾**：匯入前若 `public/data/multi` 非空，備份至 `scripts/backup/<timestamp>/public_data_multi/`。
+
+---
+
+## Phase 2B：正式驗收條件（題庫層）
+
+以下**全部**滿足才可宣稱「真實 multi 題庫匯入」驗收完成（非僅 Phase 2A）：
+
+1. **`raw_pdfs_multi/` 內存在真實 `.pdf`**（非僅 `.gitkeep`）。
+2. 使用 **`npm run import:multi:real`** 或 **`import:multi:real:then:approval`**（或手動執行 Python 時帶 **`--no-demo-fallback`**），**禁止**依賴 demo fallback。
+3. 簽核包內 **`totalWrittenQuestionsMulti` > 2**（Demo 固定為 2；真實題庫應高於此門檻）。
+4. **`scripts/approval_bundle_multi.txt`** 與 **`scripts/import_last_run_multi.log`** 的 5 行須與**本次真實 PDF 匯入**一致（非 Demo 產物敘述）。
+5. **`verify:multi`**：`error_count == 0`；**KPI**：`ImportedThisRunMulti == BankTotalThisRunDatasetsMulti`、`BankTotalAllMulti >= ImportedThisRunMulti`。
+
+---
+
+## 答案解析（匯入 v1）
+
+自題塊前段擷取複選答案，支援：`(1)(3)`、`(A)(C)`、`①③`、`答案：1、3`、`A,C`、`AC` 等；無法解析時使用 **`correct_answers: ["A","B"]`** 並標記 `answer_placeholder`；選項失敗時四格 `(選項未辨識)` 並標記 `options_placeholder`。
+
+---
+
+## import_report_multi.json
+
+陣列；每筆含 `dataset_id`、`file`、`parsed`、`errors`、`suspicious_count` 等。無檔或無匯入回合時，`ImportedThisRunMulti = 0`，題數計入 **LegacyBankMulti**。
 
 ---
 
 ## 驗收方式（Phase 1）
 
-1. 執行 `npm run approval:bundle:multi`。
-2. 開啟 `scripts/approval_bundle_multi.txt`，確認：
-   - KPI 四數字 + `bankTotalSource`
-   - `summary:multi` 的 TOTAL
-   - `ls public/data/multi` 前 5 行
-   - `verify:multi` 顯示 **`error_count: 0`** 且 **exit 0**
-
-**不得**修改 `prebuild` 中的 single `verify:data`（避免影響現有 Vercel 部署）。
+`npm run approval:bundle:multi`；簽核包內 `verify:multi` 為 **`error_count: 0`**。**不得**修改 `prebuild` 內 single `verify:data`。
 
 ---
 
-## 合併前 PR Comment（Phase 1.5 流程輔助）
+## Phase 2A 驗收（管線 smoke）
 
-- **範本**（手動複製）：`scripts/pr_comment_template_multi.md`（含用途說明與可選 Vercel Build Log 提示）。
-- **自動填寫稿**：`npm run approval:bundle:multi` 成功後會多產出 `scripts/pr_comment_merge_check_multi.md`，已帶入目前 **git HEAD**、`verify:multi` 的 **error_count**、`summary:multi` 的 **TOTAL (multi)**。  
-  **Vercel Preview URL** 仍須從 Dashboard 手動貼上（佔位文字已留在檔內）。
-- 該填寫稿已列入 `.gitignore`，避免本機 commit SHA 污染版本庫；合併前將檔案內容複製到 PR comment 即可。
+`npm run import:multi:then:approval` 可全綠；此時若無 PDF，**預期** `totalWrittenQuestionsMulti=2`（Demo），**不**代表 Phase 2B 完成。
 
 ---
 
-## Phase 2（本文件預告，尚未實作）
+## 合併前 PR Comment（Phase 1.5）
 
-- Python 匯入器輸出至 `public/data/multi/`，並寫入 `import_report_multi.json`。
-- UI：`/multi` 路由、獨立 state key（`multi_` 前綴）、錯題本與進度獨立。
+見 `scripts/pr_comment_template_multi.md`；`pr_comment_merge_check_multi.md` 已 gitignore。
+
+---
+
+## Phase 3（預告）
+
+UI：`/multi` 路由、獨立 state、錯題本與進度獨立。
