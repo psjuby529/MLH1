@@ -30,6 +30,10 @@ raw_pdfs:/
 
 # build 時由 verify_data_integrity 產出，不提交
 public/data/verify_result.json
+public/data/multi/verify_result_multi.json
+
+# approval:bundle:multi 產出之「合併前 comment」填寫稿（含本機 commit，不提交）
+scripts/pr_comment_merge_check_multi.md
 
 # 本機匯入暫存（體積大或每次不同，不提交）
 scripts/backup/

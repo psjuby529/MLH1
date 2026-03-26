@@ -5,6 +5,10 @@
   "scripts": {
     "py:setup": "bash scripts/setup_python_env.sh",
     "summary:questions": "node scripts/question_bank_summary.mjs",
+    "summary:multi": "node scripts/question_bank_summary_multi.mjs",
+    "verify:multi": "node scripts/verify_data_integrity_multi.mjs",
+    "kpi:multi": "node scripts/kpi_report_multi.mjs",
+    "approval:bundle:multi": "node scripts/approval_bundle_multi.mjs",
     "kpi:report": "node scripts/kpi_report.mjs",
     "import:allpdf": ".venv/bin/python3 scripts/import_pdfs_to_datasets.py --input-dir \"raw_pdfs:\"",
     "verify:data": "node scripts/verify_data_integrity.mjs",
