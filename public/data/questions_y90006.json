@@ -195,14 +195,7 @@
     "answer_index": 0,
     "explanation": "",
     "source": "y90006#Q11",
-    "source_display": "90006 工程管理學科 第11題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/y90006/Q011.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "90006 工程管理學科 第11題"
   },
   {
     "id": "y90006_12",
@@ -652,14 +645,7 @@
     "answer_index": 0,
     "explanation": "",
     "source": "y90006#Q36",
-    "source_display": "90006 工程管理學科 第36題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/y90006/Q036.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "90006 工程管理學科 第36題"
   },
   {
     "id": "y90006_37",
@@ -888,7 +874,7 @@
       "開口未設置護欄",
       "未設置安全之上下設備",
       "未確實戴安全帽",
-      "屋頂開口下方未張掛安全網。\n2"
+      "屋頂開口下方未張掛安全網。"
     ],
     "answer_index": 2,
     "explanation": "",
@@ -896,9 +882,9 @@
     "source_display": "90006 工程管理學科 第49題"
   },
   {
-    "id": "y90006_50",
+    "id": "y90006_250",
     "subject": "室內裝修工程管理",
-    "year": 50,
+    "year": 250,
     "chapter": "ALL",
     "type": "single",
     "question_text": "我國職業災害勞工保護法，適用之對象為何？",
@@ -910,8 +896,8 @@
     ],
     "answer_index": 3,
     "explanation": "",
-    "source": "y90006#Q50",
-    "source_display": "90006 工程管理學科 第50題"
+    "source": "y90006#Q250",
+    "source_display": "90006 工程管理學科 第250題"
   },
   {
     "id": "y90006_51",
@@ -1374,7 +1360,7 @@
       "門可上鎖但不可封死",
       "保持開門狀態以保持逃生路徑暢通",
       "門應關\n上但不可上鎖",
-      "與一般進出門相同，視各樓層規定可開可關。\n3"
+      "與一般進出門相同，視各樓層規定可開可關。"
     ],
     "answer_index": 2,
     "explanation": "",
@@ -1382,9 +1368,9 @@
     "source_display": "90006 工程管理學科 第76題"
   },
   {
-    "id": "y90006_77",
+    "id": "y90006_377",
     "subject": "室內裝修工程管理",
-    "year": 77,
+    "year": 377,
     "chapter": "ALL",
     "type": "single",
     "question_text": "下列那種防護具較能消減噪音對聽力的危害？",
@@ -1396,8 +1382,8 @@
     ],
     "answer_index": 2,
     "explanation": "",
-    "source": "y90006#Q77",
-    "source_display": "90006 工程管理學科 第77題"
+    "source": "y90006#Q377",
+    "source_display": "90006 工程管理學科 第377題"
   },
   {
     "id": "y90006_78",
@@ -1788,11 +1774,29 @@
       "組織內部不法侵害",
       "組織外部不法侵害",
       "多發性神經病變",
-      "潛涵症。\n100. (3) 以下何者不是發生電氣火災的主要原因？"
+      "潛涵症。"
     ],
     "answer_index": 1,
     "explanation": "",
     "source": "y90006#Q99",
     "source_display": "90006 工程管理學科 第99題"
+  },
+  {
+    "id": "y90006_100",
+    "subject": "室內裝修工程管理",
+    "year": 100,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "以下何者不是發生電氣火災的主要原因？",
+    "options": [
+      "電器接點短路",
+      "電氣火花電弧",
+      "電纜線置於地上",
+      "漏電。\n4"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y90006#Q100",
+    "source_display": "90006 工程管理學科 第100題"
   }
 ]

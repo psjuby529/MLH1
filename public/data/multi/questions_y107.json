@@ -1,0 +1,436 @@
+[
+  {
+    "id": "y107_61",
+    "question_type": "multi",
+    "question_text": "水泥砂漿粉刷工程使用之工具，依製作材料可分為金屬鏝刀(俗稱鐵鏝刀)和木板鏝刀，依形狀可分\n為",
+    "options": [
+      "修飾用薄鋼鏝刀等多種",
+      "小鏝刀、船型鏝刀",
+      "鑿刀、海棉鏝刀",
+      "內、外角鏝刀。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y107#Q61",
+    "source_display": "107 工程管理學科 第61題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y107_62",
+    "question_type": "multi",
+    "question_text": "避難逃生設備包括有哪些？",
+    "options": [
+      "滑竿",
+      "緊急照明設備",
+      "排煙設備",
+      "出口標示燈。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y107#Q62",
+    "source_display": "107 工程管理學科 第62題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y107_63",
+    "question_type": "multi",
+    "question_text": "依屋內線路裝置規則，花線不得使用，哪些是正確？",
+    "options": [
+      "沿建築物表面配線",
+      "門、窗或其他開啟式設\n備配線",
+      "吊線盒之配線",
+      "移動式電燈及小型電器之配線。"
+    ],
+    "correct_answers": [
+      "A",
+      "B"
+    ],
+    "explanation": "",
+    "source": "y107#Q63",
+    "source_display": "107 工程管理學科 第63題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y107_64",
+    "question_type": "multi",
+    "question_text": "依職業安全衛生設施規則規定，雇主使勞工以捲揚機等吊運物料時之規定下列哪些正確？",
+    "options": [
+      "應設有\n防止過捲裝置，設置有困難者，得以標示代替之",
+      "電源開關箱之設置，應有防漏電裝置",
+      "吊運作業\n中應嚴禁人員進入吊掛物下方及吊鏈、鋼索等內側角",
+      "應避免鄰近電力線作業。"
+    ],
+    "correct_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y107#Q64",
+    "source_display": "107 工程管理學科 第64題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y107_65",
+    "question_type": "multi",
+    "question_text": "下列哪些為可直接量測水平的工具？",
+    "options": [
+      "雷射水準儀",
+      "垂球",
+      "墨斗",
+      "氣泡式水準尺。"
+    ],
+    "correct_answers": [
+      "A",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y107#Q65",
+    "source_display": "107 工程管理學科 第65題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y107_66",
+    "question_type": "multi",
+    "question_text": "一般附屬於門窗工程之金屬附件統稱為門窗五金(俗稱小五金)，其材料可分為",
+    "options": [
+      "銅製品",
+      "鉛製品",
+      "不銹鋼製品",
+      "鋁製品。"
+    ],
+    "correct_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y107#Q66",
+    "source_display": "107 工程管理學科 第66題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y107_67",
+    "question_type": "multi",
+    "question_text": "依營造安全衛生設施標準規定，雇主對於懸吊式施工架之懸吊鋼索，下列何情形不得使用",
+    "options": [
+      "有顯著\n變形或腐蝕者",
+      "直徑減少達公稱直徑百分之三者",
+      "鋼索一撚間有百分之十以上素線截斷者",
+      "已扭\n結者。"
+    ],
+    "correct_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y107#Q67",
+    "source_display": "107 工程管理學科 第67題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y107_68",
+    "question_type": "multi",
+    "question_text": "以下是塗裝適用性之條件的敘述，何者正確？",
+    "options": [
+      "好管理是指應施於充分的塗裝作業管理",
+      "好設計是\n指應選擇能配合塗料及被塗物之適當塗裝系",
+      "好塗料是指半成品的塗料品質必須良好，具備各性能\n皆優秀之塗料",
+      "好價格一定能達到圓滿的塗裝結果。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y107#Q68",
+    "source_display": "107 工程管理學科 第68題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y107_69",
+    "question_type": "multi",
+    "question_text": "玻璃之性質之強度，下列哪些為正確？",
+    "options": [
+      "抗彎強度約為 200kgf/cm2 以下",
+      "普通窗用玻璃之抗壓強度\n約為 400kgf/cm2 以上",
+      "抗拉強度約為 150kgf/cm2 以上",
+      "建築物常受風壓，故平板玻璃以抗彎強度\n較為重要。"
+    ],
+    "correct_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y107#Q69",
+    "source_display": "107 工程管理學科 第69題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y107_70",
+    "question_type": "multi",
+    "question_text": "勞工於高度 2 公尺以上施工架上從事作業時，下列哪些為正確？",
+    "options": [
+      "工作臺應高於施工架立柱頂點 1\n公尺以上",
+      "板長方向重疊時，應於支撐點處重疊，其重疊部分之長度不得小於 10 公分",
+      "活動式踏\n板厚度應在 3.5 公分以上",
+      "活動式踏板使用木板時，寬度應在 20 公分以上。\n107"
+    ],
+    "correct_answers": [
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y107#Q70",
+    "source_display": "107 工程管理學科 第70題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y107_71",
+    "question_type": "multi",
+    "question_text": "依機械器具安全防護標準規定，下列何項為正確？",
+    "options": [
+      "反撥預防裝置之撐縫片及鋸齒接觸預防裝置經\n常使包含其縱斷面之縱向中心線而和其側面平行之面，與包含圓鋸片縱斷面之縱向中心線而和其側\n面平行之面，位於同一平面上",
+      "木材加工用圓盤鋸，使撐縫片與其面對之圓鋸片鋸齒前端之間隙在\n10 毫米以下",
+      "圓盤鋸應設置圓盤鋸之鋸齒接觸預防裝置",
+      "圓盤鋸應設置圓盤鋸之正撥預防裝置。"
+    ],
+    "correct_answers": [
+      "A",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y107#Q71",
+    "source_display": "107 工程管理學科 第71題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y107_72",
+    "question_type": "multi",
+    "question_text": "依據 CNS11567-A1042 建築製圖規定，下列哪些為空調及機械設備圖例之符號？① ②\n③ ④ 。",
+    "options": [
+      "(選項未辨識)",
+      "(選項未辨識)",
+      "(選項未辨識)",
+      "(選項未辨識)"
+    ],
+    "correct_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y107#Q72",
+    "source_display": "107 工程管理學科 第72題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y107_73",
+    "question_type": "multi",
+    "question_text": "下列何者為影響工程估價的重要因素？",
+    "options": [
+      "工資價格",
+      "設計施工圖",
+      "材料種類價格",
+      "施工人員。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y107#Q73",
+    "source_display": "107 工程管理學科 第73題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y107_74",
+    "question_type": "multi",
+    "question_text": "下列哪些為室內裝修施工時，進場施工前丈量現況柱樑尺寸的目的？",
+    "options": [
+      "為計算樑柱敲除之數量",
+      "瞭\n解施工空間",
+      "為分間牆放樣之依據",
+      "確認與設計圖說是否相符。"
+    ],
+    "correct_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y107#Q74",
+    "source_display": "107 工程管理學科 第74題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y107_75",
+    "question_type": "multi",
+    "question_text": "依建築物室內裝修管理辦法規定；新建建築物於領得使用執照前申請室內裝修許可者，應於領得下\n列哪些文件，始得使用？",
+    "options": [
+      "室內裝修許可",
+      "室內裝修合格證明",
+      "建造執造",
+      "使用執照。"
+    ],
+    "correct_answers": [
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y107#Q75",
+    "source_display": "107 工程管理學科 第75題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y107_76",
+    "question_type": "multi",
+    "question_text": "安全玻璃之說明，下列哪些正確？",
+    "options": [
+      "如經強化其玻璃硬度較一般玻璃高",
+      "具鏡面玻璃之功能",
+      "將玻\n璃進行淬火",
+      "在玻璃中夾絲、夾層而製成的玻璃。"
+    ],
+    "correct_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y107#Q76",
+    "source_display": "107 工程管理學科 第76題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y107_77",
+    "question_type": "multi",
+    "question_text": "依屋內線路裝置規則規定，合成樹脂可撓導線管，不適用場所或用途，哪些是正確？",
+    "options": [
+      "有危險物質\n存在之場所",
+      "導線之運轉溫度高於導線管之承受溫度者",
+      "電壓低於六百伏特者",
+      "燈具及其他設備\n之支持物。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y107#Q77",
+    "source_display": "107 工程管理學科 第77題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y107_78",
+    "question_type": "multi",
+    "question_text": "依中華民國國家標準 CNS11567 之 A1042 建築設備圖表示法規定，下列哪些符號為給排水及衛生設\n備符號？① ② ③ ④ 。",
+    "options": [
+      "(選項未辨識)",
+      "(選項未辨識)",
+      "(選項未辨識)",
+      "(選項未辨識)"
+    ],
+    "correct_answers": [
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y107#Q78",
+    "source_display": "107 工程管理學科 第78題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y107_79",
+    "question_type": "multi",
+    "question_text": "室內裝修從業者有下列哪些情事之一者，當地主管建築機關應查明屬實後，報請內政部視其情節輕\n重，予以警告、六個月以上一年以下停止室內裝修業務處分或一年以上三年以下停止換發登記證處\n分？",
+    "options": [
+      "施工材料與規定不符或未依圖說施工，經當地主管建築機關通知限期修改逾期未修改",
+      "受委\n託設計之圖樣、說明書、竣工查驗合格簽章之檢查表或其他書件經抽查結果與相關法令規定不符",
+      "未依規定繳交營業稅",
+      "規避、妨礙或拒絕主管機關業務督導。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y107#Q79",
+    "source_display": "107 工程管理學科 第79題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y107_80",
+    "question_type": "multi",
+    "question_text": "一般所稱之墁灰工程之種類有下列哪些？",
+    "options": [
+      "水泥砂漿粉刷",
+      "磁磚粉刷",
+      "洗石子",
+      "石灰粉刷。\n107"
+    ],
+    "correct_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y107#Q80",
+    "source_display": "107 工程管理學科 第80題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  }
+]

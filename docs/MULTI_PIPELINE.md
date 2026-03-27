@@ -26,6 +26,7 @@
 | 複選 PDF 來源（不入庫 PDF 本體） | `raw_pdfs_multi/*.pdf`（可僅 `.gitkeep`） |
 | verify 產物（建置產出，不提交） | `public/data/multi/verify_result_multi.json` |
 | 匯入 log（不提交） | `scripts/import_last_run_multi.log` |
+| 混合匯入 log（不提交） | `scripts/import_last_run_mixed.log` |
 | Parser debug（不提交） | `scripts/parser_debug_multi/` |
 
 ---
@@ -53,7 +54,28 @@ npm run import:multi:then:approval
 # Phase 2B 正式匯入（無 PDF 直接失敗，不走 demo）
 npm run import:multi:real
 npm run import:multi:real:then:approval
+
+# 混合 PDF：匯入後接 verify:data + verify:multi + approval:bundle:multi
+npm run import:mixed:then:approval
 ```
+
+### 混合 PDF（同檔 single + multi）
+
+- **目錄**：`raw_pdfs_mixed/*.pdf`（與 `import:allpdf` / `import:multi` 分開，避免誤覆寫）。
+- **指令**：`npm run import:mixed`（`scripts/import_pdfs_mixed.py`）。
+- **行為**：全文依分區標記（`單選題` / `單選選擇題` / `複選題` / `複選選擇題`）切 segment，再於各 segment 內用與 single 相同的題號切塊；依「分區 + 答案數量」分流至 `public/data/` 與 `public/data/multi/`，**conflict / suspect** 題不寫入兩邊題庫，僅列入 `scripts/import_report_mixed.json`。
+- **index / import_report**：與既有題庫 **合併**（同 `dataset_id` 覆寫、其餘保留），避免只匯入一份混合卷就清空整庫。
+- **產物**：`import_report_mixed.json`（含 `files[]` 每檔統計與頂層加總）、`import_report.json` / `import_report_multi.json` 合併更新；`import_report_mixed.json` 已列入 `.gitignore`。
+- **一鍵驗收**：`npm run import:mixed:then:approval`（等同手動執行 `python3 scripts/import_pdfs_mixed.py --input-dir raw_pdfs_mixed`，再跑 `verify:data`、`verify:multi`、`approval:bundle:multi`；stdout/stderr 寫入 `import_last_run_mixed.log`）。
+
+#### 混合卷正式驗收（建議流程）
+
+1. 將**真實混合 PDF** 放入 `raw_pdfs_mixed/`（可一次多檔；正式驗收可先只放 1 份）。
+2. 執行：`python3 scripts/import_pdfs_mixed.py --input-dir raw_pdfs_mixed`（或 `npm run import:mixed` / `npm run import:mixed:then:approval`）。
+3. 讀取 **`scripts/import_report_mixed.json`**（若被 gitignore 忽略，請在本機開檔查看）：頂層 `single_count` / `multi_count` / `conflict_count` / `suspect_count`，以及 `files[].issues`（conflict / suspect 題號與原因）。
+4. **門檻建議**：若 `conflict_count` 或 `suspect_count` 相對題量異常偏高，應先檢視 PDF 分區字樣、答案列格式或 parser，**勿**手動把問題題硬塞進題庫。
+5. 匯入後執行：`npm run verify:data`、`npm run verify:multi`（須 `error_count: 0`）、`npm run approval:bundle:multi`。
+6. **覆寫範圍**：本次 PDF 對應的 `dataset_id`（檔名 slug）會更新 `public/data/questions_<id>.json` 與 `public/data/multi/questions_<id>.json`，並在 `index.json` 合併條目；**其他 dataset 的題檔不會被刪除**，但若與本批 slug 相同則整檔覆寫。
 
 ---
 

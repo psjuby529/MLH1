@@ -15,14 +15,7 @@
     "answer_index": 0,
     "explanation": "",
     "source": "y108#Q1",
-    "source_display": "108 工程管理學科 第1題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/y108/Q001.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "108 工程管理學科 第1題"
   },
   {
     "id": "y108_2",
@@ -238,14 +231,7 @@
     "answer_index": 2,
     "explanation": "",
     "source": "y108#Q13",
-    "source_display": "108 工程管理學科 第13題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/y108/Q013.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "108 工程管理學科 第13題"
   },
   {
     "id": "y108_14",
@@ -299,14 +285,7 @@
     "answer_index": 0,
     "explanation": "",
     "source": "y108#Q16",
-    "source_display": "108 工程管理學科 第16題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/y108/Q016.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "108 工程管理學科 第16題"
   },
   {
     "id": "y108_17",
@@ -1093,7 +1072,7 @@
       "14",
       "15",
       "17",
-      "16 才。\n複選題：\n61. (234) 室內裝修施工中，直轄市、縣（市）主管建築機關認有必要時，得隨時派員查驗，發現與核定裝修\n圖說不符者，應以書面通知下列何人停工或修改？"
+      "16 才。"
     ],
     "answer_index": 3,
     "explanation": "",

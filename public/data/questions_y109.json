@@ -15,14 +15,7 @@
     "answer_index": 1,
     "explanation": "",
     "source": "y109#Q1",
-    "source_display": "109 工程管理學科 第1題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/y109/Q001.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "109 工程管理學科 第1題"
   },
   {
     "id": "y109_2",
@@ -94,14 +87,7 @@
     "answer_index": 3,
     "explanation": "",
     "source": "y109#Q5",
-    "source_display": "109 工程管理學科 第5題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/y109/Q005.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "109 工程管理學科 第5題"
   },
   {
     "id": "y109_6",
@@ -137,14 +123,7 @@
     "answer_index": 2,
     "explanation": "",
     "source": "y109#Q7",
-    "source_display": "109 工程管理學科 第7題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/y109/Q007.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "109 工程管理學科 第7題"
   },
   {
     "id": "y109_8",
@@ -468,14 +447,7 @@
     "answer_index": 0,
     "explanation": "",
     "source": "y109#Q25",
-    "source_display": "109 工程管理學科 第25題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/y109/Q025.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "109 工程管理學科 第25題"
   },
   {
     "id": "y109_26",
@@ -619,14 +591,7 @@
     "answer_index": 2,
     "explanation": "",
     "source": "y109#Q33",
-    "source_display": "109 工程管理學科 第33題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/y109/Q033.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "109 工程管理學科 第33題"
   },
   {
     "id": "y109_34",
@@ -680,14 +645,7 @@
     "answer_index": 2,
     "explanation": "",
     "source": "y109#Q36",
-    "source_display": "109 工程管理學科 第36題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/y109/Q036.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "109 工程管理學科 第36題"
   },
   {
     "id": "y109_37",
@@ -885,14 +843,7 @@
     "answer_index": 0,
     "explanation": "",
     "source": "y109#Q47",
-    "source_display": "109 工程管理學科 第47題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/y109/Q047.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "109 工程管理學科 第47題"
   },
   {
     "id": "y109_48",
@@ -1121,7 +1072,7 @@
       "焦煤",
       "地熱能",
       "水力能",
-      "太陽能。\n複選題：\n61. (23) 依機械設備器具安全標準規定，圓盤鋸應於明顯易見處標示哪些？"
+      "太陽能。"
     ],
     "answer_index": 0,
     "explanation": "",

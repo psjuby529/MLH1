@@ -105,14 +105,7 @@
     "answer_index": 2,
     "explanation": "",
     "source": "y90009#Q6",
-    "source_display": "90009 工程管理學科 第6題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/y90009/Q006.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "90009 工程管理學科 第6題"
   },
   {
     "id": "y90009_7",
@@ -125,7 +118,7 @@
       "氧化亞氮(N\nO)",
       "二氧化碳(CO)",
       "甲烷(CH)",
-      "六氟化硫(SF) 當量表示。\n2 2 4 6"
+      "六氟化硫(SF) 當量表示。"
     ],
     "answer_index": 1,
     "explanation": "",
@@ -133,9 +126,9 @@
     "source_display": "90009 工程管理學科 第7題"
   },
   {
-    "id": "y90009_8",
+    "id": "y90009_22468",
     "subject": "室內裝修工程管理",
-    "year": 8,
+    "year": null,
     "chapter": "ALL",
     "type": "single",
     "question_text": "國家溫室氣體長期減量目標為中華民國一百三十九年溫室氣體排放量降為中華民國九十四年溫室氣體排放量\n百分之",
@@ -147,8 +140,8 @@
     ],
     "answer_index": 3,
     "explanation": "",
-    "source": "y90009#Q8",
-    "source_display": "90009 工程管理學科 第8題"
+    "source": "y90009#Q22468",
+    "source_display": "90009 工程管理學科 第22468題"
   },
   {
     "id": "y90009_9",
@@ -328,14 +321,7 @@
     "answer_index": 0,
     "explanation": "",
     "source": "y90009#Q18",
-    "source_display": "90009 工程管理學科 第18題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/y90009/Q018.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "90009 工程管理學科 第18題"
   },
   {
     "id": "y90009_19",
@@ -389,14 +375,7 @@
     "answer_index": 0,
     "explanation": "",
     "source": "y90009#Q21",
-    "source_display": "90009 工程管理學科 第21題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/y90009/Q021.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "90009 工程管理學科 第21題"
   },
   {
     "id": "y90009_22",
@@ -787,7 +766,7 @@
       "丙烷",
       "甲烷",
       "辛烷",
-      "乙炔 及丁烷。\n2"
+      "乙炔 及丁烷。"
     ],
     "answer_index": 0,
     "explanation": "",
@@ -795,9 +774,9 @@
     "source_display": "90009 工程管理學科 第43題"
   },
   {
-    "id": "y90009_44",
+    "id": "y90009_244",
     "subject": "室內裝修工程管理",
-    "year": 44,
+    "year": 244,
     "chapter": "ALL",
     "type": "single",
     "question_text": "在正常操作，且提供相同使用條件之情形下，下列何種暖氣設備之能源效率最高？",
@@ -809,8 +788,8 @@
     ],
     "answer_index": 0,
     "explanation": "",
-    "source": "y90009#Q44",
-    "source_display": "90009 工程管理學科 第44題"
+    "source": "y90009#Q244",
+    "source_display": "90009 工程管理學科 第244題"
   },
   {
     "id": "y90009_45",
@@ -967,7 +946,7 @@
       "CO",
       "CH",
       "SF",
-      "NO。\n2 4 6 2"
+      "NO。"
     ],
     "answer_index": 0,
     "explanation": "",
@@ -975,9 +954,9 @@
     "source_display": "90009 工程管理學科 第53題"
   },
   {
-    "id": "y90009_54",
+    "id": "y90009_246254",
     "subject": "室內裝修工程管理",
-    "year": 54,
+    "year": null,
     "chapter": "ALL",
     "type": "single",
     "question_text": "有關建築之外殼節能設計，下列敘述何者錯誤？",
@@ -989,8 +968,8 @@
     ],
     "answer_index": 3,
     "explanation": "",
-    "source": "y90009#Q54",
-    "source_display": "90009 工程管理學科 第54題"
+    "source": "y90009#Q246254",
+    "source_display": "90009 工程管理學科 第246254題"
   },
   {
     "id": "y90009_55",
@@ -1098,14 +1077,7 @@
     "answer_index": 1,
     "explanation": "",
     "source": "y90009#Q60",
-    "source_display": "90009 工程管理學科 第60題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/y90009/Q060.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "90009 工程管理學科 第60題"
   },
   {
     "id": "y90009_61",
@@ -1339,14 +1311,7 @@
     "answer_index": 3,
     "explanation": "",
     "source": "y90009#Q73",
-    "source_display": "90009 工程管理學科 第73題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/y90009/Q073.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "90009 工程管理學科 第73題"
   },
   {
     "id": "y90009_74",
@@ -1521,7 +1486,7 @@
       "因為馬桶還能正常使用，所以不用著急，等\n到不能用時再報修即可",
       "立刻檢查馬桶水箱零件有無鬆脫，並確認有無漏水",
       "滴幾滴食用色素到水箱裡，檢\n查有無有色水流進馬桶，代表可能有漏水",
-      "通知水電行或檢修人員來檢修，徹底根絕漏水問題。\n4"
+      "通知水電行或檢修人員來檢修，徹底根絕漏水問題。"
     ],
     "answer_index": 0,
     "explanation": "",
@@ -1529,9 +1494,9 @@
     "source_display": "90009 工程管理學科 第83題"
   },
   {
-    "id": "y90009_84",
+    "id": "y90009_484",
     "subject": "室內裝修工程管理",
-    "year": 84,
+    "year": 484,
     "chapter": "ALL",
     "type": "single",
     "question_text": "「度」是水費的計量單位，你知道一度水的容量大約有多少？",
@@ -1543,8 +1508,8 @@
     ],
     "answer_index": 2,
     "explanation": "",
-    "source": "y90009#Q84",
-    "source_display": "90009 工程管理學科 第84題"
+    "source": "y90009#Q484",
+    "source_display": "90009 工程管理學科 第484題"
   },
   {
     "id": "y90009_85",
@@ -1652,14 +1617,7 @@
     "answer_index": 2,
     "explanation": "",
     "source": "y90009#Q90",
-    "source_display": "90009 工程管理學科 第90題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/y90009/Q090.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "90009 工程管理學科 第90題"
   },
   {
     "id": "y90009_91",
@@ -1816,11 +1774,29 @@
       "六分之一",
       "二分之一",
       "四分之\n一",
-      "五分之一。\n100. (3) 台灣年降雨量是世界平均值的 2.6 倍，卻仍屬缺水地區，原因何者為非？"
+      "五分之一。"
     ],
     "answer_index": 0,
     "explanation": "",
     "source": "y90009#Q99",
     "source_display": "90009 工程管理學科 第99題"
+  },
+  {
+    "id": "y90009_100",
+    "subject": "室內裝修工程管理",
+    "year": 100,
+    "chapter": "ALL",
+    "type": "single",
+    "question_text": "台灣年降雨量是世界平均值的",
+    "options": [
+      "台灣由於山坡陡峻，以及颱風豪雨\n雨勢急促，大部分的降雨量皆迅速流入海洋",
+      "降雨量在地域、季節分佈極不平均",
+      "水庫蓋得太少",
+      "台灣自來\n水水價過於便宜。\n5"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "y90009#Q100",
+    "source_display": "90009 工程管理學科 第100題"
   }
 ]

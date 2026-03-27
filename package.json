@@ -24,6 +24,8 @@
     "import:multi:real": "python3 scripts/import_pdfs_to_multi.py --input-dir raw_pdfs_multi --no-demo-fallback",
     "import:multi:then:approval": "node scripts/run_import_multi_then_approval.mjs",
     "import:multi:real:then:approval": "node scripts/run_import_multi_then_approval_real.mjs",
+    "import:mixed": ".venv/bin/python3 scripts/import_pdfs_mixed.py --input-dir raw_pdfs_mixed",
+    "import:mixed:then:approval": "node scripts/run_import_mixed_then_approval.mjs",
     "dev": "next dev",
     "prebuild": "node scripts/verify_data_integrity.mjs",
     "build": "next build",

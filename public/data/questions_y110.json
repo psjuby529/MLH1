@@ -573,14 +573,7 @@
     "answer_index": 0,
     "explanation": "",
     "source": "y110#Q32",
-    "source_display": "110 工程管理學科 第32題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/y110/Q032.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "110 工程管理學科 第32題"
   },
   {
     "id": "y110_33",
@@ -598,14 +591,7 @@
     "answer_index": 3,
     "explanation": "",
     "source": "y110#Q33",
-    "source_display": "110 工程管理學科 第33題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/y110/Q033.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "110 工程管理學科 第33題"
   },
   {
     "id": "y110_34",
@@ -731,14 +717,7 @@
     "answer_index": 0,
     "explanation": "",
     "source": "y110#Q40",
-    "source_display": "110 工程管理學科 第40題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/y110/Q040.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "110 工程管理學科 第40題"
   },
   {
     "id": "y110_41",
@@ -864,14 +843,7 @@
     "answer_index": 1,
     "explanation": "",
     "source": "y110#Q47",
-    "source_display": "110 工程管理學科 第47題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/y110/Q047.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "110 工程管理學科 第47題"
   },
   {
     "id": "y110_48",
@@ -1100,18 +1072,11 @@
       "地毯",
       "窗簾",
       "鬆軟之保溫吸音材疊席類",
-      "輕質牆。\n複選題：\n61. (134) 丈量室内裝修工地現場柱、樑尺寸的目的，下列敘述何者正確？"
+      "輕質牆。"
     ],
     "answer_index": 2,
     "explanation": "",
     "source": "y110#Q60",
-    "source_display": "110 工程管理學科 第60題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/y110/Q060.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "110 工程管理學科 第60題"
   }
 ]

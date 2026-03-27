@@ -1,0 +1,433 @@
+[
+  {
+    "id": "y112_61",
+    "question_type": "multi",
+    "question_text": "裝修工程使用之集成材係指積層之薄板以平行於纖維方向互相疊合，用黏著劑膠合成一體，並具\n結構耐力之構材謂之，集成材的製造依規定應符合下列哪些規定？",
+    "options": [
+      "集成材至少由 3 塊膠合板積\n成",
+      "膠合板寬度方向之連接，宜採用對接方式，膠合板相鄰上下之接合須錯開，間隔應為厚度之\n2 倍以上",
+      "膠合板長向如須連接時宜用斜面接合",
+      "每塊膠合板之厚度以不超過 3 ㎝為限。"
+    ],
+    "correct_answers": [
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y112#Q61",
+    "source_display": "112 工程管理學科 第61題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y112_62",
+    "question_type": "multi",
+    "question_text": "依營造安全衛生設施標準規定，施工中對於施工場所材料之堆放，應置放於穩固、平坦之處，整\n齊緊靠堆置及下列哪些為正確？",
+    "options": [
+      "磚堆置高度不得超過 1.8 公尺",
+      "瓦堆置高度不得超過 2 公尺",
+      "管料之置放，避免在電線上方或下方",
+      "材料儲存位置鄰近開口部分時，應距離該開口部分"
+    ],
+    "correct_answers": [
+      "A",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y112#Q62",
+    "source_display": "112 工程管理學科 第62題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y112_63",
+    "question_type": "multi",
+    "question_text": "依據 CNS11567-A1042 建築製圖規定，下列哪些為空調及機械設備圖例之符號？ ① ②\n③ ④ 。",
+    "options": [
+      "(選項未辨識)",
+      "(選項未辨識)",
+      "(選項未辨識)",
+      "(選項未辨識)"
+    ],
+    "correct_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y112#Q63",
+    "source_display": "112 工程管理學科 第63題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y112_64",
+    "question_type": "multi",
+    "question_text": "丈量室内裝修工地現場柱、樑尺寸的目的，下列敘述何者正確？",
+    "options": [
+      "了解建築物結構配置情形",
+      "計算拆除數量的依據",
+      "掌握空間設計的影響因素",
+      "作為分間牆配置的參考依據。"
+    ],
+    "correct_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y112#Q64",
+    "source_display": "112 工程管理學科 第64題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y112_65",
+    "question_type": "multi",
+    "question_text": "有關室內裝修一般常見的魯班尺上半部為文公尺，下列哪些為用於陽宅、神位、佛具尺寸之吉凶\n的度量衡之文字？",
+    "options": [
+      "離",
+      "財",
+      "本",
+      "苦。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y112#Q65",
+    "source_display": "112 工程管理學科 第65題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y112_66",
+    "question_type": "multi",
+    "question_text": "一般而言室內裝修工程估價須具備有豐富的工地經驗，對工程的施工法、材料的性質、材料的價\n格以及施工環境的控制，才能有準確的估價，下列敘述何者正確？",
+    "options": [
+      "工程估價可據以控制工程造\n價，降低工程成本",
+      "工程估價可預估工料數量為僱工與採購的依據",
+      "選用適當但不同之施工機\n具會影響工料分析",
+      "工料分析不須依據室內裝修設計圖說。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y112#Q66",
+    "source_display": "112 工程管理學科 第66題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y112_67",
+    "question_type": "multi",
+    "question_text": "依職業安全衛生設施規則規定，雇主設置固定式圓盤鋸、帶鋸、手推刨床、截角機等合計五台以\n上時，應指定作業管理人員負責執行下列何事項？",
+    "options": [
+      "作業中，監視送料工具等之使用情形",
+      "指\n揮木材加工用機械之操作",
+      "發現木材加工用機械及其安全裝置有異時，應即採取必要之措施",
+      "檢查運輸用機械及其安全裝置。\n112"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y112#Q67",
+    "source_display": "112 工程管理學科 第67題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y112_68",
+    "question_type": "multi",
+    "question_text": "室內裝修專業技術人員有下列哪些情事者，將註銷其登記證？",
+    "options": [
+      "十年內受停止執行職務處分累計\n滿二年",
+      "五年內受停止執行職務處分累計滿一年",
+      "受停止換發登記證處分累計三次",
+      "受停止換\n發登記證處分累計二次。"
+    ],
+    "correct_answers": [
+      "A",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y112#Q68",
+    "source_display": "112 工程管理學科 第68題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y112_69",
+    "question_type": "multi",
+    "question_text": "面磚的鋪貼有下列哪些方法？",
+    "options": [
+      "壓著貼面法",
+      "漿砌貼面法",
+      "平鋪貼面法",
+      "直鋪貼面法。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y112#Q69",
+    "source_display": "112 工程管理學科 第69題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y112_70",
+    "question_type": "multi",
+    "question_text": "依據 CNS11567-A1042 建築製圖規定，有關線條用途種類中，「單點線」之用途為",
+    "options": [
+      "地界線",
+      "中心線",
+      "建築線",
+      "隱蔽線。"
+    ],
+    "correct_answers": [
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y112#Q70",
+    "source_display": "112 工程管理學科 第70題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y112_71",
+    "question_type": "multi",
+    "question_text": "圓盤鋸之材料、安裝方法、緣盤應符合下列哪些規定？",
+    "options": [
+      "緣盤之直徑在固定側應大於移動側",
+      "緣盤之直徑在固定側應小於移動側",
+      "圓鋸軸之夾緊螺栓，應為不可任意旋動者",
+      "使用於緣盤之\n固定用螺桿、螺帽等施有防鬆措施，以防止制動器制動引起鬆動。"
+    ],
+    "correct_answers": [
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y112#Q71",
+    "source_display": "112 工程管理學科 第71題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y112_72",
+    "question_type": "multi",
+    "question_text": "玻璃安裝用黏劑成份之彈性材料，凝結後應具有下列何特性？",
+    "options": [
+      "抗壓性",
+      "防剝落力",
+      "復原性",
+      "伸展性。"
+    ],
+    "correct_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y112#Q72",
+    "source_display": "112 工程管理學科 第72題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y112_73",
+    "question_type": "multi",
+    "question_text": "營造用各類物材之儲存、堆積及排列，不得儲存於距",
+    "options": [
+      "庫門",
+      "升降機",
+      "窗樘",
+      "廁所 等二公尺\n範圍以內。"
+    ],
+    "correct_answers": [
+      "A",
+      "B"
+    ],
+    "explanation": "",
+    "source": "y112#Q73",
+    "source_display": "112 工程管理學科 第73題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y112_74",
+    "question_type": "multi",
+    "question_text": "下列有關輕鋼架天花工程敘述，何者正確？",
+    "options": [
+      "天花板內水電配管不會影響輕鋼架天花工程進場施\n做時程",
+      "輕鋼架天花在高程放樣後，應先安裝吊筋再釘收邊條",
+      "應戴手套進行安置板材作業，\n主要目的係避免造成板材髒污",
+      "用於支撐主架的吊筋，最大容許間距不宜超過 120 公分。"
+    ],
+    "correct_answers": [
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y112#Q74",
+    "source_display": "112 工程管理學科 第74題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y112_75",
+    "question_type": "multi",
+    "question_text": "木材之品質下列哪些為不正確？",
+    "options": [
+      "優良之木材，其質地均勻纖維平直無死節",
+      "年輪寬鬆者較年\n輪緊密者佳",
+      "木材孔隙所含樹液、樹脂量較少者，其強度與耐久性較差",
+      "良好的木材，以重物\n擊之，其聲清脆。"
+    ],
+    "correct_answers": [
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y112#Q75",
+    "source_display": "112 工程管理學科 第75題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y112_76",
+    "question_type": "multi",
+    "question_text": "木材人工乾燥的方式有下列哪些？",
+    "options": [
+      "熱氣乾燥法",
+      "高壓乾燥法",
+      "高週波乾燥法",
+      "煮沸乾燥法。"
+    ],
+    "correct_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y112#Q76",
+    "source_display": "112 工程管理學科 第76題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y112_77",
+    "question_type": "multi",
+    "question_text": "下列何者為影響工程估價的重要因素？",
+    "options": [
+      "施工人員",
+      "設計施工圖",
+      "工資價格",
+      "材料種類價格。"
+    ],
+    "correct_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y112#Q77",
+    "source_display": "112 工程管理學科 第77題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y112_78",
+    "question_type": "multi",
+    "question_text": "裝修工程中之木材防腐劑應具備",
+    "options": [
+      "易於停留於木材表面",
+      "不妨礙油漆之塗佈(刷)",
+      "化學及物理\n性質需穩定",
+      "防腐性能要強。"
+    ],
+    "correct_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y112#Q78",
+    "source_display": "112 工程管理學科 第78題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y112_79",
+    "question_type": "multi",
+    "question_text": "下列面積計算及單位換算何者正確？",
+    "options": [
+      "長 18 台尺×寬 12 台尺＝4 坪",
+      "長 9 台尺×寬 4 台尺＝1 坪",
+      "長 12.5 公尺×寬 8 公尺＝100 平方公尺約為 30.25 坪",
+      "長 8 公尺×寬 5 公尺＝40 平方公尺約為"
+    ],
+    "correct_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y112#Q79",
+    "source_display": "112 工程管理學科 第79題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y112_80",
+    "question_type": "multi",
+    "question_text": "依施工規範地毯準備工作，哪些是正確",
+    "options": [
+      "水電、空調及管線等隱蔽部分，檢驗完成後，方可開始\n各種地毯舖裝工作",
+      "將地毯全面展開於室溫，並保持至少 12 小時以上",
+      "地面有裂縫、凹凸不\n平、起沙或脫殼現象，應先處理平整",
+      "RC 樓地板面需有 30 天以上之乾燥時間，始可舖設地毯。\n112"
+    ],
+    "correct_answers": [
+      "A",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y112#Q80",
+    "source_display": "112 工程管理學科 第80題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  }
+]

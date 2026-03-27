@@ -78,6 +78,6 @@
 
 ## 六、部署資訊（部署後填寫）
 
-- **線上網址**：
-- **本次 deploy 對應 commit**：
-- **是否為 production 或 preview**：
+- **線上網址**：請到 [Vercel Dashboard](https://vercel.com/dashboard) 查詢本專案對應的 Production 網址（通常為 `https://<專案名>.vercel.app` 或自訂網域）
+- **本次 deploy 對應 commit**：`3da7dc6`（正式可測版已 push 至 main）
+- **是否為 production 或 preview**：push 至 `main` 後 Vercel 會自動觸發 Production 部署，請在 Dashboard 確認狀態為 Ready

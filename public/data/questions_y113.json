@@ -213,14 +213,7 @@
     "answer_index": 2,
     "explanation": "",
     "source": "y113#Q12",
-    "source_display": "113 工程管理學科 第12題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/y113/Q012.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "113 工程管理學科 第12題"
   },
   {
     "id": "y113_13",
@@ -382,14 +375,7 @@
     "answer_index": 2,
     "explanation": "",
     "source": "y113#Q21",
-    "source_display": "113 工程管理學科 第21題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/y113/Q021.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "113 工程管理學科 第21題"
   },
   {
     "id": "y113_22",
@@ -461,14 +447,7 @@
     "answer_index": 1,
     "explanation": "",
     "source": "y113#Q25",
-    "source_display": "113 工程管理學科 第25題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/y113/Q025.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "113 工程管理學科 第25題"
   },
   {
     "id": "y113_26",
@@ -666,14 +645,7 @@
     "answer_index": 2,
     "explanation": "",
     "source": "y113#Q36",
-    "source_display": "113 工程管理學科 第36題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/y113/Q036.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "113 工程管理學科 第36題"
   },
   {
     "id": "y113_37",
@@ -745,14 +717,7 @@
     "answer_index": 3,
     "explanation": "",
     "source": "y113#Q40",
-    "source_display": "113 工程管理學科 第40題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/y113/Q040.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "113 工程管理學科 第40題"
   },
   {
     "id": "y113_41",
@@ -860,14 +825,7 @@
     "answer_index": 0,
     "explanation": "",
     "source": "y113#Q46",
-    "source_display": "113 工程管理學科 第46題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/y113/Q046.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "113 工程管理學科 第46題"
   },
   {
     "id": "y113_47",
@@ -1065,14 +1023,7 @@
     "answer_index": 0,
     "explanation": "",
     "source": "y113#Q57",
-    "source_display": "113 工程管理學科 第57題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/y113/Q057.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "113 工程管理學科 第57題"
   },
   {
     "id": "y113_58",
@@ -1121,7 +1072,7 @@
       "開關不可裝置於接地線上",
       "工作前應配戴適當的防護\n設備",
       "選擇良好的材質",
-      "選擇適合工作所需之手工具。\n複選題："
+      "選擇適合工作所需之手工具。"
     ],
     "answer_index": 0,
     "explanation": "",

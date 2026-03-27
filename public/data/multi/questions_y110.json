@@ -1,0 +1,438 @@
+[
+  {
+    "id": "y110_61",
+    "question_type": "multi",
+    "question_text": "丈量室内裝修工地現場柱、樑尺寸的目的，下列敘述何者正確？",
+    "options": [
+      "作為分間牆配置的參考依據",
+      "計算拆除數量的依據",
+      "掌握空間設計的影響因素",
+      "了解建築物結構配置情形。"
+    ],
+    "correct_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y110#Q61",
+    "source_display": "110 工程管理學科 第61題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y110_62",
+    "question_type": "multi",
+    "question_text": "地毯的種類可區分多種，如依規格分，哪些是正確",
+    "options": [
+      "活動塊狀地毯",
+      "無縫地毯",
+      "整捲地毯",
+      "單片\n組合地毯。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y110#Q62",
+    "source_display": "110 工程管理學科 第62題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y110_63",
+    "question_type": "multi",
+    "question_text": "依職業安全衛生相關法規，所定安全衛生工作守則之內容，必須參酌定之者，下列哪些是正確？",
+    "options": [
+      "急救及搶救",
+      "防護設備之準備、維持及使用",
+      "遇事故不必通報及報告",
+      "工作安全及衛生標準。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y110#Q63",
+    "source_display": "110 工程管理學科 第63題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y110_64",
+    "question_type": "multi",
+    "question_text": "地面樓層達十一層以上建築物室內裝修，下列哪些材料應使用附有防焰標示？",
+    "options": [
+      "桌布",
+      "窗簾",
+      "布\n幕",
+      "地毯。"
+    ],
+    "correct_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y110#Q64",
+    "source_display": "110 工程管理學科 第64題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y110_65",
+    "question_type": "multi",
+    "question_text": "下列施工機(器)具之功能，哪些為不正確？",
+    "options": [
+      "震動電鑽為鑽頭前端迴轉的同時，鑽軸同時作高速\n往復震動，此種手電鑽最適合在硬質木板上作鑽孔操作",
+      "手提式電動圓鋸機，又稱為電動手鋸，\n可用於多種鋸割，尤其適用於小面積的嵌板鋸割",
+      "手電鑽為木工工作鑽孔用",
+      "手提式電動線鋸機\n不但可鋸切外曲線，也可以鋸切封閉曲線。"
+    ],
+    "correct_answers": [
+      "A",
+      "B"
+    ],
+    "explanation": "",
+    "source": "y110#Q65",
+    "source_display": "110 工程管理學科 第65題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y110_66",
+    "question_type": "multi",
+    "question_text": "勞工以電銲、氣焊從事熔接、熔斷等作業時，何者為應置備之護具？",
+    "options": [
+      "防護眼鏡",
+      "耳塞",
+      "防護手\n套",
+      "安全面罩。"
+    ],
+    "correct_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y110#Q66",
+    "source_display": "110 工程管理學科 第66題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y110_67",
+    "question_type": "multi",
+    "question_text": "以下是塗裝適用性之條件的敘述，何者正確？",
+    "options": [
+      "好塗料是指半成品的塗料品質必須良好，具備各\n性能皆優秀之塗料",
+      "好設計是指應選擇能配合塗料及被塗物之適當塗裝系",
+      "好價格一定能達到圓\n滿的塗裝結果",
+      "好管理是指應施於充分的塗裝作業管理。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y110#Q67",
+    "source_display": "110 工程管理學科 第67題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y110_68",
+    "question_type": "multi",
+    "question_text": "瓷磚剝落之原因有下列哪些？",
+    "options": [
+      "瓷磚界面，牆體界面，瓷磚的伸縮縫未妥善預留",
+      "膠泥塗佈厚度\n不足或嵌入不足",
+      "瓷磚品質不良或龜裂，黏著劑強度不足或是黏著與水泥砂漿的界面的破壞",
+      "瓷\n磚黏著施工時機妥善掌握。\n110"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y110#Q68",
+    "source_display": "110 工程管理學科 第68題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y110_69",
+    "question_type": "multi",
+    "question_text": "依職業安全衛生設施規則規定，雇主使勞工以捲揚機等吊運物料時之規定下列哪些正確？",
+    "options": [
+      "錨錠\n及吊掛用之吊鏈、鋼索、掛鉤、纖維索等吊具有異狀時應即修換",
+      "吊鉤或吊具應有防止吊舉中所\n吊物體脫落之裝置",
+      "吊掛之重量不得超過該設備所能承受之最高負荷，且應加以標示",
+      "可得供人\n員搭乘、吊升或降落。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y110#Q69",
+    "source_display": "110 工程管理學科 第69題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y110_70",
+    "question_type": "multi",
+    "question_text": "依據 CNS11567-A1042 建築製圖規定，有關線條用途種類中，「虛線」之用途為",
+    "options": [
+      "地界線",
+      "配管",
+      "中心線",
+      "隱蔽線。"
+    ],
+    "correct_answers": [
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y110#Q70",
+    "source_display": "110 工程管理學科 第70題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y110_71",
+    "question_type": "multi",
+    "question_text": "積層材指利用小或薄材膠合成大或厚材，一般均以",
+    "options": [
+      "尿素膠",
+      "水膠",
+      "環氧樹酯",
+      "羅馬膠 加壓膠\n合。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y110#Q71",
+    "source_display": "110 工程管理學科 第71題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y110_72",
+    "question_type": "multi",
+    "question_text": "依中華民國國家標準 CNS11567 之 A1042 建築設備圖表示法規定，下列設備符號表示何者不正\n確？",
+    "options": [
+      "表示避難方向指標",
+      "表示接地型單地板插座",
+      "表示水霧自動灑水頭",
+      "表示接地型專用單插座。"
+    ],
+    "correct_answers": [
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y110#Q72",
+    "source_display": "110 工程管理學科 第72題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y110_73",
+    "question_type": "multi",
+    "question_text": "有關裝修塗裝作業，下列敘述何者正確？",
+    "options": [
+      "各塗裝工程，不須預先施行被塗物表面處理",
+      "塗裝說\n明書係對塗裝施工內容、質量作較詳細規範者，亦即明示在施工上所要遵守的各種條件及最終修\n飾程度",
+      "塗裝工程之計畫明細表如塗裝工程表及塗裝說明書，有利塗裝施工順利進行，並可作為\n塗裝施工完成時之驗收依據，預防可能之驗收糾紛",
+      "塗裝工程表係簡單明瞭表示塗裝施工程序，\n惟對最終修飾程度不詳列。"
+    ],
+    "correct_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y110#Q73",
+    "source_display": "110 工程管理學科 第73題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y110_74",
+    "question_type": "multi",
+    "question_text": "關於工程日報表的紀錄，以下哪些是所要掌握的資訊？",
+    "options": [
+      "工程執行進度",
+      "材料使用數量",
+      "施工者\n的情緒",
+      "氣候對工期影響。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y110#Q74",
+    "source_display": "110 工程管理學科 第74題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y110_75",
+    "question_type": "multi",
+    "question_text": "依職業安全衛生設施規則規定，雇主對於使用之移動梯，下列哪些為正確？",
+    "options": [
+      "應採取防止滑溜或\n其他防止轉動之必要措施",
+      "具有堅固之構造",
+      "其材質不得有顯著之損傷、腐蝕等現象",
+      "寬度應在\n16.5 公分以上。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y110#Q75",
+    "source_display": "110 工程管理學科 第75題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y110_76",
+    "question_type": "multi",
+    "question_text": "下列哪些為室內裝修垂直放樣工具？",
+    "options": [
+      "透明水管",
+      "錘球",
+      "經緯儀",
+      "平板儀。"
+    ],
+    "correct_answers": [
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y110#Q76",
+    "source_display": "110 工程管理學科 第76題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y110_77",
+    "question_type": "multi",
+    "question_text": "為達成塗裝預期效果，應注意塗裝材料之選擇及確認，下列敘述何者正確？",
+    "options": [
+      "塗裝材料若 CNS 有\n制定者，原則上應使用符合 CNS 標準者",
+      "特別記載之說明書上無指示時，應預先對其製造業者、\n製品等徵求有關人員的確認",
+      "塗裝材料應將其標籤完整保持，可在已開罐狀態下搬入塗裝現場",
+      "塗裝材料應接受有關人員的確認其名稱及種別、製造年月日及數量。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y110#Q77",
+    "source_display": "110 工程管理學科 第77題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y110_78",
+    "question_type": "multi",
+    "question_text": "面磚之優點有下列哪些？",
+    "options": [
+      "穩定性高不變形，不褪色及伸縮率低",
+      "成品之色彩，容易變色",
+      "硬度\n高耐蝕，耐酸及耐鹽",
+      "耐候力強，不老化，耐水，耐火，耐磨及耐高壓。"
+    ],
+    "correct_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y110#Q78",
+    "source_display": "110 工程管理學科 第78題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y110_79",
+    "question_type": "multi",
+    "question_text": "水泥之運送、儲存及處理，下列敘述哪些正確？",
+    "options": [
+      "散裝水泥應儲存在乾燥防水之槽斗內，袋裝水\n泥應儲存在乾燥防水之庫房或經工程司同意之建築物內",
+      "袋裝水泥儲存應置於高出地面至少 5CM\n之地板上，水泥堆放高度不得超過 13 袋",
+      "已結塊或工程司認為已變質之水泥，不得使用於本工\n程，並應立即整批運離工地",
+      "原則上水泥應以散裝運至預拌廠之水泥槽斗儲存。"
+    ],
+    "correct_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y110#Q79",
+    "source_display": "110 工程管理學科 第79題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y110_80",
+    "question_type": "multi",
+    "question_text": "下列面積計算及單位換算何者正確？",
+    "options": [
+      "長 18 台尺×寬 12 台尺＝4 坪",
+      "長 8 公尺×寬 5 公尺＝40 平\n方公尺約為",
+      "長 12.5 公尺×寬 8 公尺＝100 平方公尺約為 30.25 坪",
+      "長 9 台尺×寬 4 台尺＝\n1 坪。\n110"
+    ],
+    "correct_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y110#Q80",
+    "source_display": "110 工程管理學科 第80題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  }
+]

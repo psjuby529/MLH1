@@ -1,0 +1,5 @@
+total_pdfs=15
+pass=13
+fail=2
+decision=limited
+excluded=綜合A,綜合B

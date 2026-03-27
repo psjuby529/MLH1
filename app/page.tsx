@@ -3,14 +3,22 @@
 import { useEffect, useState } from "react";
 import Link from "next/link";
 import { fetchQuestions, getChapters, fetchIndexDatasets } from "./lib/questions";
-import { getTodayAnsweredCount, getWrongIds, getPerfectCount, getWrongBySubject, getAttemptBySubject, clearSubjectStats } from "./lib/storage";
-import type { Question } from "./types";
+import {
+  getTodayAnsweredCount,
+  getWrongIds,
+  getPerfectCount,
+  getWrongBySubject,
+  getAttemptBySubject,
+  clearSubjectStats,
+} from "./lib/storage";
 
 const COUNT_OPTIONS = [20, 50, 100] as const;
 
 export default function HomePage() {
   const [chapters, setChapters] = useState<string[]>(["ALL"]);
-  const [datasets, setDatasets] = useState<{ id: string; label: string }[]>([{ id: "ALL", label: "全部題庫" }]);
+  const [datasets, setDatasets] = useState<{ id: string; label: string }[]>([
+    { id: "ALL", label: "全部題庫" },
+  ]);
   const [count, setCount] = useState<number>(100);
   const [chapter, setChapter] = useState<string>("ALL");
   const [dataset, setDataset] = useState<string>("ALL");
@@ -19,11 +27,17 @@ export default function HomePage() {
   const [perfectCount, setPerfectCount] = useState(0);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
-  const [dataStatus, setDataStatus] = useState<{ data_version: string; dataset_count?: number; total_questions?: number; verified_at?: string } | null>(null);
-  const [subjectStats, setSubjectStats] = useState<{ key: string; label: string; wrong: number; attempt: number; rate: number }[]>([]);
+  const [dataStatus, setDataStatus] = useState<{
+    data_version: string;
+    dataset_count?: number;
+    total_questions?: number;
+    verified_at?: string;
+  } | null>(null);
+  const [subjectStats, setSubjectStats] = useState<
+    { key: string; label: string; wrong: number; attempt: number; rate: number }[]
+  >([]);
 
   useEffect(() => {
-    // 不 fallback：載入失敗即顯示錯誤，不偷偷改為 v1 或假資料
     setError(null);
     fetchIndexDatasets()
       .then((list) => {
@@ -44,12 +58,19 @@ export default function HomePage() {
       .then((r) => (r.ok ? r.json() : null))
       .then((v) => {
         if (v && v.ok) {
-          setDataStatus({ data_version: v.data_version, dataset_count: v.dataset_count, total_questions: v.total_questions, verified_at: v.verified_at });
+          setDataStatus({
+            data_version: v.data_version,
+            dataset_count: v.dataset_count,
+            total_questions: v.total_questions,
+            verified_at: v.verified_at,
+          });
           return null;
         }
         return fetch("/data/meta.json", { cache: "no-store" }).then((r) => (r.ok ? r.json() : null));
       })
-      .then((m) => { if (m?.data_version) setDataStatus((prev) => prev ?? { data_version: m.data_version }); })
+      .then((m) => {
+        if (m?.data_version) setDataStatus((prev) => prev ?? { data_version: m.data_version });
+      })
       .catch(() => null);
   }, []);
 
@@ -57,15 +78,32 @@ export default function HomePage() {
     setTodayCount(getTodayAnsweredCount());
     setWrongCount(getWrongIds().length);
     setPerfectCount(getPerfectCount());
+
     const wrongBy = getWrongBySubject();
     const attemptBy = getAttemptBySubject();
     const keys = new Set([...Object.keys(wrongBy), ...Object.keys(attemptBy)]);
+
     const labelMap: Record<string, string> = {
-      y105: "105 工程管理學科", y106: "106 工程管理學科", y107: "107 工程管理學科", y108: "108 工程管理學科",
-      y109: "109 工程管理學科", y110: "110 工程管理學科", y111: "111 工程管理學科", y112: "112 工程管理學科", y113: "113 工程管理學科",
-      y90006: "90006 共同科目", y90007: "90007 共同科目", y90008: "90008 共同科目", y90009: "90009 共同科目",
-      zonghe_a: "綜合A", zonghe_b: "綜合B", a: "綜合A", b: "綜合B", v1: "v1 測試題庫",
+      y105: "105 工程管理學科",
+      y106: "106 工程管理學科",
+      y107: "107 工程管理學科",
+      y108: "108 工程管理學科",
+      y109: "109 工程管理學科",
+      y110: "110 工程管理學科",
+      y111: "111 工程管理學科",
+      y112: "112 工程管理學科",
+      y113: "113 工程管理學科",
+      y90006: "90006 共同科目",
+      y90007: "90007 共同科目",
+      y90008: "90008 共同科目",
+      y90009: "90009 共同科目",
+      zonghe_a: "綜合A",
+      zonghe_b: "綜合B",
+      a: "綜合A",
+      b: "綜合B",
+      v1: "v1 測試題庫",
     };
+
     const list = Array.from(keys)
       .filter((k) => (attemptBy[k] ?? 0) > 0)
       .map((k) => ({
@@ -73,10 +111,14 @@ export default function HomePage() {
         label: labelMap[k] ?? k,
         wrong: wrongBy[k] ?? 0,
         attempt: attemptBy[k] ?? 0,
-        rate: (attemptBy[k] ?? 0) > 0 ? Math.round(((wrongBy[k] ?? 0) / (attemptBy[k] ?? 1)) * 100) : 0,
+        rate:
+          (attemptBy[k] ?? 0) > 0
+            ? Math.round(((wrongBy[k] ?? 0) / (attemptBy[k] ?? 1)) * 100)
+            : 0,
       }))
       .sort((a, b) => b.wrong - a.wrong)
       .slice(0, 3);
+
     setSubjectStats(list);
   }, []);
 
@@ -106,19 +148,25 @@ export default function HomePage() {
 
   return (
     <main className="min-h-screen flex flex-col p-6 max-w-lg mx-auto">
-      <h1 className="text-2xl font-bold tracking-tight mt-8 mb-2 text-center">
-        MLH 裝修工程大腦
-      </h1>
-      <p className="text-gray-500 text-sm text-center mb-8">
-        室內裝修工程管理 · 每日刷題
-      </p>
+      <h1 className="text-2xl font-bold tracking-tight mt-8 mb-2 text-center">MLH 裝修工程大腦</h1>
+      <p className="text-gray-500 text-sm text-center mb-8">室內裝修工程管理 · 每日刷題</p>
 
       {dataStatus && (
         <div className="mb-4 px-3 py-2 rounded-lg bg-gray-100 text-gray-600 text-xs text-center">
           資料版本 <strong>{dataStatus.data_version}</strong>
           {dataStatus.dataset_count != null && <> · {dataStatus.dataset_count} 題庫</>}
           {dataStatus.total_questions != null && <> · {dataStatus.total_questions} 題</>}
-          {dataStatus.verified_at && <> · 最後驗證 {new Date(dataStatus.verified_at).toLocaleString("zh-TW", { dateStyle: "short", timeStyle: "short" })}</>}
+          {dataStatus.verified_at && (
+            <>
+              {" "}
+              · 最後驗證
+              {" "}
+              {new Date(dataStatus.verified_at).toLocaleString("zh-TW", {
+                dateStyle: "short",
+                timeStyle: "short",
+              })}
+            </>
+          )}
         </div>
       )}
 
@@ -134,9 +182,7 @@ export default function HomePage() {
         <>
           <section className="space-y-4 mb-8">
             <div>
-              <label className="block text-sm font-medium text-gray-700 mb-1">
-                題數
-              </label>
+              <label className="block text-sm font-medium text-gray-700 mb-1">題數</label>
               <div className="flex gap-2">
                 {COUNT_OPTIONS.map((n) => (
                   <button
@@ -144,9 +190,7 @@ export default function HomePage() {
                     type="button"
                     onClick={() => setCount(n)}
                     className={`flex-1 py-3 rounded-lg border-2 text-sm font-medium transition ${
-                      count === n
-                        ? "border-[#111] bg-[#111] text-white"
-                        : "border-gray-300 text-gray-700"
+                      count === n ? "border-[#111] bg-[#111] text-white" : "border-gray-300 text-gray-700"
                     }`}
                   >
                     {n}
@@ -154,10 +198,9 @@ export default function HomePage() {
                 ))}
               </div>
             </div>
+
             <div>
-              <label className="block text-sm font-medium text-gray-700 mb-1">
-                題庫範圍
-              </label>
+              <label className="block text-sm font-medium text-gray-700 mb-1">題庫範圍</label>
               <select
                 value={dataset}
                 onChange={(e) => setDataset(e.target.value)}
@@ -170,10 +213,9 @@ export default function HomePage() {
                 ))}
               </select>
             </div>
+
             <div>
-              <label className="block text-sm font-medium text-gray-700 mb-1">
-                章節
-              </label>
+              <label className="block text-sm font-medium text-gray-700 mb-1">章節</label>
               <select
                 value={chapter}
                 onChange={(e) => setChapter(e.target.value)}
@@ -191,7 +233,10 @@ export default function HomePage() {
           <div className="text-sm text-gray-500 mb-4">
             今日已刷 <strong className="text-[#111]">{todayCount}</strong> 題
             {wrongCount > 0 && (
-              <> · 錯題本 <strong className="text-[#111]">{wrongCount}</strong> 題</>
+              <>
+                {" "}
+                · 錯題本 <strong className="text-[#111]">{wrongCount}</strong> 題
+              </>
             )}
             <> · 🏆 累積滿分次數：<strong className="text-[#111]">{perfectCount}</strong></>
           </div>
@@ -215,6 +260,17 @@ export default function HomePage() {
               </button>
             </section>
           )}
+
+          <section className="mb-6 p-4 rounded-xl border border-slate-200 bg-slate-50">
+            <p className="text-base font-semibold text-slate-900 mb-1">複選題刷題（測試版）</p>
+            <p className="text-sm text-slate-600 mb-3">目前僅開放 13 份資料集，暫不含綜合 A / B</p>
+            <Link
+              href="/multi-test"
+              className="w-full inline-flex justify-center py-3 rounded-lg border-2 border-slate-700 text-slate-800 font-medium"
+            >
+              前往複選題測試
+            </Link>
+          </section>
 
           <div className="flex flex-col gap-3">
             <Link

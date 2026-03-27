@@ -1,5 +1,5 @@
 === 小LIN 簽核包 multi（Phase 1 管線）===
-產出時間: 2026-03-25T12:15:39.707Z
+產出時間: 2026-03-26T14:36:43.547Z
 
 --- 1) npm run kpi:multi ---
 > mlh-quiz@0.1.0 kpi:multi
@@ -7,36 +7,55 @@
 
 
 --- KPI Report Multi (v2) ---
-ImportedThisRunMulti: 0
-BankTotalThisRunDatasetsMulti: 0
+ImportedThisRunMulti: 16
+BankTotalThisRunDatasetsMulti: 14
 LegacyBankMulti: 0
-BankTotalAllMulti: 0
+BankTotalAllMulti: 14
 bankTotalSource: ran-summary-multi
 ------------------
 
 
 npm warn Unknown env config "devdir". This will stop working in the next major version of npm.
+[kpi_report_multi] ImportedThisRunMulti (16) !== BankTotalThisRunDatasetsMulti (14)
+(exit code: 1)
 
 --- 2) npm run summary:multi (TOTAL) ---
 > mlh-quiz@0.1.0 summary:multi
 > node scripts/question_bank_summary_multi.mjs
 
 Wrote: scripts/question_bank_summary_multi.json
-TOTAL (multi): 0
+TOTAL (multi): 14
+public/data/multi/questions_y105.json 3
+public/data/multi/questions_y106.json 1
+public/data/multi/questions_y107.json 1
+public/data/multi/questions_y108.json 1
+public/data/multi/questions_y109.json 1
+public/data/multi/questions_y110.json 0
+public/data/multi/questions_y111.json 4
+public/data/multi/questions_y112.json 3
+public/data/multi/questions_y113.json 0
+public/data/multi/questions_y90006.json 0
+public/data/multi/questions_y90007.json 0
+public/data/multi/questions_y90008.json 0
+public/data/multi/questions_y90009.json 0
+public/data/multi/questions_zonghe_a.json 0
+public/data/multi/questions_zonghe_b.json 0
 
 npm warn Unknown env config "devdir". This will stop working in the next major version of npm.
 
 --- 3) ls -lt public/data/multi（略過 verify_result_multi.json）---
-total 24
--rw-r--r--@ 1 jfai  staff   45 Mar 25 20:03 index.json
--rw-r--r--@ 1 jfai  staff  109 Mar 25 20:03 meta.json
+total 144
+-rw-r--r--@ 1 jfai  staff   111 Mar 26 22:36 meta.json
+-rw-r--r--@ 1 jfai  staff  1734 Mar 26 22:36 index.json
+-rw-r--r--@ 1 jfai  staff     2 Mar 26 22:36 questions_zonghe_b.json
+-rw-r--r--@ 1 jfai  staff     2 Mar 26 22:36 questions_zonghe_a.json
 
 --- 4) npm run verify:multi ---
 > mlh-quiz@0.1.0 verify:multi
 > node scripts/verify_data_integrity_multi.mjs
 
 [verify_data_integrity_multi] error_count: 0
-[verify_data_integrity_multi] OK: multi-phase1-0 | 0 題庫 0 題 | errors: 0
+[verify_data_integrity_multi] OK: 2026-03-26-2236 | 15 題庫 14 題 | errors: 0
 
 npm warn Unknown env config "devdir". This will stop working in the next major version of npm.
 

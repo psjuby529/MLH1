@@ -15,14 +15,7 @@
     "answer_index": 2,
     "explanation": "",
     "source": "zonghe_b#Q1",
-    "source_display": "綜合B 第1題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q001.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第1題"
   },
   {
     "id": "zonghe_b_2",
@@ -40,14 +33,7 @@
     "answer_index": 2,
     "explanation": "",
     "source": "zonghe_b#Q2",
-    "source_display": "綜合B 第2題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q002.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第2題"
   },
   {
     "id": "zonghe_b_3",
@@ -65,14 +51,7 @@
     "answer_index": 2,
     "explanation": "",
     "source": "zonghe_b#Q3",
-    "source_display": "綜合B 第3題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q003.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第3題"
   },
   {
     "id": "zonghe_b_4",
@@ -90,14 +69,7 @@
     "answer_index": 2,
     "explanation": "",
     "source": "zonghe_b#Q4",
-    "source_display": "綜合B 第4題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q004.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第4題"
   },
   {
     "id": "zonghe_b_5",
@@ -115,14 +87,7 @@
     "answer_index": 2,
     "explanation": "",
     "source": "zonghe_b#Q5",
-    "source_display": "綜合B 第5題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q005.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第5題"
   },
   {
     "id": "zonghe_b_6",
@@ -140,14 +105,7 @@
     "answer_index": 1,
     "explanation": "",
     "source": "zonghe_b#Q6",
-    "source_display": "綜合B 第6題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q006.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第6題"
   },
   {
     "id": "zonghe_b_7",
@@ -165,14 +123,7 @@
     "answer_index": 2,
     "explanation": "",
     "source": "zonghe_b#Q7",
-    "source_display": "綜合B 第7題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q007.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第7題"
   },
   {
     "id": "zonghe_b_8",
@@ -190,14 +141,7 @@
     "answer_index": 1,
     "explanation": "",
     "source": "zonghe_b#Q8",
-    "source_display": "綜合B 第8題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q008.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第8題"
   },
   {
     "id": "zonghe_b_9",
@@ -215,14 +159,7 @@
     "answer_index": 2,
     "explanation": "",
     "source": "zonghe_b#Q9",
-    "source_display": "綜合B 第9題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q009.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第9題"
   },
   {
     "id": "zonghe_b_10",
@@ -240,14 +177,7 @@
     "answer_index": 1,
     "explanation": "",
     "source": "zonghe_b#Q10",
-    "source_display": "綜合B 第10題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q010.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第10題"
   },
   {
     "id": "zonghe_b_11",
@@ -265,14 +195,7 @@
     "answer_index": 2,
     "explanation": "",
     "source": "zonghe_b#Q11",
-    "source_display": "綜合B 第11題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q011.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第11題"
   },
   {
     "id": "zonghe_b_12",
@@ -290,14 +213,7 @@
     "answer_index": 0,
     "explanation": "",
     "source": "zonghe_b#Q12",
-    "source_display": "綜合B 第12題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q012.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第12題"
   },
   {
     "id": "zonghe_b_13",
@@ -315,14 +231,7 @@
     "answer_index": 2,
     "explanation": "",
     "source": "zonghe_b#Q13",
-    "source_display": "綜合B 第13題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q013.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第13題"
   },
   {
     "id": "zonghe_b_14",
@@ -340,14 +249,7 @@
     "answer_index": 2,
     "explanation": "",
     "source": "zonghe_b#Q14",
-    "source_display": "綜合B 第14題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q014.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第14題"
   },
   {
     "id": "zonghe_b_15",
@@ -365,14 +267,7 @@
     "answer_index": 3,
     "explanation": "",
     "source": "zonghe_b#Q15",
-    "source_display": "綜合B 第15題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q015.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第15題"
   },
   {
     "id": "zonghe_b_16",
@@ -390,14 +285,7 @@
     "answer_index": 2,
     "explanation": "",
     "source": "zonghe_b#Q16",
-    "source_display": "綜合B 第16題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q016.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第16題"
   },
   {
     "id": "zonghe_b_17",
@@ -415,14 +303,7 @@
     "answer_index": 1,
     "explanation": "",
     "source": "zonghe_b#Q17",
-    "source_display": "綜合B 第17題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q017.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第17題"
   },
   {
     "id": "zonghe_b_18",
@@ -440,14 +321,7 @@
     "answer_index": 2,
     "explanation": "",
     "source": "zonghe_b#Q18",
-    "source_display": "綜合B 第18題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q018.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第18題"
   },
   {
     "id": "zonghe_b_19",
@@ -465,14 +339,7 @@
     "answer_index": 2,
     "explanation": "",
     "source": "zonghe_b#Q19",
-    "source_display": "綜合B 第19題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q019.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第19題"
   },
   {
     "id": "zonghe_b_20",
@@ -490,14 +357,7 @@
     "answer_index": 0,
     "explanation": "",
     "source": "zonghe_b#Q20",
-    "source_display": "綜合B 第20題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q020.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第20題"
   },
   {
     "id": "zonghe_b_21",
@@ -515,14 +375,7 @@
     "answer_index": 0,
     "explanation": "",
     "source": "zonghe_b#Q21",
-    "source_display": "綜合B 第21題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q021.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第21題"
   },
   {
     "id": "zonghe_b_22",
@@ -540,14 +393,7 @@
     "answer_index": 3,
     "explanation": "",
     "source": "zonghe_b#Q22",
-    "source_display": "綜合B 第22題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q022.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第22題"
   },
   {
     "id": "zonghe_b_23",
@@ -565,14 +411,7 @@
     "answer_index": 3,
     "explanation": "",
     "source": "zonghe_b#Q23",
-    "source_display": "綜合B 第23題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q023.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第23題"
   },
   {
     "id": "zonghe_b_24",
@@ -590,14 +429,7 @@
     "answer_index": 2,
     "explanation": "",
     "source": "zonghe_b#Q24",
-    "source_display": "綜合B 第24題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q024.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第24題"
   },
   {
     "id": "zonghe_b_25",
@@ -615,14 +447,7 @@
     "answer_index": 3,
     "explanation": "",
     "source": "zonghe_b#Q25",
-    "source_display": "綜合B 第25題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q025.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第25題"
   },
   {
     "id": "zonghe_b_26",
@@ -640,14 +465,7 @@
     "answer_index": 1,
     "explanation": "",
     "source": "zonghe_b#Q26",
-    "source_display": "綜合B 第26題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q026.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第26題"
   },
   {
     "id": "zonghe_b_27",
@@ -660,24 +478,17 @@
       "鋼筋混凝土造",
       "鋼構造",
       "鋼骨\n鋼筋混凝土造",
-      "磚構造。\n1"
+      "磚構造。"
     ],
     "answer_index": 2,
     "explanation": "",
     "source": "zonghe_b#Q27",
-    "source_display": "綜合B 第27題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q027.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第27題"
   },
   {
-    "id": "zonghe_b_28",
+    "id": "zonghe_b_128",
     "subject": "室內裝修工程管理",
-    "year": 28,
+    "year": 128,
     "chapter": "ALL",
     "type": "single",
     "question_text": "依中華民國國家標準CNS 規定，建築圖號中之英文代號「G」代表何種圖面？",
@@ -689,15 +500,8 @@
     ],
     "answer_index": 0,
     "explanation": "",
-    "source": "zonghe_b#Q28",
-    "source_display": "綜合B 第28題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q028.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source": "zonghe_b#Q128",
+    "source_display": "綜合B 第128題"
   },
   {
     "id": "zonghe_b_29",
@@ -715,14 +519,7 @@
     "answer_index": 3,
     "explanation": "",
     "source": "zonghe_b#Q29",
-    "source_display": "綜合B 第29題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q029.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第29題"
   },
   {
     "id": "zonghe_b_30",
@@ -740,14 +537,7 @@
     "answer_index": 2,
     "explanation": "",
     "source": "zonghe_b#Q30",
-    "source_display": "綜合B 第30題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q030.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第30題"
   },
   {
     "id": "zonghe_b_31",
@@ -765,14 +555,7 @@
     "answer_index": 1,
     "explanation": "",
     "source": "zonghe_b#Q31",
-    "source_display": "綜合B 第31題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q031.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第31題"
   },
   {
     "id": "zonghe_b_32",
@@ -790,14 +573,7 @@
     "answer_index": 2,
     "explanation": "",
     "source": "zonghe_b#Q32",
-    "source_display": "綜合B 第32題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q032.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第32題"
   },
   {
     "id": "zonghe_b_33",
@@ -815,14 +591,7 @@
     "answer_index": 1,
     "explanation": "",
     "source": "zonghe_b#Q33",
-    "source_display": "綜合B 第33題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q033.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第33題"
   },
   {
     "id": "zonghe_b_34",
@@ -840,14 +609,7 @@
     "answer_index": 2,
     "explanation": "",
     "source": "zonghe_b#Q34",
-    "source_display": "綜合B 第34題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q034.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第34題"
   },
   {
     "id": "zonghe_b_35",
@@ -865,14 +627,7 @@
     "answer_index": 0,
     "explanation": "",
     "source": "zonghe_b#Q35",
-    "source_display": "綜合B 第35題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q035.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第35題"
   },
   {
     "id": "zonghe_b_36",
@@ -890,14 +645,7 @@
     "answer_index": 1,
     "explanation": "",
     "source": "zonghe_b#Q36",
-    "source_display": "綜合B 第36題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q036.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第36題"
   },
   {
     "id": "zonghe_b_37",
@@ -915,14 +663,7 @@
     "answer_index": 0,
     "explanation": "",
     "source": "zonghe_b#Q37",
-    "source_display": "綜合B 第37題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q037.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第37題"
   },
   {
     "id": "zonghe_b_38",
@@ -940,14 +681,7 @@
     "answer_index": 2,
     "explanation": "",
     "source": "zonghe_b#Q38",
-    "source_display": "綜合B 第38題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q038.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第38題"
   },
   {
     "id": "zonghe_b_39",
@@ -965,14 +699,7 @@
     "answer_index": 3,
     "explanation": "",
     "source": "zonghe_b#Q39",
-    "source_display": "綜合B 第39題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q039.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第39題"
   },
   {
     "id": "zonghe_b_40",
@@ -1026,14 +753,7 @@
     "answer_index": 2,
     "explanation": "",
     "source": "zonghe_b#Q42",
-    "source_display": "綜合B 第42題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q042.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第42題"
   },
   {
     "id": "zonghe_b_43",
@@ -1051,14 +771,7 @@
     "answer_index": 1,
     "explanation": "",
     "source": "zonghe_b#Q43",
-    "source_display": "綜合B 第43題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q043.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第43題"
   },
   {
     "id": "zonghe_b_44",
@@ -1076,14 +789,7 @@
     "answer_index": 1,
     "explanation": "",
     "source": "zonghe_b#Q44",
-    "source_display": "綜合B 第44題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q044.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第44題"
   },
   {
     "id": "zonghe_b_45",
@@ -1101,14 +807,7 @@
     "answer_index": 3,
     "explanation": "",
     "source": "zonghe_b#Q45",
-    "source_display": "綜合B 第45題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q045.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第45題"
   },
   {
     "id": "zonghe_b_46",
@@ -1126,14 +825,7 @@
     "answer_index": 1,
     "explanation": "",
     "source": "zonghe_b#Q46",
-    "source_display": "綜合B 第46題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q046.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第46題"
   },
   {
     "id": "zonghe_b_47",
@@ -1151,14 +843,7 @@
     "answer_index": 2,
     "explanation": "",
     "source": "zonghe_b#Q47",
-    "source_display": "綜合B 第47題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q047.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第47題"
   },
   {
     "id": "zonghe_b_48",
@@ -1176,14 +861,7 @@
     "answer_index": 0,
     "explanation": "",
     "source": "zonghe_b#Q48",
-    "source_display": "綜合B 第48題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q048.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第48題"
   },
   {
     "id": "zonghe_b_49",
@@ -1201,14 +879,7 @@
     "answer_index": 2,
     "explanation": "",
     "source": "zonghe_b#Q49",
-    "source_display": "綜合B 第49題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q049.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第49題"
   },
   {
     "id": "zonghe_b_50",
@@ -1226,14 +897,7 @@
     "answer_index": 1,
     "explanation": "",
     "source": "zonghe_b#Q50",
-    "source_display": "綜合B 第50題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q050.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第50題"
   },
   {
     "id": "zonghe_b_51",
@@ -1246,24 +910,17 @@
       "地盤",
       "中心線",
       "二樓樓版面",
-      "地下二樓。\n2"
+      "地下二樓。"
     ],
     "answer_index": 2,
     "explanation": "",
     "source": "zonghe_b#Q51",
-    "source_display": "綜合B 第51題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q051.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第51題"
   },
   {
-    "id": "zonghe_b_52",
+    "id": "zonghe_b_252",
     "subject": "室內裝修工程管理",
-    "year": 52,
+    "year": 252,
     "chapter": "ALL",
     "type": "single",
     "question_text": "構造物之剖面圖，如右圖上層細線 是表示",
@@ -1271,19 +928,12 @@
       "油漆",
       "敲平",
       "粉刷",
-      "不須加工。\n53. (124) 依CNS11567 之A1042建築圖符號及圖例規定，下列哪些屬於材料、構造圖例？"
+      "不須加工。"
     ],
     "answer_index": 2,
     "explanation": "",
-    "source": "zonghe_b#Q52",
-    "source_display": "綜合B 第52題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q052.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source": "zonghe_b#Q252",
+    "source_display": "綜合B 第252題"
   },
   {
     "id": "zonghe_b_1",
@@ -1499,14 +1149,7 @@
     "answer_index": 1,
     "explanation": "",
     "source": "zonghe_b#Q12",
-    "source_display": "綜合B 第12題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q012.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第12題"
   },
   {
     "id": "zonghe_b_13",
@@ -1519,7 +1162,7 @@
       "註記",
       "定點",
       "拉線",
-      "彈線。\n4"
+      "彈線。"
     ],
     "answer_index": 1,
     "explanation": "",
@@ -1527,9 +1170,9 @@
     "source_display": "綜合B 第13題"
   },
   {
-    "id": "zonghe_b_14",
+    "id": "zonghe_b_414",
     "subject": "室內裝修工程管理",
-    "year": 14,
+    "year": 414,
     "chapter": "ALL",
     "type": "single",
     "question_text": "丈量現況柱、梁尺寸的目的，以下敘述何者為錯誤？",
@@ -1541,8 +1184,8 @@
     ],
     "answer_index": 2,
     "explanation": "",
-    "source": "zonghe_b#Q14",
-    "source_display": "綜合B 第14題"
+    "source": "zonghe_b#Q414",
+    "source_display": "綜合B 第414題"
   },
   {
     "id": "zonghe_b_15",
@@ -1578,14 +1221,7 @@
     "answer_index": 1,
     "explanation": "",
     "source": "zonghe_b#Q16",
-    "source_display": "綜合B 第16題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q016.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第16題"
   },
   {
     "id": "zonghe_b_17",
@@ -1621,14 +1257,7 @@
     "answer_index": 0,
     "explanation": "",
     "source": "zonghe_b#Q18",
-    "source_display": "綜合B 第18題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q018.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第18題"
   },
   {
     "id": "zonghe_b_19",
@@ -1664,14 +1293,7 @@
     "answer_index": 0,
     "explanation": "",
     "source": "zonghe_b#Q20",
-    "source_display": "綜合B 第20題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q020.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第20題"
   },
   {
     "id": "zonghe_b_21",
@@ -1738,7 +1360,7 @@
       "烏心石",
       "杉木",
       "白木",
-      "松木。\n25. (13) 下列哪些為可直接量測水平的工具？"
+      "松木。"
     ],
     "answer_index": 2,
     "explanation": "",
@@ -1869,14 +1491,7 @@
     "answer_index": 0,
     "explanation": "",
     "source": "zonghe_b#Q7",
-    "source_display": "綜合B 第7題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q007.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第7題"
   },
   {
     "id": "zonghe_b_8",
@@ -1894,14 +1509,7 @@
     "answer_index": 0,
     "explanation": "",
     "source": "zonghe_b#Q8",
-    "source_display": "綜合B 第8題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q008.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第8題"
   },
   {
     "id": "zonghe_b_9",
@@ -1919,14 +1527,7 @@
     "answer_index": 1,
     "explanation": "",
     "source": "zonghe_b#Q9",
-    "source_display": "綜合B 第9題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q009.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第9題"
   },
   {
     "id": "zonghe_b_10",
@@ -1944,14 +1545,7 @@
     "answer_index": 3,
     "explanation": "",
     "source": "zonghe_b#Q10",
-    "source_display": "綜合B 第10題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q010.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第10題"
   },
   {
     "id": "zonghe_b_11",
@@ -2383,14 +1977,7 @@
     "answer_index": 1,
     "explanation": "",
     "source": "zonghe_b#Q34",
-    "source_display": "綜合B 第34題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q034.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第34題"
   },
   {
     "id": "zonghe_b_35",
@@ -2552,14 +2139,7 @@
     "answer_index": 1,
     "explanation": "",
     "source": "zonghe_b#Q43",
-    "source_display": "綜合B 第43題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q043.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第43題"
   },
   {
     "id": "zonghe_b_44",
@@ -2613,14 +2193,7 @@
     "answer_index": 0,
     "explanation": "",
     "source": "zonghe_b#Q46",
-    "source_display": "綜合B 第46題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q046.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第46題"
   },
   {
     "id": "zonghe_b_47",
@@ -2656,14 +2229,7 @@
     "answer_index": 1,
     "explanation": "",
     "source": "zonghe_b#Q48",
-    "source_display": "綜合B 第48題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q048.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第48題"
   },
   {
     "id": "zonghe_b_49",
@@ -2712,7 +2278,7 @@
       "新建",
       "增建",
       "改建",
-      "修建。\n7"
+      "修建。"
     ],
     "answer_index": 3,
     "explanation": "",
@@ -2720,9 +2286,9 @@
     "source_display": "綜合B 第51題"
   },
   {
-    "id": "zonghe_b_52",
+    "id": "zonghe_b_752",
     "subject": "室內裝修工程管理",
-    "year": 52,
+    "year": 752,
     "chapter": "ALL",
     "type": "single",
     "question_text": "依「建築法」規定，建築物應依核定之使用類組使用，其有變更使用類組或有「建築法」第９條建造行為以\n外之主要構造、防火區劃、防火避難設施、消防設備、停車空間及其他與原核定使用不合之變更者，應申請\n變更",
@@ -2734,8 +2300,8 @@
     ],
     "answer_index": 1,
     "explanation": "",
-    "source": "zonghe_b#Q52",
-    "source_display": "綜合B 第52題"
+    "source": "zonghe_b#Q752",
+    "source_display": "綜合B 第752題"
   },
   {
     "id": "zonghe_b_53",
@@ -2969,14 +2535,7 @@
     "answer_index": 1,
     "explanation": "",
     "source": "zonghe_b#Q65",
-    "source_display": "綜合B 第65題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q065.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第65題"
   },
   {
     "id": "zonghe_b_66",
@@ -3048,14 +2607,7 @@
     "answer_index": 2,
     "explanation": "",
     "source": "zonghe_b#Q69",
-    "source_display": "綜合B 第69題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q069.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第69題"
   },
   {
     "id": "zonghe_b_70",
@@ -3361,14 +2913,7 @@
     "answer_index": 2,
     "explanation": "",
     "source": "zonghe_b#Q86",
-    "source_display": "綜合B 第86題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q086.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第86題"
   },
   {
     "id": "zonghe_b_87",
@@ -3440,14 +2985,7 @@
     "answer_index": 2,
     "explanation": "",
     "source": "zonghe_b#Q90",
-    "source_display": "綜合B 第90題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q090.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第90題"
   },
   {
     "id": "zonghe_b_91",
@@ -3465,14 +3003,7 @@
     "answer_index": 2,
     "explanation": "",
     "source": "zonghe_b#Q91",
-    "source_display": "綜合B 第91題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q091.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第91題"
   },
   {
     "id": "zonghe_b_92",
@@ -3490,14 +3021,7 @@
     "answer_index": 1,
     "explanation": "",
     "source": "zonghe_b#Q92",
-    "source_display": "綜合B 第92題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q092.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第92題"
   },
   {
     "id": "zonghe_b_93",
@@ -3515,14 +3039,7 @@
     "answer_index": 1,
     "explanation": "",
     "source": "zonghe_b#Q93",
-    "source_display": "綜合B 第93題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q093.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第93題"
   },
   {
     "id": "zonghe_b_94",
@@ -3540,14 +3057,7 @@
     "answer_index": 1,
     "explanation": "",
     "source": "zonghe_b#Q94",
-    "source_display": "綜合B 第94題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q094.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第94題"
   },
   {
     "id": "zonghe_b_95",
@@ -3565,14 +3075,7 @@
     "answer_index": 1,
     "explanation": "",
     "source": "zonghe_b#Q95",
-    "source_display": "綜合B 第95題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q095.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第95題"
   },
   {
     "id": "zonghe_b_96",
@@ -3590,14 +3093,7 @@
     "answer_index": 0,
     "explanation": "",
     "source": "zonghe_b#Q96",
-    "source_display": "綜合B 第96題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q096.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第96題"
   },
   {
     "id": "zonghe_b_97",
@@ -3664,7 +3160,7 @@
       "分界牆",
       "分戶牆",
       "分間牆",
-      "分室牆。\n9"
+      "分室牆。"
     ],
     "answer_index": 2,
     "explanation": "",
@@ -3672,9 +3168,9 @@
     "source_display": "綜合B 第100題"
   },
   {
-    "id": "zonghe_b_101",
+    "id": "zonghe_b_9101",
     "subject": "室內裝修工程管理",
-    "year": 101,
+    "year": 9101,
     "chapter": "ALL",
     "type": "single",
     "question_text": "分隔住宅單位與住宅單位區劃間之牆壁稱為",
@@ -3686,8 +3182,8 @@
     ],
     "answer_index": 1,
     "explanation": "",
-    "source": "zonghe_b#Q101",
-    "source_display": "綜合B 第101題"
+    "source": "zonghe_b#Q9101",
+    "source_display": "綜合B 第9101題"
   },
   {
     "id": "zonghe_b_102",
@@ -3813,14 +3309,7 @@
     "answer_index": 3,
     "explanation": "",
     "source": "zonghe_b#Q108",
-    "source_display": "綜合B 第108題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q108.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第108題"
   },
   {
     "id": "zonghe_b_109",
@@ -4031,7 +3520,7 @@
       "張貼壁布",
       "牆面油漆",
       "施作家具",
-      "拆除\n室內分間牆。\n121. (24) 室內裝修施工由非專業技術人員從事室內裝修施工業務時，當地主管建築機關查明屬實後，將予以下列何種\n處分？"
+      "拆除\n室內分間牆。"
     ],
     "answer_index": 3,
     "explanation": "",
@@ -4162,14 +3651,7 @@
     "answer_index": 0,
     "explanation": "",
     "source": "zonghe_b#Q7",
-    "source_display": "綜合B 第7題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q007.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第7題"
   },
   {
     "id": "zonghe_b_8",
@@ -4205,14 +3687,7 @@
     "answer_index": 3,
     "explanation": "",
     "source": "zonghe_b#Q9",
-    "source_display": "綜合B 第9題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q009.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第9題"
   },
   {
     "id": "zonghe_b_10",
@@ -4230,14 +3705,7 @@
     "answer_index": 2,
     "explanation": "",
     "source": "zonghe_b#Q10",
-    "source_display": "綜合B 第10題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q010.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第10題"
   },
   {
     "id": "zonghe_b_11",
@@ -4291,14 +3759,7 @@
     "answer_index": 1,
     "explanation": "",
     "source": "zonghe_b#Q13",
-    "source_display": "綜合B 第13題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q013.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第13題"
   },
   {
     "id": "zonghe_b_14",
@@ -4725,7 +4186,7 @@
       "倒塌",
       "墜落滾落",
       "物體飛落",
-      "感電。\n38. (123) 依"
+      "感電。"
     ],
     "answer_index": 1,
     "explanation": "",
@@ -5180,14 +4641,7 @@
     "answer_index": 1,
     "explanation": "",
     "source": "zonghe_b#Q25",
-    "source_display": "綜合B 第25題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q025.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第25題"
   },
   {
     "id": "zonghe_b_26",
@@ -5236,7 +4690,7 @@
       "透明水管",
       "垂球",
       "角尺",
-      "板尺。\n14"
+      "板尺。"
     ],
     "answer_index": 0,
     "explanation": "",
@@ -5244,9 +4698,9 @@
     "source_display": "綜合B 第28題"
   },
   {
-    "id": "zonghe_b_29",
+    "id": "zonghe_b_1429",
     "subject": "室內裝修工程管理",
-    "year": 29,
+    "year": 1429,
     "chapter": "ALL",
     "type": "single",
     "question_text": "使用透明PVC 膠管測水平時，下列何者對其測定結果沒有影響？",
@@ -5258,8 +4712,8 @@
     ],
     "answer_index": 3,
     "explanation": "",
-    "source": "zonghe_b#Q29",
-    "source_display": "綜合B 第29題"
+    "source": "zonghe_b#Q1429",
+    "source_display": "綜合B 第1429題"
   },
   {
     "id": "zonghe_b_30",
@@ -5362,7 +4816,7 @@
       "鋼尺",
       "游標卡尺",
       "自由角規",
-      "捲尺。\n36. (23) 下列施工機(器)具之功能，哪些為不正確？"
+      "捲尺。"
     ],
     "answer_index": 3,
     "explanation": "",
@@ -6118,7 +5572,7 @@
       "是否平整",
       "是否乾燥",
       "是否垂直",
-      "是否光潔 ，以免產生白化\n現象。\n17"
+      "是否光潔 ，以免產生白化\n現象。"
     ],
     "answer_index": 1,
     "explanation": "",
@@ -6126,9 +5580,9 @@
     "source_display": "綜合B 第42題"
   },
   {
-    "id": "zonghe_b_43",
+    "id": "zonghe_b_1743",
     "subject": "室內裝修工程管理",
-    "year": 43,
+    "year": 1743,
     "chapter": "ALL",
     "type": "single",
     "question_text": "金屬加工品在面漆刷塗前，應先以下列何種底漆刷塗以防生鏽？",
@@ -6140,8 +5594,8 @@
     ],
     "answer_index": 2,
     "explanation": "",
-    "source": "zonghe_b#Q43",
-    "source_display": "綜合B 第43題"
+    "source": "zonghe_b#Q1743",
+    "source_display": "綜合B 第1743題"
   },
   {
     "id": "zonghe_b_44",
@@ -6712,7 +6166,7 @@
       "1 分",
       "1寸",
       "1吋",
-      "1 公分。\n18"
+      "1 公分。"
     ],
     "answer_index": 3,
     "explanation": "",
@@ -6720,9 +6174,9 @@
     "source_display": "綜合B 第75題"
   },
   {
-    "id": "zonghe_b_76",
+    "id": "zonghe_b_1876",
     "subject": "室內裝修工程管理",
-    "year": 76,
+    "year": 1876,
     "chapter": "ALL",
     "type": "single",
     "question_text": "(本題刪題)下列那種板材厚度最厚？",
@@ -6734,8 +6188,8 @@
     ],
     "answer_index": 3,
     "explanation": "",
-    "source": "zonghe_b#Q76",
-    "source_display": "綜合B 第76題"
+    "source": "zonghe_b#Q1876",
+    "source_display": "綜合B 第1876題"
   },
   {
     "id": "zonghe_b_77",
@@ -7167,14 +6621,7 @@
     "answer_index": 0,
     "explanation": "",
     "source": "zonghe_b#Q100",
-    "source_display": "綜合B 第100題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q100.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第100題"
   },
   {
     "id": "zonghe_b_101",
@@ -7259,7 +6706,7 @@
       "漏水",
       "海沙屋",
       "水印",
-      "壁癌。\n19"
+      "壁癌。"
     ],
     "answer_index": 3,
     "explanation": "",
@@ -7267,9 +6714,9 @@
     "source_display": "綜合B 第105題"
   },
   {
-    "id": "zonghe_b_106",
+    "id": "zonghe_b_19106",
     "subject": "室內裝修工程管理",
-    "year": 106,
+    "year": null,
     "chapter": "ALL",
     "type": "single",
     "question_text": "調和油漆含有",
@@ -7281,8 +6728,8 @@
     ],
     "answer_index": 0,
     "explanation": "",
-    "source": "zonghe_b#Q106",
-    "source_display": "綜合B 第106題"
+    "source": "zonghe_b#Q19106",
+    "source_display": "綜合B 第19106題"
   },
   {
     "id": "zonghe_b_107",
@@ -7570,14 +7017,7 @@
     "answer_index": 2,
     "explanation": "",
     "source": "zonghe_b#Q122",
-    "source_display": "綜合B 第122題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q122.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第122題"
   },
   {
     "id": "zonghe_b_123",
@@ -7824,7 +7264,7 @@
       "30",
       "60",
       "90",
-      "120 公分。\n20"
+      "120 公分。"
     ],
     "answer_index": 0,
     "explanation": "",
@@ -7832,9 +7272,9 @@
     "source_display": "綜合B 第136題"
   },
   {
-    "id": "zonghe_b_137",
+    "id": "zonghe_b_20137",
     "subject": "室內裝修工程管理",
-    "year": 137,
+    "year": null,
     "chapter": "ALL",
     "type": "single",
     "question_text": "輕隔間牆使用石膏板材料封板時，螺釘鎖定板材於骨架時，應將螺釘鎖至",
@@ -7846,8 +7286,8 @@
     ],
     "answer_index": 2,
     "explanation": "",
-    "source": "zonghe_b#Q137",
-    "source_display": "綜合B 第137題"
+    "source": "zonghe_b#Q20137",
+    "source_display": "綜合B 第20137題"
   },
   {
     "id": "zonghe_b_138",
@@ -8346,7 +7786,7 @@
       "調和漆",
       "紅丹漆",
       "乳膠漆",
-      "磁漆。\n21"
+      "磁漆。"
     ],
     "answer_index": 2,
     "explanation": "",
@@ -8354,9 +7794,9 @@
     "source_display": "綜合B 第165題"
   },
   {
-    "id": "zonghe_b_166",
+    "id": "zonghe_b_21166",
     "subject": "室內裝修工程管理",
-    "year": 166,
+    "year": null,
     "chapter": "ALL",
     "type": "single",
     "question_text": "木器塗裝於材面打底後，應先",
@@ -8368,8 +7808,8 @@
     ],
     "answer_index": 3,
     "explanation": "",
-    "source": "zonghe_b#Q166",
-    "source_display": "綜合B 第166題"
+    "source": "zonghe_b#Q21166",
+    "source_display": "綜合B 第21166題"
   },
   {
     "id": "zonghe_b_167",
@@ -8940,7 +8380,7 @@
       "水洗",
       "除銹",
       "脫脂",
-      "著色 處理。\n22"
+      "著色 處理。"
     ],
     "answer_index": 1,
     "explanation": "",
@@ -8948,9 +8388,9 @@
     "source_display": "綜合B 第198題"
   },
   {
-    "id": "zonghe_b_199",
+    "id": "zonghe_b_22199",
     "subject": "室內裝修工程管理",
-    "year": 199,
+    "year": null,
     "chapter": "ALL",
     "type": "single",
     "question_text": "屬於二液型漆料者為",
@@ -8962,8 +8402,8 @@
     ],
     "answer_index": 1,
     "explanation": "",
-    "source": "zonghe_b#Q199",
-    "source_display": "綜合B 第199題"
+    "source": "zonghe_b#Q22199",
+    "source_display": "綜合B 第22199題"
   },
   {
     "id": "zonghe_b_200",
@@ -9017,14 +8457,7 @@
     "answer_index": 0,
     "explanation": "",
     "source": "zonghe_b#Q202",
-    "source_display": "綜合B 第202題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q202.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第202題"
   },
   {
     "id": "zonghe_b_203",
@@ -9042,14 +8475,7 @@
     "answer_index": 2,
     "explanation": "",
     "source": "zonghe_b#Q203",
-    "source_display": "綜合B 第203題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q203.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第203題"
   },
   {
     "id": "zonghe_b_204",
@@ -9265,14 +8691,7 @@
     "answer_index": 0,
     "explanation": "",
     "source": "zonghe_b#Q215",
-    "source_display": "綜合B 第215題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q215.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第215題"
   },
   {
     "id": "zonghe_b_216",
@@ -9344,14 +8763,7 @@
     "answer_index": 2,
     "explanation": "",
     "source": "zonghe_b#Q219",
-    "source_display": "綜合B 第219題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q219.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第219題"
   },
   {
     "id": "zonghe_b_220",
@@ -9364,7 +8776,7 @@
       "面板以縱向固定為佳",
       "自攻螺絲固定的垂直間距約為 20-25\n㎝",
       "螺絲固定若產生歪斜，敲平整處理即可",
-      "封板前應檢查面板是否完整無暇疵。\n23"
+      "封板前應檢查面板是否完整無暇疵。"
     ],
     "answer_index": 2,
     "explanation": "",
@@ -9372,9 +8784,9 @@
     "source_display": "綜合B 第220題"
   },
   {
-    "id": "zonghe_b_221",
+    "id": "zonghe_b_23221",
     "subject": "室內裝修工程管理",
-    "year": 221,
+    "year": null,
     "chapter": "ALL",
     "type": "single",
     "question_text": "(本題刪題)施工場所既設花線更換時仍可使用花線，但長度不得超過",
@@ -9386,8 +8798,8 @@
     ],
     "answer_index": 2,
     "explanation": "",
-    "source": "zonghe_b#Q221",
-    "source_display": "綜合B 第221題"
+    "source": "zonghe_b#Q23221",
+    "source_display": "綜合B 第23221題"
   },
   {
     "id": "zonghe_b_222",
@@ -9796,7 +9208,7 @@
       "丁砌磚",
       "順砌磚",
       "0.5B",
-      "豎砌皮。\n245. (123) 為達到塗裝之目的，充分發揮塗裝效果，應具備以下哪些條件，才能有圓滿的塗裝結果？"
+      "豎砌皮。"
     ],
     "answer_index": 0,
     "explanation": "",
@@ -9832,7 +9244,7 @@
       "環境很熱",
       "噪音",
       "震動",
-      "農藥。\n28"
+      "農藥。"
     ],
     "answer_index": 3,
     "explanation": "",
@@ -9840,9 +9252,9 @@
     "source_display": "綜合B 第2題"
   },
   {
-    "id": "zonghe_b_3",
+    "id": "zonghe_b_283",
     "subject": "室內裝修工程管理",
-    "year": 3,
+    "year": 283,
     "chapter": "ALL",
     "type": "single",
     "question_text": "勞工任新職前要實施哪種健康檢查？",
@@ -9854,8 +9266,8 @@
     ],
     "answer_index": 0,
     "explanation": "",
-    "source": "zonghe_b#Q3",
-    "source_display": "綜合B 第3題"
+    "source": "zonghe_b#Q283",
+    "source_display": "綜合B 第283題"
   },
   {
     "id": "zonghe_b_4",
@@ -10444,7 +9856,7 @@
       "控制材料",
       "控制管理",
       "控制勞務成本費",
-      "控制進度 之合理分配。\n29"
+      "控制進度 之合理分配。"
     ],
     "answer_index": 2,
     "explanation": "",
@@ -10452,9 +9864,9 @@
     "source_display": "綜合B 第36題"
   },
   {
-    "id": "zonghe_b_37",
+    "id": "zonghe_b_2937",
     "subject": "室內裝修工程管理",
-    "year": 37,
+    "year": 2937,
     "chapter": "ALL",
     "type": "single",
     "question_text": "一空間為長5m、寬4m、高 3m，若地面全部鋪設瓷磚施工，其數量共計為",
@@ -10466,8 +9878,8 @@
     ],
     "answer_index": 3,
     "explanation": "",
-    "source": "zonghe_b#Q37",
-    "source_display": "綜合B 第37題"
+    "source": "zonghe_b#Q2937",
+    "source_display": "綜合B 第2937題"
   },
   {
     "id": "zonghe_b_38",
@@ -10701,14 +10113,7 @@
     "answer_index": 2,
     "explanation": "",
     "source": "zonghe_b#Q50",
-    "source_display": "綜合B 第50題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q050.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第50題"
   },
   {
     "id": "zonghe_b_51",
@@ -10726,14 +10131,7 @@
     "answer_index": 3,
     "explanation": "",
     "source": "zonghe_b#Q51",
-    "source_display": "綜合B 第51題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q051.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第51題"
   },
   {
     "id": "zonghe_b_52",
@@ -10751,14 +10149,7 @@
     "answer_index": 0,
     "explanation": "",
     "source": "zonghe_b#Q52",
-    "source_display": "綜合B 第52題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q052.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第52題"
   },
   {
     "id": "zonghe_b_53",
@@ -10776,14 +10167,7 @@
     "answer_index": 2,
     "explanation": "",
     "source": "zonghe_b#Q53",
-    "source_display": "綜合B 第53題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q053.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第53題"
   },
   {
     "id": "zonghe_b_54",
@@ -10801,14 +10185,7 @@
     "answer_index": 3,
     "explanation": "",
     "source": "zonghe_b#Q54",
-    "source_display": "綜合B 第54題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q054.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第54題"
   },
   {
     "id": "zonghe_b_55",
@@ -10826,14 +10203,7 @@
     "answer_index": 3,
     "explanation": "",
     "source": "zonghe_b#Q55",
-    "source_display": "綜合B 第55題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q055.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第55題"
   },
   {
     "id": "zonghe_b_56",
@@ -11049,14 +10419,7 @@
     "answer_index": 3,
     "explanation": "",
     "source": "zonghe_b#Q67",
-    "source_display": "綜合B 第67題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q067.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第67題"
   },
   {
     "id": "zonghe_b_68",
@@ -11069,7 +10432,7 @@
       "建築物起造人、所\n有權人或使用人",
       "建築師或設計師",
       "施工廠商",
-      "施工廠商及設計師。\n30"
+      "施工廠商及設計師。"
     ],
     "answer_index": 0,
     "explanation": "",
@@ -11077,9 +10440,9 @@
     "source_display": "綜合B 第68題"
   },
   {
-    "id": "zonghe_b_69",
+    "id": "zonghe_b_3069",
     "subject": "室內裝修工程管理",
-    "year": 69,
+    "year": 3069,
     "chapter": "ALL",
     "type": "single",
     "question_text": "關於室內裝修竣工圖的修改，若涉及變更原核准之防火區劃應該如何辦理竣工",
@@ -11091,15 +10454,8 @@
     ],
     "answer_index": 1,
     "explanation": "",
-    "source": "zonghe_b#Q69",
-    "source_display": "綜合B 第69題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q069.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source": "zonghe_b#Q3069",
+    "source_display": "綜合B 第3069題"
   },
   {
     "id": "zonghe_b_70",
@@ -11117,14 +10473,7 @@
     "answer_index": 2,
     "explanation": "",
     "source": "zonghe_b#Q70",
-    "source_display": "綜合B 第70題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q070.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第70題"
   },
   {
     "id": "zonghe_b_71",
@@ -11178,14 +10527,7 @@
     "answer_index": 0,
     "explanation": "",
     "source": "zonghe_b#Q73",
-    "source_display": "綜合B 第73題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q073.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第73題"
   },
   {
     "id": "zonghe_b_74",
@@ -11203,14 +10545,7 @@
     "answer_index": 1,
     "explanation": "",
     "source": "zonghe_b#Q74",
-    "source_display": "綜合B 第74題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q074.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第74題"
   },
   {
     "id": "zonghe_b_75",
@@ -11246,14 +10581,7 @@
     "answer_index": 0,
     "explanation": "",
     "source": "zonghe_b#Q76",
-    "source_display": "綜合B 第76題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q076.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第76題"
   },
   {
     "id": "zonghe_b_77",
@@ -11271,14 +10599,7 @@
     "answer_index": 3,
     "explanation": "",
     "source": "zonghe_b#Q77",
-    "source_display": "綜合B 第77題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q077.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第77題"
   },
   {
     "id": "zonghe_b_78",
@@ -11476,14 +10797,7 @@
     "answer_index": 1,
     "explanation": "",
     "source": "zonghe_b#Q88",
-    "source_display": "綜合B 第88題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_b/Q088.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合B 第88題"
   },
   {
     "id": "zonghe_b_89",
@@ -11640,7 +10954,7 @@
       "1.62 才",
       "16.2 才",
       "3.6 才",
-      "36才。\n98. (13) 有關木材材積計算(不考慮損耗)，下列計算結果何者錯誤？"
+      "36才。"
     ],
     "answer_index": 2,
     "explanation": "",

@@ -1,0 +1,436 @@
+[
+  {
+    "id": "y106_61",
+    "question_type": "multi",
+    "question_text": "營造用各類物材之儲存、堆積及排列，不得儲存於距",
+    "options": [
+      "升降機",
+      "庫門",
+      "窗樘",
+      "廁所 等二\n公尺範圍以內。"
+    ],
+    "correct_answers": [
+      "A",
+      "B"
+    ],
+    "explanation": "",
+    "source": "y106#Q61",
+    "source_display": "106 工程管理學科 第61題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y106_62",
+    "question_type": "multi",
+    "question_text": "依營造安全衛生設施標準規定，雇主使勞工於高度二公尺以上施工架上從事作業時，應供\n給足夠強度之工作臺，工作臺之活動式踏板使用木板時，哪些為正確？",
+    "options": [
+      "木板寬度大於 30\n公分時，厚度應在 5 公分以上",
+      "木板寬度大於 30 公分時，厚度應在 6 公分以上",
+      "木板寬\n度應在 20 公分以上，厚度應在",
+      "木板寬度應在 20 公分以上，厚度應在"
+    ],
+    "correct_answers": [
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y106#Q62",
+    "source_display": "106 工程管理學科 第62題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y106_63",
+    "question_type": "multi",
+    "question_text": "依職業安全衛生設施規則規定，雇主使勞工以捲揚機等吊運物料時之規定下列哪些正確？",
+    "options": [
+      "電源開關箱之設置，應有防漏電裝置",
+      "應設有防止過捲裝置，設置有困難者，得以標示\n代替之",
+      "應避免鄰近電力線作業",
+      "吊運作業中應嚴禁人員進入吊掛物下方及吊鏈、鋼索等\n內側角。"
+    ],
+    "correct_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y106#Q63",
+    "source_display": "106 工程管理學科 第63題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y106_64",
+    "question_type": "multi",
+    "question_text": "依據 CNS11567-A1042 建築製圖規定，有關線條用途種類中，「單點線」之用途為",
+    "options": [
+      "地界\n線",
+      "隱蔽線",
+      "中心線",
+      "建築線。"
+    ],
+    "correct_answers": [
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y106#Q64",
+    "source_display": "106 工程管理學科 第64題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y106_65",
+    "question_type": "multi",
+    "question_text": "玻璃安裝用黏劑成份之彈性材料，凝結後應具有下列何特性？",
+    "options": [
+      "抗壓性",
+      "防剝落力",
+      "伸展\n性",
+      "復原性。"
+    ],
+    "correct_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y106#Q65",
+    "source_display": "106 工程管理學科 第65題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y106_66",
+    "question_type": "multi",
+    "question_text": "下列哪些為室內裝修垂直放樣工具？",
+    "options": [
+      "透明水管",
+      "經緯儀",
+      "垂球",
+      "平板儀。"
+    ],
+    "correct_answers": [
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y106#Q66",
+    "source_display": "106 工程管理學科 第66題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y106_67",
+    "question_type": "multi",
+    "question_text": "木材腐朽為菌類繁殖發育所造成，而菌類繁殖發育需",
+    "options": [
+      "充分的濕度",
+      "充分的營養",
+      "適當的\n溫度",
+      "大量的空氣。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y106#Q67",
+    "source_display": "106 工程管理學科 第67題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y106_68",
+    "question_type": "multi",
+    "question_text": "依 CNS11567 之 A1042 建築設備圖表示法規定，下列哪些屬於消防設備符號？\n106",
+    "options": [
+      "(選項未辨識)",
+      "(選項未辨識)",
+      "(選項未辨識)",
+      "(選項未辨識)"
+    ],
+    "correct_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y106#Q68",
+    "source_display": "106 工程管理學科 第68題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y106_69",
+    "question_type": "multi",
+    "question_text": "下列哪些敘述正確？",
+    "options": [
+      "室內裝修圖說經審核合格，領得許可文件後，因故未能於規定期限\n內完工時，其許可文件不能展延立即失其效力",
+      "室內裝修申請審核之圖說涉及消防安全設\n備變更者，應依消防法規規定辦理，並應於施工後取得當地消防主管機關審核合格之文件",
+      "室內裝修圖說經審核合格，領得許可文件後，因故未能於規定期限內完工時，得申請展\n期",
+      "室內裝修施工從業者應依照核定之室內裝修圖說施工；如於施工前或施工中變更設計\n時，仍應依本辦法申請辦理審核。"
+    ],
+    "correct_answers": [
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y106#Q69",
+    "source_display": "106 工程管理學科 第69題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y106_70",
+    "question_type": "multi",
+    "question_text": "一般附屬於門窗工程之金屬附件統稱為門窗五金(俗稱小五金)，其材料可分為",
+    "options": [
+      "鋁製品",
+      "不銹鋼製品",
+      "銅製品",
+      "鉛製品。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y106#Q70",
+    "source_display": "106 工程管理學科 第70題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y106_71",
+    "question_type": "multi",
+    "question_text": "依職業安全衛生設施規則規定，雇主設置固定式圓盤鋸、帶鋸、手推刨床、截角機等合計\n五台以上時，應指定作業管理人員負責執行下列何事項？",
+    "options": [
+      "指揮木材加工用機械之操作",
+      "檢查運輸用機械及其安全裝置",
+      "發現木材加工用機械及其安全裝置有異時，應即採取必要\n之措施",
+      "作業中，監視送料工具等之使用情形。"
+    ],
+    "correct_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y106#Q71",
+    "source_display": "106 工程管理學科 第71題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y106_72",
+    "question_type": "multi",
+    "question_text": "下列何者為室內裝修木作工程估價單常用計價單位",
+    "options": [
+      "組",
+      "平方公尺",
+      "立方公尺",
+      "坪。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y106#Q72",
+    "source_display": "106 工程管理學科 第72題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y106_73",
+    "question_type": "multi",
+    "question_text": "下列何者為室内裝修工地常用的定線工具？",
+    "options": [
+      "鉛錘",
+      "墨斗",
+      "水平管",
+      "折尺。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y106#Q73",
+    "source_display": "106 工程管理學科 第73題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y106_74",
+    "question_type": "multi",
+    "question_text": "以下是塗裝適用性之條件的敘述，何者正確？",
+    "options": [
+      "好設計是指應選擇能配合塗料及被塗物之\n適當塗裝系",
+      "好塗料是指半成品的塗料品質必須良好，具備各性能皆優秀之塗料",
+      "好管理\n是指應施於充分的塗裝作業管理",
+      "好價格一定能達到圓滿的塗裝結果。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y106#Q74",
+    "source_display": "106 工程管理學科 第74題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y106_75",
+    "question_type": "multi",
+    "question_text": "依屋內線路裝置規則，下列名詞定義，哪些是正確？",
+    "options": [
+      "開關：凡能同時啟斷進屋線各導線\n之開關又名總開關",
+      "絞線：由多股裸線扭絞而成之導線，又名撚線",
+      "安培容量：以安培表\n示之導線容量",
+      "接戶開關：用以「啟斷」、「閉合」電路之裝置。"
+    ],
+    "correct_answers": [
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y106#Q75",
+    "source_display": "106 工程管理學科 第75題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y106_76",
+    "question_type": "multi",
+    "question_text": "一般壁紙因紙質不同而有不同等級，在價格上，國產與進口之壁紙的價格相差很多，為求\n降低成本，而造成品質不佳，品質差的壁紙會有下列何種情形發生？",
+    "options": [
+      "寬幅大小不一，張\n貼時會有誤差",
+      "紙質易變色",
+      "圖案花紋一致無色差",
+      "紙質太薄易呈現出底材之色。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y106#Q76",
+    "source_display": "106 工程管理學科 第76題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y106_77",
+    "question_type": "multi",
+    "question_text": "避難逃生設備之標示設備包括有哪些？",
+    "options": [
+      "避難方向指示燈",
+      "避難指標",
+      "緊急照明燈",
+      "出口\n標示燈。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y106#Q77",
+    "source_display": "106 工程管理學科 第77題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y106_78",
+    "question_type": "multi",
+    "question_text": "地毯的施工方式與保養，哪些是正確",
+    "options": [
+      "底層地面須充分乾燥",
+      "地毯鋪設完成，應即全部加\n以檢查",
+      "依牆壁邊平鋪在地上，邊上要減少 3~6 公分以利合牆邊切割用",
+      "因成本關係，未\n使用釘帶及熱溶膠帶施工時，該處施工以強力膠雙面布膠黏貼。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y106#Q78",
+    "source_display": "106 工程管理學科 第78題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y106_79",
+    "question_type": "multi",
+    "question_text": "一般而言室內裝修工程估價須具備有豐富的工地經驗，對工程的施工法、材料的性質、材\n料的價格以及施工環境的控制，才能有準確的估價，下列敘述何者正確？",
+    "options": [
+      "工程估價可據\n以控制工程造價，降低工程成本",
+      "工程估價可預估工料數量為僱工與採購的依據",
+      "選用適\n當但不同之施工機具會影響工料分析",
+      "工料分析不須依據室內裝修設計圖說。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y106#Q79",
+    "source_display": "106 工程管理學科 第79題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y106_80",
+    "question_type": "multi",
+    "question_text": "以波特蘭水泥製作之混凝土具有高度的",
+    "options": [
+      "耐壓性",
+      "耐火性",
+      "耐延性",
+      "耐久性。\n106"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y106#Q80",
+    "source_display": "106 工程管理學科 第80題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  }
+]

@@ -15,14 +15,7 @@
     "answer_index": 2,
     "explanation": "",
     "source": "zonghe_a#Q1",
-    "source_display": "綜合A 第1題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q001.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第1題"
   },
   {
     "id": "zonghe_a_2",
@@ -40,14 +33,7 @@
     "answer_index": 2,
     "explanation": "",
     "source": "zonghe_a#Q2",
-    "source_display": "綜合A 第2題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q002.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第2題"
   },
   {
     "id": "zonghe_a_3",
@@ -65,14 +51,7 @@
     "answer_index": 2,
     "explanation": "",
     "source": "zonghe_a#Q3",
-    "source_display": "綜合A 第3題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q003.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第3題"
   },
   {
     "id": "zonghe_a_4",
@@ -90,14 +69,7 @@
     "answer_index": 2,
     "explanation": "",
     "source": "zonghe_a#Q4",
-    "source_display": "綜合A 第4題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q004.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第4題"
   },
   {
     "id": "zonghe_a_5",
@@ -115,14 +87,7 @@
     "answer_index": 2,
     "explanation": "",
     "source": "zonghe_a#Q5",
-    "source_display": "綜合A 第5題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q005.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第5題"
   },
   {
     "id": "zonghe_a_6",
@@ -140,14 +105,7 @@
     "answer_index": 1,
     "explanation": "",
     "source": "zonghe_a#Q6",
-    "source_display": "綜合A 第6題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q006.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第6題"
   },
   {
     "id": "zonghe_a_7",
@@ -165,14 +123,7 @@
     "answer_index": 2,
     "explanation": "",
     "source": "zonghe_a#Q7",
-    "source_display": "綜合A 第7題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q007.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第7題"
   },
   {
     "id": "zonghe_a_8",
@@ -190,14 +141,7 @@
     "answer_index": 1,
     "explanation": "",
     "source": "zonghe_a#Q8",
-    "source_display": "綜合A 第8題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q008.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第8題"
   },
   {
     "id": "zonghe_a_9",
@@ -215,14 +159,7 @@
     "answer_index": 2,
     "explanation": "",
     "source": "zonghe_a#Q9",
-    "source_display": "綜合A 第9題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q009.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第9題"
   },
   {
     "id": "zonghe_a_10",
@@ -240,14 +177,7 @@
     "answer_index": 1,
     "explanation": "",
     "source": "zonghe_a#Q10",
-    "source_display": "綜合A 第10題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q010.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第10題"
   },
   {
     "id": "zonghe_a_11",
@@ -265,14 +195,7 @@
     "answer_index": 2,
     "explanation": "",
     "source": "zonghe_a#Q11",
-    "source_display": "綜合A 第11題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q011.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第11題"
   },
   {
     "id": "zonghe_a_12",
@@ -290,14 +213,7 @@
     "answer_index": 0,
     "explanation": "",
     "source": "zonghe_a#Q12",
-    "source_display": "綜合A 第12題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q012.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第12題"
   },
   {
     "id": "zonghe_a_13",
@@ -315,14 +231,7 @@
     "answer_index": 2,
     "explanation": "",
     "source": "zonghe_a#Q13",
-    "source_display": "綜合A 第13題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q013.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第13題"
   },
   {
     "id": "zonghe_a_14",
@@ -340,14 +249,7 @@
     "answer_index": 2,
     "explanation": "",
     "source": "zonghe_a#Q14",
-    "source_display": "綜合A 第14題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q014.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第14題"
   },
   {
     "id": "zonghe_a_15",
@@ -365,14 +267,7 @@
     "answer_index": 3,
     "explanation": "",
     "source": "zonghe_a#Q15",
-    "source_display": "綜合A 第15題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q015.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第15題"
   },
   {
     "id": "zonghe_a_16",
@@ -390,14 +285,7 @@
     "answer_index": 2,
     "explanation": "",
     "source": "zonghe_a#Q16",
-    "source_display": "綜合A 第16題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q016.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第16題"
   },
   {
     "id": "zonghe_a_17",
@@ -415,14 +303,7 @@
     "answer_index": 1,
     "explanation": "",
     "source": "zonghe_a#Q17",
-    "source_display": "綜合A 第17題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q017.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第17題"
   },
   {
     "id": "zonghe_a_18",
@@ -440,14 +321,7 @@
     "answer_index": 2,
     "explanation": "",
     "source": "zonghe_a#Q18",
-    "source_display": "綜合A 第18題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q018.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第18題"
   },
   {
     "id": "zonghe_a_19",
@@ -465,14 +339,7 @@
     "answer_index": 2,
     "explanation": "",
     "source": "zonghe_a#Q19",
-    "source_display": "綜合A 第19題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q019.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第19題"
   },
   {
     "id": "zonghe_a_20",
@@ -490,14 +357,7 @@
     "answer_index": 0,
     "explanation": "",
     "source": "zonghe_a#Q20",
-    "source_display": "綜合A 第20題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q020.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第20題"
   },
   {
     "id": "zonghe_a_21",
@@ -515,14 +375,7 @@
     "answer_index": 0,
     "explanation": "",
     "source": "zonghe_a#Q21",
-    "source_display": "綜合A 第21題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q021.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第21題"
   },
   {
     "id": "zonghe_a_22",
@@ -540,14 +393,7 @@
     "answer_index": 3,
     "explanation": "",
     "source": "zonghe_a#Q22",
-    "source_display": "綜合A 第22題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q022.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第22題"
   },
   {
     "id": "zonghe_a_23",
@@ -565,14 +411,7 @@
     "answer_index": 3,
     "explanation": "",
     "source": "zonghe_a#Q23",
-    "source_display": "綜合A 第23題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q023.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第23題"
   },
   {
     "id": "zonghe_a_24",
@@ -590,14 +429,7 @@
     "answer_index": 2,
     "explanation": "",
     "source": "zonghe_a#Q24",
-    "source_display": "綜合A 第24題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q024.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第24題"
   },
   {
     "id": "zonghe_a_25",
@@ -615,14 +447,7 @@
     "answer_index": 3,
     "explanation": "",
     "source": "zonghe_a#Q25",
-    "source_display": "綜合A 第25題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q025.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第25題"
   },
   {
     "id": "zonghe_a_26",
@@ -640,14 +465,7 @@
     "answer_index": 1,
     "explanation": "",
     "source": "zonghe_a#Q26",
-    "source_display": "綜合A 第26題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q026.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第26題"
   },
   {
     "id": "zonghe_a_27",
@@ -665,14 +483,7 @@
     "answer_index": 2,
     "explanation": "",
     "source": "zonghe_a#Q27",
-    "source_display": "綜合A 第27題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q027.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第27題"
   },
   {
     "id": "zonghe_a_28",
@@ -690,14 +501,7 @@
     "answer_index": 0,
     "explanation": "",
     "source": "zonghe_a#Q28",
-    "source_display": "綜合A 第28題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q028.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第28題"
   },
   {
     "id": "zonghe_a_29",
@@ -715,14 +519,7 @@
     "answer_index": 3,
     "explanation": "",
     "source": "zonghe_a#Q29",
-    "source_display": "綜合A 第29題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q029.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第29題"
   },
   {
     "id": "zonghe_a_30",
@@ -740,14 +537,7 @@
     "answer_index": 2,
     "explanation": "",
     "source": "zonghe_a#Q30",
-    "source_display": "綜合A 第30題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q030.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第30題"
   },
   {
     "id": "zonghe_a_31",
@@ -765,14 +555,7 @@
     "answer_index": 1,
     "explanation": "",
     "source": "zonghe_a#Q31",
-    "source_display": "綜合A 第31題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q031.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第31題"
   },
   {
     "id": "zonghe_a_32",
@@ -790,14 +573,7 @@
     "answer_index": 2,
     "explanation": "",
     "source": "zonghe_a#Q32",
-    "source_display": "綜合A 第32題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q032.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第32題"
   },
   {
     "id": "zonghe_a_33",
@@ -815,14 +591,7 @@
     "answer_index": 1,
     "explanation": "",
     "source": "zonghe_a#Q33",
-    "source_display": "綜合A 第33題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q033.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第33題"
   },
   {
     "id": "zonghe_a_34",
@@ -840,14 +609,7 @@
     "answer_index": 2,
     "explanation": "",
     "source": "zonghe_a#Q34",
-    "source_display": "綜合A 第34題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q034.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第34題"
   },
   {
     "id": "zonghe_a_35",
@@ -865,14 +627,7 @@
     "answer_index": 0,
     "explanation": "",
     "source": "zonghe_a#Q35",
-    "source_display": "綜合A 第35題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q035.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第35題"
   },
   {
     "id": "zonghe_a_36",
@@ -926,14 +681,7 @@
     "answer_index": 2,
     "explanation": "",
     "source": "zonghe_a#Q38",
-    "source_display": "綜合A 第38題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q038.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第38題"
   },
   {
     "id": "zonghe_a_39",
@@ -951,14 +699,7 @@
     "answer_index": 3,
     "explanation": "",
     "source": "zonghe_a#Q39",
-    "source_display": "綜合A 第39題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q039.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第39題"
   },
   {
     "id": "zonghe_a_40",
@@ -1012,14 +753,7 @@
     "answer_index": 2,
     "explanation": "",
     "source": "zonghe_a#Q42",
-    "source_display": "綜合A 第42題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q042.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第42題"
   },
   {
     "id": "zonghe_a_43",
@@ -1037,14 +771,7 @@
     "answer_index": 1,
     "explanation": "",
     "source": "zonghe_a#Q43",
-    "source_display": "綜合A 第43題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q043.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第43題"
   },
   {
     "id": "zonghe_a_44",
@@ -1062,14 +789,7 @@
     "answer_index": 1,
     "explanation": "",
     "source": "zonghe_a#Q44",
-    "source_display": "綜合A 第44題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q044.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第44題"
   },
   {
     "id": "zonghe_a_45",
@@ -1087,14 +807,7 @@
     "answer_index": 3,
     "explanation": "",
     "source": "zonghe_a#Q45",
-    "source_display": "綜合A 第45題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q045.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第45題"
   },
   {
     "id": "zonghe_a_46",
@@ -1112,14 +825,7 @@
     "answer_index": 1,
     "explanation": "",
     "source": "zonghe_a#Q46",
-    "source_display": "綜合A 第46題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q046.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第46題"
   },
   {
     "id": "zonghe_a_47",
@@ -1137,14 +843,7 @@
     "answer_index": 2,
     "explanation": "",
     "source": "zonghe_a#Q47",
-    "source_display": "綜合A 第47題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q047.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第47題"
   },
   {
     "id": "zonghe_a_48",
@@ -1162,14 +861,7 @@
     "answer_index": 2,
     "explanation": "",
     "source": "zonghe_a#Q48",
-    "source_display": "綜合A 第48題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q048.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第48題"
   },
   {
     "id": "zonghe_a_49",
@@ -1187,14 +879,7 @@
     "answer_index": 1,
     "explanation": "",
     "source": "zonghe_a#Q49",
-    "source_display": "綜合A 第49題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q049.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第49題"
   },
   {
     "id": "zonghe_a_50",
@@ -1212,14 +897,7 @@
     "answer_index": 2,
     "explanation": "",
     "source": "zonghe_a#Q50",
-    "source_display": "綜合A 第50題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q050.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第50題"
   },
   {
     "id": "zonghe_a_51",
@@ -1232,19 +910,12 @@
       "油漆",
       "敲平",
       "粉刷",
-      "不須加工 。\n52. (124) 依 CNS11567 之 A1042 建築圖符號及圖例規定，下列哪些屬於材料、構\n造圖例？"
+      "不須加工 。"
     ],
     "answer_index": 2,
     "explanation": "",
     "source": "zonghe_a#Q51",
-    "source_display": "綜合A 第51題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q051.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第51題"
   },
   {
     "id": "zonghe_a_1",
@@ -1424,14 +1095,7 @@
     "answer_index": 2,
     "explanation": "",
     "source": "zonghe_a#Q10",
-    "source_display": "綜合A 第10題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q010.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第10題"
   },
   {
     "id": "zonghe_a_11",
@@ -1467,14 +1131,7 @@
     "answer_index": 1,
     "explanation": "",
     "source": "zonghe_a#Q12",
-    "source_display": "綜合A 第12題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q012.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第12題"
   },
   {
     "id": "zonghe_a_13",
@@ -1546,14 +1203,7 @@
     "answer_index": 1,
     "explanation": "",
     "source": "zonghe_a#Q16",
-    "source_display": "綜合A 第16題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q016.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第16題"
   },
   {
     "id": "zonghe_a_17",
@@ -1571,14 +1221,7 @@
     "answer_index": 0,
     "explanation": "",
     "source": "zonghe_a#Q17",
-    "source_display": "綜合A 第17題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q017.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第17題"
   },
   {
     "id": "zonghe_a_18",
@@ -1609,19 +1252,12 @@
       "中心線",
       "正確線",
       "錯誤線",
-      "轉移線 。\n20. (13) 下列哪些為可直接量測水平的工具？"
+      "轉移線 。"
     ],
     "answer_index": 0,
     "explanation": "",
     "source": "zonghe_a#Q19",
-    "source_display": "綜合A 第19題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q019.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第19題"
   },
   {
     "id": "zonghe_a_1",
@@ -1747,14 +1383,7 @@
     "answer_index": 0,
     "explanation": "",
     "source": "zonghe_a#Q7",
-    "source_display": "綜合A 第7題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q007.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第7題"
   },
   {
     "id": "zonghe_a_8",
@@ -1772,14 +1401,7 @@
     "answer_index": 0,
     "explanation": "",
     "source": "zonghe_a#Q8",
-    "source_display": "綜合A 第8題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q008.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第8題"
   },
   {
     "id": "zonghe_a_9",
@@ -1797,14 +1419,7 @@
     "answer_index": 1,
     "explanation": "",
     "source": "zonghe_a#Q9",
-    "source_display": "綜合A 第9題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q009.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第9題"
   },
   {
     "id": "zonghe_a_10",
@@ -1822,14 +1437,7 @@
     "answer_index": 3,
     "explanation": "",
     "source": "zonghe_a#Q10",
-    "source_display": "綜合A 第10題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q010.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第10題"
   },
   {
     "id": "zonghe_a_11",
@@ -2225,14 +1833,7 @@
     "answer_index": 1,
     "explanation": "",
     "source": "zonghe_a#Q32",
-    "source_display": "綜合A 第32題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q032.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第32題"
   },
   {
     "id": "zonghe_a_33",
@@ -2394,14 +1995,7 @@
     "answer_index": 1,
     "explanation": "",
     "source": "zonghe_a#Q41",
-    "source_display": "綜合A 第41題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q041.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第41題"
   },
   {
     "id": "zonghe_a_42",
@@ -2455,14 +2049,7 @@
     "answer_index": 0,
     "explanation": "",
     "source": "zonghe_a#Q44",
-    "source_display": "綜合A 第44題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q044.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第44題"
   },
   {
     "id": "zonghe_a_45",
@@ -2498,14 +2085,7 @@
     "answer_index": 1,
     "explanation": "",
     "source": "zonghe_a#Q46",
-    "source_display": "綜合A 第46題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q046.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第46題"
   },
   {
     "id": "zonghe_a_47",
@@ -2811,14 +2391,7 @@
     "answer_index": 1,
     "explanation": "",
     "source": "zonghe_a#Q63",
-    "source_display": "綜合A 第63題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q063.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第63題"
   },
   {
     "id": "zonghe_a_64",
@@ -2890,14 +2463,7 @@
     "answer_index": 2,
     "explanation": "",
     "source": "zonghe_a#Q67",
-    "source_display": "綜合A 第67題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q067.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第67題"
   },
   {
     "id": "zonghe_a_68",
@@ -3810,7 +3376,7 @@
       "張\n貼壁布",
       "牆面油漆",
       "施作家具",
-      "拆除室內分間牆 。\n119. (24) 室內裝修施工由非專業技術人員從事室內裝修施工業務時，當地主管建\n築機關查明屬實後，將予以下列何種處分？"
+      "拆除室內分間牆 。"
     ],
     "answer_index": 3,
     "explanation": "",
@@ -3851,14 +3417,7 @@
     "answer_index": 1,
     "explanation": "",
     "source": "zonghe_a#Q2",
-    "source_display": "綜合A 第2題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q002.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第2題"
   },
   {
     "id": "zonghe_a_3",
@@ -3948,14 +3507,7 @@
     "answer_index": 3,
     "explanation": "",
     "source": "zonghe_a#Q7",
-    "source_display": "綜合A 第7題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q007.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第7題"
   },
   {
     "id": "zonghe_a_8",
@@ -3973,14 +3525,7 @@
     "answer_index": 2,
     "explanation": "",
     "source": "zonghe_a#Q8",
-    "source_display": "綜合A 第8題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q008.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第8題"
   },
   {
     "id": "zonghe_a_9",
@@ -4034,14 +3579,7 @@
     "answer_index": 1,
     "explanation": "",
     "source": "zonghe_a#Q11",
-    "source_display": "綜合A 第11題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q011.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第11題"
   },
   {
     "id": "zonghe_a_12",
@@ -4180,7 +3718,7 @@
       "電動工具使用",
       "貼磁磚",
       "清理搬運",
-      "框架拆除 。\n20. (123) 依"
+      "框架拆除 。"
     ],
     "answer_index": 0,
     "explanation": "",
@@ -4563,14 +4101,7 @@
     "answer_index": 1,
     "explanation": "",
     "source": "zonghe_a#Q21",
-    "source_display": "綜合A 第21題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q021.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第21題"
   },
   {
     "id": "zonghe_a_22",
@@ -4727,7 +4258,7 @@
       "鋼尺",
       "游標卡尺",
       "自由角\n規",
-      "捲尺 。\n31. (23) 下列施工機(器)具之功能，哪些為不正確？"
+      "捲尺 。"
     ],
     "answer_index": 3,
     "explanation": "",
@@ -6118,14 +5649,7 @@
     "answer_index": 0,
     "explanation": "",
     "source": "zonghe_a#Q77",
-    "source_display": "綜合A 第77題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q077.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第77題"
   },
   {
     "id": "zonghe_a_78",
@@ -7673,14 +7197,7 @@
     "answer_index": 0,
     "explanation": "",
     "source": "zonghe_a#Q163",
-    "source_display": "綜合A 第163題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q163.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第163題"
   },
   {
     "id": "zonghe_a_164",
@@ -7698,14 +7215,7 @@
     "answer_index": 2,
     "explanation": "",
     "source": "zonghe_a#Q164",
-    "source_display": "綜合A 第164題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q164.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第164題"
   },
   {
     "id": "zonghe_a_165",
@@ -8402,7 +7912,7 @@
       "烏心石",
       "杉木",
       "白木",
-      "松木 。\n204. (123) 為 達到塗裝之目的，充分發揮塗裝效果，應具備以下哪些條件，才能有\n圓滿的塗裝結果？"
+      "松木 。"
     ],
     "answer_index": 2,
     "explanation": "",
@@ -9073,14 +8583,7 @@
     "answer_index": 0,
     "explanation": "",
     "source": "zonghe_a#Q37",
-    "source_display": "綜合A 第37題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q037.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第37題"
   },
   {
     "id": "zonghe_a_38",
@@ -9098,14 +8601,7 @@
     "answer_index": 2,
     "explanation": "",
     "source": "zonghe_a#Q38",
-    "source_display": "綜合A 第38題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q038.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第38題"
   },
   {
     "id": "zonghe_a_39",
@@ -9123,14 +8619,7 @@
     "answer_index": 3,
     "explanation": "",
     "source": "zonghe_a#Q39",
-    "source_display": "綜合A 第39題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q039.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第39題"
   },
   {
     "id": "zonghe_a_40",
@@ -9148,14 +8637,7 @@
     "answer_index": 3,
     "explanation": "",
     "source": "zonghe_a#Q40",
-    "source_display": "綜合A 第40題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q040.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第40題"
   },
   {
     "id": "zonghe_a_41",
@@ -9317,14 +8799,7 @@
     "answer_index": 3,
     "explanation": "",
     "source": "zonghe_a#Q49",
-    "source_display": "綜合A 第49題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q049.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第49題"
   },
   {
     "id": "zonghe_a_50",
@@ -9360,14 +8835,7 @@
     "answer_index": 1,
     "explanation": "",
     "source": "zonghe_a#Q51",
-    "source_display": "綜合A 第51題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q051.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第51題"
   },
   {
     "id": "zonghe_a_52",
@@ -9385,14 +8853,7 @@
     "answer_index": 2,
     "explanation": "",
     "source": "zonghe_a#Q52",
-    "source_display": "綜合A 第52題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q052.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第52題"
   },
   {
     "id": "zonghe_a_53",
@@ -9446,14 +8907,7 @@
     "answer_index": 0,
     "explanation": "",
     "source": "zonghe_a#Q55",
-    "source_display": "綜合A 第55題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q055.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第55題"
   },
   {
     "id": "zonghe_a_56",
@@ -9471,14 +8925,7 @@
     "answer_index": 1,
     "explanation": "",
     "source": "zonghe_a#Q56",
-    "source_display": "綜合A 第56題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q056.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第56題"
   },
   {
     "id": "zonghe_a_57",
@@ -9514,14 +8961,7 @@
     "answer_index": 0,
     "explanation": "",
     "source": "zonghe_a#Q58",
-    "source_display": "綜合A 第58題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q058.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第58題"
   },
   {
     "id": "zonghe_a_59",
@@ -9539,14 +8979,7 @@
     "answer_index": 3,
     "explanation": "",
     "source": "zonghe_a#Q59",
-    "source_display": "綜合A 第59題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q059.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第59題"
   },
   {
     "id": "zonghe_a_60",
@@ -9690,14 +9123,7 @@
     "answer_index": 1,
     "explanation": "",
     "source": "zonghe_a#Q67",
-    "source_display": "綜合A 第67題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/zonghe_a/Q067.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "綜合A 第67題"
   },
   {
     "id": "zonghe_a_68",
@@ -9854,7 +9280,7 @@
       "1.62 才",
       "16.2 才",
       "3.6 才",
-      "36 才 。\n77. (13) 有關木材材積計算(不考慮損耗)，下列計算結果何者錯誤？"
+      "36 才 。"
     ],
     "answer_index": 2,
     "explanation": "",

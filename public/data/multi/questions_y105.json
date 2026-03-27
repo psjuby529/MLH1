@@ -1,0 +1,435 @@
+[
+  {
+    "id": "y105_61",
+    "question_type": "multi",
+    "question_text": "依機械器具安全防護標準規定，下列何項為正確？",
+    "options": [
+      "圓盤鋸應設置圓盤鋸之鋸齒接觸預防\n裝置",
+      "圓盤鋸應設置圓盤鋸之正撥預防裝置",
+      "反撥預防裝置之撐縫片及鋸齒接觸預防裝置\n經常使包含其縱斷面之縱向中心線而和其側面平行之面，與包含圓鋸片縱斷面之縱向中心\n線而和其側面平行之面，位於同一平面上",
+      "木材加工用圓盤鋸，使撐縫片與其面對之圓鋸\n片鋸齒前端之間隙在 10 毫米以下。"
+    ],
+    "correct_answers": [
+      "A",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y105#Q61",
+    "source_display": "105 工程管理學科 第61題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y105_62",
+    "question_type": "multi",
+    "question_text": "依中華民國國家標準 CNS11567 之 A1042 建築設備圖表示法規定，下列哪些符號為電信、\n電鈴、電視設備符號？① ② ③ ④ 。",
+    "options": [
+      "(選項未辨識)",
+      "(選項未辨識)",
+      "(選項未辨識)",
+      "(選項未辨識)"
+    ],
+    "correct_answers": [
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y105#Q62",
+    "source_display": "105 工程管理學科 第62題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y105_63",
+    "question_type": "multi",
+    "question_text": "下列何種工程會影響輕鋼架天花工程進場施做時程？",
+    "options": [
+      "天花板內空調配管",
+      "天花板內水電\n配管",
+      "窗簾盒安裝",
+      "室內門片安裝。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y105#Q63",
+    "source_display": "105 工程管理學科 第63題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y105_64",
+    "question_type": "multi",
+    "question_text": "塗料與塗裝的管理關係到塗裝效果，下列敘述何者正確？",
+    "options": [
+      "塗裝效果不受塗裝環境影響",
+      "塗料經塗裝於被塗物表面再經過充分乾燥固化成固狀薄膜",
+      "在塗裝過程中塗料須具有適當\n的流動性，由液狀轉移為固體相-即塗料變化為塗膜的過程",
+      "塗裝效果受塗裝施工影響。"
+    ],
+    "correct_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y105#Q64",
+    "source_display": "105 工程管理學科 第64題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y105_65",
+    "question_type": "multi",
+    "question_text": "下列有關輕鋼架天花工程敘述，何者正確？",
+    "options": [
+      "輕鋼架天花在高程放樣後，應先安裝吊筋再\n釘收邊條",
+      "應戴手套進行安置板材作業，主要目的係避免造成板材髒污",
+      "天花板內水電配\n管不會影響輕鋼架天花工程進場施做時程",
+      "用於支撐主架的吊筋，最大容許間距不宜超過\n120 公分。"
+    ],
+    "correct_answers": [
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y105#Q65",
+    "source_display": "105 工程管理學科 第65題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y105_66",
+    "question_type": "multi",
+    "question_text": "貫穿防火區劃牆壁或樓地板之",
+    "options": [
+      "電力管線",
+      "通訊管線",
+      "牆面線",
+      "給排水管線 ，與貫穿部\n位合成之構造，應具一小時以上之防火時效。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y105#Q66",
+    "source_display": "105 工程管理學科 第66題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y105_67",
+    "question_type": "multi",
+    "question_text": "有關室內裝修一般常見的魯班尺上半部為文公尺，下列哪些為用於陽宅、神位、佛具尺寸\n之吉凶的度量衡之文字？",
+    "options": [
+      "財",
+      "離",
+      "本",
+      "苦。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y105#Q67",
+    "source_display": "105 工程管理學科 第67題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y105_68",
+    "question_type": "multi",
+    "question_text": "依施工規範地毯準備工作，哪些是正確",
+    "options": [
+      "RC 樓地板面需有 30 天以上之乾燥時間，始可舖\n設地毯",
+      "地面有裂縫、凹凸不平、起沙或脫殼現象，應先處理平整",
+      "水電、空調及管線等\n隱蔽部分，檢驗完成後，方可開始各種地毯舖裝工作",
+      "將地毯全面展開於室溫，並保持至\n少 12 小時以上。"
+    ],
+    "correct_answers": [
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y105#Q68",
+    "source_display": "105 工程管理學科 第68題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y105_69",
+    "question_type": "multi",
+    "question_text": "丈量室内裝修工地現場柱、樑尺寸的目的，下列敘述何者正確？",
+    "options": [
+      "作為分間牆配置的參考\n105",
+      "了解建築物結構配置情形",
+      "掌握空間設計的影響因素",
+      "計算拆除數量的依據。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y105#Q69",
+    "source_display": "105 工程管理學科 第69題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y105_70",
+    "question_type": "multi",
+    "question_text": "室內裝修施工由非專業技術人員從事室內裝修施工業務時，當地主管建築機關查明屬實\n後，將予以下列何種處分？",
+    "options": [
+      "告誡",
+      "註銷登記證",
+      "警告",
+      "六個月以上一年以下停止室內裝\n修業務。"
+    ],
+    "correct_answers": [
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y105#Q70",
+    "source_display": "105 工程管理學科 第70題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y105_71",
+    "question_type": "multi",
+    "question_text": "依營造安全衛生設施標準規定，施工中對於施工場所材料之堆放，應置放於穩固、平坦之\n處，整齊緊靠堆置及下列哪些為正確？",
+    "options": [
+      "磚堆置高度不得超過 1.8 公尺",
+      "管料之置放，避\n免在電線上方或下方",
+      "瓦堆置高度不得超過 2 公尺",
+      "材料儲存位置鄰近開口部分時，應距\n離該開口部分"
+    ],
+    "correct_answers": [
+      "A",
+      "B"
+    ],
+    "explanation": "",
+    "source": "y105#Q71",
+    "source_display": "105 工程管理學科 第71題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y105_72",
+    "question_type": "multi",
+    "question_text": "下列何者屬於室內裝修工程日報表的主要項目？",
+    "options": [
+      "工程進度",
+      "重要事項紀錄",
+      "施工項目完\n成數量之金額計算",
+      "施工取樣試驗。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y105#Q72",
+    "source_display": "105 工程管理學科 第72題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y105_73",
+    "question_type": "multi",
+    "question_text": "依「職業安全衛生管理辦法」規定，下列敘述何者正確？",
+    "options": [
+      "雇主應透過規劃、實施、檢查\n及改進等管理功能，實現安全衛生管理目標，提升安全衛生管理水準",
+      "雇主應依其事業之\n規模、性質，設置安全衛生組織及人員",
+      "雇主不必改進管理功能即可實現安全衛生管理目\n標，提升安全衛生管理水準",
+      "雇主應參照中央主管機關公告之相關指引，建立"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y105#Q73",
+    "source_display": "105 工程管理學科 第73題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y105_74",
+    "question_type": "multi",
+    "question_text": "下列有關輕隔間牆工程的敘述何者正確？",
+    "options": [
+      "牆體內的管線應在骨架尚未施做前即先配好",
+      "上座板（槽鐵）之放樣應以鉛垂或雷射為之，使與下座板（槽鐵）確實在同一垂直面",
+      "於\n地板面進行下座板（槽鐵）之放樣",
+      "放樣作業的目的在確定牆體正確位置。"
+    ],
+    "correct_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y105#Q74",
+    "source_display": "105 工程管理學科 第74題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y105_75",
+    "question_type": "multi",
+    "question_text": "室內裝修工程日報表，下列何者屬於應填報的內容",
+    "options": [
+      "重要施工項目完成數量",
+      "出工人數",
+      "供給材料使用數量",
+      "車輛駕駛員性別。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y105#Q75",
+    "source_display": "105 工程管理學科 第75題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y105_76",
+    "question_type": "multi",
+    "question_text": "依屋內線路裝置規則，下列名詞定義，哪些是正確？",
+    "options": [
+      "幹線：用以「啟斷」、「閉合」電\n路之裝置",
+      "實心線：由單股裸線所構成之導線，又名單線",
+      "管子接頭：用以連接專線管之\n配件",
+      "開關：由總開關接至分路開關之線路。"
+    ],
+    "correct_answers": [
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y105#Q76",
+    "source_display": "105 工程管理學科 第76題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y105_77",
+    "question_type": "multi",
+    "question_text": "適合塗裝作業，下列敘述何者正確？",
+    "options": [
+      "每層塗膜未經充分乾燥即可繼續再施塗下一層",
+      "塗\n裝場所應保持清潔，必要時應採取無塵狀態場所",
+      "塗裝作業場所應保持新鮮空氣流通",
+      "應\n控制適當的溼度，避免多濕時施塗。"
+    ],
+    "correct_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y105#Q77",
+    "source_display": "105 工程管理學科 第77題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y105_78",
+    "question_type": "multi",
+    "question_text": "依屋內線路裝置規則，電燈、電具及插座分路，對地電壓不得超過一五○伏，惟符合規定\n者對地電壓得超過一五○伏，但不得超過三○○伏，哪些是正確？",
+    "options": [
+      "燈具上未裝操作開闢",
+      "燈具裝置距離地面不小於",
+      "電具及插座分路加裝漏電斷路器或採用一種有極性\n之接地型插頭及插座",
+      "放電燈具之安定器，應永久固定於燈具內或適當處所。"
+    ],
+    "correct_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y105#Q78",
+    "source_display": "105 工程管理學科 第78題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y105_79",
+    "question_type": "multi",
+    "question_text": "依中華民國國家標準 CNS11567 之 A1042 建築設備圖表示法規定，下列電器設備符號表示\n名稱哪些為正確？",
+    "options": [
+      "表示接地",
+      "表示地板線槽地線盒",
+      "表示風扇出線\n口",
+      "表示電力分配電盤。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y105#Q79",
+    "source_display": "105 工程管理學科 第79題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y105_80",
+    "question_type": "multi",
+    "question_text": "圓盤鋸之材料、安裝方法、緣盤應符合下列哪些規定？",
+    "options": [
+      "使用於緣盤之固定用螺桿、螺帽\n等施有防鬆措施，以防止制動器制動引起鬆動",
+      "圓鋸軸之夾緊螺栓，應為不可任意旋動者",
+      "緣盤之直徑在固定側應大於移動側",
+      "固定側緣盤以收縮配合、壓入等方法或使用銷、螺\n栓等方式固定於圓鋸軸。\n105"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y105#Q80",
+    "source_display": "105 工程管理學科 第80題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  }
+]

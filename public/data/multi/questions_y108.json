@@ -1,0 +1,431 @@
+[
+  {
+    "id": "y108_61",
+    "question_type": "multi",
+    "question_text": "室內裝修施工中，直轄市、縣（市）主管建築機關認有必要時，得隨時派員查驗，發現與核定裝修\n圖說不符者，應以書面通知下列何人停工或修改？",
+    "options": [
+      "管理人",
+      "室內裝修從業者",
+      "起造人",
+      "使用人。"
+    ],
+    "correct_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y108#Q61",
+    "source_display": "108 工程管理學科 第61題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y108_62",
+    "question_type": "multi",
+    "question_text": "依施工規範規定，兩塊地毯之接縫接合時，哪些是正確",
+    "options": [
+      "地毯正面之箭頭應同向裁剪及舖設接合",
+      "有圖案之地毯接合處應完全密合",
+      "避免色差",
+      "接合部位應設於門口部位，以及光線易照射之位置。"
+    ],
+    "correct_answers": [
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y108#Q62",
+    "source_display": "108 工程管理學科 第62題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y108_63",
+    "question_type": "multi",
+    "question_text": "滅火設備種類包括有哪些？",
+    "options": [
+      "室內消防栓",
+      "自動灑水設備",
+      "消防專用蓄水池",
+      "消防砂。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y108#Q63",
+    "source_display": "108 工程管理學科 第63題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y108_64",
+    "question_type": "multi",
+    "question_text": "依中華民國國家標準 CNS11567 之 A1042 建築設備圖表示法規定，下列哪些符號為電信、電鈴、電\n視設備符號？① ② ③ ④ 。",
+    "options": [
+      "(選項未辨識)",
+      "(選項未辨識)",
+      "(選項未辨識)",
+      "(選項未辨識)"
+    ],
+    "correct_answers": [
+      "A",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y108#Q64",
+    "source_display": "108 工程管理學科 第64題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y108_65",
+    "question_type": "multi",
+    "question_text": "依 CNS11567 之 A1042 建築圖符號及圖例規定，下列哪些屬於材料、構造圖例？\n① ② ③ ④ 。",
+    "options": [
+      "(選項未辨識)",
+      "(選項未辨識)",
+      "(選項未辨識)",
+      "(選項未辨識)"
+    ],
+    "correct_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y108#Q65",
+    "source_display": "108 工程管理學科 第65題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y108_66",
+    "question_type": "multi",
+    "question_text": "下列圓盤鋸說明哪些是正確？",
+    "options": [
+      "將圓盤鋸的集塵系統可拆除部份拆除之後，人員無法經由集塵系統\n的開口部份接觸到圓盤鋸的可動部位",
+      "圓盤鋸導板平面下方應裝置固定式護罩；導板平面上方應裝\n置移動式護罩，以防止人員與鋸片或圓盤鋸的可動件接觸",
+      "除了圓盤鋸使用或正常操作時需要的開\n口之外，圓盤鋸外部的封閉部份不可以有不必要的開口，以避免人員接觸導電部份",
+      "圓盤鋸應配置\n安全護罩裝置，且此安全裝置應使用特定工具時無法拆除。"
+    ],
+    "correct_answers": [
+      "A",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y108#Q66",
+    "source_display": "108 工程管理學科 第66題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y108_67",
+    "question_type": "multi",
+    "question_text": "依機械器具安全防護標準規定，手推刨床應於明顯易見處標示何事項",
+    "options": [
+      "製造年月",
+      "額定電壓",
+      "有效\n刨削深度",
+      "製造者名稱。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y108#Q67",
+    "source_display": "108 工程管理學科 第67題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y108_68",
+    "question_type": "multi",
+    "question_text": "依營造安全衛生設施標準規定，雇主使勞工於高度二公尺以上施工架上從事作業時，應供給足夠強\n度之工作臺，工作臺之活動式踏板使用木板時，哪些為正確？",
+    "options": [
+      "木板寬度大於 30 公分時，厚度應\n在 5 公分以上",
+      "木板寬度應在 20 公分以上，厚度應在",
+      "木板寬度應在 20 公分以上，\n厚度應在",
+      "木板寬度大於 30 公分時，厚度應在 6 公分以上。\n108"
+    ],
+    "correct_answers": [
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y108#Q68",
+    "source_display": "108 工程管理學科 第68題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y108_69",
+    "question_type": "multi",
+    "question_text": "為達成塗裝預期效果，應注意塗裝材料之選擇及確認，下列敘述何者正確？",
+    "options": [
+      "塗裝材料若 CNS 有\n制定者，原則上應使用符合 CNS 標準者",
+      "塗裝材料應將其標籤完整保持，可在已開罐狀態下搬入\n塗裝現場",
+      "特別記載之說明書上無指示時，應預先對其製造業者、製品等徵求有關人員的確認",
+      "塗\n裝材料應接受有關人員的確認其名稱及種別、製造年月日及數量。"
+    ],
+    "correct_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y108#Q69",
+    "source_display": "108 工程管理學科 第69題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y108_70",
+    "question_type": "multi",
+    "question_text": "下列哪些屬於建築物室內裝修管理辦法規定；得檢附經依法登記開業之建築師或室內裝修業專業設\n計技術人員簽章負責之室內裝修圖說向當地主管建築機關或審查機構申報施工，經主管建築機關核\n給期限後，准予進行施工？",
+    "options": [
+      "十一層以上樓層，室內裝修之樓地板面積在二百平方公尺以下者",
+      "其\n申請範圍用途為住宅",
+      "其申請範圍用途為小型商店",
+      "申請樓層之樓地板面積符合十層以下樓層及\n地下室各層，室內裝修之樓地板面積在三百平方公尺以下者。"
+    ],
+    "correct_answers": [
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y108#Q70",
+    "source_display": "108 工程管理學科 第70題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y108_71",
+    "question_type": "multi",
+    "question_text": "夾層玻璃之敘述，下列哪些為不正確？",
+    "options": [
+      "可製成平面不能製成曲面的複合玻璃製品",
+      "經加熱、加\n壓、黏合而成",
+      "夾層玻璃也屬安全玻璃",
+      "由單片平板玻璃兩側嵌夾透明塑料薄襯片製成。"
+    ],
+    "correct_answers": [
+      "A",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y108#Q71",
+    "source_display": "108 工程管理學科 第71題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y108_72",
+    "question_type": "multi",
+    "question_text": "以下是塗裝適用性之條件的敘述，何者正確？",
+    "options": [
+      "好價格一定能達到圓滿的塗裝結果",
+      "好設計是指應\n選擇能配合塗料及被塗物之適當塗裝系",
+      "好管理是指應施於充分的塗裝作業管理",
+      "好塗料是指半\n成品的塗料品質必須良好，具備各性能皆優秀之塗料。"
+    ],
+    "correct_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y108#Q72",
+    "source_display": "108 工程管理學科 第72題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y108_73",
+    "question_type": "multi",
+    "question_text": "依營造安全衛生設施標準規定，施工中對於袋裝材料之儲存，為保持其穩定，下列哪些為正確？",
+    "options": [
+      "6 層以上部分應向內退縮，以維持穩定",
+      "至少每 3 層交錯一次方向",
+      "堆放高度不得超過 10 層",
+      "交錯\n方向易引起材料變質者，得以不影響穩定之方式堆放。"
+    ],
+    "correct_answers": [
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y108#Q73",
+    "source_display": "108 工程管理學科 第73題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y108_74",
+    "question_type": "multi",
+    "question_text": "玻璃之熱性質，下列哪些為不正確？",
+    "options": [
+      "熱膨脹係數低",
+      "玻璃局部迅速加熱，則產生不均勻膨脹，由\n於抗拉強度小，將瞬間破裂",
+      "熱傳導率小",
+      "比熱小。"
+    ],
+    "correct_answers": [
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y108#Q74",
+    "source_display": "108 工程管理學科 第74題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y108_75",
+    "question_type": "multi",
+    "question_text": "下列何者為裝修工程中木材之優點",
+    "options": [
+      "對稀鹽和稀酸，無抵抗性",
+      "對熱、電之傳導性大",
+      "能吸收衝擊\n與震動",
+      "加工容易，可縮短工程施工期限。"
+    ],
+    "correct_answers": [
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y108#Q75",
+    "source_display": "108 工程管理學科 第75題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y108_76",
+    "question_type": "multi",
+    "question_text": "紅磚以粘土製成磚胚，陰乾後置於窯中烘燒，請選出正確烘燒時間及溫度？",
+    "options": [
+      "溫度為攝氏 800 度~\n1000 度，然後密閉窯門放置數日，使其徐徐冷卻即成紅磚",
+      "烘燒時間長約 12~20 小時",
+      "烘燒時間\n長約 10~20 小時",
+      "溫度為攝氏 1000 度～1200 度。"
+    ],
+    "correct_answers": [
+      "A",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y108#Q76",
+    "source_display": "108 工程管理學科 第76題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y108_77",
+    "question_type": "multi",
+    "question_text": "下列哪些非屬透明水管測量水平之原理？",
+    "options": [
+      "連通管原理",
+      "萬有引力定律",
+      "虹吸管原理",
+      "畢氏定理。"
+    ],
+    "correct_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y108#Q77",
+    "source_display": "108 工程管理學科 第77題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y108_78",
+    "question_type": "multi",
+    "question_text": "室內裝修工程完竣後，應由哪些人向原申請審查機關或機構申請竣工查驗合格後，向直轄市、縣（市）\n主管建築機關申請核發室內裝修合格證明？",
+    "options": [
+      "所有權人或使用人",
+      "建築物起造人",
+      "建築物承造人",
+      "室內裝修從業者。"
+    ],
+    "correct_answers": [
+      "A",
+      "B"
+    ],
+    "explanation": "",
+    "source": "y108#Q78",
+    "source_display": "108 工程管理學科 第78題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y108_79",
+    "question_type": "multi",
+    "question_text": "混凝土是由下列哪些材料構成？",
+    "options": [
+      "波特蘭水泥",
+      "碎石",
+      "砂",
+      "碎磚拌合成強而耐用的建材。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y108#Q79",
+    "source_display": "108 工程管理學科 第79題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y108_80",
+    "question_type": "multi",
+    "question_text": "下列哪些為室內裝修施工時，進場施工前丈量現況柱樑尺寸的目的？",
+    "options": [
+      "確認與設計圖說是否相符",
+      "為分間牆放樣之依據",
+      "為計算樑柱敲除之數量",
+      "瞭解施工空間。\n108"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y108#Q80",
+    "source_display": "108 工程管理學科 第80題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  }
+]

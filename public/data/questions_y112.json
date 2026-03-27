@@ -231,14 +231,7 @@
     "answer_index": 1,
     "explanation": "",
     "source": "y112#Q13",
-    "source_display": "112 工程管理學科 第13題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/y112/Q013.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "112 工程管理學科 第13題"
   },
   {
     "id": "y112_14",
@@ -256,14 +249,7 @@
     "answer_index": 3,
     "explanation": "",
     "source": "y112#Q14",
-    "source_display": "112 工程管理學科 第14題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/y112/Q014.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "112 工程管理學科 第14題"
   },
   {
     "id": "y112_15",
@@ -785,14 +771,7 @@
     "answer_index": 2,
     "explanation": "",
     "source": "y112#Q43",
-    "source_display": "112 工程管理學科 第43題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/y112/Q043.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "112 工程管理學科 第43題"
   },
   {
     "id": "y112_44",
@@ -864,14 +843,7 @@
     "answer_index": 3,
     "explanation": "",
     "source": "y112#Q47",
-    "source_display": "112 工程管理學科 第47題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/y112/Q047.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "112 工程管理學科 第47題"
   },
   {
     "id": "y112_48",
@@ -943,14 +915,7 @@
     "answer_index": 3,
     "explanation": "",
     "source": "y112#Q51",
-    "source_display": "112 工程管理學科 第51題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/y112/Q051.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "112 工程管理學科 第51題"
   },
   {
     "id": "y112_52",
@@ -1107,7 +1072,7 @@
       "空氣中濕度太低",
       "空氣中溫度太低",
       "塗料黏度過高",
-      "空氣中濕度太高。\n複選題："
+      "空氣中濕度太高。"
     ],
     "answer_index": 3,
     "explanation": "",

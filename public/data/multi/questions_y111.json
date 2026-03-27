@@ -1,0 +1,435 @@
+[
+  {
+    "id": "y111_61",
+    "question_type": "multi",
+    "question_text": "下列面積計算及單位換算何者正確？",
+    "options": [
+      "長 12.5 公尺×寬 8 公尺＝100 平方公尺約為 30.25 坪",
+      "長 9\n台尺×寬 4 台尺＝1 坪",
+      "長 8 公尺×寬 5 公尺＝40 平方公尺約為",
+      "長 18 台尺×寬 12 台尺＝\n4 坪。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y111#Q61",
+    "source_display": "111 工程管理學科 第61題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y111_62",
+    "question_type": "multi",
+    "question_text": "有關室內裝修一般常見的魯班尺上半部為文公尺，下列哪些為用於陽宅、神位、佛具尺寸之吉凶\n的度量衡之文字？",
+    "options": [
+      "本",
+      "財",
+      "苦",
+      "離。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y111#Q62",
+    "source_display": "111 工程管理學科 第62題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y111_63",
+    "question_type": "multi",
+    "question_text": "依職業安全衛生相關法規規定，實施作業環境測定之作業場所，下列哪些是正確？",
+    "options": [
+      "粉塵作業場\n所或有機溶劑作業場所經地方主管機關指定者",
+      "顯著發生噪音之作業場所",
+      "粉塵作業場所經中央\n主管機關指定者",
+      "有機溶劑作業場所經中央主管機關指定者。"
+    ],
+    "correct_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y111#Q63",
+    "source_display": "111 工程管理學科 第63題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y111_64",
+    "question_type": "multi",
+    "question_text": "瓷磚剝落之原因有下列哪些？",
+    "options": [
+      "瓷磚品質不良或龜裂，黏著劑強度不足或是黏著與水泥砂漿的界\n面的破壞",
+      "瓷磚黏著施工時機妥善掌握",
+      "膠泥塗佈厚度不足或嵌入不足",
+      "瓷磚界面，牆體界面，\n瓷磚的伸縮縫未妥善預留。"
+    ],
+    "correct_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y111#Q64",
+    "source_display": "111 工程管理學科 第64題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y111_65",
+    "question_type": "multi",
+    "question_text": "依建築物室內裝修管理辦法規定；新建建築物於領得使用執照前申請室內裝修許可者，應於領得\n下列哪些文件，始得使用？",
+    "options": [
+      "建造執造",
+      "使用執照",
+      "室內裝修許可",
+      "室內裝修合格證明。"
+    ],
+    "correct_answers": [
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y111#Q65",
+    "source_display": "111 工程管理學科 第65題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y111_66",
+    "question_type": "multi",
+    "question_text": "依機械器具安全防護標準規定，下列何項為正確？",
+    "options": [
+      "圓盤鋸應設置圓盤鋸之正撥預防裝置",
+      "木材\n加工用圓盤鋸，使撐縫片與其面對之圓鋸片鋸齒前端之間隙在 15 毫米以下",
+      "反撥預防裝置之撐\n111",
+      "圓盤鋸應設置圓盤鋸之鋸齒接觸預\n防裝置。"
+    ],
+    "correct_answers": [
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y111#Q66",
+    "source_display": "111 工程管理學科 第66題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y111_67",
+    "question_type": "multi",
+    "question_text": "依職業安全衛生設施規則規定，雇主對於室內工作場所，應依規定設置足夠勞工使用之通道，下\n列哪些為不正確？",
+    "options": [
+      "應有適應其用途之寬度，其主要人行道不得小於",
+      "各機械間或其他\n設備間通道不得小於 60 公分",
+      "主要人行道及有關安全門、安全梯應有明顯標示",
+      "自路面起算 1.5\n公尺高度之範圍內，不得有障礙物但因工作之必要，經採防護措施者，不在此限。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y111#Q67",
+    "source_display": "111 工程管理學科 第67題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y111_68",
+    "question_type": "multi",
+    "question_text": "依職業安全衛生設施規則規定，雇主不得以下列何種情況之吊鏈作為起重升降機具之吊掛用具及\n構件",
+    "options": [
+      "有龜裂者",
+      "延伸長度超過百分之五以上者",
+      "斷面直徑減少百分之十以上者",
+      "吊鉤或鉤環及\n附屬零件，其斷裂荷重與所承受之最大荷重比之安全係數，應在四以上。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y111#Q68",
+    "source_display": "111 工程管理學科 第68題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y111_69",
+    "question_type": "multi",
+    "question_text": "下列哪些為不正確？",
+    "options": [
+      "紋理斜叉者為斜紋",
+      "紋理如木材年輪與寬面鋸成 45°以上者，謂之平紋",
+      "紋理平行於其邊者，稱為直紋",
+      "凡樹木生長迅速者，其生長環必緊，稱為密紋；反之，生長緩慢\n者則環必寬，稱為粗紋。"
+    ],
+    "correct_answers": [
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y111#Q69",
+    "source_display": "111 工程管理學科 第69題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y111_70",
+    "question_type": "multi",
+    "question_text": "依據 CNS11567-A1042 建築製圖規定，下列哪些為「平面詳圖」之比例尺原則？",
+    "options": [
+      "1/10",
+      "1/5",
+      "1/\n30",
+      "1/60。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y111#Q70",
+    "source_display": "111 工程管理學科 第70題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y111_71",
+    "question_type": "multi",
+    "question_text": "依營造安全衛生設施標準規定，施工中對於施工場所材料之堆放，應置放於穩固、平坦之處，整\n齊緊靠堆置及下列哪些為正確？",
+    "options": [
+      "材料儲存位置鄰近開口部分時，應距離該開口部分",
+      "磚堆置高度不得超過 1.8 公尺",
+      "瓦堆置高度不得超過 2 公尺",
+      "管料之置放，避免在電線上方或下\n方。"
+    ],
+    "correct_answers": [
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y111#Q71",
+    "source_display": "111 工程管理學科 第71題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y111_72",
+    "question_type": "multi",
+    "question_text": "以下是塗裝適用性之條件的敘述，何者正確？",
+    "options": [
+      "好管理是指應施於充分的塗裝作業管理",
+      "好塗料\n是指半成品的塗料品質必須良好，具備各性能皆優秀之塗料",
+      "好價格一定能達到圓滿的塗裝結果",
+      "好設計是指應選擇能配合塗料及被塗物之適當塗裝系。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y111#Q72",
+    "source_display": "111 工程管理學科 第72題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y111_73",
+    "question_type": "multi",
+    "question_text": "依建築技術規則，凡裝設於舞臺之電氣設備，哪些是正確",
+    "options": [
+      "更衣室內之燈具應使用吊管或鏈吊型",
+      "舞臺燈之分路，每路最大負荷不得超過 20 安培",
+      "燈具離樓地板面高度低於二點五公尺者，應\n加裝燈具護罩",
+      "對地電壓應為 220 伏特以下。"
+    ],
+    "correct_answers": [
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y111#Q73",
+    "source_display": "111 工程管理學科 第73題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y111_74",
+    "question_type": "multi",
+    "question_text": "依 CNS11567 之 A1042 建築圖符號及圖例規定，下列哪些屬於材料、構造圖例？①\n② ③ ④ 。",
+    "options": [
+      "(選項未辨識)",
+      "(選項未辨識)",
+      "(選項未辨識)",
+      "(選項未辨識)"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y111#Q74",
+    "source_display": "111 工程管理學科 第74題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y111_75",
+    "question_type": "multi",
+    "question_text": "下列何者為裝修工程中木作之接合方式？",
+    "options": [
+      "木螺絲釘接合",
+      "鐵釘接合",
+      "焊接",
+      "榫接合。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y111#Q75",
+    "source_display": "111 工程管理學科 第75題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y111_76",
+    "question_type": "multi",
+    "question_text": "下列哪些為可直接量測水平的工具？",
+    "options": [
+      "錘球",
+      "氣泡式水準尺",
+      "雷射水準儀",
+      "墨斗。"
+    ],
+    "correct_answers": [
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y111#Q76",
+    "source_display": "111 工程管理學科 第76題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y111_77",
+    "question_type": "multi",
+    "question_text": "面磚之優點有下列哪些？",
+    "options": [
+      "穩定性高不變形，不褪色及伸縮率低",
+      "耐候力強，不老化，耐水，耐\n火，耐磨及耐高壓",
+      "硬度高耐蝕，耐酸及耐鹽",
+      "成品之色彩，容易變色。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y111#Q77",
+    "source_display": "111 工程管理學科 第77題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y111_78",
+    "question_type": "multi",
+    "question_text": "玻璃安裝用黏劑成份之彈性材料，凝結後應具有下列何特性？",
+    "options": [
+      "抗壓性",
+      "復原性",
+      "伸展性",
+      "防剝\n落力。"
+    ],
+    "correct_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y111#Q78",
+    "source_display": "111 工程管理學科 第78題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y111_79",
+    "question_type": "multi",
+    "question_text": "室內裝修專業技術人員有下列哪些情事者，將註銷其登記證？",
+    "options": [
+      "受停止換發登記證處分累計二次",
+      "受停止換發登記證處分累計三次",
+      "五年內受停止執行職務處分累計滿一年",
+      "十年內受停止執行\n職務處分累計滿二年。"
+    ],
+    "correct_answers": [
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y111#Q79",
+    "source_display": "111 工程管理學科 第79題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y111_80",
+    "question_type": "multi",
+    "question_text": "玻璃質絕熱、隔音材料主要有",
+    "options": [
+      "玻璃棉毯",
+      "泡沫玻璃",
+      "玻璃纖維",
+      "玻璃馬賽克。\n111"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y111#Q80",
+    "source_display": "111 工程管理學科 第80題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  }
+]

@@ -1,0 +1,433 @@
+[
+  {
+    "id": "y109_61",
+    "question_type": "multi",
+    "question_text": "依機械設備器具安全標準規定，圓盤鋸應於明顯易見處標示哪些？",
+    "options": [
+      "鋸齒接觸預防裝置，標示適\n用之圓鋸片之內徑範圍及用途",
+      "額定電壓",
+      "額定功率或額定電流",
+      "適用之圓鋸片之內徑範圍。"
+    ],
+    "correct_answers": [
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y109#Q61",
+    "source_display": "109 工程管理學科 第61題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y109_62",
+    "question_type": "multi",
+    "question_text": "營造用各類物材之儲存、堆積及排列，不得儲存於距",
+    "options": [
+      "廁所",
+      "升降機",
+      "庫門",
+      "窗樘 等二公尺範\n圍以內。"
+    ],
+    "correct_answers": [
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y109#Q62",
+    "source_display": "109 工程管理學科 第62題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y109_63",
+    "question_type": "multi",
+    "question_text": "依營造安全衛生設施標準規定，施工中對於袋裝材料之儲存，為保持其穩定，下列哪些為正確？",
+    "options": [
+      "至少每 3 層交錯一次方向",
+      "堆放高度不得超過 10 層",
+      "6 層以上部分應向內退縮，以維持穩定",
+      "交錯方向易引起材料變質者，得以不影響穩定之方式堆放。"
+    ],
+    "correct_answers": [
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y109#Q63",
+    "source_display": "109 工程管理學科 第63題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y109_64",
+    "question_type": "multi",
+    "question_text": "夾層玻璃之敘述，下列哪些為不正確？",
+    "options": [
+      "經加熱、加壓、黏合而成",
+      "由單片平板玻璃兩側嵌夾透\n明塑料薄襯片製成",
+      "夾層玻璃也屬安全玻璃",
+      "可製成平面不能製成曲面的複合玻璃製品。"
+    ],
+    "correct_answers": [
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y109#Q64",
+    "source_display": "109 工程管理學科 第64題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y109_65",
+    "question_type": "multi",
+    "question_text": "下列哪些敘述正確？",
+    "options": [
+      "室內裝修施工從業者應依照核定之室內裝修圖說施工；如於施工前或施工\n中變更設計時，仍應依本辦法申請辦理審核",
+      "室內裝修圖說經審核合格，領得許可文件後，因故\n未能於規定期限內完工時，其許可文件不能展延立即失其效力",
+      "室內裝修申請審核之圖說涉及消\n防安全設備變更者，應依消防法規規定辦理，並應於施工後取得當地消防主管機關審核合格之文\n件",
+      "室內裝修圖說經審核合格，領得許可文件後，因故未能於規定期限內完工時，得申請展期。"
+    ],
+    "correct_answers": [
+      "A",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y109#Q65",
+    "source_display": "109 工程管理學科 第65題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y109_66",
+    "question_type": "multi",
+    "question_text": "有關室內裝修一般常見的魯班尺上半部為文公尺，下列哪些為用於陽宅、神位、佛具尺寸之吉凶\n的度量衡之文字？",
+    "options": [
+      "苦",
+      "財",
+      "本",
+      "離。"
+    ],
+    "correct_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y109#Q66",
+    "source_display": "109 工程管理學科 第66題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y109_67",
+    "question_type": "multi",
+    "question_text": "依用戶用電設備裝置規則，電燈、電具及插座分路，對地電壓不得超過一五○伏，惟符合規定者\n對地電壓得超過一五○伏，但不得超過三○○伏，哪些是正確？",
+    "options": [
+      "燈具上未裝操作開關",
+      "放電燈\n109",
+      "電具及插座分路加裝漏電斷路器或採用一種有極\n性之接地型插頭及插座",
+      "燈具裝置距離地面不小於"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y109#Q67",
+    "source_display": "109 工程管理學科 第67題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y109_68",
+    "question_type": "multi",
+    "question_text": "依中華民國國家標準 CNS11567 之 A1042 建築設備圖表示法規定，下列設備符號表示何者不正\n確？",
+    "options": [
+      "表示避難方向指標",
+      "表示水霧自動灑水頭",
+      "表示接地型單地板插座",
+      "表\n示接地型專用單插座。"
+    ],
+    "correct_answers": [
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y109#Q68",
+    "source_display": "109 工程管理學科 第68題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y109_69",
+    "question_type": "multi",
+    "question_text": "下列圖例表示哪些為正確？",
+    "options": [
+      "表示輕質牆",
+      "表示石材",
+      "表示\n鋼筋混凝土",
+      "表示網。"
+    ],
+    "correct_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y109#Q69",
+    "source_display": "109 工程管理學科 第69題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y109_70",
+    "question_type": "multi",
+    "question_text": "下列圓盤鋸說明哪些是正確？",
+    "options": [
+      "手持式圓盤鋸：以電動馬達或磁力驅動用來進行鋸切加工作業的\n機械設備",
+      "撐縫片：與鋸片同平面的金屬零件，當鋸片鋸切後防止加工件密合而夾住鋸片，造成\n圓盤鋸卡住或鋸片破裂",
+      "移動式護罩：通常設置在導板平面的下方，防止人員接觸固定式護罩無\n法保護到的鋸片部份",
+      "固定式護罩：以臨時固定的方式連結在馬達上的護罩，以防止人員接觸導\n板平面上方的鋸片。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y109#Q70",
+    "source_display": "109 工程管理學科 第70題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y109_71",
+    "question_type": "multi",
+    "question_text": "水泥之運送、儲存及處理，下列敘述哪些正確？",
+    "options": [
+      "原則上水泥應以散裝運至預拌廠之水泥槽斗儲\n存",
+      "已結塊或工程司認為已變質之水泥，不得使用於本工程，並應立即整批運離工地",
+      "散裝水泥\n應儲存在乾燥防水之槽斗內，袋裝水泥應儲存在乾燥防水之庫房或經工程司同意之建築物內",
+      "袋\n裝水泥儲存應置於高出地面至少 5CM 之地板上，水泥堆放高度不得超過 13 袋。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y109#Q71",
+    "source_display": "109 工程管理學科 第71題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y109_72",
+    "question_type": "multi",
+    "question_text": "室內裝修從業者有下列哪些情事之一者，當地主管建築機關應查明屬實後，報請內政部視其情節\n輕重，予以警告、六個月以上一年以下停止室內裝修業務處分或一年以上三年以下停止換發登記\n證處分？",
+    "options": [
+      "規避、妨礙或拒絕主管機關業務督導",
+      "施工材料與規定不符或未依圖說施工，經當地\n主管建築機關通知限期修改逾期未修改",
+      "未依規定繳交營業稅",
+      "受委託設計之圖樣、說明書、竣\n工查驗合格簽章之檢查表或其他書件經抽查結果與相關法令規定不符。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y109#Q72",
+    "source_display": "109 工程管理學科 第72題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y109_73",
+    "question_type": "multi",
+    "question_text": "玻璃安裝用黏劑成份之彈性材料，凝結後應具有下列何特性？",
+    "options": [
+      "伸展性",
+      "防剝落力",
+      "抗壓性",
+      "復\n原性。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y109#Q73",
+    "source_display": "109 工程管理學科 第73題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y109_74",
+    "question_type": "multi",
+    "question_text": "面磚之優點有下列哪些？",
+    "options": [
+      "成品之色彩，容易變色",
+      "耐候力強，不老化，耐水，耐火，耐磨及耐\n高壓",
+      "穩定性高不變形，不褪色及伸縮率低",
+      "硬度高耐蝕，耐酸及耐鹽。"
+    ],
+    "correct_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y109#Q74",
+    "source_display": "109 工程管理學科 第74題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y109_75",
+    "question_type": "multi",
+    "question_text": "混凝土是由下列哪些材料構成？",
+    "options": [
+      "砂",
+      "碎磚拌合成強而耐用的建材",
+      "碎石",
+      "波特蘭水泥。"
+    ],
+    "correct_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y109#Q75",
+    "source_display": "109 工程管理學科 第75題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y109_76",
+    "question_type": "multi",
+    "question_text": "地面樓層達十一層以上建築物室內裝修，下列哪些材料應使用附有防焰標示？",
+    "options": [
+      "窗簾",
+      "地毯",
+      "桌\n布",
+      "布幕。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y109#Q76",
+    "source_display": "109 工程管理學科 第76題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y109_77",
+    "question_type": "multi",
+    "question_text": "下列哪些為室內裝修垂直放樣工具？",
+    "options": [
+      "平板儀",
+      "透明水管",
+      "錘球",
+      "經緯儀。"
+    ],
+    "correct_answers": [
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y109#Q77",
+    "source_display": "109 工程管理學科 第77題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y109_78",
+    "question_type": "multi",
+    "question_text": "有關裝修塗裝作業，下列敘述何者正確？",
+    "options": [
+      "塗裝說明書係對塗裝施工內容、質量作較詳細規範\n者，亦即明示在施工上所要遵守的各種條件及最終修飾程度",
+      "各塗裝工程，不須預先施行被塗物\n表面處理",
+      "塗裝工程之計畫明細表如塗裝工程表及塗裝說明書，有利塗裝施工順利進行，並可作\n為塗裝施工完成時之驗收依據，預防可能之驗收糾紛",
+      "塗裝工程表係簡單明瞭表示塗裝施工程\n序，惟對最終修飾程度不詳列。"
+    ],
+    "correct_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y109#Q78",
+    "source_display": "109 工程管理學科 第78題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y109_79",
+    "question_type": "multi",
+    "question_text": "依施工規範規定，兩塊地毯之接縫接合時，哪些是正確",
+    "options": [
+      "接合部位應設於門口部位，以及光線易\n照射之位置",
+      "有圖案之地毯接合處應完全密合",
+      "地毯正面之箭頭應同向裁剪及鋪設接合",
+      "避免色\n差。"
+    ],
+    "correct_answers": [
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y109#Q79",
+    "source_display": "109 工程管理學科 第79題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y109_80",
+    "question_type": "multi",
+    "question_text": "有關木材材積計算(不考慮損耗)，下列計算結果何者錯誤？",
+    "options": [
+      "1 台寸×1 台尺×1 台尺＝1 才",
+      "1 台\n寸×1 台尺×10 台尺＝1 才",
+      "1 台寸×1 台寸×10 台尺＝1 才",
+      "1 台尺×1 台尺×10 台尺＝1 才。\n109"
+    ],
+    "correct_answers": [
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y109#Q80",
+    "source_display": "109 工程管理學科 第80題",
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  }
+]

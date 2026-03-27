@@ -123,14 +123,7 @@
     "answer_index": 3,
     "explanation": "",
     "source": "y107#Q7",
-    "source_display": "107 工程管理學科 第7題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/y107/Q007.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "107 工程管理學科 第7題"
   },
   {
     "id": "y107_8",
@@ -503,7 +496,7 @@
       "AB",
       "BC",
       "AC",
-      "CD。\n2 4"
+      "CD。"
     ],
     "answer_index": 0,
     "explanation": "",
@@ -511,9 +504,9 @@
     "source_display": "107 工程管理學科 第28題"
   },
   {
-    "id": "y107_29",
+    "id": "y107_2429",
     "subject": "室內裝修工程管理",
-    "year": 29,
+    "year": 2429,
     "chapter": "ALL",
     "type": "single",
     "question_text": "不銹鋼(stainless steel)材質又可分為",
@@ -525,8 +518,8 @@
     ],
     "answer_index": 1,
     "explanation": "",
-    "source": "y107#Q29",
-    "source_display": "107 工程管理學科 第29題"
+    "source": "y107#Q2429",
+    "source_display": "107 工程管理學科 第2429題"
   },
   {
     "id": "y107_30",
@@ -760,14 +753,7 @@
     "answer_index": 3,
     "explanation": "",
     "source": "y107#Q42",
-    "source_display": "107 工程管理學科 第42題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/y107/Q042.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "107 工程管理學科 第42題"
   },
   {
     "id": "y107_43",
@@ -875,14 +861,7 @@
     "answer_index": 0,
     "explanation": "",
     "source": "y107#Q48",
-    "source_display": "107 工程管理學科 第48題",
-    "assets": [
-      {
-        "type": "image",
-        "src": "/assets/q/y107/Q048.png",
-        "alt": "題目圖"
-      }
-    ]
+    "source_display": "107 工程管理學科 第48題"
   },
   {
     "id": "y107_49",
@@ -1093,7 +1072,7 @@
       "自產能源充足，不需仰賴進口",
       "能源密集度較\n先進國家仍有改善空間",
       "進口能源依存度高，能源安全易受國際影響",
-      "化石能源所占比例高，溫室\n氣體減量壓力大。\n複選題："
+      "化石能源所占比例高，溫室\n氣體減量壓力大。"
     ],
     "answer_index": 0,
     "explanation": "",
