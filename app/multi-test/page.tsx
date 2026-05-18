@@ -2,7 +2,9 @@
 
 import Link from "next/link";
 import { useCallback, useEffect, useMemo, useState } from "react";
-import { isMultiTestAllowedDataset } from "../lib/multiTestAllowlist";
+import { isMultiTestAllowedDataset, MULTI_TEST_DATASET_ALLOWLIST } from "../lib/multiTestAllowlist";
+import { getDataVersionSync } from "../lib/datasets";
+import { QuestionReviewBadges } from "../components/QuestionReviewBadges";
 
 const LABELS = ["A", "B", "C", "D"] as const;
 
@@ -11,12 +13,22 @@ type MultiIndex = {
   datasets: { id: string; label: string; file: string }[];
 };
 
+type QuestionAsset = {
+  type: string;
+  src: string;
+  alt?: string;
+};
+
 type MultiQuestion = {
   id: string;
   question_type?: string;
   question_text: string;
   options: string[];
   correct_answers: string[];
+  assets?: QuestionAsset[];
+  official_note?: string | null;
+  review_flag?: boolean;
+  is_deleted?: boolean;
 };
 
 function setsEqualLetters(a: string[], b: string[]): boolean {
@@ -128,7 +140,8 @@ export default function MultiTestPage() {
   );
 
   const allowlistNote = useMemo(
-    () => "僅 y105–y113、y90006–y90009（13 份），不含綜合 A/B。",
+    () =>
+      `目前開放 ${MULTI_TEST_DATASET_ALLOWLIST.size} 份資料集測試（含 12500 室內設計題庫），不含綜合 A/B。`,
     []
   );
 
@@ -191,7 +204,30 @@ export default function MultiTestPage() {
               <p className="text-xs text-neutral-500 mb-2">
                 第 {qIndex + 1} / {total} 題 · {q.id}
               </p>
+              <QuestionReviewBadges
+                officialNote={q.official_note}
+                reviewFlag={q.review_flag}
+              />
               <p className="text-base leading-relaxed whitespace-pre-wrap">{q.question_text}</p>
+              {q.assets && q.assets.length > 0 && (
+                <div className="mt-4 space-y-2">
+                  {q.assets
+                    .filter((a) => a.type === "image" && a.src)
+                    .map((a, idx) => {
+                      const v = getDataVersionSync();
+                      const src =
+                        a.src + (v ? (a.src.includes("?") ? "&" : "?") + "v=" + encodeURIComponent(v) : "");
+                      return (
+                        <img
+                          key={idx}
+                          src={src}
+                          alt={a.alt || "題目圖"}
+                          className="max-w-full h-auto rounded-lg border border-neutral-200"
+                        />
+                      );
+                    })}
+                </div>
+              )}
             </div>
 
             <div className="space-y-2">

@@ -16,6 +16,7 @@ export const MULTI_TEST_DATASET_ALLOWLIST = new Set<string>([
   "y90007",
   "y90008",
   "y90009",
+  "y12500",
 ]);
 
 export function isMultiTestAllowedDataset(id: string): boolean {

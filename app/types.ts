@@ -21,6 +21,9 @@ export interface Question {
   source_display?: string;
   /** v1.2.1：圖題裁切圖，若有則顯示在題幹區 */
   assets?: QuestionAsset[];
+  official_note?: string | null;
+  review_flag?: boolean;
+  is_deleted?: boolean;
 }
 
 export interface QuizState {

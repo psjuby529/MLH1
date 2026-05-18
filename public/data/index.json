@@ -74,6 +74,12 @@
       "id": "zonghe_b",
       "label": "綜合B",
       "file": "questions_zonghe_b.json"
+    },
+    {
+      "id": "y12500",
+      "label": "12500 建築物室內設計乙級",
+      "file": "questions_y12500.json",
+      "description": "室內設計乙級 12500 題庫"
     }
   ],
   "default_dataset": "ALL"

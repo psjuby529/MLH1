@@ -11,6 +11,7 @@ import {
   getAttemptBySubject,
   clearSubjectStats,
 } from "./lib/storage";
+import { MULTI_TEST_DATASET_ALLOWLIST } from "./lib/multiTestAllowlist";
 
 const COUNT_OPTIONS = [20, 50, 100] as const;
 
@@ -263,7 +264,9 @@ export default function HomePage() {
 
           <section className="mb-6 p-4 rounded-xl border border-slate-200 bg-slate-50">
             <p className="text-base font-semibold text-slate-900 mb-1">複選題刷題（測試版）</p>
-            <p className="text-sm text-slate-600 mb-3">目前僅開放 13 份資料集，暫不含綜合 A / B</p>
+            <p className="text-sm text-slate-600 mb-3">
+              目前開放部分資料集測試（{MULTI_TEST_DATASET_ALLOWLIST.size} 份，含 12500 室內設計題庫），暫不含綜合 A / B
+            </p>
             <Link
               href="/multi-test"
               className="w-full inline-flex justify-center py-3 rounded-lg border-2 border-slate-700 text-slate-800 font-medium"

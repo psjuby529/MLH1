@@ -8,6 +8,7 @@ import { fetchQuestions, dedupeByKey, sampleStratified, getStratumKey } from "..
 import { addWrong, addDailyProgress, setLastAnswers, getWrongIds, setAttemptId, addWrongBySubject, addAttemptBySubject } from "../lib/storage";
 import { getDataVersionSync } from "../lib/datasets";
 import type { Question } from "../types";
+import { QuestionReviewBadges } from "../components/QuestionReviewBadges";
 
 function QuizContent() {
   const searchParams = useSearchParams();
@@ -132,6 +133,10 @@ function QuizContent() {
       </div>
 
       <div className="flex-1">
+        <QuestionReviewBadges
+          officialNote={currentQ.official_note}
+          reviewFlag={currentQ.review_flag}
+        />
         {currentQ.assets && currentQ.assets.length > 0 && (
           <div className="mb-4 space-y-2">
             {currentQ.assets

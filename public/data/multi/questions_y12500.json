@@ -1,0 +1,5435 @@
+[
+  {
+    "id": "y12500_w01_083",
+    "question_type": "multi",
+    "question_text": "依中華民國國家標準 CNS 建築製圖規定，虛線的用途為何？",
+    "options": [
+      "隱藏線",
+      "配線",
+      "中心線",
+      "剖面線 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B"
+    ],
+    "explanation": "",
+    "source": "y12500#01#Q83",
+    "source_display": "12500 圖說判讀 第83題",
+    "work_item": "W01",
+    "work_item_name": "圖說判讀",
+    "qno": 83,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    },
+    "assets": [
+      {
+        "type": "image",
+        "src": "/assets/q/y12500/W01_083.png",
+        "alt": "題目圖"
+      }
+    ]
+  },
+  {
+    "id": "y12500_w01_084",
+    "question_type": "multi",
+    "question_text": "依中華民國國家標準 CNS 建築製圖規定，細單點線的用途為何？",
+    "options": [
+      "建\n築線",
+      "配管",
+      "中心線",
+      "投影線 。"
+    ],
+    "correct_answers": [
+      "A",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#01#Q84",
+    "source_display": "12500 圖說判讀 第84題",
+    "work_item": "W01",
+    "work_item_name": "圖說判讀",
+    "qno": 84,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    },
+    "assets": [
+      {
+        "type": "image",
+        "src": "/assets/q/y12500/W01_084.png",
+        "alt": "題目圖"
+      }
+    ]
+  },
+  {
+    "id": "y12500_w01_085",
+    "question_type": "multi",
+    "question_text": "依 CNS 國家標準建築製圖規定，中實線的用途為何？",
+    "options": [
+      "隱藏線",
+      "一般\n外形線",
+      "中心線",
+      "截斷線 。"
+    ],
+    "correct_answers": [
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#01#Q85",
+    "source_display": "12500 圖說判讀 第85題",
+    "work_item": "W01",
+    "work_item_name": "圖說判讀",
+    "qno": 85,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    },
+    "assets": [
+      {
+        "type": "image",
+        "src": "/assets/q/y12500/W01_085.png",
+        "alt": "題目圖"
+      }
+    ]
+  },
+  {
+    "id": "y12500_w01_086",
+    "question_type": "multi",
+    "question_text": "依中華民國國家標準 CNS 建築製圖規定，細實線的用途為何？",
+    "options": [
+      "尺度\n線",
+      "配線",
+      "建築線",
+      "註解線 。"
+    ],
+    "correct_answers": [
+      "A",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#01#Q86",
+    "source_display": "12500 圖說判讀 第86題",
+    "work_item": "W01",
+    "work_item_name": "圖說判讀",
+    "qno": 86,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    },
+    "assets": [
+      {
+        "type": "image",
+        "src": "/assets/q/y12500/W01_086.png",
+        "alt": "題目圖"
+      }
+    ]
+  },
+  {
+    "id": "y12500_w01_087",
+    "question_type": "multi",
+    "question_text": "依中華民國國家標準 CNS 建築製圖規定，中單點線的用途為何？",
+    "options": [
+      "隱\n藏線",
+      "配線",
+      "線管",
+      "剖面線 。"
+    ],
+    "correct_answers": [
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#01#Q87",
+    "source_display": "12500 圖說判讀 第87題",
+    "work_item": "W01",
+    "work_item_name": "圖說判讀",
+    "qno": 87,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    },
+    "assets": [
+      {
+        "type": "image",
+        "src": "/assets/q/y12500/W01_087.png",
+        "alt": "題目圖"
+      }
+    ]
+  },
+  {
+    "id": "y12500_w01_088",
+    "question_type": "multi",
+    "question_text": "依中華民國國家標準 CNS 建築製圖規定，中雙點線的用途為何？",
+    "options": [
+      "隱\n藏線",
+      "配線",
+      "中心線",
+      "地界線 。"
+    ],
+    "correct_answers": [
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#01#Q88",
+    "source_display": "12500 圖說判讀 第88題",
+    "work_item": "W01",
+    "work_item_name": "圖說判讀",
+    "qno": 88,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    },
+    "assets": [
+      {
+        "type": "image",
+        "src": "/assets/q/y12500/W01_088.png",
+        "alt": "題目圖"
+      }
+    ]
+  },
+  {
+    "id": "y12500_w01_089",
+    "question_type": "multi",
+    "question_text": "依中華民國國家標準 CNS 建築製圖規定，常用文字簡寫中「W」可代表\n什麼？",
+    "options": [
+      "尺度寬度",
+      "門",
+      "尺度高度",
+      "窗 。"
+    ],
+    "correct_answers": [
+      "A",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#01#Q89",
+    "source_display": "12500 圖說判讀 第89題",
+    "work_item": "W01",
+    "work_item_name": "圖說判讀",
+    "qno": 89,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    },
+    "assets": [
+      {
+        "type": "image",
+        "src": "/assets/q/y12500/W01_089.png",
+        "alt": "題目圖"
+      }
+    ]
+  },
+  {
+    "id": "y12500_w01_090",
+    "question_type": "multi",
+    "question_text": "依中華民國國家標準 CNS 建築製圖規定，下列對「結構圖基本符號」哪\n些為正確？",
+    "options": [
+      "F 代表樓層",
+      "C 代表柱",
+      "W 代表牆",
+      "S 代表詳圖 。"
+    ],
+    "correct_answers": [
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#01#Q90",
+    "source_display": "12500 圖說判讀 第90題",
+    "work_item": "W01",
+    "work_item_name": "圖說判讀",
+    "qno": 90,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    },
+    "assets": [
+      {
+        "type": "image",
+        "src": "/assets/q/y12500/W01_090.png",
+        "alt": "題目圖"
+      }
+    ]
+  },
+  {
+    "id": "y12500_w01_091",
+    "question_type": "multi",
+    "question_text": "依中華民國國家標準 CNS 建築製圖規定，下列對「消防設備符號」哪些\n為正確？",
+    "options": [
+      "泡沫自動灑水頭",
+      "揚聲器",
+      "緊急照明燈",
+      "滅火\n器 。"
+    ],
+    "correct_answers": [
+      "A",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#01#Q91",
+    "source_display": "12500 圖說判讀 第91題",
+    "work_item": "W01",
+    "work_item_name": "圖說判讀",
+    "qno": 91,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    },
+    "assets": [
+      {
+        "type": "image",
+        "src": "/assets/q/y12500/W01_091.png",
+        "alt": "題目圖"
+      }
+    ]
+  },
+  {
+    "id": "y12500_w01_092",
+    "question_type": "multi",
+    "question_text": "依中華民國國家標準 CNS 建築製圖規定，下列對「電氣設備符號」哪些\n為正確？",
+    "options": [
+      "單極開關",
+      "電力總配線盤",
+      "電燈總配線盤",
+      "接地型單連插座 。"
+    ],
+    "correct_answers": [
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#01#Q92",
+    "source_display": "12500 圖說判讀 第92題",
+    "work_item": "W01",
+    "work_item_name": "圖說判讀",
+    "qno": 92,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    },
+    "assets": [
+      {
+        "type": "image",
+        "src": "/assets/q/y12500/W01_092.png",
+        "alt": "題目圖"
+      }
+    ]
+  },
+  {
+    "id": "y12500_w01_093",
+    "question_type": "multi",
+    "question_text": "依中華民國國家標準 CNS 建築製圖規定，下列對「電器設備\n符號」哪些為正確？",
+    "options": [
+      "吸頂白熾燈",
+      "嵌頂白熾燈",
+      "壁\n式白熾燈",
+      "吊頂白熾燈 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B"
+    ],
+    "explanation": "",
+    "source": "y12500#01#Q93",
+    "source_display": "12500 圖說判讀 第93題",
+    "work_item": "W01",
+    "work_item_name": "圖說判讀",
+    "qno": 93,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    },
+    "assets": [
+      {
+        "type": "image",
+        "src": "/assets/q/y12500/W01_093.png",
+        "alt": "題目圖"
+      }
+    ],
+    "official_note": "本題刪題",
+    "review_flag": true
+  },
+  {
+    "id": "y12500_w01_094",
+    "question_type": "multi",
+    "question_text": "依中華民國國家標準 CNS 建築製圖規定，下列對「給排水及衛生設備符\n號」哪些為正確？",
+    "options": [
+      "熱水管",
+      "瓦斯管",
+      "排水管",
+      "排污管 。"
+    ],
+    "correct_answers": [
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#01#Q94",
+    "source_display": "12500 圖說判讀 第94題",
+    "work_item": "W01",
+    "work_item_name": "圖說判讀",
+    "qno": 94,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    },
+    "assets": [
+      {
+        "type": "image",
+        "src": "/assets/q/y12500/W01_094.png",
+        "alt": "題目圖"
+      }
+    ]
+  },
+  {
+    "id": "y12500_w01_095",
+    "question_type": "multi",
+    "question_text": "依中華民國國家標準 CNS 規定，下列哪些屬於電氣設備之分電盤符號？\n① ② ③ ④ 。",
+    "options": [
+      "選項見圖",
+      "選項見圖",
+      "選項見圖",
+      "選項見圖"
+    ],
+    "correct_answers": [
+      "A",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#01#Q95",
+    "source_display": "12500 圖說判讀 第95題",
+    "work_item": "W01",
+    "work_item_name": "圖說判讀",
+    "qno": 95,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    },
+    "assets": [
+      {
+        "type": "image",
+        "src": "/assets/q/y12500/W01_095.png",
+        "alt": "題目圖"
+      }
+    ]
+  },
+  {
+    "id": "y12500_w01_096",
+    "question_type": "multi",
+    "question_text": "依中華民國國家標準 CNS 規定，下列哪些屬於電氣設備之",
+    "options": [
+      "選項見圖",
+      "選項見圖",
+      "選項見圖",
+      "選項見圖"
+    ],
+    "correct_answers": [
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#01#Q96",
+    "source_display": "12500 圖說判讀 第96題",
+    "work_item": "W01",
+    "work_item_name": "圖說判讀",
+    "qno": 96,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    },
+    "assets": [
+      {
+        "type": "image",
+        "src": "/assets/q/y12500/W01_096.png",
+        "alt": "題目圖"
+      }
+    ]
+  },
+  {
+    "id": "y12500_w01_097",
+    "question_type": "multi",
+    "question_text": "依中華民國國家標準 CNS 規定，常用比例有 18 種，分別是下列哪些？",
+    "options": [
+      "1/20",
+      "1/30",
+      "1/45",
+      "1/50 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#01#Q97",
+    "source_display": "12500 圖說判讀 第97題",
+    "work_item": "W01",
+    "work_item_name": "圖說判讀",
+    "qno": 97,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    },
+    "assets": [
+      {
+        "type": "image",
+        "src": "/assets/q/y12500/W01_097.png",
+        "alt": "題目圖"
+      }
+    ]
+  },
+  {
+    "id": "y12500_w01_098",
+    "question_type": "multi",
+    "question_text": "依 CNS 國家標準規定，線條粗細為「細」的單點線表示下列何種用途？",
+    "options": [
+      "中心線",
+      "建築線",
+      "基準線",
+      "地界線 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B"
+    ],
+    "explanation": "",
+    "source": "y12500#01#Q98",
+    "source_display": "12500 圖說判讀 第98題",
+    "work_item": "W01",
+    "work_item_name": "圖說判讀",
+    "qno": 98,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    },
+    "assets": [
+      {
+        "type": "image",
+        "src": "/assets/q/y12500/W01_098.png",
+        "alt": "題目圖"
+      }
+    ]
+  },
+  {
+    "id": "y12500_w01_099",
+    "question_type": "multi",
+    "question_text": "依中華民國國家標準 CNS 規定，線條粗細為「中」的單點線表示下列何\n種用途？",
+    "options": [
+      "接圖線",
+      "配線",
+      "線管",
+      "地界線 。"
+    ],
+    "correct_answers": [
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#01#Q99",
+    "source_display": "12500 圖說判讀 第99題",
+    "work_item": "W01",
+    "work_item_name": "圖說判讀",
+    "qno": 99,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    },
+    "assets": [
+      {
+        "type": "image",
+        "src": "/assets/q/y12500/W01_099.png",
+        "alt": "題目圖"
+      }
+    ]
+  },
+  {
+    "id": "y12500_w01_100",
+    "question_type": "multi",
+    "question_text": "依 中華民國國家標準 CNS 規定，索引圖的主要內容是載明各種圖樣之",
+    "options": [
+      "張號",
+      "圖號",
+      "名稱",
+      "內容 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#01#Q100",
+    "source_display": "12500 圖說判讀 第100題",
+    "work_item": "W01",
+    "work_item_name": "圖說判讀",
+    "qno": 100,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    },
+    "assets": [
+      {
+        "type": "image",
+        "src": "/assets/q/y12500/W01_100.png",
+        "alt": "題目圖"
+      }
+    ]
+  },
+  {
+    "id": "y12500_w01_101",
+    "question_type": "multi",
+    "question_text": "依中華民國國家標準 CNS 規定，剖面詳圖其主要表達載明各部詳細",
+    "options": [
+      "尺度",
+      "數量",
+      "材料",
+      "品牌 。"
+    ],
+    "correct_answers": [
+      "A",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#01#Q101",
+    "source_display": "12500 圖說判讀 第101題",
+    "work_item": "W01",
+    "work_item_name": "圖說判讀",
+    "qno": 101,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    },
+    "assets": [
+      {
+        "type": "image",
+        "src": "/assets/q/y12500/W01_101.png",
+        "alt": "題目圖"
+      }
+    ]
+  },
+  {
+    "id": "y12500_w01_102",
+    "question_type": "multi",
+    "question_text": "依中華民國國家標準 CNS 規定，電氣設備圖中下列那些符號可表示為鑰\n匙操作開關或時控開關？",
+    "options": [
+      "●",
+      "●",
+      "●",
+      "● 。\nK P W T"
+    ],
+    "correct_answers": [
+      "A",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#01#Q102",
+    "source_display": "12500 圖說判讀 第102題",
+    "work_item": "W01",
+    "work_item_name": "圖說判讀",
+    "qno": 102,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    },
+    "assets": [
+      {
+        "type": "image",
+        "src": "/assets/q/y12500/W01_102.png",
+        "alt": "題目圖"
+      }
+    ]
+  },
+  {
+    "id": "y12500_w01_103",
+    "question_type": "multi",
+    "question_text": "一般圖面所標示的：S＝1/30，Ｕ＝cm 之符號，下列敘述那些為正確？",
+    "options": [
+      "「S」表示為縮尺",
+      "「U」表示為開關",
+      "「S」表示為比例",
+      "「U」表\n示為單位 。"
+    ],
+    "correct_answers": [
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#01#Q103",
+    "source_display": "12500 圖說判讀 第103題",
+    "work_item": "W01",
+    "work_item_name": "圖說判讀",
+    "qno": 103,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    },
+    "assets": [
+      {
+        "type": "image",
+        "src": "/assets/q/y12500/W01_103.png",
+        "alt": "題目圖"
+      }
+    ]
+  },
+  {
+    "id": "y12500_w01_104",
+    "question_type": "multi",
+    "question_text": "距離 10m 之兩點，洩水坡度斜率為 1/100 以上，其高低落差可選下列哪\n些項目？",
+    "options": [
+      "1cm",
+      "5cm",
+      "10cm",
+      "15cm 。"
+    ],
+    "correct_answers": [
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#01#Q104",
+    "source_display": "12500 圖說判讀 第104題",
+    "work_item": "W01",
+    "work_item_name": "圖說判讀",
+    "qno": 104,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w01_105",
+    "question_type": "multi",
+    "question_text": "依 CNS 規定，建築物之平面圖、立面圖，其比例尺可以選擇下列哪些？",
+    "options": [
+      "1/300",
+      "1/200",
+      "1/100",
+      "1/50 。\n12500 建築物室內設計 乙級"
+    ],
+    "correct_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#01#Q105",
+    "source_display": "12500 圖說判讀 第105題",
+    "work_item": "W01",
+    "work_item_name": "圖說判讀",
+    "qno": 105,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    },
+    "assets": [
+      {
+        "type": "image",
+        "src": "/assets/q/y12500/W01_105.png",
+        "alt": "題目圖"
+      }
+    ]
+  },
+  {
+    "id": "y12500_w02_127",
+    "question_type": "multi",
+    "question_text": "建築物室內裝修管理辦法所稱室內裝修，指除",
+    "options": [
+      "壁紙、壁布、窗簾",
+      "家具",
+      "活動隔屏、地氈",
+      "分間牆 等之黏貼及擺設外之行為。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#02#Q127",
+    "source_display": "12500 相關法規 第127題",
+    "work_item": "W02",
+    "work_item_name": "相關法規",
+    "qno": 127,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w02_128",
+    "question_type": "multi",
+    "question_text": "建築物室內裝修管理辦法所稱室內裝修，指",
+    "options": [
+      "固著於建築物構造體之\n天花板裝修",
+      "內部牆面裝修",
+      "高度超過地板面以上一點二公尺固定之\n隔屏或兼作櫥櫃使用之隔屏裝修",
+      "分戶牆變更 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#02#Q128",
+    "source_display": "12500 相關法規 第128題",
+    "work_item": "W02",
+    "work_item_name": "相關法規",
+    "qno": 128,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w02_129",
+    "question_type": "multi",
+    "question_text": "建築物室內裝修管理辦法中所稱「室內裝修從業者」，是指",
+    "options": [
+      "開業建\n築師",
+      "土木技師",
+      "營造業",
+      "室內裝修業 。"
+    ],
+    "correct_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#02#Q129",
+    "source_display": "12500 相關法規 第129題",
+    "work_item": "W02",
+    "work_item_name": "相關法規",
+    "qno": 129,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w02_130",
+    "question_type": "multi",
+    "question_text": "建築物室內裝修管理辦法中所稱的室內裝修從業者業務範圍為下列哪\n些？",
+    "options": [
+      "依法登記開業之建築師得從事室內裝修設計業務",
+      "依法登記開\n業之土木技師得從事室內裝修設計業務",
+      "依法登記開業之營造業得從\n事室內裝修施工業務",
+      "室內裝修業得從事室內裝修設計或施工之業\n務 。"
+    ],
+    "correct_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#02#Q130",
+    "source_display": "12500 相關法規 第130題",
+    "work_item": "W02",
+    "work_item_name": "相關法規",
+    "qno": 130,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w02_131",
+    "question_type": "multi",
+    "question_text": "依建築物室內裝修管理辦法相關規定，室內裝修從業者之業務範圍有下\n列哪些？",
+    "options": [
+      "設計",
+      "施工",
+      "設計或施工",
+      "消防查驗 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#02#Q131",
+    "source_display": "12500 相關法規 第131題",
+    "work_item": "W02",
+    "work_item_name": "相關法規",
+    "qno": 131,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w02_132",
+    "question_type": "multi",
+    "question_text": "依「建築物室內裝修管理辦法」所稱之審查機構，指經內政部指定置有\n審查人員執行室內裝修審核及查驗業務之",
+    "options": [
+      "直轄市建築師公會",
+      "縣\n(市)建築師公會辦事處",
+      "縣(市)技師公會",
+      "專業技術團體 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#02#Q132",
+    "source_display": "12500 相關法規 第132題",
+    "work_item": "W02",
+    "work_item_name": "相關法規",
+    "qno": 132,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w02_133",
+    "question_type": "multi",
+    "question_text": "依「建築物室內裝修管理辦法」所稱之審查人員，係指下列辦理審核圖\n說及竣工查驗之哪些人員？",
+    "options": [
+      "經內政部指定之專業工業技師",
+      "直轄\n市、縣(市)主管建築機關指派之人員",
+      "審查機構指派所屬具建築師、專\n業技術人員資格之人員",
+      "室內裝修從業人員 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#02#Q133",
+    "source_display": "12500 相關法規 第133題",
+    "work_item": "W02",
+    "work_item_name": "相關法規",
+    "qno": 133,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w02_134",
+    "question_type": "multi",
+    "question_text": "室內裝修業從事室內裝修設計及施工業務者，需設置：",
+    "options": [
+      "專業設計及\n專業施工技術人員各一人以上",
+      "設計師及監工人員各一人以上",
+      "兼具\n專業設計及專業施工技術人員身分一人以上",
+      "不須設置直接開業即\n可 。"
+    ],
+    "correct_answers": [
+      "A",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#02#Q134",
+    "source_display": "12500 相關法規 第134題",
+    "work_item": "W02",
+    "work_item_name": "相關法規",
+    "qno": 134,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w02_135",
+    "question_type": "multi",
+    "question_text": "依據「建築物室內裝修管理辦法」規定，室內裝修業申請公司或商業登\n記時，其名稱應標示",
+    "options": [
+      "室內字樣",
+      "室內裝修字樣",
+      "室內設計字樣",
+      "其公司或商業登記於中華民國 89 年 9 月 2 日前完成者，換證時得免於\n其名稱標示室內裝修字樣 。"
+    ],
+    "correct_answers": [
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#02#Q135",
+    "source_display": "12500 相關法規 第135題",
+    "work_item": "W02",
+    "work_item_name": "相關法規",
+    "qno": 135,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w02_136",
+    "question_type": "multi",
+    "question_text": "室內裝修業應於辦理公司或商業登記後，檢附下列文件，向內政部申請\n室內裝修業登記許可並領得登記證，未領得登記證者，不得執行室內裝\n修業務：",
+    "options": [
+      "申請書",
+      "公司或商業登記證明文件",
+      "專業技術人員登記證",
+      "畢業證書 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#02#Q136",
+    "source_display": "12500 相關法規 第136題",
+    "work_item": "W02",
+    "work_item_name": "相關法規",
+    "qno": 136,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w02_137",
+    "question_type": "multi",
+    "question_text": "依據「建築物室內裝修管理辦法」規定，專業技術人員係指向內政部辦\n理登記，從事室內裝修設計或施工之人員；依其執業範圍可分為下列哪 些人員？",
+    "options": [
+      "繪圖技術人員",
+      "專業設計技術人員",
+      "專業施工技術人員",
+      "裝潢技術人員 。"
+    ],
+    "correct_answers": [
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#02#Q137",
+    "source_display": "12500 相關法規 第137題",
+    "work_item": "W02",
+    "work_item_name": "相關法規",
+    "qno": 137,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w02_138",
+    "question_type": "multi",
+    "question_text": "依據「建築物室內裝修管理辦法」規定，室內裝修專業設計技術人員，\n應具下列哪些資格之一？",
+    "options": [
+      "領有建築師證書者",
+      "領有建築物室內設計\n乙級以上技術士證",
+      "領有建築物室內設計乙級以上技術士證，並經參\n加內政部主辦或委託專業機構、團體辦理之建築物室內設計訓練達二十\n一小時以上者",
+      "大學畢業者 。"
+    ],
+    "correct_answers": [
+      "A",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#02#Q138",
+    "source_display": "12500 相關法規 第138題",
+    "work_item": "W02",
+    "work_item_name": "相關法規",
+    "qno": 138,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w02_139",
+    "question_type": "multi",
+    "question_text": "依據「建築物室內裝修管理辦法」規定，室內裝修專業施工技術人員，\n應具下列資格之一？",
+    "options": [
+      "領有建築師",
+      "領有土木技師證書者",
+      "領有結構\n工程技師證書者",
+      "領有水電技師證書者 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#02#Q139",
+    "source_display": "12500 相關法規 第139題",
+    "work_item": "W02",
+    "work_item_name": "相關法規",
+    "qno": 139,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w02_140",
+    "question_type": "multi",
+    "question_text": "依據「建築物室內裝修管理辦法」規定，申請室內裝修審核時，應檢附\n下列哪些圖說文件？",
+    "options": [
+      "申請書",
+      "建築物權利證明文件",
+      "竣工圖",
+      "室\n內裝修圖說 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#02#Q140",
+    "source_display": "12500 相關法規 第140題",
+    "work_item": "W02",
+    "work_item_name": "相關法規",
+    "qno": 140,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w02_141",
+    "question_type": "multi",
+    "question_text": "依據「建築物室內裝修管理辦法」規定，下列室內裝修圖說之敘述那些\n為正確？",
+    "options": [
+      "位置圖及裝修平面圖：註明裝修地址、樓層及所在位置",
+      "裝修立面圖：比例尺不得小於一百分之一",
+      "裝修剖面圖：註明裝修各\n部分高度、內部設施及各部分之材料，其比例尺不得小於一百分之一",
+      "裝修詳細圖：各部分之尺寸構造及材料，其比例尺不得小於一百分之\n一 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#02#Q141",
+    "source_display": "12500 相關法規 第141題",
+    "work_item": "W02",
+    "work_item_name": "相關法規",
+    "qno": 141,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w02_142",
+    "question_type": "multi",
+    "question_text": "依據「建築物室內裝修管理辦法」規定，室內裝修圖說應由哪些人員署\n名負責？",
+    "options": [
+      "開業建築師",
+      "專業設計技術人員",
+      "專業施工技術人員",
+      "結構技師 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B"
+    ],
+    "explanation": "",
+    "source": "y12500#02#Q142",
+    "source_display": "12500 相關法規 第142題",
+    "work_item": "W02",
+    "work_item_name": "相關法規",
+    "qno": 142,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w02_143",
+    "question_type": "multi",
+    "question_text": "依據「建築物室內裝修管理辦法」規定，直轄市、縣(市)主管建築機關\n或審查機構應就下列哪些項目加以審核？",
+    "options": [
+      "申請圖說文件應齊全",
+      "裝\n修材料及分間牆構造應符合建築技術規則之規定",
+      "居住成員與人數",
+      "不得妨害或破壞防火避難設施、防火區劃及主要構造 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#02#Q143",
+    "source_display": "12500 相關法規 第143題",
+    "work_item": "W02",
+    "work_item_name": "相關法規",
+    "qno": 143,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w02_144",
+    "question_type": "multi",
+    "question_text": "依據「建築物室內裝修管理辦法」規定，室內裝修圖說經審核合格，領\n得許可文件後，建築物",
+    "options": [
+      "起造人",
+      "所有權人",
+      "使用人",
+      "施工人員 應\n將許可文件張貼於施工地點明顯處，並於規定期限內施工完竣後申請竣\n工查驗。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#02#Q144",
+    "source_display": "12500 相關法規 第144題",
+    "work_item": "W02",
+    "work_item_name": "相關法規",
+    "qno": 144,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w02_145",
+    "question_type": "multi",
+    "question_text": "依 據「建築物室內裝修管理辦法」規定，室內裝修施工從業者應依照核\n定之室內裝修圖說施工；如於施工前或施工中變更設計時，仍應依本辦\n法申請辦理審核。但不變更下列何者，得於竣工後，備具相關圖說，一\n次報驗？",
+    "options": [
+      "防火避難設施",
+      "防火區劃",
+      "不降低原使用裝修材料耐燃等\n級",
+      "分間牆構造之防火時效 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#02#Q145",
+    "source_display": "12500 相關法規 第145題",
+    "work_item": "W02",
+    "work_item_name": "相關法規",
+    "qno": 145,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w02_146",
+    "question_type": "multi",
+    "question_text": "依 據「建築物室內裝修管理辦法」規定，室內裝修申請竣工查驗時，應\n檢附下列圖說文件？",
+    "options": [
+      "申請書",
+      "原領室內裝修審核合格文件",
+      "室內裝\n修竣工圖說",
+      "其他經內政部指定之文件 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#02#Q146",
+    "source_display": "12500 相關法規 第146題",
+    "work_item": "W02",
+    "work_item_name": "相關法規",
+    "qno": 146,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w02_147",
+    "question_type": "multi",
+    "question_text": "依據「建築物室內裝修管理辦法」規定，室內裝修從業者如有變更登記\n事項時，未依規定申請換發登記證，經當地主管建築機關應查明屬實 後，報請內政部視其情節輕重，予以",
+    "options": [
+      "警告",
+      "罰鍰",
+      "六個月以上一年\n以下停止室內裝修業務處分或",
+      "一年以上三年以下停止換發登記證處\n分 。"
+    ],
+    "correct_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#02#Q147",
+    "source_display": "12500 相關法規 第147題",
+    "work_item": "W02",
+    "work_item_name": "相關法規",
+    "qno": 147,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w02_148",
+    "question_type": "multi",
+    "question_text": "依據「建築物室內裝修管理辦法」規定，室內裝修從業者如有規避、妨\n礙或拒絕主管機關業務督導情事者，經當地主管建築機關應查明屬實\n後，報請內政部視其情節輕重，予以",
+    "options": [
+      "警告",
+      "六個月以上一年以下停\n止室內裝修業務處分",
+      "一年以上三年以下停止換發登記證處分",
+      "停業\n處分 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#02#Q148",
+    "source_display": "12500 相關法規 第148題",
+    "work_item": "W02",
+    "work_item_name": "相關法規",
+    "qno": 148,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w02_149",
+    "question_type": "multi",
+    "question_text": "依據「建築物室內裝修管理辦法」規定，專業技術人員有下列情事之一\n者，當地主管建築機關應查明屬實後，報請內政部視其情節輕重，予以\n警告、六個月以上一年以下停止執行職務處分或一年以上三年以下停止\n換發登記證處分？",
+    "options": [
+      "受委託設計之圖樣、說明書、竣工查驗合格簽章\n之檢查表或其他書件經抽查結果與相關法令規定不符",
+      "受委託設計之\n圖樣、說明書、竣工查驗合格簽章之檢查表或其他書件經抽查結果與相\n關法令規定相符",
+      "未依審核合格圖說施工",
+      "依審核合格圖說施工 。"
+    ],
+    "correct_answers": [
+      "A",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#02#Q149",
+    "source_display": "12500 相關法規 第149題",
+    "work_item": "W02",
+    "work_item_name": "相關法規",
+    "qno": 149,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w02_150",
+    "question_type": "multi",
+    "question_text": "依據「建築物室內裝修管理辦法」規定，專業技術人員有下列情事之一\n者，當地主管建築機關應查明屬實後，報請內政部廢止登記許可並註銷\n登記證？",
+    "options": [
+      "專業技術人員登記證供所受聘室內裝修業使用",
+      "專業技術\n人員登記證供所受聘室內裝修業以外使用",
+      "十年內受停止執行職務處\n分累計滿二年",
+      "受停止換發登記證處分累計三次 。"
+    ],
+    "correct_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#02#Q150",
+    "source_display": "12500 相關法規 第150題",
+    "work_item": "W02",
+    "work_item_name": "相關法規",
+    "qno": 150,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w02_151",
+    "question_type": "multi",
+    "question_text": "依據「建築物室內裝修管理辦法」規定，室內裝修圖說中「位置圖」應\n註明下列哪些？",
+    "options": [
+      "裝修地址",
+      "樓層",
+      "所在位置",
+      "使用用途 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#02#Q151",
+    "source_display": "12500 相關法規 第151題",
+    "work_item": "W02",
+    "work_item_name": "相關法規",
+    "qno": 151,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w02_152",
+    "question_type": "multi",
+    "question_text": "依建築法規定，下列哪些屬供公眾使用之建築物？",
+    "options": [
+      "寺廟",
+      "都市計畫\n區內五樓公寓",
+      "幼稚園",
+      "孤兒院 。"
+    ],
+    "correct_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#02#Q152",
+    "source_display": "12500 相關法規 第152題",
+    "work_item": "W02",
+    "work_item_name": "相關法規",
+    "qno": 152,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w02_153",
+    "question_type": "multi",
+    "question_text": "依建築法規定，下列哪些屬公有建築物？",
+    "options": [
+      "公營事業機構之建築物",
+      "自治團體之建築物",
+      "社會團體之建築物",
+      "具有紀念性之建築物 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#02#Q153",
+    "source_display": "12500 相關法規 第153題",
+    "work_item": "W02",
+    "work_item_name": "相關法規",
+    "qno": 153,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w02_154",
+    "question_type": "multi",
+    "question_text": "依建築法規定，下列哪些屬雜項工作物？",
+    "options": [
+      "招牌廣告",
+      "散裝倉",
+      "圍牆",
+      "草坪 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#02#Q154",
+    "source_display": "12500 相關法規 第154題",
+    "work_item": "W02",
+    "work_item_name": "相關法規",
+    "qno": 154,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w02_155",
+    "question_type": "multi",
+    "question_text": "依建築法規定，下列哪些屬於建築物之主要構造？",
+    "options": [
+      "樓地板",
+      "主要梁\n柱",
+      "承重墻壁",
+      "樓梯 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#02#Q155",
+    "source_display": "12500 相關法規 第155題",
+    "work_item": "W02",
+    "work_item_name": "相關法規",
+    "qno": 155,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w02_156",
+    "question_type": "multi",
+    "question_text": "依建築法規定，下列哪些屬於建築物設備？",
+    "options": [
+      "電力",
+      "消防",
+      "消雷",
+      "冷凍 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#02#Q156",
+    "source_display": "12500 相關法規 第156題",
+    "work_item": "W02",
+    "work_item_name": "相關法規",
+    "qno": 156,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w02_157",
+    "question_type": "multi",
+    "question_text": "下列哪些屬於建築技術規則所定義之「居室」空間？",
+    "options": [
+      "浴室",
+      "儲藏室",
+      "廚房",
+      "臥室 。"
+    ],
+    "correct_answers": [
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#02#Q157",
+    "source_display": "12500 相關法規 第157題",
+    "work_item": "W02",
+    "work_item_name": "相關法規",
+    "qno": 157,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w02_158",
+    "question_type": "multi",
+    "question_text": "下列哪些屬於建築技術規則所定義之「居室」空間？",
+    "options": [
+      "工作間",
+      "門廳",
+      "娛樂間",
+      "集會間 。"
+    ],
+    "correct_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#02#Q158",
+    "source_display": "12500 相關法規 第158題",
+    "work_item": "W02",
+    "work_item_name": "相關法規",
+    "qno": 158,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w02_159",
+    "question_type": "multi",
+    "question_text": "下列建築技術用語，哪些敘述為正確？",
+    "options": [
+      "簷高：自基地地面起至建築\n物簷口底面或平屋頂底面之高度",
+      "地板面高度：自基地地面至地板面\n之垂直距離",
+      "分間牆：分隔建築物內部空間之牆壁",
+      "集合住宅：具有\n共同基地及共同空間或設備，並有二個住宅單位以上之建築物 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#02#Q159",
+    "source_display": "12500 相關法規 第159題",
+    "work_item": "W02",
+    "work_item_name": "相關法規",
+    "qno": 159,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w02_160",
+    "question_type": "multi",
+    "question_text": "下列哪些屬於建築物室內裝修管理辦法規定之室內裝修圖說？",
+    "options": [
+      "位置\n圖",
+      "裝修平面圖",
+      "裝修立面圖",
+      "裝修透視圖 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#02#Q160",
+    "source_display": "12500 相關法規 第160題",
+    "work_item": "W02",
+    "work_item_name": "相關法規",
+    "qno": 160,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w02_161",
+    "question_type": "multi",
+    "question_text": "下列哪些符合室內裝修圖說之規定：",
+    "options": [
+      "比例尺二百分之一之裝修平面\n圖",
+      "比例尺二百分之一之裝修立面圖",
+      "比例尺一百分之一之裝修剖面\n圖",
+      "比例尺十分之一裝修詳細圖 。"
+    ],
+    "correct_answers": [
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#02#Q161",
+    "source_display": "12500 相關法規 第161題",
+    "work_item": "W02",
+    "work_item_name": "相關法規",
+    "qno": 161,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w02_162",
+    "question_type": "multi",
+    "question_text": "依建築物室內裝修管理辦法規定，申請室內裝修竣工查驗時，下列檢附\n之圖說文件哪些為正確？",
+    "options": [
+      "申請書",
+      "原領室內裝修審核合格文件",
+      "前\n次核准使用執照平面圖",
+      "室內裝修竣工圖說 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#02#Q162",
+    "source_display": "12500 相關法規 第162題",
+    "work_item": "W02",
+    "work_item_name": "相關法規",
+    "qno": 162,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w02_163",
+    "question_type": "multi",
+    "question_text": "依建築物室內裝修管理辦法規定，申請室內裝修審核時，下列檢附之圖\n說文件哪些為正確？",
+    "options": [
+      "申請書",
+      "建築物及土地權利證明文件",
+      "建築物\n原始平面圖",
+      "室內裝修圖說 。"
+    ],
+    "correct_answers": [
+      "A",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#02#Q163",
+    "source_display": "12500 相關法規 第163題",
+    "work_item": "W02",
+    "work_item_name": "相關法規",
+    "qno": 163,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w02_164",
+    "question_type": "multi",
+    "question_text": "以經由開業建築師簽證符合規定之裝修樓層現況圖替代前次核准使用執\n照平面圖或室內裝修平面圖時，下列哪為現況圖應載明之圖說？",
+    "options": [
+      "防\n空避難設施",
+      "消防安全設備",
+      "防火區劃",
+      "主要構造位置 。"
+    ],
+    "correct_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#02#Q164",
+    "source_display": "12500 相關法規 第164題",
+    "work_item": "W02",
+    "work_item_name": "相關法規",
+    "qno": 164,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w02_165",
+    "question_type": "multi",
+    "question_text": "依建築物室內裝修管理辦法規定，直轄市、縣(市)主管建築機關或審查\n機構於審核室內裝修申請時，下列哪些項目應加以審核？",
+    "options": [
+      "申請圖說\n文件應齊全",
+      "裝修材料應符合消防法之規定",
+      "分間牆構造應符合建築\n技術規則之規定",
+      "不得妨害或破壞防火避難設施、防火區劃及主要構\n造 。"
+    ],
+    "correct_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#02#Q165",
+    "source_display": "12500 相關法規 第165題",
+    "work_item": "W02",
+    "work_item_name": "相關法規",
+    "qno": 165,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w02_166",
+    "question_type": "multi",
+    "question_text": "依據建築技術規則規定，下列建築物內之哪些設備應接至緊急電源？",
+    "options": [
+      "昇降機",
+      "電源插座",
+      "出口標示燈",
+      "緊急廣播設備 。"
+    ],
+    "correct_answers": [
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#02#Q166",
+    "source_display": "12500 相關法規 第166題",
+    "work_item": "W02",
+    "work_item_name": "相關法規",
+    "qno": 166,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w02_167",
+    "question_type": "multi",
+    "question_text": "依據建築技術規則規定，下列建築物內之哪些設備應接至緊急電源？",
+    "options": [
+      "地下室排水、污水抽水幫浦",
+      "避難方向指示燈",
+      "照明燈",
+      "廣播設\n備 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B"
+    ],
+    "explanation": "",
+    "source": "y12500#02#Q167",
+    "source_display": "12500 相關法規 第167題",
+    "work_item": "W02",
+    "work_item_name": "相關法規",
+    "qno": 167,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w02_168",
+    "question_type": "multi",
+    "question_text": "依據建築技術規則規定，下列組別哪些屬於商業類(B 類)？",
+    "options": [
+      "娛樂場所",
+      "餐飲場所",
+      "店舖診所",
+      "旅館 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#02#Q168",
+    "source_display": "12500 相關法規 第168題",
+    "work_item": "W02",
+    "work_item_name": "相關法規",
+    "qno": 168,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w02_169",
+    "question_type": "multi",
+    "question_text": "依據建築技術規則規定，下列組別哪些屬於辦公、服務類(G 類)？",
+    "options": [
+      "金\n融證券",
+      "健身休閒",
+      "店舖診所",
+      "社福機構 。\n12500 建築物室內設計 乙級"
+    ],
+    "correct_answers": [
+      "A",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#02#Q169",
+    "source_display": "12500 相關法規 第169題",
+    "work_item": "W02",
+    "work_item_name": "相關法規",
+    "qno": 169,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w03_205",
+    "question_type": "multi",
+    "question_text": "下列哪些屬於正投影圖？",
+    "options": [
+      "俯視圖",
+      "一點透視圖",
+      "正視圖",
+      "二點透視\n圖 。"
+    ],
+    "correct_answers": [
+      "A",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#03#Q205",
+    "source_display": "12500 繪製圖說 第205題",
+    "work_item": "W03",
+    "work_item_name": "繪製圖說",
+    "qno": 205,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w03_206",
+    "question_type": "multi",
+    "question_text": "下 列哪些工具，可做水平的量測？",
+    "options": [
+      "水平連通管",
+      "水平尺",
+      "雷射墨線\n儀",
+      "鉛垂 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#03#Q206",
+    "source_display": "12500 繪製圖說 第206題",
+    "work_item": "W03",
+    "work_item_name": "繪製圖說",
+    "qno": 206,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w03_207",
+    "question_type": "multi",
+    "question_text": "下 列哪些工具，可做垂直的量測？",
+    "options": [
+      "水平連通管",
+      "水平尺",
+      "雷射墨線\n儀",
+      "鉛垂 。"
+    ],
+    "correct_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#03#Q207",
+    "source_display": "12500 繪製圖說 第207題",
+    "work_item": "W03",
+    "work_item_name": "繪製圖說",
+    "qno": 207,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w03_208",
+    "question_type": "multi",
+    "question_text": "下 列哪些屬於立面圖？",
+    "options": [
+      "前視圖",
+      "右側視圖",
+      "左側視圖",
+      "俯視圖 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#03#Q208",
+    "source_display": "12500 繪製圖說 第208題",
+    "work_item": "W03",
+    "work_item_name": "繪製圖說",
+    "qno": 208,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w03_209",
+    "question_type": "multi",
+    "question_text": "以 下哪些是水性塗料之特性？",
+    "options": [
+      "較慢乾",
+      "須遠離火源",
+      "無味或有香味",
+      "用水稀釋 。"
+    ],
+    "correct_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#03#Q209",
+    "source_display": "12500 繪製圖說 第209題",
+    "work_item": "W03",
+    "work_item_name": "繪製圖說",
+    "qno": 209,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w03_210",
+    "question_type": "multi",
+    "question_text": "室 內設計之平面規劃圖，主要在表達",
+    "options": [
+      "活動空間安排",
+      "交通路線",
+      "牆\n面裝飾",
+      "家具擺放的位置 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#03#Q210",
+    "source_display": "12500 繪製圖說 第210題",
+    "work_item": "W03",
+    "work_item_name": "繪製圖說",
+    "qno": 210,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w03_211",
+    "question_type": "multi",
+    "question_text": "下 列哪些敘述為木材變形的原因？",
+    "options": [
+      "木理不順",
+      "水分蒸發",
+      "堆積不當",
+      "發生褐色 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#03#Q211",
+    "source_display": "12500 繪製圖說 第211題",
+    "work_item": "W03",
+    "work_item_name": "繪製圖說",
+    "qno": 211,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w03_212",
+    "question_type": "multi",
+    "question_text": "下 列哪些材料屬於針葉樹材？",
+    "options": [
+      "柳杉",
+      "肖楠",
+      "烏心石",
+      "花旗松 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#03#Q212",
+    "source_display": "12500 繪製圖說 第212題",
+    "work_item": "W03",
+    "work_item_name": "繪製圖說",
+    "qno": 212,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w03_213",
+    "question_type": "multi",
+    "question_text": "下 列哪些是壓克力材質的特性？",
+    "options": [
+      "高耐熱材",
+      "電絕緣性佳",
+      "具透明性",
+      "吸水性小 。"
+    ],
+    "correct_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#03#Q213",
+    "source_display": "12500 繪製圖說 第213題",
+    "work_item": "W03",
+    "work_item_name": "繪製圖說",
+    "qno": 213,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w03_214",
+    "question_type": "multi",
+    "question_text": "下列哪些是兩點透視圖中較易失真的作法？",
+    "options": [
+      "左消失點遠於右消失點",
+      "左消失點高於右消失點",
+      "左消失點低於右消失點",
+      "右消失點遠於左\n消失點 。"
+    ],
+    "correct_answers": [
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#03#Q214",
+    "source_display": "12500 繪製圖說 第214題",
+    "work_item": "W03",
+    "work_item_name": "繪製圖說",
+    "qno": 214,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w03_215",
+    "question_type": "multi",
+    "question_text": "下 列哪些是室內設計圖說的相關項目？",
+    "options": [
+      "水電配置",
+      "空調線路",
+      "配筋\n圖",
+      "弱電線路 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#03#Q215",
+    "source_display": "12500 繪製圖說 第215題",
+    "work_item": "W03",
+    "work_item_name": "繪製圖說",
+    "qno": 215,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w03_216",
+    "question_type": "multi",
+    "question_text": "色 光的三原色係指",
+    "options": [
+      "紅",
+      "黃",
+      "綠",
+      "藍 。"
+    ],
+    "correct_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#03#Q216",
+    "source_display": "12500 繪製圖說 第216題",
+    "work_item": "W03",
+    "work_item_name": "繪製圖說",
+    "qno": 216,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w03_217",
+    "question_type": "multi",
+    "question_text": "色 料的三原色是係指",
+    "options": [
+      "紫",
+      "洋紅",
+      "黃",
+      "青 。"
+    ],
+    "correct_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#03#Q217",
+    "source_display": "12500 繪製圖說 第217題",
+    "work_item": "W03",
+    "work_item_name": "繪製圖說",
+    "qno": 217,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w03_218",
+    "question_type": "multi",
+    "question_text": "色 彩三屬性是係指",
+    "options": [
+      "色相",
+      "明度",
+      "色環",
+      "彩度 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#03#Q218",
+    "source_display": "12500 繪製圖說 第218題",
+    "work_item": "W03",
+    "work_item_name": "繪製圖說",
+    "qno": 218,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w03_219",
+    "question_type": "multi",
+    "question_text": "下 列哪些色彩屬於寒色？",
+    "options": [
+      "藍色",
+      "青色",
+      "綠色",
+      "橙色 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#03#Q219",
+    "source_display": "12500 繪製圖說 第219題",
+    "work_item": "W03",
+    "work_item_name": "繪製圖說",
+    "qno": 219,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w03_220",
+    "question_type": "multi",
+    "question_text": "下 列哪些色彩屬於暖色？",
+    "options": [
+      "紅色",
+      "橙色",
+      "黃色",
+      "藍色 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#03#Q220",
+    "source_display": "12500 繪製圖說 第220題",
+    "work_item": "W03",
+    "work_item_name": "繪製圖說",
+    "qno": 220,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w03_221",
+    "question_type": "multi",
+    "question_text": "綠 建材係指符合下列哪些條件？",
+    "options": [
+      "生態性",
+      "經濟性",
+      "環保性",
+      "健康\n性 。"
+    ],
+    "correct_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#03#Q221",
+    "source_display": "12500 繪製圖說 第221題",
+    "work_item": "W03",
+    "work_item_name": "繪製圖說",
+    "qno": 221,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w03_222",
+    "question_type": "multi",
+    "question_text": "依據消防法規定，下列哪些場所應使用防焰物品？",
+    "options": [
+      "地下建築物",
+      "二\n百平方公尺之展覽場",
+      "二百平方公尺之咖啡廳",
+      "地面樓層達十一層以\n上之建築物 。"
+    ],
+    "correct_answers": [
+      "A",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#03#Q222",
+    "source_display": "12500 繪製圖說 第222題",
+    "work_item": "W03",
+    "work_item_name": "繪製圖說",
+    "qno": 222,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w03_223",
+    "question_type": "multi",
+    "question_text": "依 據消防法相關規定，防焰物品係指",
+    "options": [
+      "窗簾",
+      "地毯",
+      "壁布",
+      "展示用廣\n告板及其他指定之防焰物品 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#03#Q223",
+    "source_display": "12500 繪製圖說 第223題",
+    "work_item": "W03",
+    "work_item_name": "繪製圖說",
+    "qno": 223,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w03_224",
+    "question_type": "multi",
+    "question_text": "依照中華民國國家標準 CNS「建築製圖」中，Ａ4 圖紙之尺度，下列何\n者正確？",
+    "options": [
+      "縱向 210mm、橫向 297mm",
+      "縱向 420mm、橫向 297mm",
+      "縱向 297mm、橫向 420mm",
+      "縱向 297mm、橫向 210mm 。"
+    ],
+    "correct_answers": [
+      "A",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#03#Q224",
+    "source_display": "12500 繪製圖說 第224題",
+    "work_item": "W03",
+    "work_item_name": "繪製圖說",
+    "qno": 224,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w03_225",
+    "question_type": "multi",
+    "question_text": "依照中華民國國家標準 CNS「建築製圖」中，常用的比例尺有：",
+    "options": [
+      "1/80",
+      "1/100",
+      "1/150",
+      "1/200 。"
+    ],
+    "correct_answers": [
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#03#Q225",
+    "source_display": "12500 繪製圖說 第225題",
+    "work_item": "W03",
+    "work_item_name": "繪製圖說",
+    "qno": 225,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w03_226",
+    "question_type": "multi",
+    "question_text": "依 照中華民國國家標準 CNS「建築製圖」中，圖號的英文代號，下列哪\n些為正確？",
+    "options": [
+      "A 代表建築圖",
+      "S 代表結構圖",
+      "I 代表室內裝修圖",
+      "F 代\n表水電圖 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#03#Q226",
+    "source_display": "12500 繪製圖說 第226題",
+    "work_item": "W03",
+    "work_item_name": "繪製圖說",
+    "qno": 226,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w03_227",
+    "question_type": "multi",
+    "question_text": "依 照中華民國國家標準 CNS「建築製圖」中，圖號的英文代號，下列哪\n些為正確？",
+    "options": [
+      "E 代表電器設備圖",
+      "P 代表給水、排水及衛生設備圖",
+      "I\n代表室內裝修圖",
+      "G 代表地坪圖 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#03#Q227",
+    "source_display": "12500 繪製圖說 第227題",
+    "work_item": "W03",
+    "work_item_name": "繪製圖說",
+    "qno": 227,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w03_228",
+    "question_type": "multi",
+    "question_text": "建築圖基準線的編號原則，下列哪些為正確？",
+    "options": [
+      "橫座標由左至右以 1、\n2、3…表示",
+      "縱座標由下而上以 A、B、C…表示",
+      "橫座標由左至右以\nA、B、C.…表示",
+      "縱座標由下而上以 1、2、3…表示 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B"
+    ],
+    "explanation": "",
+    "source": "y12500#03#Q228",
+    "source_display": "12500 繪製圖說 第228題",
+    "work_item": "W03",
+    "work_item_name": "繪製圖說",
+    "qno": 228,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w03_229",
+    "question_type": "multi",
+    "question_text": "依中華民國國家標準 CNS 規定，下列電氣設備圖說哪些為正確？",
+    "options": [
+      "：電燈總配電盤",
+      "：電力總配電盤",
+      "：電力分電盤",
+      "：電\n燈分電盤 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B"
+    ],
+    "explanation": "",
+    "source": "y12500#03#Q229",
+    "source_display": "12500 繪製圖說 第229題",
+    "work_item": "W03",
+    "work_item_name": "繪製圖說",
+    "qno": 229,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w03_230",
+    "question_type": "multi",
+    "question_text": "依中華民國國家標準 CNS 規定，下列消防設備符號 、 哪些為正\n確？",
+    "options": [
+      "測試出水口",
+      "滅火器",
+      "消防送水口",
+      "屋頂消防\n栓 。"
+    ],
+    "correct_answers": [
+      "A",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#03#Q230",
+    "source_display": "12500 繪製圖說 第230題",
+    "work_item": "W03",
+    "work_item_name": "繪製圖說",
+    "qno": 230,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w03_231",
+    "question_type": "multi",
+    "question_text": "台 制長度的計算，下列哪些為正確？",
+    "options": [
+      "1 台尺＝30.3 公分",
+      "1 公分＝\n0.33 台寸",
+      "1 台寸＝2.54 公分",
+      "1 台尺＝10 台寸 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#03#Q231",
+    "source_display": "12500 繪製圖說 第231題",
+    "work_item": "W03",
+    "work_item_name": "繪製圖說",
+    "qno": 231,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w03_232",
+    "question_type": "multi",
+    "question_text": "依中華民國國家標準 CNS 規定，下列給排水及衛生設備圖例哪些為正\n確？",
+    "options": [
+      "－．－表示通氣管",
+      "－⋯－表示雨水排水管",
+      "－．－表示冷水管",
+      "－⋯－表示熱水回水管 。"
+    ],
+    "correct_answers": [
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#03#Q232",
+    "source_display": "12500 繪製圖說 第232題",
+    "work_item": "W03",
+    "work_item_name": "繪製圖說",
+    "qno": 232,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w03_233",
+    "question_type": "multi",
+    "question_text": "依中華民國國家標準 CNS 規定，下列給排水及衛生設備符號哪些為正\n確？",
+    "options": [
+      "─G─蒸氣管",
+      "─G─瓦斯管",
+      "─Ｄ─熱水管",
+      "─Ｄ─排水\n管 。"
+    ],
+    "correct_answers": [
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#03#Q233",
+    "source_display": "12500 繪製圖說 第233題",
+    "work_item": "W03",
+    "work_item_name": "繪製圖說",
+    "qno": 233,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w03_234",
+    "question_type": "multi",
+    "question_text": "施工圖為了表達家具內部結構及細部尺寸，必須繪製下列哪些圖樣？",
+    "options": [
+      "剖面圖",
+      "大樣圖",
+      "透視圖",
+      "等角圖 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B"
+    ],
+    "explanation": "",
+    "source": "y12500#03#Q234",
+    "source_display": "12500 繪製圖說 第234題",
+    "work_item": "W03",
+    "work_item_name": "繪製圖說",
+    "qno": 234,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w03_235",
+    "question_type": "multi",
+    "question_text": "依中華民國國家標準 CNS 規定，建築結構圖之中，下列構材符號哪些為\n正確？",
+    "options": [
+      "SW 為懸臂板",
+      "SW 為剪力牆",
+      "BW 為牆梁",
+      "BW 為承重牆 。"
+    ],
+    "correct_answers": [
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#03#Q235",
+    "source_display": "12500 繪製圖說 第235題",
+    "work_item": "W03",
+    "work_item_name": "繪製圖說",
+    "qno": 235,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w03_236",
+    "question_type": "multi",
+    "question_text": "依中華民國國家標準 CNS 規定，下列消防設備符號哪些為正確？",
+    "options": [
+      "：排煙設備排煙口",
+      "：消防出水口",
+      "：排煙設備進風口",
+      "：消防送水口 。"
+    ],
+    "correct_answers": [
+      "A",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#03#Q236",
+    "source_display": "12500 繪製圖說 第236題",
+    "work_item": "W03",
+    "work_item_name": "繪製圖說",
+    "qno": 236,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w03_237",
+    "question_type": "multi",
+    "question_text": "依 CNS 國家標準規定，下列符號哪些正確？",
+    "options": [
+      "為偵煙型火警探\n測器",
+      "為差動型火警探測器",
+      "為偵煙型火警探測器",
+      "為差動型火警探測器 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B"
+    ],
+    "explanation": "",
+    "source": "y12500#03#Q237",
+    "source_display": "12500 繪製圖說 第237題",
+    "work_item": "W03",
+    "work_item_name": "繪製圖說",
+    "qno": 237,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w03_238",
+    "question_type": "multi",
+    "question_text": "一 建築物長 50 公尺，以比例尺換算繪於圖紙，下列敘述哪些為正確？",
+    "options": [
+      "以 1/50 繪製，長為 100 公分",
+      "以 1/100 繪製，長為 50 公分",
+      "以\n1/200 繪製，長為 25 公分",
+      "以 1/20 繪製，長為 1000 公分 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#03#Q238",
+    "source_display": "12500 繪製圖說 第238題",
+    "work_item": "W03",
+    "work_item_name": "繪製圖說",
+    "qno": 238,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w03_239",
+    "question_type": "multi",
+    "question_text": "依中華民國國家標準 CNS 規定，下列空調及機械設備圖說哪些為正確？",
+    "options": [
+      "：平頂出風口",
+      "：牆上出風口",
+      "：檢修口",
+      "：\n平頂回風口 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B"
+    ],
+    "explanation": "",
+    "source": "y12500#03#Q239",
+    "source_display": "12500 繪製圖說 第239題",
+    "work_item": "W03",
+    "work_item_name": "繪製圖說",
+    "qno": 239,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w03_240",
+    "question_type": "multi",
+    "question_text": "依中華民國國家標準 CNS 規定，下列消防設備符號哪些為正確？",
+    "options": [
+      "：自動撒水管",
+      "：火警系統管線",
+      "：消防水管",
+      "：廣播系統管線 。"
+    ],
+    "correct_answers": [
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#03#Q240",
+    "source_display": "12500 繪製圖說 第240題",
+    "work_item": "W03",
+    "work_item_name": "繪製圖說",
+    "qno": 240,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w03_241",
+    "question_type": "multi",
+    "question_text": "依中華民國國家標準 CNS 規定，下列空調及機械設備圖例哪些為正確？",
+    "options": [
+      "：排水管",
+      "：冷媒管",
+      "：風管下彎",
+      "：風管上\n彎 。"
+    ],
+    "correct_answers": [
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#03#Q241",
+    "source_display": "12500 繪製圖說 第241題",
+    "work_item": "W03",
+    "work_item_name": "繪製圖說",
+    "qno": 241,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w03_242",
+    "question_type": "multi",
+    "question_text": "工 地放樣打墨線時，下列哪些為正確？",
+    "options": [
+      "使用墨斗並加添墨汁",
+      "可畫\n出各種直線",
+      "墨線彈在壁面或地上",
+      "可放樣出各種弧線 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#03#Q242",
+    "source_display": "12500 繪製圖說 第242題",
+    "work_item": "W03",
+    "work_item_name": "繪製圖說",
+    "qno": 242,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w03_243",
+    "question_type": "multi",
+    "question_text": "根 據中華民國國家標準 CNS「建築製圖」中，常用文字簡寫符號，下列\n哪些為正確？",
+    "options": [
+      "C.C.代表「中間間隔」",
+      "代表「中心線」",
+      "BM 代表\n「水準點」",
+      "GL 代表「天花板線」 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#03#Q243",
+    "source_display": "12500 繪製圖說 第243題",
+    "work_item": "W03",
+    "work_item_name": "繪製圖說",
+    "qno": 243,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w03_244",
+    "question_type": "multi",
+    "question_text": "根 據中華民國國家標準 CNS「建築製圖」中，常用文字簡寫符號，下列\n哪些為正確？",
+    "options": [
+      "D 代表「直徑」",
+      "R 代表「半徑」",
+      "＠代表「間隔」",
+      "CL 代表「中心線」 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#03#Q244",
+    "source_display": "12500 繪製圖說 第244題",
+    "work_item": "W03",
+    "work_item_name": "繪製圖說",
+    "qno": 244,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w03_245",
+    "question_type": "multi",
+    "question_text": "根 據中華民國國家標準 CNS「建築製圖」中，常用文字簡寫符號，下列\n哪些為正確？",
+    "options": [
+      "1F 代表「一樓地板面」",
+      "PH 代表「屋頂突出物」",
+      "FL 代表「地板面線」",
+      "RF 代表「地下樓層」 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#03#Q245",
+    "source_display": "12500 繪製圖說 第245題",
+    "work_item": "W03",
+    "work_item_name": "繪製圖說",
+    "qno": 245,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w03_246",
+    "question_type": "multi",
+    "question_text": "根據中華民國國家標準 CNS「建築製圖」中，常用文字簡寫符號，下列\n哪些為正確？",
+    "options": [
+      "H 代表「樓梯總高」",
+      "S 代表「樓梯斜率」",
+      "T 代表\n「樓梯級深」",
+      "R 代表「樓梯級高」 。"
+    ],
+    "correct_answers": [
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#03#Q246",
+    "source_display": "12500 繪製圖說 第246題",
+    "work_item": "W03",
+    "work_item_name": "繪製圖說",
+    "qno": 246,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w03_247",
+    "question_type": "multi",
+    "question_text": "根 據中華民國國家標準 CNS「建築製圖」，常用文字簡寫符號之「門\n窗」項目中，下列哪些為正確？",
+    "options": [
+      "Ｄ代表「門」",
+      "W 代表「窗」",
+      "DW 代表「門連窗」",
+      "SW 代表「天窗」 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#03#Q247",
+    "source_display": "12500 繪製圖說 第247題",
+    "work_item": "W03",
+    "work_item_name": "繪製圖說",
+    "qno": 247,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w03_248",
+    "question_type": "multi",
+    "question_text": "根據中華民國國家標準 CNS「建築製圖」，常用文字簡寫符號之「材\n料」項目中，下列哪些為正確？",
+    "options": [
+      "Ｗ代表「寬緣Ｉ型鋼」",
+      "Ｈ代表\n「方型鋼」",
+      "Ｚ代表「工型鋼」",
+      "S 代表「標準Ｉ型鋼」 。"
+    ],
+    "correct_answers": [
+      "A",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#03#Q248",
+    "source_display": "12500 繪製圖說 第248題",
+    "work_item": "W03",
+    "work_item_name": "繪製圖說",
+    "qno": 248,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w03_249",
+    "question_type": "multi",
+    "question_text": "根 據中華民國國家標準 CNS「建築製圖」，常用文字簡寫符號之「材\n料」項目中，下列哪些為正確？",
+    "options": [
+      "Ｒ代表「螺栓」",
+      "SSP 代表「不鏽鋼\n管」",
+      "GIP 代表「鍍鋅鋼管」",
+      "PL 代表「鋼板」 。"
+    ],
+    "correct_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#03#Q249",
+    "source_display": "12500 繪製圖說 第249題",
+    "work_item": "W03",
+    "work_item_name": "繪製圖說",
+    "qno": 249,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w03_250",
+    "question_type": "multi",
+    "question_text": "根 據中華民國國家標準 CNS「建築製圖」，常用文字簡寫符號之「材\n料」項目中，下列哪些為正確？",
+    "options": [
+      "CIP 代表「鑄鐵管」",
+      "RCP 代表「不\n鏽鋼管」",
+      "GIS 代表「鍍鋅鋼板」",
+      "＃代表「規格號碼」 。"
+    ],
+    "correct_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#03#Q250",
+    "source_display": "12500 繪製圖說 第250題",
+    "work_item": "W03",
+    "work_item_name": "繪製圖說",
+    "qno": 250,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w03_251",
+    "question_type": "multi",
+    "question_text": "根 據中華民國國家標準 CNS「建築製圖」，常用文字簡寫符號之「材\n料」項目中，下列哪些為正確？",
+    "options": [
+      "FB 代表「扁鋼」",
+      "PL 代表「鋼板」",
+      "Ｒ代表「鉚釘」",
+      "Ｂ代表「角鋼」 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#03#Q251",
+    "source_display": "12500 繪製圖說 第251題",
+    "work_item": "W03",
+    "work_item_name": "繪製圖說",
+    "qno": 251,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w03_252",
+    "question_type": "multi",
+    "question_text": "根 據中華民國國家標準 CNS「建築製圖」，下列平面圖門窗表示及說明\n哪些為正確？",
+    "options": [
+      "代表「普通門」",
+      "代表「防爆門」",
+      "代表「具一小時防火時效及半小時阻隔性防火窗」",
+      "代表「防火\n窗」 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#03#Q252",
+    "source_display": "12500 繪製圖說 第252題",
+    "work_item": "W03",
+    "work_item_name": "繪製圖說",
+    "qno": 252,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w03_253",
+    "question_type": "multi",
+    "question_text": "根 據中華民國國家標準 CNS「建築製圖」，「建築結構圖基本符號」項\n目中，下列哪些為正確？",
+    "options": [
+      "ＲC 代表「鋼筋混凝土造」",
+      "S 代表「鋼構\n造」",
+      "B 代表「竹構造」",
+      "W 代表「木構造」 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#03#Q253",
+    "source_display": "12500 繪製圖說 第253題",
+    "work_item": "W03",
+    "work_item_name": "繪製圖說",
+    "qno": 253,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w03_254",
+    "question_type": "multi",
+    "question_text": "根據中華民國國家標準 CNS「建築製圖」，「建築層別基本符號」項目\n中，下列哪些為正確？",
+    "options": [
+      "Ｒ代表「屋頂」",
+      "P 代表「屋頂突出物」",
+      "C\n代表「地下層」",
+      "M 代表「避難層」 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B"
+    ],
+    "explanation": "",
+    "source": "y12500#03#Q254",
+    "source_display": "12500 繪製圖說 第254題",
+    "work_item": "W03",
+    "work_item_name": "繪製圖說",
+    "qno": 254,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w03_255",
+    "question_type": "multi",
+    "question_text": "依 中華民國國家標準 CNS 規定，消防設備符號下列哪些為正確？",
+    "options": [
+      "代表「手動報警機」",
+      "代表「火警警鈴」",
+      "代表「報警標示燈」",
+      "代表「灑水器」 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#03#Q255",
+    "source_display": "12500 繪製圖說 第255題",
+    "work_item": "W03",
+    "work_item_name": "繪製圖說",
+    "qno": 255,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w03_256",
+    "question_type": "multi",
+    "question_text": "依 中華民國國家標準 CNS 規定，消防設備符號下列哪些為正確？",
+    "options": [
+      "代表「消防水管」",
+      "代表「火警系統管\n線」",
+      "代表「播音管線」",
+      "代表「弱電管\n線」 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#03#Q256",
+    "source_display": "12500 繪製圖說 第256題",
+    "work_item": "W03",
+    "work_item_name": "繪製圖說",
+    "qno": 256,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w03_257",
+    "question_type": "multi",
+    "question_text": "依中華民國國家標準 CNS 規定，消防設備符號下列哪些為正確？",
+    "options": [
+      "代表「火警受信總機」",
+      "代表「自動灑水受信總機」",
+      "代表「火警受信總機」",
+      "代表「自動灑水受信總機」 。"
+    ],
+    "correct_answers": [
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#03#Q257",
+    "source_display": "12500 繪製圖說 第257題",
+    "work_item": "W03",
+    "work_item_name": "繪製圖說",
+    "qno": 257,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w03_258",
+    "question_type": "multi",
+    "question_text": "依 CNS 國家標準規定，電氣設備符號下列哪些為正確？",
+    "options": [
+      "代\n表「電燈分電盤」",
+      "代表「電燈分電盤」",
+      "代表\n「電力總",
+      "代表「電力總"
+    ],
+    "correct_answers": [
+      "A",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#03#Q258",
+    "source_display": "12500 繪製圖說 第258題",
+    "work_item": "W03",
+    "work_item_name": "繪製圖說",
+    "qno": 258,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w03_259",
+    "question_type": "multi",
+    "question_text": "依中華民國國家標準 CNS 規定，電氣設備符號下列哪些為正確？",
+    "options": [
+      "代表「發電機」",
+      "代表「發電機」",
+      "代表「電熱\n器」",
+      "代表「電熱器」 。"
+    ],
+    "correct_answers": [
+      "A",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#03#Q259",
+    "source_display": "12500 繪製圖說 第259題",
+    "work_item": "W03",
+    "work_item_name": "繪製圖說",
+    "qno": 259,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w03_260",
+    "question_type": "multi",
+    "question_text": "依 中華民國國家標準 CNS 規定，電器設備符號下列哪些為正確？",
+    "options": [
+      "代表「單連插座」",
+      "代表「雙連插座」",
+      "代表「三連插座」",
+      "代表「四連插座」 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#03#Q260",
+    "source_display": "12500 繪製圖說 第260題",
+    "work_item": "W03",
+    "work_item_name": "繪製圖說",
+    "qno": 260,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w03_261",
+    "question_type": "multi",
+    "question_text": "依中華民國國家標準 CNS 規定，給排水及衛生設備符號下列哪些為正\n確？",
+    "options": [
+      "代表「冷水管」",
+      "代表「熱水管」",
+      "代表\n「冰水管」",
+      "代表「飲水管」 。\n12500 建築物室內設計 乙級"
+    ],
+    "correct_answers": [
+      "A",
+      "B"
+    ],
+    "explanation": "",
+    "source": "y12500#03#Q261",
+    "source_display": "12500 繪製圖說 第261題",
+    "work_item": "W03",
+    "work_item_name": "繪製圖說",
+    "qno": 261,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w04_049",
+    "question_type": "multi",
+    "question_text": "請問下列哪些為正確？一坪等於",
+    "options": [
+      "3M2",
+      "3.3058M2",
+      "12 平方台尺",
+      "36\n平方台尺 。"
+    ],
+    "correct_answers": [
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#04#Q49",
+    "source_display": "12500 工程估算 第49題",
+    "work_item": "W04",
+    "work_item_name": "工程估算",
+    "qno": 49,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w04_050",
+    "question_type": "multi",
+    "question_text": "一室內地坪長 12 公尺，寬",
+    "options": [
+      "面積為 26.136 坪",
+      "面積為 86.4 坪",
+      "需磁磚 480 片",
+      "需磁磚 240 片 。"
+    ],
+    "correct_answers": [
+      "A",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#04#Q50",
+    "source_display": "12500 工程估算 第50題",
+    "work_item": "W04",
+    "work_item_name": "工程估算",
+    "qno": 50,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w04_051",
+    "question_type": "multi",
+    "question_text": "比例 1/50 之平面圖，量得一居室長",
+    "options": [
+      "42.12M2",
+      "10.53M2",
+      "12.74 坪",
+      "3.186 坪 。"
+    ],
+    "correct_answers": [
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#04#Q51",
+    "source_display": "12500 工程估算 第51題",
+    "work_item": "W04",
+    "work_item_name": "工程估算",
+    "qno": 51,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w04_052",
+    "question_type": "multi",
+    "question_text": "台制長度計算，請問下列哪些為正確？",
+    "options": [
+      "一台尺=30.3 公分",
+      "1 公分\n=0.33 台寸",
+      "1 台尺=10 台寸",
+      "1 台寸=2.54 公分 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#04#Q52",
+    "source_display": "12500 工程估算 第52題",
+    "work_item": "W04",
+    "work_item_name": "工程估算",
+    "qno": 52,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w04_053",
+    "question_type": "multi",
+    "question_text": "在比例 1/300 的圖面上，以足尺量得 9 公分長度的物體，其實際長度下\n列哪些為正確？",
+    "options": [
+      "2.7 公尺",
+      "2700 公分",
+      "27 公尺",
+      "270 公分 。"
+    ],
+    "correct_answers": [
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#04#Q53",
+    "source_display": "12500 工程估算 第53題",
+    "work_item": "W04",
+    "work_item_name": "工程估算",
+    "qno": 53,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w04_054",
+    "question_type": "multi",
+    "question_text": "下列哪些可列入假設工程範圍？",
+    "options": [
+      "分間牆",
+      "施工圍籬",
+      "施工鷹架",
+      "臨\n時隔間 。"
+    ],
+    "correct_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#04#Q54",
+    "source_display": "12500 工程估算 第54題",
+    "work_item": "W04",
+    "work_item_name": "工程估算",
+    "qno": 54,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w04_055",
+    "question_type": "multi",
+    "question_text": "下列哪些為常用的玻璃裝修工程估價單位？",
+    "options": [
+      "式",
+      "尺",
+      "才",
+      "公斤 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#04#Q55",
+    "source_display": "12500 工程估算 第55題",
+    "work_item": "W04",
+    "work_item_name": "工程估算",
+    "qno": 55,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w04_056",
+    "question_type": "multi",
+    "question_text": "下列哪些為裝修工程總價所涵蓋的範圍？",
+    "options": [
+      "管理費",
+      "運什費",
+      "利潤",
+      "圖說費 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#04#Q56",
+    "source_display": "12500 工程估算 第56題",
+    "work_item": "W04",
+    "work_item_name": "工程估算",
+    "qno": 56,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w04_057",
+    "question_type": "multi",
+    "question_text": "下列哪些為馬賽克磚計算數量常用之面積單位？",
+    "options": [
+      "箱",
+      "m2",
+      "才",
+      "坪 。"
+    ],
+    "correct_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#04#Q57",
+    "source_display": "12500 工程估算 第57題",
+    "work_item": "W04",
+    "work_item_name": "工程估算",
+    "qno": 57,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w04_058",
+    "question_type": "multi",
+    "question_text": "投標工程估價參考與下列哪些有關？",
+    "options": [
+      "投標須知",
+      "施工規範",
+      "設計圖",
+      "工程承攬手冊 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#04#Q58",
+    "source_display": "12500 工程估算 第58題",
+    "work_item": "W04",
+    "work_item_name": "工程估算",
+    "qno": 58,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w04_059",
+    "question_type": "multi",
+    "question_text": "今有一空間長 2.4 公尺，寬 1.8 公尺，高 2.4 公尺，若以 30×60 磁磚鋪貼\n內部四週牆面，在不考慮損耗、開口及梁柱等情形下，下列敘述哪些為\n正確？",
+    "options": [
+      "需磁磚 112 片",
+      "鋪貼面積 6.55 坪",
+      "鋪貼面積 21.65m2",
+      "鋪面\n面積 20.16m2 。"
+    ],
+    "correct_answers": [
+      "A",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#04#Q59",
+    "source_display": "12500 工程估算 第59題",
+    "work_item": "W04",
+    "work_item_name": "工程估算",
+    "qno": 59,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w04_060",
+    "question_type": "multi",
+    "question_text": "下列哪些為油漆估算單位？",
+    "options": [
+      "磅",
+      "尺",
+      "坪",
+      "平方公尺 。"
+    ],
+    "correct_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#04#Q60",
+    "source_display": "12500 工程估算 第60題",
+    "work_item": "W04",
+    "work_item_name": "工程估算",
+    "qno": 60,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w04_061",
+    "question_type": "multi",
+    "question_text": "牆面踢腳板之估價，通常以哪些為計算單位？",
+    "options": [
+      "公尺",
+      "坪",
+      "台尺",
+      "平\n方公尺 。"
+    ],
+    "correct_answers": [
+      "A",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#04#Q61",
+    "source_display": "12500 工程估算 第61題",
+    "work_item": "W04",
+    "work_item_name": "工程估算",
+    "qno": 61,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w04_062",
+    "question_type": "multi",
+    "question_text": "下列哪些為計算壁紙數量需考慮之因素？",
+    "options": [
+      "面積",
+      "花樣",
+      "開口部",
+      "產\n地 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#04#Q62",
+    "source_display": "12500 工程估算 第62題",
+    "work_item": "W04",
+    "work_item_name": "工程估算",
+    "qno": 62,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w04_063",
+    "question_type": "multi",
+    "question_text": "廠商於工程得標後，為確實計算施工上所需材料、人工、設備等費用數\n量、價格而重新詳細估算所需之明細費用，此種估價稱為",
+    "options": [
+      "工料分析",
+      "投標估算",
+      "成本估價",
+      "單價分析 以上哪些為錯誤。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#04#Q63",
+    "source_display": "12500 工程估算 第63題",
+    "work_item": "W04",
+    "work_item_name": "工程估算",
+    "qno": 63,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w04_064",
+    "question_type": "multi",
+    "question_text": "今有長 3.6 公尺寬、2.4 公尺地坪空間，將以 30cm×60cm 磁磚滾邊，滾\n邊寬度 30 公分(以整磚鋪貼)，中央以木地板鋪設，則下列敘述那些為正\n確？",
+    "options": [
+      "滾邊需磚 18 片",
+      "木地板 5.4M2",
+      "木地板 1.63 坪",
+      "滾邊磚 20\n片 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#04#Q64",
+    "source_display": "12500 工程估算 第64題",
+    "work_item": "W04",
+    "work_item_name": "工程估算",
+    "qno": 64,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w04_065",
+    "question_type": "multi",
+    "question_text": "下 列哪些屬於玻璃工程估算項目？",
+    "options": [
+      "磨邊",
+      "開孔",
+      "按裝",
+      "填縫 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#04#Q65",
+    "source_display": "12500 工程估算 第65題",
+    "work_item": "W04",
+    "work_item_name": "工程估算",
+    "qno": 65,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w04_066",
+    "question_type": "multi",
+    "question_text": "下列哪些屬於直接成本？",
+    "options": [
+      "油漆",
+      "五金",
+      "砂布",
+      "木料 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#04#Q66",
+    "source_display": "12500 工程估算 第66題",
+    "work_item": "W04",
+    "work_item_name": "工程估算",
+    "qno": 66,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w04_067",
+    "question_type": "multi",
+    "question_text": "地坪面積長 7.2 公尺，寬 9.6 公尺，表面欲貼 30cm×30cm/片之馬賽克磁\n磚，若不考慮損耗，請問下列敘述哪些為正確？共約需",
+    "options": [
+      "768 片",
+      "20.9\n坪",
+      "768 才",
+      "72.12 坪 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#04#Q67",
+    "source_display": "12500 工程估算 第67題",
+    "work_item": "W04",
+    "work_item_name": "工程估算",
+    "qno": 67,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w04_068",
+    "question_type": "multi",
+    "question_text": "布料長度計算，下列敘述哪些為錯誤？",
+    "options": [
+      "1 呎=25.4 公分",
+      "1 碼約=3 英\n呎",
+      "3 碼=1 尺",
+      "1 呎=10 吋 。"
+    ],
+    "correct_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#04#Q68",
+    "source_display": "12500 工程估算 第68題",
+    "work_item": "W04",
+    "work_item_name": "工程估算",
+    "qno": 68,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w04_069",
+    "question_type": "multi",
+    "question_text": "工程估價通常包括",
+    "options": [
+      "成本估價",
+      "預算估價",
+      "計價估價",
+      "統包估價 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#04#Q69",
+    "source_display": "12500 工程估算 第69題",
+    "work_item": "W04",
+    "work_item_name": "工程估算",
+    "qno": 69,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w04_070",
+    "question_type": "multi",
+    "question_text": "今有一長 12 尺，寬 12 尺，高度",
+    "options": [
+      "明鏡 30.24 平方尺",
+      "明鏡 336 才",
+      "明鏡 336 平方尺",
+      "明鏡 9 坪 。"
+    ],
+    "correct_answers": [
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#04#Q70",
+    "source_display": "12500 工程估算 第70題",
+    "work_item": "W04",
+    "work_item_name": "工程估算",
+    "qno": 70,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w04_071",
+    "question_type": "multi",
+    "question_text": "依木材計算才積之算法，下列哪些為通用單位？",
+    "options": [
+      "才",
+      "碼",
+      "板呎",
+      "立\n方公尺 。"
+    ],
+    "correct_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#04#Q71",
+    "source_display": "12500 工程估算 第71題",
+    "work_item": "W04",
+    "work_item_name": "工程估算",
+    "qno": 71,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w04_072",
+    "question_type": "multi",
+    "question_text": "在比例尺上為 1/300 圖面上，量得長 6 公分，寬",
+    "options": [
+      "實際空間面積為 243m2",
+      "實際空間面積為 73.5 坪",
+      "櫥櫃實際長度 6 公尺",
+      "櫥櫃實際長度 18 台\n尺 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#04#Q72",
+    "source_display": "12500 工程估算 第72題",
+    "work_item": "W04",
+    "work_item_name": "工程估算",
+    "qno": 72,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w04_073",
+    "question_type": "multi",
+    "question_text": "一室內空間無熔絲開關設定為 20 安培，假設燈具為 33W/顆，使用電壓\n為 110V，不考慮其他因素之情形下，試問該居室可增加燈具數量，下列\n哪些為正確？",
+    "options": [
+      "68",
+      "65",
+      "55",
+      "70 顆。"
+    ],
+    "correct_answers": [
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#04#Q73",
+    "source_display": "12500 工程估算 第73題",
+    "work_item": "W04",
+    "work_item_name": "工程估算",
+    "qno": 73,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w04_074",
+    "question_type": "multi",
+    "question_text": "長 8m、寬 7m、高 3m 之室內空間，在不計算其門窗、梁柱及遮蔽物與\n地板面積外，其油漆塗裝之面積數，哪些為錯誤？",
+    "options": [
+      "44.17 坪",
+      "146 平\n方公尺",
+      "30 坪",
+      "168 平方公尺 。"
+    ],
+    "correct_answers": [
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#04#Q74",
+    "source_display": "12500 工程估算 第74題",
+    "work_item": "W04",
+    "work_item_name": "工程估算",
+    "qno": 74,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w04_075",
+    "question_type": "multi",
+    "question_text": "下列哪些為工程計價中常用的計價單位？",
+    "options": [
+      "樘",
+      "組",
+      "式",
+      "牛頓 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#04#Q75",
+    "source_display": "12500 工程估算 第75題",
+    "work_item": "W04",
+    "work_item_name": "工程估算",
+    "qno": 75,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w04_076",
+    "question_type": "multi",
+    "question_text": "下列哪些為正確面積計算？",
+    "options": [
+      "1 才=1 平方台尺",
+      "1 才=100 平方台寸",
+      "1m2約為 12.11 才",
+      "1 才約為 10 平方台尺 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B"
+    ],
+    "explanation": "",
+    "source": "y12500#04#Q76",
+    "source_display": "12500 工程估算 第76題",
+    "work_item": "W04",
+    "work_item_name": "工程估算",
+    "qno": 76,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w04_077",
+    "question_type": "multi",
+    "question_text": "某工地貼 30cm×30cm 面磚，每平方公尺之工料分析表可包括",
+    "options": [
+      "填縫劑",
+      "水泥砂",
+      "搬運工",
+      "稅金 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#04#Q77",
+    "source_display": "12500 工程估算 第77題",
+    "work_item": "W04",
+    "work_item_name": "工程估算",
+    "qno": 77,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w04_078",
+    "question_type": "multi",
+    "question_text": "下列哪些為正確？",
+    "options": [
+      "10 平方公尺約 3.025 坪",
+      "1 平方公尺約=13.11 才",
+      "1 平方公尺約為 3 才",
+      "1 坪約為 3.3 平方公尺 。"
+    ],
+    "correct_answers": [
+      "A",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#04#Q78",
+    "source_display": "12500 工程估算 第78題",
+    "work_item": "W04",
+    "work_item_name": "工程估算",
+    "qno": 78,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w04_079",
+    "question_type": "multi",
+    "question_text": "設計圖比例 1/200，空間面積為 5 公分×5 公分，其實際面積為",
+    "options": [
+      "100m2",
+      "10m2",
+      "30.25 坪",
+      "3.25 坪 。"
+    ],
+    "correct_answers": [
+      "A",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#04#Q79",
+    "source_display": "12500 工程估算 第79題",
+    "work_item": "W04",
+    "work_item_name": "工程估算",
+    "qno": 79,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w04_080",
+    "question_type": "multi",
+    "question_text": "鋪設架高地板為 7.2m×寬 4.5m，請問底下用 3 呎×6 呎防潮板，需用多少\n數量？",
+    "options": [
+      "24 片",
+      "20 片",
+      "9.801 坪",
+      "10.801 坪 。"
+    ],
+    "correct_answers": [
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#04#Q80",
+    "source_display": "12500 工程估算 第80題",
+    "work_item": "W04",
+    "work_item_name": "工程估算",
+    "qno": 80,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w04_081",
+    "question_type": "multi",
+    "question_text": "下列敘述哪些為正確？",
+    "options": [
+      "5 尺×6 尺×3 尺的木塊才積為 900 才",
+      "玻璃工\n程其磨邊加工計價常以尺為單位",
+      "10 公尺的隔間牆其長度約為 30 台尺",
+      "飾板框條是以長度為計價單位 。\n12500 建築物室內設計 乙級"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#04#Q81",
+    "source_display": "12500 工程估算 第81題",
+    "work_item": "W04",
+    "work_item_name": "工程估算",
+    "qno": 81,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w05_084",
+    "question_type": "multi",
+    "question_text": "下列哪些是屬於氣動工具？",
+    "options": [
+      "手電鑽",
+      "氣動釘槍",
+      "手提線鋸機",
+      "氣動\n砂磨機 。"
+    ],
+    "correct_answers": [
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#05#Q84",
+    "source_display": "12500 工程實務 第84題",
+    "work_item": "W05",
+    "work_item_name": "工程實務",
+    "qno": 84,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w05_085",
+    "question_type": "multi",
+    "question_text": "下列哪些是裝修工程現場的畫線工具？",
+    "options": [
+      "墨斗",
+      "鐵釘",
+      "長角尺",
+      "捲\n尺 。"
+    ],
+    "correct_answers": [
+      "A",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#05#Q85",
+    "source_display": "12500 工程實務 第85題",
+    "work_item": "W05",
+    "work_item_name": "工程實務",
+    "qno": 85,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w05_086",
+    "question_type": "multi",
+    "question_text": "下列哪些裝修建材含有木質材料？",
+    "options": [
+      "木心板",
+      "纖維板",
+      "夾板",
+      "矽酸鈣\n板 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#05#Q86",
+    "source_display": "12500 工程實務 第86題",
+    "work_item": "W05",
+    "work_item_name": "工程實務",
+    "qno": 86,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w05_087",
+    "question_type": "multi",
+    "question_text": "下列人造板材規格(寬×長)是現有市面上常用的？",
+    "options": [
+      "4 英呎×8 英呎",
+      "3\n英呎×7 英呎",
+      "3 英呎×5 英呎",
+      "3 英呎×6 英呎 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#05#Q87",
+    "source_display": "12500 工程實務 第87題",
+    "work_item": "W05",
+    "work_item_name": "工程實務",
+    "qno": 87,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w05_088",
+    "question_type": "multi",
+    "question_text": "下列裝修木質角材規格(寬×厚)是現有市面上常用的？",
+    "options": [
+      "5 寸×1 寸",
+      "1.2\n寸×1 寸",
+      "2 寸×1 寸",
+      "4 寸×1 寸 。"
+    ],
+    "correct_answers": [
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#05#Q88",
+    "source_display": "12500 工程實務 第88題",
+    "work_item": "W05",
+    "work_item_name": "工程實務",
+    "qno": 88,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w05_089",
+    "question_type": "multi",
+    "question_text": "下列哪些漆是屬於不透明性漆？",
+    "options": [
+      "拉卡塗料",
+      "有色水泥漆",
+      "乳膠漆",
+      "優麗旦塗料 。"
+    ],
+    "correct_answers": [
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#05#Q89",
+    "source_display": "12500 工程實務 第89題",
+    "work_item": "W05",
+    "work_item_name": "工程實務",
+    "qno": 89,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w05_090",
+    "question_type": "multi",
+    "question_text": "下列哪些屬於美耐板的特性？",
+    "options": [
+      "耐磨性高",
+      "防水性高",
+      "彎曲施工容易",
+      "具多種紋理 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#05#Q90",
+    "source_display": "12500 工程實務 第90題",
+    "work_item": "W05",
+    "work_item_name": "工程實務",
+    "qno": 90,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w05_091",
+    "question_type": "multi",
+    "question_text": "下列各種材料那一種較常使用於水泥粉刷表面塗裝？",
+    "options": [
+      "瓷漆",
+      "水泥漆",
+      "調合漆",
+      "乳膠漆 。"
+    ],
+    "correct_answers": [
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#05#Q91",
+    "source_display": "12500 工程實務 第91題",
+    "work_item": "W05",
+    "work_item_name": "工程實務",
+    "qno": 91,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w05_092",
+    "question_type": "multi",
+    "question_text": "砌磚過程中，下列敘述哪些為正確？",
+    "options": [
+      "磚塊應先浸水才可砌築",
+      "砂漿\n不可放置太久",
+      "灰縫需滿漿",
+      "一天可砌到一層樓高度 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#05#Q92",
+    "source_display": "12500 工程實務 第92題",
+    "work_item": "W05",
+    "work_item_name": "工程實務",
+    "qno": 92,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w05_093",
+    "question_type": "multi",
+    "question_text": "下列哪些屬於耐燃三級材料？",
+    "options": [
+      "耐燃合板",
+      "木絲水泥板",
+      "石膏板",
+      "玻\n璃纖維 。"
+    ],
+    "correct_answers": [
+      "A",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#05#Q93",
+    "source_display": "12500 工程實務 第93題",
+    "work_item": "W05",
+    "work_item_name": "工程實務",
+    "qno": 93,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w05_094",
+    "question_type": "multi",
+    "question_text": "下列哪些屬於耐燃二級材料？",
+    "options": [
+      "玻璃纖維",
+      "木粒片石膏板",
+      "化妝鋁板",
+      "木絲水泥板 。"
+    ],
+    "correct_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#05#Q94",
+    "source_display": "12500 工程實務 第94題",
+    "work_item": "W05",
+    "work_item_name": "工程實務",
+    "qno": 94,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w05_095",
+    "question_type": "multi",
+    "question_text": "下列哪些屬於耐燃一級材料？",
+    "options": [
+      "人造石",
+      "玻璃纖維",
+      "木絲水泥板",
+      "石\n膏板 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B"
+    ],
+    "explanation": "",
+    "source": "y12500#05#Q95",
+    "source_display": "12500 工程實務 第95題",
+    "work_item": "W05",
+    "work_item_name": "工程實務",
+    "qno": 95,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w05_096",
+    "question_type": "multi",
+    "question_text": "下列哪些屬於光源？",
+    "options": [
+      "太陽",
+      "閃電",
+      "燭光",
+      "鏡子 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#05#Q96",
+    "source_display": "12500 工程實務 第96題",
+    "work_item": "W05",
+    "work_item_name": "工程實務",
+    "qno": 96,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w05_097",
+    "question_type": "multi",
+    "question_text": "進行單價分析時，需考慮下列哪些？",
+    "options": [
+      "工資",
+      "材料",
+      "搬運",
+      "稅金 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#05#Q97",
+    "source_display": "12500 工程實務 第97題",
+    "work_item": "W05",
+    "work_item_name": "工程實務",
+    "qno": 97,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w05_098",
+    "question_type": "multi",
+    "question_text": "下列管材哪些可以使用做為給水配管？",
+    "options": [
+      "塑膠管",
+      "鑄鐵管",
+      "銅管",
+      "不\n鏽鋼管 。"
+    ],
+    "correct_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#05#Q98",
+    "source_display": "12500 工程實務 第98題",
+    "work_item": "W05",
+    "work_item_name": "工程實務",
+    "qno": 98,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w05_099",
+    "question_type": "multi",
+    "question_text": "下列哪些屬於玻璃加工的型式？",
+    "options": [
+      "磨光邊",
+      "磨斜邊",
+      "鑽圓孔",
+      "切方\n孔 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#05#Q99",
+    "source_display": "12500 工程實務 第99題",
+    "work_item": "W05",
+    "work_item_name": "工程實務",
+    "qno": 99,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w05_100",
+    "question_type": "multi",
+    "question_text": "下 列哪些屬於利用電通過真空燈泡之碳絲或鎢絲而產生燈光之燈具？",
+    "options": [
+      "日光燈",
+      "一般燈泡",
+      "鹵素燈",
+      "石英燈 。"
+    ],
+    "correct_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#05#Q100",
+    "source_display": "12500 工程實務 第100題",
+    "work_item": "W05",
+    "work_item_name": "工程實務",
+    "qno": 100,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w05_101",
+    "question_type": "multi",
+    "question_text": "下 列哪些屬於建築之弱電設備？",
+    "options": [
+      "電話設備",
+      "自動火警探測設備",
+      "電\n器時鐘設備",
+      "低瓦數照明設備 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#05#Q101",
+    "source_display": "12500 工程實務 第101題",
+    "work_item": "W05",
+    "work_item_name": "工程實務",
+    "qno": 101,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w05_102",
+    "question_type": "multi",
+    "question_text": "下 列哪些屬於墁灰工程項目？",
+    "options": [
+      "洗石子",
+      "斬石子",
+      "水泥砂漿粉刷",
+      "砌\n磚 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#05#Q102",
+    "source_display": "12500 工程實務 第102題",
+    "work_item": "W05",
+    "work_item_name": "工程實務",
+    "qno": 102,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w05_103",
+    "question_type": "multi",
+    "question_text": "下 列哪些材料可以在裝修現場由施工者自行貼合使用？",
+    "options": [
+      "美耐版",
+      "塑\n鋁板",
+      "美耐皿",
+      "壓克力 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#05#Q103",
+    "source_display": "12500 工程實務 第103題",
+    "work_item": "W05",
+    "work_item_name": "工程實務",
+    "qno": 103,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w05_104",
+    "question_type": "multi",
+    "question_text": "下 列哪些屬於明清硬木家具所使用的材種？",
+    "options": [
+      "紫檀木",
+      "花梨木",
+      "山毛\n櫸",
+      "酸枝木 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#05#Q104",
+    "source_display": "12500 工程實務 第104題",
+    "work_item": "W05",
+    "work_item_name": "工程實務",
+    "qno": 104,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w05_105",
+    "question_type": "multi",
+    "question_text": "下列哪些木材屬於硬木類？",
+    "options": [
+      "花旗松",
+      "櫸木",
+      "雲杉",
+      "紫檀 。"
+    ],
+    "correct_answers": [
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#05#Q105",
+    "source_display": "12500 工程實務 第105題",
+    "work_item": "W05",
+    "work_item_name": "工程實務",
+    "qno": 105,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w05_106",
+    "question_type": "multi",
+    "question_text": "下列有關原木材積的敘述，哪些為正確？",
+    "options": [
+      "1 台才=100 立方台寸",
+      "1BF=100 英吋",
+      "1 立方公尺=1,000,000 立方公分",
+      "1 立方公尺=300 台\n才 。"
+    ],
+    "correct_answers": [
+      "A",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#05#Q106",
+    "source_display": "12500 工程實務 第106題",
+    "work_item": "W05",
+    "work_item_name": "工程實務",
+    "qno": 106,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w05_107",
+    "question_type": "multi",
+    "question_text": "下 列哪些為原木材積的計算標準？",
+    "options": [
+      "立方公尺",
+      "才",
+      "LB",
+      "BF 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#05#Q107",
+    "source_display": "12500 工程實務 第107題",
+    "work_item": "W05",
+    "work_item_name": "工程實務",
+    "qno": 107,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w05_108",
+    "question_type": "multi",
+    "question_text": "依 據中華民國國家標準 CNS(442-O1001)之規範，製材之材種區分為：",
+    "options": [
+      "構材類",
+      "板材類",
+      "割材類",
+      "角材類 。"
+    ],
+    "correct_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#05#Q108",
+    "source_display": "12500 工程實務 第108題",
+    "work_item": "W05",
+    "work_item_name": "工程實務",
+    "qno": 108,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w05_109",
+    "question_type": "multi",
+    "question_text": "依 消防法規之規定，對防災中心的構造下列敘述哪些為正確？",
+    "options": [
+      "冷暖、\n換氣等空調系統為專用",
+      "防災監控系統相關設備以地腳螺栓或其他堅固\n方法予以固定",
+      "防災中心內設有供操作人員睡眠、休息區域時，該部分\n以防火區劃間隔",
+      "天花板及室內牆面包括其底材，均應使用耐燃材料裝\n修 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#05#Q109",
+    "source_display": "12500 工程實務 第109題",
+    "work_item": "W05",
+    "work_item_name": "工程實務",
+    "qno": 109,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w05_110",
+    "question_type": "multi",
+    "question_text": "下 列哪些為現有市售常用之木心板的規格？",
+    "options": [
+      "4 呎×8 呎",
+      "3 呎×6 呎",
+      "4\n呎×6 呎",
+      "3 呎×7 呎 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#05#Q110",
+    "source_display": "12500 工程實務 第110題",
+    "work_item": "W05",
+    "work_item_name": "工程實務",
+    "qno": 110,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w05_111",
+    "question_type": "multi",
+    "question_text": "台制長度的計算，下列哪些正確？",
+    "options": [
+      "1 台尺=30.3 公分",
+      "1 公分=0.033\n台尺",
+      "1 台寸=2.54 公分",
+      "1 台尺=12 台寸 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B"
+    ],
+    "explanation": "",
+    "source": "y12500#05#Q111",
+    "source_display": "12500 工程實務 第111題",
+    "work_item": "W05",
+    "work_item_name": "工程實務",
+    "qno": 111,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w05_112",
+    "question_type": "multi",
+    "question_text": "有 關砌築紅磚牆時，下列哪些做法為正確？",
+    "options": [
+      "砌牆位置須按圖先彈畫線\n於地上，並逐皮繪於尺規(皮數桿)上，然後據以施工",
+      "清除施工面之污\n物、油脂及雜物",
+      "確認所有管線開孔及埋設物的位置",
+      "磚塊砌築時應\n保持乾燥 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#05#Q112",
+    "source_display": "12500 工程實務 第112題",
+    "work_item": "W05",
+    "work_item_name": "工程實務",
+    "qno": 112,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w05_113",
+    "question_type": "multi",
+    "question_text": "下 列哪些為紅磚品質的檢驗項目？",
+    "options": [
+      "吸水率",
+      "尺寸",
+      "伸長率",
+      "抗壓強\n度 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#05#Q113",
+    "source_display": "12500 工程實務 第113題",
+    "work_item": "W05",
+    "work_item_name": "工程實務",
+    "qno": 113,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w05_114",
+    "question_type": "multi",
+    "question_text": "水泥的主要原料是",
+    "options": [
+      "黏土",
+      "石英",
+      "二氧化矽",
+      "石灰 。"
+    ],
+    "correct_answers": [
+      "A",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#05#Q114",
+    "source_display": "12500 工程實務 第114題",
+    "work_item": "W05",
+    "work_item_name": "工程實務",
+    "qno": 114,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w05_115",
+    "question_type": "multi",
+    "question_text": "下 列哪些為砌磚用之材料？",
+    "options": [
+      "水泥",
+      "石子",
+      "石灰",
+      "砂 。"
+    ],
+    "correct_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#05#Q115",
+    "source_display": "12500 工程實務 第115題",
+    "work_item": "W05",
+    "work_item_name": "工程實務",
+    "qno": 115,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w05_116",
+    "question_type": "multi",
+    "question_text": "下 列哪些屬於水泥砂漿拌合的器具？",
+    "options": [
+      "刮尺",
+      "方鏟",
+      "拌合鐵板",
+      "量\n斗 。"
+    ],
+    "correct_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#05#Q116",
+    "source_display": "12500 工程實務 第116題",
+    "work_item": "W05",
+    "work_item_name": "工程實務",
+    "qno": 116,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w05_117",
+    "question_type": "multi",
+    "question_text": "下 列有關施作磚縫之敘述哪些為正確？",
+    "options": [
+      "密不透水",
+      "有適當之厚度",
+      "硬化後仍不失其黏著性",
+      "具有透水性 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#05#Q117",
+    "source_display": "12500 工程實務 第117題",
+    "work_item": "W05",
+    "work_item_name": "工程實務",
+    "qno": 117,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w05_118",
+    "question_type": "multi",
+    "question_text": "下 列哪些是決定底層粉刷定線的因素？",
+    "options": [
+      "開口的位置",
+      "面材尺寸",
+      "底\n地的材質",
+      "飾縫的大小 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#05#Q118",
+    "source_display": "12500 工程實務 第118題",
+    "work_item": "W05",
+    "work_item_name": "工程實務",
+    "qno": 118,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w05_119",
+    "question_type": "multi",
+    "question_text": "舖 貼定線時，須考慮磁磚之",
+    "options": [
+      "尺寸",
+      "形狀",
+      "縫寬",
+      "顏色 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#05#Q119",
+    "source_display": "12500 工程實務 第119題",
+    "work_item": "W05",
+    "work_item_name": "工程實務",
+    "qno": 119,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w05_120",
+    "question_type": "multi",
+    "question_text": "粉 刷水泥砂漿作業上，必要的設備是",
+    "options": [
+      "砂漿拌合機",
+      "混凝土震動棒",
+      "砂漿桶",
+      "方鏟、拌合板 。"
+    ],
+    "correct_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#05#Q120",
+    "source_display": "12500 工程實務 第120題",
+    "work_item": "W05",
+    "work_item_name": "工程實務",
+    "qno": 120,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w05_121",
+    "question_type": "multi",
+    "question_text": "下 列有關鋼筋混凝土牆面施作底層粉刷的敘述，哪些為正確？",
+    "options": [
+      "底地清\n理及放樣定線",
+      "底地需充份灑水濕潤",
+      "水泥漿至少鏝塗 1 ㎝厚",
+      "應以\n棕刷劃毛 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#05#Q121",
+    "source_display": "12500 工程實務 第121題",
+    "work_item": "W05",
+    "work_item_name": "工程實務",
+    "qno": 121,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w05_122",
+    "question_type": "multi",
+    "question_text": "牆 面粉刷時，水泥砂漿會滑落，下列原因哪些為正確？",
+    "options": [
+      "牆面太濕",
+      "水泥砂漿之水灰比太大",
+      "水泥砂漿太厚",
+      "細骨材篩過 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#05#Q122",
+    "source_display": "12500 工程實務 第122題",
+    "work_item": "W05",
+    "work_item_name": "工程實務",
+    "qno": 122,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w05_123",
+    "question_type": "multi",
+    "question_text": "粉 刷水泥砂漿前其打毛之目的，下列哪些敘述為正確？",
+    "options": [
+      "可增加接著面\n積",
+      "可減少龜裂",
+      "塗刷增加困難",
+      "水濕潤較可平均 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#05#Q123",
+    "source_display": "12500 工程實務 第123題",
+    "work_item": "W05",
+    "work_item_name": "工程實務",
+    "qno": 123,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w05_124",
+    "question_type": "multi",
+    "question_text": "牆 面粉刷發生龜裂之原因中，下列哪些敘述為正確？",
+    "options": [
+      "牆面不潔",
+      "牆\n面過於平滑",
+      "牆面凹凸不平",
+      "水泥砂漿之成份不佳 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#05#Q124",
+    "source_display": "12500 工程實務 第124題",
+    "work_item": "W05",
+    "work_item_name": "工程實務",
+    "qno": 124,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w05_125",
+    "question_type": "multi",
+    "question_text": "混 凝土牆面的底地處理，下列哪些處理方式為正確？",
+    "options": [
+      "清除黏附的木\n板、鐵線",
+      "潤濕牆面",
+      "油污部份應洗淨",
+      "光滑的牆面應鏝塗純水泥\n漿 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#05#Q125",
+    "source_display": "12500 工程實務 第125題",
+    "work_item": "W05",
+    "work_item_name": "工程實務",
+    "qno": 125,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w05_126",
+    "question_type": "multi",
+    "question_text": "有 關浴室底層粉刷，下列哪些處理方式為正確？",
+    "options": [
+      "可加防水劑",
+      "防水\n粉刷須高出浴盆",
+      "可加少許寒水石",
+      "浴盆底面應比浴室地面為低 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "",
+    "source": "y12500#05#Q126",
+    "source_display": "12500 工程實務 第126題",
+    "work_item": "W05",
+    "work_item_name": "工程實務",
+    "qno": 126,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w05_127",
+    "question_type": "multi",
+    "question_text": "外 牆舖貼磁磚時，下列哪些敘述為正確？",
+    "options": [
+      "宜不留縫",
+      "需留灰縫",
+      "應\n先定線",
+      "宜由上向下舖貼 。"
+    ],
+    "correct_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#05#Q127",
+    "source_display": "12500 工程實務 第127題",
+    "work_item": "W05",
+    "work_item_name": "工程實務",
+    "qno": 127,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w05_128",
+    "question_type": "multi",
+    "question_text": "下 列有關牆面面材舖貼，下列哪些敘述為正確？",
+    "options": [
+      "軟底貼法不必加海菜\n粉",
+      "硬底法可加海菜粉",
+      "軟底貼法之防水性較硬底法為佳",
+      "馬賽克不\n適合用軟底貼法 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#05#Q128",
+    "source_display": "12500 工程實務 第128題",
+    "work_item": "W05",
+    "work_item_name": "工程實務",
+    "qno": 128,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w05_129",
+    "question_type": "multi",
+    "question_text": "有 關面磚脫落的原因，下列哪些為正確？",
+    "options": [
+      "施工面過於粗糙",
+      "施工面\n欠清潔",
+      "施工面於施工前未濕潤",
+      "水泥或黏著劑成分不足 。"
+    ],
+    "correct_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#05#Q129",
+    "source_display": "12500 工程實務 第129題",
+    "work_item": "W05",
+    "work_item_name": "工程實務",
+    "qno": 129,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w05_130",
+    "question_type": "multi",
+    "question_text": "下 列敘述哪些為正確？",
+    "options": [
+      "軟底施工較易生白華",
+      "硬底施工效率較高",
+      "馬賽克黏貼前應先浸水",
+      "軟底舖貼較不適於外牆面 。"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#05#Q130",
+    "source_display": "12500 工程實務 第130題",
+    "work_item": "W05",
+    "work_item_name": "工程實務",
+    "qno": 130,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w05_131",
+    "question_type": "multi",
+    "question_text": "主 辦工程之機關招標時應備的文件，下列哪些為正確？",
+    "options": [
+      "參加投標廠商\n名冊",
+      "工程圖說",
+      "工程、材料之規範",
+      "契約樣稿 。"
+    ],
+    "correct_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#05#Q131",
+    "source_display": "12500 工程實務 第131題",
+    "work_item": "W05",
+    "work_item_name": "工程實務",
+    "qno": 131,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w05_132",
+    "question_type": "multi",
+    "question_text": "室內設計統包模式的流程，包括了業務開發、初步設計、細部設計、發\n包階段和",
+    "options": [
+      "請領執照",
+      "佈置裝飾",
+      "施工管理",
+      "驗收保固 。"
+    ],
+    "correct_answers": [
+      "C",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#05#Q132",
+    "source_display": "12500 工程實務 第132題",
+    "work_item": "W05",
+    "work_item_name": "工程實務",
+    "qno": 132,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  },
+  {
+    "id": "y12500_w05_133",
+    "question_type": "multi",
+    "question_text": "一般建築物室內裝修審查許可程序，概可分為:",
+    "options": [
+      "執照查驗",
+      "圖說審核",
+      "消防檢查",
+      "竣工查驗 兩個階段。"
+    ],
+    "correct_answers": [
+      "B",
+      "D"
+    ],
+    "explanation": "",
+    "source": "y12500#05#Q133",
+    "source_display": "12500 工程實務 第133題",
+    "work_item": "W05",
+    "work_item_name": "工程實務",
+    "qno": 133,
+    "is_deleted": false,
+    "multi_parse_flags": {
+      "answer_parse_method": "authoritative_paren"
+    }
+  }
+]
