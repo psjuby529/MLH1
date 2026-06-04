@@ -262,6 +262,19 @@ export default function HomePage() {
             </section>
           )}
 
+          <section className="mb-6 p-4 rounded-xl border border-indigo-200 bg-indigo-50">
+            <p className="text-base font-semibold text-indigo-950 mb-1">室內設計乙級模擬考</p>
+            <p className="text-sm text-indigo-800 mb-3">
+              60 單選 + 20 複選｜90 分鐘｜100 分
+            </p>
+            <Link
+              href="/exam-12500"
+              className="w-full inline-flex justify-center py-3 rounded-lg border-2 border-indigo-800 text-indigo-900 font-medium bg-white"
+            >
+              開始模擬考
+            </Link>
+          </section>
+
           <section className="mb-6 p-4 rounded-xl border border-slate-200 bg-slate-50">
             <p className="text-base font-semibold text-slate-900 mb-1">複選題刷題（測試版）</p>
             <p className="text-sm text-slate-600 mb-3">

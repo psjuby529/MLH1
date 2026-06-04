@@ -1,10 +1,11 @@
 "use client";
 
 import Link from "next/link";
-import { useCallback, useEffect, useMemo, useState } from "react";
+import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { isMultiTestAllowedDataset, MULTI_TEST_DATASET_ALLOWLIST } from "../lib/multiTestAllowlist";
-import { getDataVersionSync } from "../lib/datasets";
+import { shuffle } from "../lib/questions";
 import { QuestionReviewBadges } from "../components/QuestionReviewBadges";
+import { QuestionAssets } from "../components/QuestionAssets";
 
 const LABELS = ["A", "B", "C", "D"] as const;
 
@@ -31,6 +32,9 @@ type MultiQuestion = {
   is_deleted?: boolean;
 };
 
+type PracticeMode = "sequential" | "random";
+type RandomSize = 20 | 50 | 100 | "all";
+
 function setsEqualLetters(a: string[], b: string[]): boolean {
   const norm = (x: string) => x.trim().toUpperCase();
   const sa = new Set(a.map(norm).filter(Boolean));
@@ -39,13 +43,25 @@ function setsEqualLetters(a: string[], b: string[]): boolean {
   return Array.from(sa).every((x) => sb.has(x));
 }
 
+function pickRandomCount(poolLen: number, size: RandomSize): number {
+  if (size === "all") return poolLen;
+  return Math.min(size, poolLen);
+}
+
 export default function MultiTestPage() {
   const [datasets, setDatasets] = useState<{ id: string; label: string; file: string }[]>([]);
   const [datasetId, setDatasetId] = useState<string>("");
-  const [questions, setQuestions] = useState<MultiQuestion[]>([]);
+  const [poolQuestions, setPoolQuestions] = useState<MultiQuestion[]>([]);
   const [loadingIndex, setLoadingIndex] = useState(true);
   const [loadingQs, setLoadingQs] = useState(false);
   const [err, setErr] = useState<string | null>(null);
+
+  const [practiceMode, setPracticeMode] = useState<PracticeMode>("sequential");
+  const [randomSize, setRandomSize] = useState<RandomSize>(20);
+  const [activeQuestions, setActiveQuestions] = useState<MultiQuestion[]>([]);
+  const [randomStarted, setRandomStarted] = useState(false);
+  const sessionSeedRef = useRef(0);
+
   const [qIndex, setQIndex] = useState(0);
   const [picked, setPicked] = useState<Set<string>>(() => new Set());
   const [submitted, setSubmitted] = useState<"idle" | "correct" | "wrong">("idle");
@@ -75,7 +91,8 @@ export default function MultiTestPage() {
 
   useEffect(() => {
     if (!datasetId) {
-      setQuestions([]);
+      setPoolQuestions([]);
+      setActiveQuestions([]);
       return;
     }
     const ds = datasets.find((d) => d.id === datasetId);
@@ -83,6 +100,7 @@ export default function MultiTestPage() {
     let cancelled = false;
     setLoadingQs(true);
     setErr(null);
+    setRandomStarted(false);
     (async () => {
       try {
         const res = await fetch(`/data/multi/${encodeURIComponent(ds.file)}`, { cache: "no-store" });
@@ -92,10 +110,15 @@ export default function MultiTestPage() {
           ? raw.filter((q) => (q.question_type ?? "multi") === "multi" && Array.isArray(q.correct_answers))
           : [];
         if (cancelled) return;
-        setQuestions(multi);
+        setPoolQuestions(multi);
         setQIndex(0);
         setPicked(new Set());
         setSubmitted("idle");
+        if (practiceMode === "sequential") {
+          setActiveQuestions(multi);
+        } else {
+          setActiveQuestions([]);
+        }
       } catch (e) {
         if (!cancelled) setErr(e instanceof Error ? e.message : "載入題目失敗");
       } finally {
@@ -107,8 +130,48 @@ export default function MultiTestPage() {
     };
   }, [datasetId, datasets]);
 
-  const q = questions[qIndex];
-  const total = questions.length;
+  useEffect(() => {
+    if (loadingQs || poolQuestions.length === 0) return;
+    if (practiceMode === "sequential") {
+      setActiveQuestions(poolQuestions);
+      setRandomStarted(true);
+      setQIndex(0);
+      setPicked(new Set());
+      setSubmitted("idle");
+    } else {
+      setRandomStarted(false);
+      setActiveQuestions([]);
+      setQIndex(0);
+      setPicked(new Set());
+      setSubmitted("idle");
+    }
+  }, [practiceMode, poolQuestions, loadingQs]);
+
+  const startRandomSession = useCallback(() => {
+    const n = pickRandomCount(poolQuestions.length, randomSize);
+    sessionSeedRef.current += 1;
+    const shuffled = shuffle([...poolQuestions]);
+    setActiveQuestions(shuffled.slice(0, n));
+    setRandomStarted(true);
+    setQIndex(0);
+    setPicked(new Set());
+    setSubmitted("idle");
+  }, [poolQuestions, randomSize]);
+
+  const reshuffle = useCallback(() => {
+    startRandomSession();
+  }, [startRandomSession]);
+
+  const sessionLabel = useMemo(() => {
+    if (practiceMode === "sequential") {
+      return `順序練習｜${poolQuestions.length} 題`;
+    }
+    if (!randomStarted) return "隨機練習｜尚未開始";
+    return `隨機練習｜${activeQuestions.length} 題`;
+  }, [practiceMode, poolQuestions.length, randomStarted, activeQuestions.length]);
+
+  const q = activeQuestions[qIndex];
+  const total = activeQuestions.length;
 
   const toggle = useCallback((letter: string) => {
     setSubmitted("idle");
@@ -145,6 +208,8 @@ export default function MultiTestPage() {
     []
   );
 
+  const showQuiz = practiceMode === "sequential" || randomStarted;
+
   if (loadingIndex) {
     return (
       <main className="min-h-screen flex items-center justify-center p-6 bg-neutral-50">
@@ -175,6 +240,7 @@ export default function MultiTestPage() {
             </Link>
           </div>
           <p className="text-xs text-neutral-500 leading-snug">{allowlistNote}</p>
+          <p className="text-xs font-medium text-[#111]">{sessionLabel}</p>
         </div>
       </header>
 
@@ -194,11 +260,81 @@ export default function MultiTestPage() {
           </select>
         </label>
 
-        {err && <p className="text-red-600 text-sm">{err}</p>}
+        <div>
+          <span className="text-sm font-medium text-neutral-700">練習模式</span>
+          <div className="mt-1 flex gap-2">
+            <button
+              type="button"
+              onClick={() => setPracticeMode("sequential")}
+              className={`flex-1 py-3 rounded-lg border-2 text-sm font-medium ${
+                practiceMode === "sequential"
+                  ? "border-[#111] bg-[#111] text-white"
+                  : "border-neutral-300 bg-white"
+              }`}
+            >
+              順序練習
+            </button>
+            <button
+              type="button"
+              onClick={() => setPracticeMode("random")}
+              className={`flex-1 py-3 rounded-lg border-2 text-sm font-medium ${
+                practiceMode === "random"
+                  ? "border-[#111] bg-[#111] text-white"
+                  : "border-neutral-300 bg-white"
+              }`}
+            >
+              隨機練習
+            </button>
+          </div>
+        </div>
 
+        {practiceMode === "random" && (
+          <div>
+            <span className="text-sm font-medium text-neutral-700">隨機題數</span>
+            <div className="mt-1 flex flex-wrap gap-2">
+              {([20, 50, 100, "all"] as const).map((n) => (
+                <button
+                  key={String(n)}
+                  type="button"
+                  onClick={() => setRandomSize(n)}
+                  className={`px-4 py-2 rounded-lg border-2 text-sm font-medium ${
+                    randomSize === n
+                      ? "border-[#111] bg-[#111] text-white"
+                      : "border-neutral-300 bg-white"
+                  }`}
+                >
+                  {n === "all" ? "全部" : n}
+                </button>
+              ))}
+            </div>
+            <div className="mt-3 flex flex-col gap-2">
+              {!randomStarted && (
+                <button
+                  type="button"
+                  disabled={loadingQs || poolQuestions.length === 0}
+                  onClick={startRandomSession}
+                  className="w-full rounded-xl bg-[#111] text-white py-3 font-medium min-h-[48px] disabled:opacity-40"
+                >
+                  開始隨機練習
+                </button>
+              )}
+              {randomStarted && (
+                <button
+                  type="button"
+                  onClick={reshuffle}
+                  className="w-full rounded-xl border-2 border-neutral-400 bg-white py-3 font-medium min-h-[48px]"
+                >
+                  重新抽題
+                </button>
+              )}
+            </div>
+          </div>
+        )}
+
+        {err && <p className="text-red-600 text-sm">{err}</p>}
         {loadingQs && <p className="text-neutral-500">載入題目中…</p>}
 
-        {!loadingQs && q && (
+        {showQuiz && !loadingQs && q && (
           <>
             <div className="rounded-xl border border-neutral-200 bg-white p-4 shadow-sm">
               <p className="text-xs text-neutral-500 mb-2">
@@ -209,25 +345,7 @@ export default function MultiTestPage() {
                 reviewFlag={q.review_flag}
               />
               <p className="text-base leading-relaxed whitespace-pre-wrap">{q.question_text}</p>
-              {q.assets && q.assets.length > 0 && (
-                <div className="mt-4 space-y-2">
-                  {q.assets
-                    .filter((a) => a.type === "image" && a.src)
-                    .map((a, idx) => {
-                      const v = getDataVersionSync();
-                      const src =
-                        a.src + (v ? (a.src.includes("?") ? "&" : "?") + "v=" + encodeURIComponent(v) : "");
-                      return (
-                        <img
-                          key={idx}
-                          src={src}
-                          alt={a.alt || "題目圖"}
-                          className="max-w-full h-auto rounded-lg border border-neutral-200"
-                        />
-                      );
-                    })}
-                </div>
-              )}
+              <QuestionAssets assets={q.assets} />
             </div>
 
             <div className="space-y-2">
@@ -300,7 +418,7 @@ export default function MultiTestPage() {
           </>
         )}
 
-        {!loadingQs && !q && !err && (
+        {showQuiz && !loadingQs && !q && !err && (
           <p className="text-neutral-500">此題庫沒有複選題。</p>
         )}
       </div>
