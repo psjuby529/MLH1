@@ -2482,7 +2482,14 @@
     "is_deleted": false,
     "multi_parse_flags": {
       "answer_parse_method": "authoritative_paren"
-    }
+    },
+    "assets": [
+      {
+        "type": "image",
+        "src": "/assets/q/y12500/W03_229.png",
+        "alt": "題目圖"
+      }
+    ]
   },
   {
     "id": "y12500_w03_230",
@@ -2507,7 +2514,14 @@
     "is_deleted": false,
     "multi_parse_flags": {
       "answer_parse_method": "authoritative_paren"
-    }
+    },
+    "assets": [
+      {
+        "type": "image",
+        "src": "/assets/q/y12500/W03_230.png",
+        "alt": "題目圖"
+      }
+    ]
   },
   {
     "id": "y12500_w03_231",
@@ -2558,7 +2572,14 @@
     "is_deleted": false,
     "multi_parse_flags": {
       "answer_parse_method": "authoritative_paren"
-    }
+    },
+    "assets": [
+      {
+        "type": "image",
+        "src": "/assets/q/y12500/W03_232.png",
+        "alt": "題目圖"
+      }
+    ]
   },
   {
     "id": "y12500_w03_233",
@@ -2583,7 +2604,14 @@
     "is_deleted": false,
     "multi_parse_flags": {
       "answer_parse_method": "authoritative_paren"
-    }
+    },
+    "assets": [
+      {
+        "type": "image",
+        "src": "/assets/q/y12500/W03_233.png",
+        "alt": "題目圖"
+      }
+    ]
   },
   {
     "id": "y12500_w03_234",
@@ -2633,7 +2661,14 @@
     "is_deleted": false,
     "multi_parse_flags": {
       "answer_parse_method": "authoritative_paren"
-    }
+    },
+    "assets": [
+      {
+        "type": "image",
+        "src": "/assets/q/y12500/W03_235.png",
+        "alt": "題目圖"
+      }
+    ]
   },
   {
     "id": "y12500_w03_236",
@@ -2658,7 +2693,14 @@
     "is_deleted": false,
     "multi_parse_flags": {
       "answer_parse_method": "authoritative_paren"
-    }
+    },
+    "assets": [
+      {
+        "type": "image",
+        "src": "/assets/q/y12500/W03_236.png",
+        "alt": "題目圖"
+      }
+    ]
   },
   {
     "id": "y12500_w03_237",
@@ -2683,7 +2725,14 @@
     "is_deleted": false,
     "multi_parse_flags": {
       "answer_parse_method": "authoritative_paren"
-    }
+    },
+    "assets": [
+      {
+        "type": "image",
+        "src": "/assets/q/y12500/W03_237.png",
+        "alt": "題目圖"
+      }
+    ]
   },
   {
     "id": "y12500_w03_238",
@@ -2734,7 +2783,14 @@
     "is_deleted": false,
     "multi_parse_flags": {
       "answer_parse_method": "authoritative_paren"
-    }
+    },
+    "assets": [
+      {
+        "type": "image",
+        "src": "/assets/q/y12500/W03_239.png",
+        "alt": "題目圖"
+      }
+    ]
   },
   {
     "id": "y12500_w03_240",
@@ -2759,7 +2815,14 @@
     "is_deleted": false,
     "multi_parse_flags": {
       "answer_parse_method": "authoritative_paren"
-    }
+    },
+    "assets": [
+      {
+        "type": "image",
+        "src": "/assets/q/y12500/W03_240.png",
+        "alt": "題目圖"
+      }
+    ]
   },
   {
     "id": "y12500_w03_241",
@@ -2784,7 +2847,14 @@
     "is_deleted": false,
     "multi_parse_flags": {
       "answer_parse_method": "authoritative_paren"
-    }
+    },
+    "assets": [
+      {
+        "type": "image",
+        "src": "/assets/q/y12500/W03_241.png",
+        "alt": "題目圖"
+      }
+    ]
   },
   {
     "id": "y12500_w03_242",
@@ -3068,7 +3138,14 @@
     "is_deleted": false,
     "multi_parse_flags": {
       "answer_parse_method": "authoritative_paren"
-    }
+    },
+    "assets": [
+      {
+        "type": "image",
+        "src": "/assets/q/y12500/W03_252.png",
+        "alt": "題目圖"
+      }
+    ]
   },
   {
     "id": "y12500_w03_253",
@@ -3094,7 +3171,14 @@
     "is_deleted": false,
     "multi_parse_flags": {
       "answer_parse_method": "authoritative_paren"
-    }
+    },
+    "assets": [
+      {
+        "type": "image",
+        "src": "/assets/q/y12500/W03_253.png",
+        "alt": "題目圖"
+      }
+    ]
   },
   {
     "id": "y12500_w03_254",
@@ -3119,7 +3203,14 @@
     "is_deleted": false,
     "multi_parse_flags": {
       "answer_parse_method": "authoritative_paren"
-    }
+    },
+    "assets": [
+      {
+        "type": "image",
+        "src": "/assets/q/y12500/W03_254.png",
+        "alt": "題目圖"
+      }
+    ]
   },
   {
     "id": "y12500_w03_255",
@@ -3145,7 +3236,14 @@
     "is_deleted": false,
     "multi_parse_flags": {
       "answer_parse_method": "authoritative_paren"
-    }
+    },
+    "assets": [
+      {
+        "type": "image",
+        "src": "/assets/q/y12500/W03_255.png",
+        "alt": "題目圖"
+      }
+    ]
   },
   {
     "id": "y12500_w03_256",
@@ -3171,7 +3269,14 @@
     "is_deleted": false,
     "multi_parse_flags": {
       "answer_parse_method": "authoritative_paren"
-    }
+    },
+    "assets": [
+      {
+        "type": "image",
+        "src": "/assets/q/y12500/W03_256.png",
+        "alt": "題目圖"
+      }
+    ]
   },
   {
     "id": "y12500_w03_257",
@@ -3196,7 +3301,14 @@
     "is_deleted": false,
     "multi_parse_flags": {
       "answer_parse_method": "authoritative_paren"
-    }
+    },
+    "assets": [
+      {
+        "type": "image",
+        "src": "/assets/q/y12500/W03_257.png",
+        "alt": "題目圖"
+      }
+    ]
   },
   {
     "id": "y12500_w03_258",
@@ -3221,7 +3333,14 @@
     "is_deleted": false,
     "multi_parse_flags": {
       "answer_parse_method": "authoritative_paren"
-    }
+    },
+    "assets": [
+      {
+        "type": "image",
+        "src": "/assets/q/y12500/W03_258.png",
+        "alt": "題目圖"
+      }
+    ]
   },
   {
     "id": "y12500_w03_259",
@@ -3246,7 +3365,14 @@
     "is_deleted": false,
     "multi_parse_flags": {
       "answer_parse_method": "authoritative_paren"
-    }
+    },
+    "assets": [
+      {
+        "type": "image",
+        "src": "/assets/q/y12500/W03_259.png",
+        "alt": "題目圖"
+      }
+    ]
   },
   {
     "id": "y12500_w03_260",
@@ -3272,7 +3398,14 @@
     "is_deleted": false,
     "multi_parse_flags": {
       "answer_parse_method": "authoritative_paren"
-    }
+    },
+    "assets": [
+      {
+        "type": "image",
+        "src": "/assets/q/y12500/W03_260.png",
+        "alt": "題目圖"
+      }
+    ]
   },
   {
     "id": "y12500_w03_261",
@@ -3297,7 +3430,14 @@
     "is_deleted": false,
     "multi_parse_flags": {
       "answer_parse_method": "authoritative_paren"
-    }
+    },
+    "assets": [
+      {
+        "type": "image",
+        "src": "/assets/q/y12500/W03_261.png",
+        "alt": "題目圖"
+      }
+    ]
   },
   {
     "id": "y12500_w04_049",
