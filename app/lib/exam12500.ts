@@ -11,6 +11,7 @@ export type Y12500Single = {
   assets?: { type: string; src: string; alt?: string }[];
   official_note?: string | null;
   review_flag?: boolean;
+  explanation?: string;
 };
 
 export type Y12500Multi = {
@@ -23,6 +24,7 @@ export type Y12500Multi = {
   assets?: { type: string; src: string; alt?: string }[];
   official_note?: string | null;
   review_flag?: boolean;
+  explanation?: string;
 };
 
 export type Exam12500Question = {
@@ -39,6 +41,7 @@ export type Exam12500Question = {
   assets?: { type: string; src: string; alt?: string }[];
   official_note?: string | null;
   review_flag?: boolean;
+  explanation?: string;
 };
 
 export const EXAM_DURATION_SEC = 90 * 60;
@@ -64,13 +67,8 @@ export async function loadY12500Multi(): Promise<Y12500Multi[]> {
   );
 }
 
-export function buildExam12500Deck(singles: Y12500Single[], multis: Y12500Multi[]): Exam12500Question[] {
-  const singlePool = shuffle([...singles]);
-  const multiPool = shuffle([...multis]);
-  const pickedSingle = singlePool.slice(0, Math.min(EXAM_SINGLE_COUNT, singlePool.length));
-  const pickedMulti = multiPool.slice(0, Math.min(EXAM_MULTI_COUNT, multiPool.length));
-
-  const singlesOut: Exam12500Question[] = pickedSingle.map((q) => ({
+export function singleToExamQuestion(q: Y12500Single): Exam12500Question {
+  return {
     id: q.id,
     kind: "single",
     points: 1,
@@ -83,9 +81,12 @@ export function buildExam12500Deck(singles: Y12500Single[], multis: Y12500Multi[
     assets: q.assets,
     official_note: q.official_note,
     review_flag: q.review_flag,
-  }));
+    explanation: q.explanation,
+  };
+}
 
-  const multisOut: Exam12500Question[] = pickedMulti.map((q) => ({
+export function multiToExamQuestion(q: Y12500Multi): Exam12500Question {
+  return {
     id: q.id,
     kind: "multi",
     points: 2,
@@ -97,7 +98,34 @@ export function buildExam12500Deck(singles: Y12500Single[], multis: Y12500Multi[
     assets: q.assets,
     official_note: q.official_note,
     review_flag: q.review_flag,
-  }));
+    explanation: q.explanation,
+  };
+}
+
+export function resolveExamQuestionsByIds(
+  ids: string[],
+  singles: Y12500Single[],
+  multis: Y12500Multi[]
+): Exam12500Question[] {
+  const map = new Map<string, Exam12500Question>();
+  for (const s of singles) map.set(s.id, singleToExamQuestion(s));
+  for (const m of multis) map.set(m.id, multiToExamQuestion(m));
+  const out: Exam12500Question[] = [];
+  for (const id of ids) {
+    const q = map.get(id);
+    if (q) out.push(q);
+  }
+  return out;
+}
+
+export function buildExam12500Deck(singles: Y12500Single[], multis: Y12500Multi[]): Exam12500Question[] {
+  const singlePool = shuffle([...singles]);
+  const multiPool = shuffle([...multis]);
+  const pickedSingle = singlePool.slice(0, Math.min(EXAM_SINGLE_COUNT, singlePool.length));
+  const pickedMulti = multiPool.slice(0, Math.min(EXAM_MULTI_COUNT, multiPool.length));
+
+  const singlesOut = pickedSingle.map(singleToExamQuestion);
+  const multisOut = pickedMulti.map(multiToExamQuestion);
 
   return [...singlesOut, ...multisOut];
 }
